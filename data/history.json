@@ -1,377 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-02-25T23:04:43.122828",
+  "last_updated": "2026-02-26T23:03:52.937575",
   "sent_items": {
-    "13eefa93f55767c2": {
-      "date": "2026-01-26",
-      "title": "Case study: Creative math – How AI fakes proofs",
-      "source": "hackernews"
-    },
-    "948eaf92e60c7072": {
-      "date": "2026-01-26",
-      "title": "Clawdbot - open source personal AI assistant",
-      "source": "hackernews"
-    },
-    "fccb0d779e2544f4": {
-      "date": "2026-01-26",
-      "title": "Scientists identify brain waves that define the limits of 'you'",
-      "source": "hackernews"
-    },
-    "7de73427b7edf5c4": {
-      "date": "2026-01-26",
-      "title": "Show HN: A small programming language where everything is pass-by-value",
-      "source": "hackernews"
-    },
-    "bf9d2d35159dc39d": {
-      "date": "2026-01-26",
-      "title": "Guix for Development",
-      "source": "hackernews"
-    },
-    "9f92b84d815600c0": {
-      "date": "2026-01-26",
-      "title": "The Science of Fermentation (The Food Programme)",
-      "source": "hackernews"
-    },
-    "c5452c31a2cda567": {
-      "date": "2026-01-26",
-      "title": "Your Accessibility Overlay Is a Scam (And Here's the Proof)",
-      "source": "devto"
-    },
-    "8bb2d3d3f1e07aea": {
-      "date": "2026-01-26",
-      "title": "🐝 Copilot Swarm Orchestrator",
-      "source": "devto"
-    },
-    "6fd76d410c961ea9": {
-      "date": "2026-01-26",
-      "title": "We don’t actually verify AI and that’s going to bite us sooner than we think",
-      "source": "devto"
-    },
-    "6570ec14fe156c39": {
-      "date": "2026-01-26",
-      "title": "I built a lightweight framework for Japan's \"SI\" projects (third attempt in 10 years)",
-      "source": "devto"
-    },
-    "8c36eae8a3c1759d": {
-      "date": "2026-01-26",
-      "title": "Roam FM",
-      "source": "producthunt"
-    },
-    "351d90a132920894": {
-      "date": "2026-01-26",
-      "title": "I saw Antigravity, I prompted, I conquered!",
-      "source": "devto"
-    },
-    "d411e29ee7202325": {
-      "date": "2026-01-26",
-      "title": "Delta single handle ball faucets (1963)",
-      "source": "hackernews"
-    },
-    "98e8bcddacd41a35": {
-      "date": "2026-01-26",
-      "title": "Environmentalists worry Google behind bid to control Oregon town's water",
-      "source": "hackernews"
-    },
-    "29681a5b26d55b81": {
-      "date": "2026-01-26",
-      "title": "Iran's internet blackout may become permanent, with access for elites only",
-      "source": "hackernews"
-    },
-    "2ee50770106f445a": {
-      "date": "2026-01-26",
-      "title": "Video Games as Art",
-      "source": "hackernews"
-    },
-    "23e750187081436c": {
-      "date": "2026-01-26",
-      "title": "SF Microclimates",
-      "source": "hackernews"
-    },
-    "5ae4172819e547f7": {
-      "date": "2026-01-26",
-      "title": "The Browser Is the Sandbox",
-      "source": "hackernews"
-    },
-    "db4e1a47f9cb6b52": {
-      "date": "2026-01-26",
-      "title": "Show HN: A desktop app that blocks work when you bite your nails",
-      "source": "hackernews"
-    },
-    "431cc7914031eaa7": {
-      "date": "2026-01-26",
-      "title": "You can just port things to Cloudflare Workers",
-      "source": "hackernews"
-    },
-    "48bb0cc03d6c6986": {
-      "date": "2026-01-26",
-      "title": "I got 29x speedup rewriting Python's validators library in Rust",
-      "source": "devto"
-    },
-    "902fd6c044c0ced8": {
-      "date": "2026-01-26",
-      "title": "Compiling models to megakernels",
-      "source": "hackernews"
-    },
-    "dbfa982331ddef9a": {
-      "date": "2026-01-26",
-      "title": "A static site generator written in POSIX shell",
-      "source": "hackernews"
-    },
-    "81f8af0e9633b5a1": {
-      "date": "2026-01-26",
-      "title": "Things I've learned in my 10 years as an engineering manager",
-      "source": "hackernews"
-    },
-    "c0cfb77e520bbc1c": {
-      "date": "2026-01-26",
-      "title": "HeyTraders",
-      "source": "producthunt"
-    },
-    "99cd7918b4ba359d": {
-      "date": "2026-01-26",
-      "title": "Minara",
-      "source": "producthunt"
-    },
-    "651cc1f6f2c8fb94": {
-      "date": "2026-01-26",
-      "title": "Cue",
-      "source": "producthunt"
-    },
-    "8249b9798934efec": {
-      "date": "2026-01-26",
-      "title": "JDoodle.ai 2.0",
-      "source": "producthunt"
-    },
-    "bb9dbc5d2a7ab495": {
-      "date": "2026-01-26",
-      "title": "Doctective",
-      "source": "producthunt"
-    },
-    "3a846818b98194f3": {
-      "date": "2026-01-26",
-      "title": "APX Terminal",
-      "source": "producthunt"
-    },
-    "3ec6316bf12c8794": {
-      "date": "2026-01-26",
-      "title": "Reactive Resume v5",
-      "source": "producthunt"
-    },
-    "b011acf78486fc40": {
-      "date": "2026-01-26",
-      "title": "iPhotron",
-      "source": "producthunt"
-    },
-    "d8471993d2378ed5": {
-      "date": "2026-01-26",
-      "title": "The Holy Grail of Linux Binary Compatibility: Musl and Dlopen",
-      "source": "hackernews"
-    },
-    "e569331f9591eca9": {
-      "date": "2026-01-26",
-      "title": "Emissary, a fast open-source Java messaging library",
-      "source": "hackernews"
-    },
-    "65a40d818897b2f7": {
-      "date": "2026-01-26",
-      "title": "PHP: Why I Use Static Analysis",
-      "source": "devto"
-    },
-    "b494255f3ea1496f": {
-      "date": "2026-01-26",
-      "title": "Why most SVG to PNG converters are overkill (and what I actually needed)",
-      "source": "devto"
-    },
-    "ebffaf2fbb9ca0ab": {
-      "date": "2026-01-26",
-      "title": "300ms to 60ms: How I Slashed API Latency by 80% with One Config Change",
-      "source": "devto"
-    },
-    "5ac31ea17b7d8e95": {
-      "date": "2026-01-26",
-      "title": "UK House of Lords Votes to Extend Age Verification to VPNs",
-      "source": "hackernews"
-    },
-    "0d37de5de378b33d": {
-      "date": "2026-01-26",
-      "title": "San Francisco Graffiti",
-      "source": "hackernews"
-    },
-    "e851e9b2628f668b": {
-      "date": "2026-01-26",
-      "title": "k4yt3x / video2x",
-      "source": "github"
-    },
-    "f6d9bbf087fd6b48": {
-      "date": "2026-01-26",
-      "title": "business-science / ai-data-science-team",
-      "source": "github"
-    },
-    "77881ec86b11c07b": {
-      "date": "2026-01-26",
-      "title": "MapLibre Tile: a modern and efficient vector tile format",
-      "source": "hackernews"
-    },
-    "244fe9103027aad7": {
-      "date": "2026-01-26",
-      "title": "Show HN: Posts p/month more than doubled in the last year",
-      "source": "hackernews"
-    },
-    "71446d20a63a2324": {
-      "date": "2026-01-26",
-      "title": "Detective: A Digital Forensics CLI Built with GitHub Copilot CLI",
-      "source": "devto"
-    },
-    "e9347e3215455c33": {
-      "date": "2026-01-26",
-      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-      "source": "hackernews"
-    },
-    "1635b5db51bc0207": {
-      "date": "2026-01-26",
-      "title": "Wind Chime Length Calculator",
-      "source": "hackernews"
-    },
-    "240c32d24c128d49": {
-      "date": "2026-01-26",
-      "title": "Text Is King",
-      "source": "hackernews"
-    },
-    "681eca5b03c84f75": {
-      "date": "2026-01-26",
-      "title": "Vibe Coding Kills Open Source",
-      "source": "hackernews"
-    },
-    "5affef41c883fdc1": {
-      "date": "2026-01-26",
-      "title": "Transfering Files with gRPC",
-      "source": "hackernews"
-    },
-    "09091e26aa32c830": {
-      "date": "2026-01-26",
-      "title": "Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption",
-      "source": "devto"
-    },
-    "f563e370ac148cf4": {
-      "date": "2026-01-26",
-      "title": "After two years of vibecoding, I'm back to writing by hand",
-      "source": "hackernews"
-    },
-    "c78143b808fb11c2": {
-      "date": "2026-01-26",
-      "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
-      "source": "hackernews"
-    },
-    "8c3cd952b0860ee5": {
-      "date": "2026-01-26",
-      "title": "Show HN: Only 1 LLM can fly a drone",
-      "source": "hackernews"
-    },
-    "982c5e2a41fddd78": {
-      "date": "2026-01-26",
-      "title": "Apple introduces new AirTag with longer range and improved findability",
-      "source": "hackernews"
-    },
-    "89c03361e94bd809": {
-      "date": "2026-01-26",
-      "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
-      "source": "hackernews"
-    },
-    "dd16023c0de0061f": {
-      "date": "2026-01-26",
-      "title": "The Complete Guide: Deploying a Dockerized MCP Server to AWS ECS Fargate and connecting it to AWS Ag",
-      "source": "devto"
-    },
-    "c3b4b83934c59339": {
-      "date": "2026-01-26",
-      "title": "Exactitude in Science – Borges (1946) [pdf]",
-      "source": "hackernews"
-    },
-    "f521d2431fe1939c": {
-      "date": "2026-01-26",
-      "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
-      "source": "hackernews"
-    },
-    "0a007ce16596e0cc": {
-      "date": "2026-01-26",
-      "title": "Windows 11's Patch Tuesday nightmare gets worse",
-      "source": "hackernews"
-    },
-    "71025c92f37067c7": {
-      "date": "2026-01-26",
-      "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
-      "source": "hackernews"
-    },
-    "0875aab575910fd7": {
-      "date": "2026-01-26",
-      "title": "Qwen3-Max-Thinking",
-      "source": "hackernews"
-    },
-    "500108025500d50c": {
-      "date": "2026-01-26",
-      "title": "Television is 100 years old today",
-      "source": "hackernews"
-    },
-    "39404ce9d470ece6": {
-      "date": "2026-01-26",
-      "title": "JuiceSSH – Give me my pro features back",
-      "source": "hackernews"
-    },
-    "d8e5cf334e33e5cd": {
-      "date": "2026-01-26",
-      "title": "There is an AI code review bubble",
-      "source": "hackernews"
-    },
-    "3061b8e679e36008": {
-      "date": "2026-01-26",
-      "title": "Dithering – Part 2: The Ordered Dithering",
-      "source": "hackernews"
-    },
-    "fbe8de9f1dc91987": {
-      "date": "2026-01-26",
-      "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-      "source": "hackernews"
-    },
-    "ea48755ec8441df5": {
-      "date": "2026-01-26",
-      "title": "RIP Low-Code 2014-2025",
-      "source": "hackernews"
-    },
-    "beda9dd7458b660f": {
-      "date": "2026-01-26",
-      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
-      "source": "hackernews"
-    },
-    "a18b6158de97ecd6": {
-      "date": "2026-01-26",
-      "title": "People who know the formula for WD-40",
-      "source": "hackernews"
-    },
-    "80a62e5d4a51ea28": {
-      "date": "2026-01-26",
-      "title": "Rewriting My First NUnit API Tests: Cleaner, Faster, Better",
-      "source": "devto"
-    },
-    "5b1eb9d55571f3b0": {
-      "date": "2026-01-26",
-      "title": "What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over",
-      "source": "devto"
-    },
-    "0044702ebb0027a5": {
-      "date": "2026-01-26",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "85f9aafee9275203": {
-      "date": "2026-01-26",
-      "title": "What makes you close a tool within 5 seconds?",
-      "source": "devto"
-    },
-    "5b3f192a5cc8e172": {
-      "date": "2026-01-26",
-      "title": "How GitHub Copilot Helped Me Roast Its Own Users",
-      "source": "devto"
-    },
     "b49554660e3dda78": {
       "date": "2026-01-27",
       "title": "FBI is investigating Minnesota Signal chats tracking ICE",
@@ -5216,6 +4846,156 @@
       "date": "2026-02-25",
       "title": "liyupi / ai-guide",
       "source": "github"
+    },
+    "b06f935b7dc4b8a3": {
+      "date": "2026-02-26",
+      "title": "Zipladin",
+      "source": "producthunt"
+    },
+    "7254994c875ad474": {
+      "date": "2026-02-26",
+      "title": "ChatPal",
+      "source": "producthunt"
+    },
+    "37737990dabe2e91": {
+      "date": "2026-02-26",
+      "title": "IronClaw",
+      "source": "producthunt"
+    },
+    "24341eb886407048": {
+      "date": "2026-02-26",
+      "title": "Playground by Natoma",
+      "source": "producthunt"
+    },
+    "3c0ee114f8ed7f1e": {
+      "date": "2026-02-26",
+      "title": "DeltaMemory",
+      "source": "producthunt"
+    },
+    "15f9d095e5307e1b": {
+      "date": "2026-02-26",
+      "title": "FoodHealth Score",
+      "source": "producthunt"
+    },
+    "fbced9080ee3e81c": {
+      "date": "2026-02-26",
+      "title": "Commit Please",
+      "source": "producthunt"
+    },
+    "b51cbdb18147f179": {
+      "date": "2026-02-26",
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "source": "hackernews"
+    },
+    "c878d137fb77cf73": {
+      "date": "2026-02-26",
+      "title": "Will vibe coding end like the maker movement?",
+      "source": "hackernews"
+    },
+    "8e30cf8be22a804b": {
+      "date": "2026-02-26",
+      "title": "Layoffs at Block",
+      "source": "hackernews"
+    },
+    "13f33e7b0910084e": {
+      "date": "2026-02-26",
+      "title": "What Claude Code Chooses",
+      "source": "hackernews"
+    },
+    "96d5816e5c21978a": {
+      "date": "2026-02-26",
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "source": "hackernews"
+    },
+    "942acc0b7ce2bc98": {
+      "date": "2026-02-26",
+      "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
+      "source": "hackernews"
+    },
+    "5f447d343f4085e4": {
+      "date": "2026-02-26",
+      "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+      "source": "hackernews"
+    },
+    "6d7d55a3320425c7": {
+      "date": "2026-02-26",
+      "title": "What does \" 2>&1 \" mean?",
+      "source": "hackernews"
+    },
+    "734bd67b5af1b0eb": {
+      "date": "2026-02-26",
+      "title": "Lidar waveforms are worth 40x128x33 words",
+      "source": "hackernews"
+    },
+    "4c8b1b9cf98308f4": {
+      "date": "2026-02-26",
+      "title": "Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O",
+      "source": "hackernews"
+    },
+    "0af07a45ced8667f": {
+      "date": "2026-02-26",
+      "title": "clockworklabs / SpacetimeDB",
+      "source": "github"
+    },
+    "470f8fb77e89b3a9": {
+      "date": "2026-02-26",
+      "title": "farion1231 / cc-switch",
+      "source": "github"
+    },
+    "011f16b19a63acc1": {
+      "date": "2026-02-26",
+      "title": "ruvnet / claude-flow",
+      "source": "github"
+    },
+    "76419d40bf92cb11": {
+      "date": "2026-02-26",
+      "title": "The Token Economy",
+      "source": "devto"
+    },
+    "d5da43ff0019c9ca": {
+      "date": "2026-02-26",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "source": "devto"
+    },
+    "92b46c8f5353b238": {
+      "date": "2026-02-26",
+      "title": "Winner Announcement Delayed for Algolia Agent Studio Challenge and GitHub CLI Challenge",
+      "source": "devto"
+    },
+    "0206efdcda433973": {
+      "date": "2026-02-26",
+      "title": "The Agent Skills Gold Rush Has a Malware Problem",
+      "source": "devto"
+    },
+    "666f6a962cc91321": {
+      "date": "2026-02-26",
+      "title": "StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads",
+      "source": "devto"
+    },
+    "87d906eb23bd4f11": {
+      "date": "2026-02-26",
+      "title": "I Built a Local AI Agent That Actually Remembers You — Here's How the River Algorithm Works",
+      "source": "devto"
+    },
+    "43a81beccdd98760": {
+      "date": "2026-02-26",
+      "title": "I Built an AI Agent Monitoring System as a Non-Dev Side Project. Here's Why.",
+      "source": "devto"
+    },
+    "6d0fb68387206911": {
+      "date": "2026-02-26",
+      "title": "When the Reasoning Doesn't Survive",
+      "source": "devto"
+    },
+    "65c2af0a7ca6c1b2": {
+      "date": "2026-02-26",
+      "title": "Remote Developer Jobs in 2026: What Actually Changed",
+      "source": "devto"
+    },
+    "85f2a1c0a72d5965": {
+      "date": "2026-02-26",
+      "title": "The Pitfall of \"Helpful\" AI: Navigating the Missing Context Problem in Software Engineering",
+      "source": "devto"
     }
   }
 }
