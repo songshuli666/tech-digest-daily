@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-02-26T23:03:52.937575",
+  "last_updated": "2026-02-27T22:55:22.345514",
   "sent_items": {
-    "b49554660e3dda78": {
-      "date": "2026-01-27",
-      "title": "FBI is investigating Minnesota Signal chats tracking ICE",
-      "source": "hackernews"
-    },
-    "726daed51afa7ac7": {
-      "date": "2026-01-27",
-      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-      "source": "hackernews"
-    },
-    "2d79546ea8ed8501": {
-      "date": "2026-01-27",
-      "title": "Prism",
-      "source": "hackernews"
-    },
-    "d24cfe3c05c68b5a": {
-      "date": "2026-01-27",
-      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
-      "source": "hackernews"
-    },
-    "cebd15af001e2140": {
-      "date": "2026-01-27",
-      "title": "A few random notes from Claude coding quite a bit last few weeks",
-      "source": "hackernews"
-    },
-    "1724b662d7aaa64e": {
-      "date": "2026-01-27",
-      "title": "Lennart Poettering, Christian Brauner founded a new company",
-      "source": "hackernews"
-    },
-    "3553978cd97aa49e": {
-      "date": "2026-01-27",
-      "title": "Doing the thing is doing the thing",
-      "source": "hackernews"
-    },
-    "3e017931e2bd27f1": {
-      "date": "2026-01-27",
-      "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
-      "source": "hackernews"
-    },
-    "6a8774a3e4be022e": {
-      "date": "2026-01-27",
-      "title": "AI2: Open Coding Agents",
-      "source": "hackernews"
-    },
-    "2852b82ad7111900": {
-      "date": "2026-01-27",
-      "title": "Time Station Emulator",
-      "source": "hackernews"
-    },
-    "d514201ec401ad6c": {
-      "date": "2026-01-27",
-      "title": "Jotform AI Chatbot for Canva",
-      "source": "producthunt"
-    },
-    "4c89b597a07f8dc9": {
-      "date": "2026-01-27",
-      "title": "The Password App",
-      "source": "producthunt"
-    },
-    "51eb04608e757e73": {
-      "date": "2026-01-27",
-      "title": "Delos Mail",
-      "source": "producthunt"
-    },
-    "4e91087564d438e5": {
-      "date": "2026-01-27",
-      "title": "Timeless",
-      "source": "producthunt"
-    },
-    "ce39152be645284b": {
-      "date": "2026-01-27",
-      "title": "Zush",
-      "source": "producthunt"
-    },
-    "c961806259fd4de5": {
-      "date": "2026-01-27",
-      "title": "Runo 2.0",
-      "source": "producthunt"
-    },
-    "99bd5a4d362b466a": {
-      "date": "2026-01-27",
-      "title": "Moltbot",
-      "source": "producthunt"
-    },
-    "d4c0a97b8659deb2": {
-      "date": "2026-01-27",
-      "title": "Outtalent",
-      "source": "producthunt"
-    },
-    "11320934555e9771": {
-      "date": "2026-01-27",
-      "title": "badlogic / pi-mono",
-      "source": "github"
-    },
-    "a7831823542abca4": {
-      "date": "2026-01-27",
-      "title": "Free-TV / IPTV",
-      "source": "github"
-    },
-    "6df0ad1b150ef240": {
-      "date": "2026-01-27",
-      "title": "hashicorp / vault",
-      "source": "github"
-    },
-    "46405393d4f50fd7": {
-      "date": "2026-01-27",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "source": "github"
-    },
-    "f6faa2900cb70f9e": {
-      "date": "2026-01-27",
-      "title": "We're Creating a Knowledge Collapse and No One's Talking About It",
-      "source": "devto"
-    },
-    "d84c8e757c34987c": {
-      "date": "2026-01-27",
-      "title": "Has anyone actually shipped a free offline mobile LLM?",
-      "source": "devto"
-    },
-    "ad4e2e7fb516bc13": {
-      "date": "2026-01-27",
-      "title": "GitHub Copilot CLI Challenge: 'The Linux Compass'",
-      "source": "devto"
-    },
-    "e13a9f5916e58e24": {
-      "date": "2026-01-27",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "0b8914858a41bf71": {
-      "date": "2026-01-27",
-      "title": "From Clawdbot to Moltbot: How a C&D, Crypto Scammers, and 10 Seconds of Chaos Took Down the Internet",
-      "source": "devto"
-    },
-    "be766f1dca303056": {
-      "date": "2026-01-27",
-      "title": "New Year, New You Portfolio Challenge",
-      "source": "devto"
-    },
-    "8f9135c164b01725": {
-      "date": "2026-01-27",
-      "title": "Nevermore.dev: LLM-as-judge on Lambda Durable Functions",
-      "source": "devto"
-    },
-    "2101ecf0bd57348f": {
-      "date": "2026-01-27",
-      "title": "Godot 4 in Practice",
-      "source": "devto"
-    },
-    "17efa219d68cc4bd": {
-      "date": "2026-01-27",
-      "title": "I Built a PDF Tool Because I Didn’t Trust PDF Tools",
-      "source": "devto"
-    },
-    "b9df4e03c332c28c": {
-      "date": "2026-01-27",
-      "title": "Detección de Intención: El fin de los ataques Evil Twin y el Ransomware mediante Blindaje Híbrido",
-      "source": "devto"
-    },
     "ac33857b1e7f428b": {
       "date": "2026-01-28",
       "title": "Airfoil (2024)",
@@ -4995,6 +4835,151 @@
     "85f2a1c0a72d5965": {
       "date": "2026-02-26",
       "title": "The Pitfall of \"Helpful\" AI: Navigating the Missing Context Problem in Software Engineering",
+      "source": "devto"
+    },
+    "150518045e4c35d5": {
+      "date": "2026-02-27",
+      "title": "HelixDB",
+      "source": "producthunt"
+    },
+    "152006a64920ae4c": {
+      "date": "2026-02-27",
+      "title": "Hacker News for macOS",
+      "source": "producthunt"
+    },
+    "772851c977294ec7": {
+      "date": "2026-02-27",
+      "title": "What's Up With That?",
+      "source": "producthunt"
+    },
+    "cd3372f58baf0e0b": {
+      "date": "2026-02-27",
+      "title": "Nano Banana 2",
+      "source": "producthunt"
+    },
+    "83854bb035e08c25": {
+      "date": "2026-02-27",
+      "title": "Claude Code Remote Control",
+      "source": "producthunt"
+    },
+    "238751c94638bac4": {
+      "date": "2026-02-27",
+      "title": "Flarehawk",
+      "source": "producthunt"
+    },
+    "d13afa439d4e7b59": {
+      "date": "2026-02-27",
+      "title": "Dan Simmons, author of Hyperion, has died",
+      "source": "hackernews"
+    },
+    "9893ac4573967424": {
+      "date": "2026-02-27",
+      "title": "A better streams API is possible for JavaScript",
+      "source": "hackernews"
+    },
+    "2ccaab9d8c6b8058": {
+      "date": "2026-02-27",
+      "title": "Leaving Google has actively improved my life",
+      "source": "hackernews"
+    },
+    "8ba1cea8cf774344": {
+      "date": "2026-02-27",
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "source": "hackernews"
+    },
+    "b01d1f7abb6a700e": {
+      "date": "2026-02-27",
+      "title": "A new California law says all operating systems need to have age verification",
+      "source": "hackernews"
+    },
+    "e0a63d9e99e92284": {
+      "date": "2026-02-27",
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "source": "hackernews"
+    },
+    "cbfba97cffde124a": {
+      "date": "2026-02-27",
+      "title": "Department of War Designates Anthropic Supply Chain Risk",
+      "source": "hackernews"
+    },
+    "32dc71b4fb989b65": {
+      "date": "2026-02-27",
+      "title": "Let's discuss sandbox isolation",
+      "source": "hackernews"
+    },
+    "dcf240477e4edaf5": {
+      "date": "2026-02-27",
+      "title": "Writing a Guide to SDF Fonts",
+      "source": "hackernews"
+    },
+    "81d3d5d564547d4f": {
+      "date": "2026-02-27",
+      "title": "The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages",
+      "source": "hackernews"
+    },
+    "ebe69a8411ca36d3": {
+      "date": "2026-02-27",
+      "title": "moeru-ai / airi",
+      "source": "github"
+    },
+    "2fd0b88f562bfd95": {
+      "date": "2026-02-27",
+      "title": "Wei-Shaw / claude-relay-service",
+      "source": "github"
+    },
+    "1f90020b8fd72dbb": {
+      "date": "2026-02-27",
+      "title": "tukaani-project / xz",
+      "source": "github"
+    },
+    "c051caeabfc178e8": {
+      "date": "2026-02-27",
+      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
+      "source": "devto"
+    },
+    "b36595db541c8a0b": {
+      "date": "2026-02-27",
+      "title": "Upgraded embed experience and new embed types in DEV posts",
+      "source": "devto"
+    },
+    "a8083ccf102be052": {
+      "date": "2026-02-27",
+      "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
+      "source": "devto"
+    },
+    "24441d75fd2667ac": {
+      "date": "2026-02-27",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "75bc7bdaa9be523d": {
+      "date": "2026-02-27",
+      "title": "I vibe-coded an internal tool that slashed my content workflow by 4 hours",
+      "source": "devto"
+    },
+    "24f149db89110709": {
+      "date": "2026-02-27",
+      "title": "Entering the Age of AI: A Laggard's Tale",
+      "source": "devto"
+    },
+    "9904f9e4b0ca5d30": {
+      "date": "2026-02-27",
+      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
+      "source": "devto"
+    },
+    "55caa3d68c90500f": {
+      "date": "2026-02-27",
+      "title": "RFC 1516: A Build for the Community That Keeps 418 Alive",
+      "source": "devto"
+    },
+    "82a3ef35f6c6ea9c": {
+      "date": "2026-02-27",
+      "title": "How I Built a Security Flywheel for AI Agents in 14 Days",
+      "source": "devto"
+    },
+    "2e904556a17dd310": {
+      "date": "2026-02-27",
+      "title": "How to Disagree With a Senior Engineer (Without Killing Your Career) 🗣️",
       "source": "devto"
     }
   }
