@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-02-27T22:55:22.345514",
+  "last_updated": "2026-02-28T22:53:08.712284",
   "sent_items": {
-    "ac33857b1e7f428b": {
-      "date": "2026-01-28",
-      "title": "Airfoil (2024)",
-      "source": "hackernews"
-    },
-    "f898629c46f6f4a5": {
-      "date": "2026-01-28",
-      "title": "Oban, the job processing framework from Elixir, has come to Python",
-      "source": "hackernews"
-    },
-    "80157900613a3175": {
-      "date": "2026-01-28",
-      "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
-      "source": "hackernews"
-    },
-    "e616e0ec79d8a520": {
-      "date": "2026-01-28",
-      "title": "Android's desktop interface leaks",
-      "source": "hackernews"
-    },
-    "6eefabafc91ca1d0": {
-      "date": "2026-01-28",
-      "title": "Jellyfin LLM/\"AI\" Development Policy",
-      "source": "hackernews"
-    },
-    "3bbc1404edeb950c": {
-      "date": "2026-01-28",
-      "title": "Computer History Museum Launches Digital Portal to Its Collection",
-      "source": "hackernews"
-    },
-    "bf167963686cb707": {
-      "date": "2026-01-28",
-      "title": "Spinning around: Please don't – Common problems with spin locks",
-      "source": "hackernews"
-    },
-    "d98ffbde072a5bc3": {
-      "date": "2026-01-28",
-      "title": "Trinity large: An open 400B sparse MoE model",
-      "source": "hackernews"
-    },
-    "aa27caded565be30": {
-      "date": "2026-01-28",
-      "title": "Did a celebrated researcher obscure a baby's poisoning?",
-      "source": "hackernews"
-    },
-    "640721a9258bf3ed": {
-      "date": "2026-01-28",
-      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-      "source": "hackernews"
-    },
-    "237fec943615f832": {
-      "date": "2026-01-28",
-      "title": "Polyglotta",
-      "source": "producthunt"
-    },
-    "6bb91bae466520b7": {
-      "date": "2026-01-28",
-      "title": "Rumora",
-      "source": "producthunt"
-    },
-    "7a5c032a7112c406": {
-      "date": "2026-01-28",
-      "title": "kuku",
-      "source": "producthunt"
-    },
-    "676ad0e69b46a456": {
-      "date": "2026-01-28",
-      "title": "dumppp",
-      "source": "producthunt"
-    },
-    "102e856c2a8a3d65": {
-      "date": "2026-01-28",
-      "title": "DataFast",
-      "source": "producthunt"
-    },
-    "485ecabc73e909c1": {
-      "date": "2026-01-28",
-      "title": "Komo Playbook",
-      "source": "producthunt"
-    },
-    "6ba7d52cd0044d40": {
-      "date": "2026-01-28",
-      "title": "Prism",
-      "source": "producthunt"
-    },
-    "0c27423aa898b1f9": {
-      "date": "2026-01-28",
-      "title": "DunSocial",
-      "source": "producthunt"
-    },
-    "3675b0176088850f": {
-      "date": "2026-01-28",
-      "title": "asgeirtj / system_prompts_leaks",
-      "source": "github"
-    },
-    "59734ff70f7d3d6b": {
-      "date": "2026-01-28",
-      "title": "NevaMind-AI / memU",
-      "source": "github"
-    },
-    "ff4df8f2ba59fc8c": {
-      "date": "2026-01-28",
-      "title": "MoonshotAI / kimi-cli",
-      "source": "github"
-    },
-    "f04498fce0adfe48": {
-      "date": "2026-01-28",
-      "title": "kubernetes / ingress-nginx",
-      "source": "github"
-    },
-    "89a665d7fafbfdc7": {
-      "date": "2026-01-28",
-      "title": "protocolbuffers / protobuf",
-      "source": "github"
-    },
-    "82164af40f45157f": {
-      "date": "2026-01-28",
-      "title": "lobehub / lobehub",
-      "source": "github"
-    },
-    "e7b27a1cc7b55aba": {
-      "date": "2026-01-28",
-      "title": "ran-j / PS2Recomp",
-      "source": "github"
-    },
-    "17881ae679509acf": {
-      "date": "2026-01-28",
-      "title": "bambulab / BambuStudio",
-      "source": "github"
-    },
-    "a4f52833e7612f92": {
-      "date": "2026-01-28",
-      "title": "GetStream / Vision-Agents",
-      "source": "github"
-    },
-    "de654620a336e158": {
-      "date": "2026-01-28",
-      "title": "About Wizards & Warlocks, Programmers & Vibe Coders",
-      "source": "devto"
-    },
-    "a9a7678bd5aba45b": {
-      "date": "2026-01-28",
-      "title": "Building Connected Agents with MCP and A2A",
-      "source": "devto"
-    },
-    "8a036785d4eb8537": {
-      "date": "2026-01-28",
-      "title": "Contributing to RubyGems (.org)",
-      "source": "devto"
-    },
-    "d683c1b2a3eb60a4": {
-      "date": "2026-01-28",
-      "title": "The Secret Life of Go: Interfaces in Practice",
-      "source": "devto"
-    },
-    "a123126c2100d5a7": {
-      "date": "2026-01-28",
-      "title": "I spent a year building a PWA to track 150 cafe workspaces. Did AI actually help, or did it just giv",
-      "source": "devto"
-    },
-    "eb25f00427b461e3": {
-      "date": "2026-01-28",
-      "title": "Welcome Thread - v362",
-      "source": "devto"
-    },
-    "8416a73c0df52604": {
-      "date": "2026-01-28",
-      "title": "I built a brain for Claude Code because it keeps forgetting everything",
-      "source": "devto"
-    },
-    "b242f43ae00b1192": {
-      "date": "2026-01-28",
-      "title": "Symfony UX: Single Directory Components (SDC) - The Path to Cleaner Architecture Without Tailwind",
-      "source": "devto"
-    },
-    "4dcab85cb716fcc0": {
-      "date": "2026-01-28",
-      "title": "Webcrawling is just a brute force algorithm",
-      "source": "devto"
-    },
-    "36fd29df7d1d23b2": {
-      "date": "2026-01-28",
-      "title": "The End of the Terminal Search Journey: An Ideal Environment Found with Ghostty and Yazi",
-      "source": "devto"
-    },
     "e470a75734b9907f": {
       "date": "2026-01-29",
       "title": "Agentic Vision in Gemini",
@@ -4980,6 +4795,171 @@
     "2e904556a17dd310": {
       "date": "2026-02-27",
       "title": "How to Disagree With a Senior Engineer (Without Killing Your Career) 🗣️",
+      "source": "devto"
+    },
+    "6f2bb389ff147836": {
+      "date": "2026-02-28",
+      "title": "theORQL",
+      "source": "producthunt"
+    },
+    "ab7b76d1735469c7": {
+      "date": "2026-02-28",
+      "title": "The Claw News",
+      "source": "producthunt"
+    },
+    "088181f1a1465f6e": {
+      "date": "2026-02-28",
+      "title": "Study OS",
+      "source": "producthunt"
+    },
+    "fe11f27a56a8ad61": {
+      "date": "2026-02-28",
+      "title": "SellShots",
+      "source": "producthunt"
+    },
+    "a15c79063a34fc8c": {
+      "date": "2026-02-28",
+      "title": "Solace",
+      "source": "producthunt"
+    },
+    "f96f21f3069ffcd0": {
+      "date": "2026-02-28",
+      "title": "Obsidian Sync now has a headless client",
+      "source": "hackernews"
+    },
+    "35e21117168e8773": {
+      "date": "2026-02-28",
+      "title": "The happiest I've ever been",
+      "source": "hackernews"
+    },
+    "79b2a0ae2b29124b": {
+      "date": "2026-02-28",
+      "title": "Addressing Antigravity Bans and Reinstating Access",
+      "source": "hackernews"
+    },
+    "f81e202b76dec8f9": {
+      "date": "2026-02-28",
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "source": "hackernews"
+    },
+    "63a9a46f03d23ffd": {
+      "date": "2026-02-28",
+      "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
+      "source": "hackernews"
+    },
+    "da8c87766e161e4a": {
+      "date": "2026-02-28",
+      "title": "MinIO Is Dead, Long Live MinIO",
+      "source": "hackernews"
+    },
+    "6f5a56582375a1b8": {
+      "date": "2026-02-28",
+      "title": "New evidence that Cantor plagiarized Dedekind?",
+      "source": "hackernews"
+    },
+    "7fed809fefdb730d": {
+      "date": "2026-02-28",
+      "title": "Block the \"Upgrade to Tahoe\" Alerts",
+      "source": "hackernews"
+    },
+    "05e1910a4f78927f": {
+      "date": "2026-02-28",
+      "title": "Werner Herzog Between Fact and Fiction",
+      "source": "hackernews"
+    },
+    "48f9f11f297a98bc": {
+      "date": "2026-02-28",
+      "title": "Building a Minimal Transformer for 10-digit Addition",
+      "source": "hackernews"
+    },
+    "46405393d4f50fd7": {
+      "date": "2026-02-28",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "source": "github"
+    },
+    "9a16f8b0667e86a0": {
+      "date": "2026-02-28",
+      "title": "ruvnet / ruflo",
+      "source": "github"
+    },
+    "978e35c607178533": {
+      "date": "2026-02-28",
+      "title": "NousResearch / hermes-agent",
+      "source": "github"
+    },
+    "52e4e705179f6a5b": {
+      "date": "2026-02-28",
+      "title": "superset-sh / superset",
+      "source": "github"
+    },
+    "85b6002c9d84a293": {
+      "date": "2026-02-28",
+      "title": "PaddlePaddle / Paddle",
+      "source": "github"
+    },
+    "775289354c9e56be": {
+      "date": "2026-02-28",
+      "title": "datagouv / datagouv-mcp",
+      "source": "github"
+    },
+    "e1a6696969acd12e": {
+      "date": "2026-02-28",
+      "title": "Wei-Shaw / sub2api",
+      "source": "github"
+    },
+    "5c2dea634ecb2f29": {
+      "date": "2026-02-28",
+      "title": "X-PLUG / MobileAgent",
+      "source": "github"
+    },
+    "568709892a7c7f4f": {
+      "date": "2026-02-28",
+      "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
+      "source": "devto"
+    },
+    "ee3cdeb53883f524": {
+      "date": "2026-02-28",
+      "title": "🐾 FurEver Log — The App I Built After Losing Abu",
+      "source": "devto"
+    },
+    "4600c3eae6235ab0": {
+      "date": "2026-02-28",
+      "title": "Stop Downloading Apps for Your Kids. Build Them Instead.",
+      "source": "devto"
+    },
+    "7447d4c529fb05e9": {
+      "date": "2026-02-28",
+      "title": "UTMACH Rides -- I Built a Carpooling App So My Classmates Stop Paying $3 for a 10-Minute Ride",
+      "source": "devto"
+    },
+    "981ef7ccc239dce9": {
+      "date": "2026-02-28",
+      "title": "I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀",
+      "source": "devto"
+    },
+    "640fcbfe04302a35": {
+      "date": "2026-02-28",
+      "title": "Kimi Wrote 8,500 Lines, Blamed Me for Delegating, Then Claimed to Be Claude",
+      "source": "devto"
+    },
+    "030bb0e911cfe690": {
+      "date": "2026-02-28",
+      "title": "When My AI Blocked Itself: What Constitutional Governance Actually Looks Like in Practice",
+      "source": "devto"
+    },
+    "9cd2abfeeec628b8": {
+      "date": "2026-02-28",
+      "title": "The .NET Architecture Pattern That Looks Professional but Scales Like Trash (and What to Do Instead)",
+      "source": "devto"
+    },
+    "81c898ab19d135cc": {
+      "date": "2026-02-28",
+      "title": "The Hardest Part of Being a Developer Isn’t Coding. It’s Disappearing Quietly.",
+      "source": "devto"
+    },
+    "38d4c6bb0da56e0d": {
+      "date": "2026-02-28",
+      "title": "Adding Navigation support to Large Content Viewer with Compose",
       "source": "devto"
     }
   }
