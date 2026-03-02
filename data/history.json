@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-01T22:54:42.912724",
+  "last_updated": "2026-03-02T22:57:40.376373",
   "sent_items": {
-    "245a87485a330e86": {
-      "date": "2026-01-30",
-      "title": "Moltbook",
-      "source": "hackernews"
-    },
-    "db5139aae809dde8": {
-      "date": "2026-01-30",
-      "title": "Antirender: remove the glossy shine on architectural renderings",
-      "source": "hackernews"
-    },
-    "76c70b1e4e11de96": {
-      "date": "2026-01-30",
-      "title": "The engineer who invented the Mars rover suspension in his garage [video]",
-      "source": "hackernews"
-    },
-    "cfda7faf1941ebc2": {
-      "date": "2026-01-30",
-      "title": "Kimi K2.5 Technical Report [pdf]",
-      "source": "hackernews"
-    },
-    "e5abad1512c8d417": {
-      "date": "2026-01-30",
-      "title": "HTTP Cats",
-      "source": "hackernews"
-    },
-    "a664edebaccd047c": {
-      "date": "2026-01-30",
-      "title": "Peerweb: Decentralized website hosting via WebTorrent",
-      "source": "hackernews"
-    },
-    "9308410d543b8257": {
-      "date": "2026-01-30",
-      "title": "The National Herbarium of Ireland digital collection of Irish plants",
-      "source": "hackernews"
-    },
-    "3a27278ecba9fc3f": {
-      "date": "2026-01-30",
-      "title": "Software Survival 3.0",
-      "source": "hackernews"
-    },
-    "8c856147198b0c33": {
-      "date": "2026-01-30",
-      "title": "Vitamin D supplements cut heart attack risk by 52%. Why?",
-      "source": "hackernews"
-    },
-    "0c827ff07b2ccc3e": {
-      "date": "2026-01-30",
-      "title": "Show HN: I built an AI conversation partner to practice speaking languages",
-      "source": "hackernews"
-    },
-    "11dbdb906527798c": {
-      "date": "2026-01-30",
-      "title": "Leapility",
-      "source": "producthunt"
-    },
-    "065cea2284d93004": {
-      "date": "2026-01-30",
-      "title": "Archimyst",
-      "source": "producthunt"
-    },
-    "47822aa988d3a518": {
-      "date": "2026-01-30",
-      "title": "Superagent from Airtable",
-      "source": "producthunt"
-    },
-    "db67552432dc4802": {
-      "date": "2026-01-30",
-      "title": "NMTV",
-      "source": "producthunt"
-    },
-    "b89796e35c1ad838": {
-      "date": "2026-01-30",
-      "title": "YepCode",
-      "source": "producthunt"
-    },
-    "08f16df8c0d7d6a5": {
-      "date": "2026-01-30",
-      "title": "Cntrl Bridge",
-      "source": "producthunt"
-    },
-    "f1b289c8a21a057f": {
-      "date": "2026-01-30",
-      "title": "Geekflare API",
-      "source": "producthunt"
-    },
-    "7aaf77f8c18f9898": {
-      "date": "2026-01-30",
-      "title": "Kokori",
-      "source": "producthunt"
-    },
-    "67c3f271e5710b84": {
-      "date": "2026-01-30",
-      "title": "Unpopular Opinion: I stopped coding on weekends and my career got better.",
-      "source": "devto"
-    },
-    "d997426f8ed406a1": {
-      "date": "2026-01-30",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "8f5e0fc116369c90": {
-      "date": "2026-01-30",
-      "title": "Gemini versus Gemma: Still Confused?",
-      "source": "devto"
-    },
-    "4f86cb4d30a55f22": {
-      "date": "2026-01-30",
-      "title": "I'm Passing on the GitHub CoPilot CLI Challenge",
-      "source": "devto"
-    },
-    "681e255cffeb2224": {
-      "date": "2026-01-30",
-      "title": "New developer tools for Google AI Pro and Ultra subscribers",
-      "source": "devto"
-    },
-    "c866dd9a0030d1c4": {
-      "date": "2026-01-30",
-      "title": "New Year, New You Portfolio Challenge - Evolving \"Portfolios\" into an Agent",
-      "source": "devto"
-    },
-    "6b61b1e5288a8f96": {
-      "date": "2026-01-30",
-      "title": "🔬 Copilot Autopsy: AI-Powered Repository Forensics",
-      "source": "devto"
-    },
-    "93b8562d70e59298": {
-      "date": "2026-01-30",
-      "title": "Autopilot - Extra: Coding a Zero-Maintenance, AI-Native Newsletter System",
-      "source": "devto"
-    },
-    "2ea00e7acb32fafa": {
-      "date": "2026-01-30",
-      "title": "Making Invalid States Unrepresentable: The Billion-Dollar Mistake That Wasn't",
-      "source": "devto"
-    },
-    "7555b0363daa1846": {
-      "date": "2026-01-30",
-      "title": "# I built an Encrypted Vault for .env files inside VS Code",
-      "source": "devto"
-    },
-    "0bd21c2cf11fc945": {
-      "date": "2026-01-30",
-      "title": "openclaw / openclaw",
-      "source": "github"
-    },
     "50ca4c3a5665371a": {
       "date": "2026-01-31",
       "title": "skills.sh",
@@ -4946,6 +4801,156 @@
       "date": "2026-03-01",
       "title": "NevaMind-AI / memU",
       "source": "github"
+    },
+    "78ca079a1aff1287": {
+      "date": "2026-03-02",
+      "title": "JDoodleClaw",
+      "source": "producthunt"
+    },
+    "6ccd4273189b0e18": {
+      "date": "2026-03-02",
+      "title": "NothingHere",
+      "source": "producthunt"
+    },
+    "75aa2c9f9eae6f67": {
+      "date": "2026-03-02",
+      "title": "Crawler.sh",
+      "source": "producthunt"
+    },
+    "47db48a6701966fc": {
+      "date": "2026-03-02",
+      "title": "Didit v3",
+      "source": "producthunt"
+    },
+    "372735a67f759764": {
+      "date": "2026-03-02",
+      "title": "Voca AI",
+      "source": "producthunt"
+    },
+    "ed359bfc19a73a92": {
+      "date": "2026-03-02",
+      "title": "Rankfender",
+      "source": "producthunt"
+    },
+    "7ffc757c5436c8f0": {
+      "date": "2026-03-02",
+      "title": "KatClaw™",
+      "source": "producthunt"
+    },
+    "cd1d79639909d482": {
+      "date": "2026-03-02",
+      "title": "CtrlAI",
+      "source": "producthunt"
+    },
+    "d356bccfc26cec51": {
+      "date": "2026-03-02",
+      "title": "New iPad Air, powered by M4",
+      "source": "hackernews"
+    },
+    "4c6589735413a0e0": {
+      "date": "2026-03-02",
+      "title": "British Columbia to end time changes, adopt year-round daylight time",
+      "source": "hackernews"
+    },
+    "2e7d6bb3484ec03a": {
+      "date": "2026-03-02",
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "source": "hackernews"
+    },
+    "63dc101363036c8d": {
+      "date": "2026-03-02",
+      "title": "Welcome (back) to Macintosh",
+      "source": "hackernews"
+    },
+    "cf1192d94c77af0d": {
+      "date": "2026-03-02",
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "source": "hackernews"
+    },
+    "16522a79109f16a5": {
+      "date": "2026-03-02",
+      "title": "Show HN: uBlock filter list to blur all Instagram Reels",
+      "source": "hackernews"
+    },
+    "3b83a33efe4ecad3": {
+      "date": "2026-03-02",
+      "title": "The workers behind Meta's smart glasses can see everything",
+      "source": "hackernews"
+    },
+    "a68c15b22835c06f": {
+      "date": "2026-03-02",
+      "title": "\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)",
+      "source": "hackernews"
+    },
+    "481f2bd87bb96ed1": {
+      "date": "2026-03-02",
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "source": "hackernews"
+    },
+    "17e613666d08b28f": {
+      "date": "2026-03-02",
+      "title": "Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool",
+      "source": "hackernews"
+    },
+    "a9e496dc4731ae05": {
+      "date": "2026-03-02",
+      "title": "anthropics / prompt-eng-interactive-tutorial",
+      "source": "github"
+    },
+    "e02354ebb204f046": {
+      "date": "2026-03-02",
+      "title": "servo / servo",
+      "source": "github"
+    },
+    "326859cfbf37fa0d": {
+      "date": "2026-03-02",
+      "title": "Ozigi v2 Changelog: Building a Modular Agentic Content Engine with Next.js, Supabase, and Playwright",
+      "source": "devto"
+    },
+    "76ff47f5c8ea1616": {
+      "date": "2026-03-02",
+      "title": "What should I do and learn in 2026?",
+      "source": "devto"
+    },
+    "bda4a6b23cd19b8d": {
+      "date": "2026-03-02",
+      "title": "The End of Tab Anxiety: Building a Destructive Read-It-Later App",
+      "source": "devto"
+    },
+    "ed9a57020c8e71c5": {
+      "date": "2026-03-02",
+      "title": "MeraSociety — I Turned My Apartment Society's WhatsApp Chaos into a Real App",
+      "source": "devto"
+    },
+    "c530d581964e7f0b": {
+      "date": "2026-03-02",
+      "title": "Stopping the Domino Effect: How I Built Resilico to Protect Community Lending",
+      "source": "devto"
+    },
+    "5cba50f084f88797": {
+      "date": "2026-03-02",
+      "title": "Folio-Reading is a Lonely Act. It Doesn't Have to Be",
+      "source": "devto"
+    },
+    "7678d8757f3d0518": {
+      "date": "2026-03-02",
+      "title": "Fill All: Generating E2E Tests and Automating Forms with Gemini Nano & TF.js",
+      "source": "devto"
+    },
+    "d6ae2def4313f331": {
+      "date": "2026-03-02",
+      "title": "I Missed 3 Hackathons This Year. So I Built DevPulse to Fix That.",
+      "source": "devto"
+    },
+    "250ccff13fb896fd": {
+      "date": "2026-03-02",
+      "title": "Using Slightly Broken Smartphones thanks to Accessibility",
+      "source": "devto"
+    },
+    "fc634550087b2145": {
+      "date": "2026-03-02",
+      "title": "The Numbers That Deflate the AI Hype About Replacing Coders—and Ease FOMO",
+      "source": "devto"
     }
   }
 }
