@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-02T22:57:40.376373",
+  "last_updated": "2026-03-03T22:57:16.013650",
   "sent_items": {
-    "50ca4c3a5665371a": {
-      "date": "2026-01-31",
-      "title": "skills.sh",
-      "source": "producthunt"
-    },
-    "0336ef1673dcfb6e": {
-      "date": "2026-01-31",
-      "title": "ClaudeUsageBar",
-      "source": "producthunt"
-    },
-    "f24df66ed0399949": {
-      "date": "2026-01-31",
-      "title": "DestMate",
-      "source": "producthunt"
-    },
-    "36390b4d46c734fd": {
-      "date": "2026-01-31",
-      "title": "Lost Post",
-      "source": "producthunt"
-    },
-    "251751489f0ecf72": {
-      "date": "2026-01-31",
-      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
-      "source": "hackernews"
-    },
-    "fe80ef59c7350910": {
-      "date": "2026-01-31",
-      "title": "Mobile carriers can get your GPS location",
-      "source": "hackernews"
-    },
-    "21fe10d12655450a": {
-      "date": "2026-01-31",
-      "title": "CPython Internals Explained",
-      "source": "hackernews"
-    },
-    "62f7070977ae6e92": {
-      "date": "2026-01-31",
-      "title": "US has investigated claims WhatsApp chats aren't private",
-      "source": "hackernews"
-    },
-    "59cf6a665c6d03ba": {
-      "date": "2026-01-31",
-      "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
-      "source": "hackernews"
-    },
-    "81c793a6786e90f8": {
-      "date": "2026-01-31",
-      "title": "Nintendo DS code editor and scriptable game engine",
-      "source": "hackernews"
-    },
-    "3e2a2868b14328a0": {
-      "date": "2026-01-31",
-      "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
-      "source": "hackernews"
-    },
-    "64135c9a8a2cdb38": {
-      "date": "2026-01-31",
-      "title": "The Saddest Moment (2013) [pdf]",
-      "source": "hackernews"
-    },
-    "52c08e59ad1c5696": {
-      "date": "2026-01-31",
-      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
-      "source": "hackernews"
-    },
-    "bd1e8142c5d375ec": {
-      "date": "2026-01-31",
-      "title": "Autonomous cars, drones cheerfully obey prompt injection by road sign",
-      "source": "hackernews"
-    },
-    "c29936fe0aa05b98": {
-      "date": "2026-01-31",
-      "title": "ThePrimeagen / 99",
-      "source": "github"
-    },
-    "33b0d84c745e52f3": {
-      "date": "2026-01-31",
-      "title": "microsoft / BitNet",
-      "source": "github"
-    },
-    "0f779bc236545d9c": {
-      "date": "2026-01-31",
-      "title": "microsoft / agent-lightning",
-      "source": "github"
-    },
-    "68c57e7779dc4696": {
-      "date": "2026-01-31",
-      "title": "PaddlePaddle / PaddleOCR",
-      "source": "github"
-    },
-    "f2ef8f8410a81a77": {
-      "date": "2026-01-31",
-      "title": "anthropics / claude-plugins-official",
-      "source": "github"
-    },
-    "2cd560aef18e9807": {
-      "date": "2026-01-31",
-      "title": "microsoft / PowerToys",
-      "source": "github"
-    },
-    "bb504e2bb8d5d21f": {
-      "date": "2026-01-31",
-      "title": "termux / termux-app",
-      "source": "github"
-    },
-    "2919f157d9e754b7": {
-      "date": "2026-01-31",
-      "title": "AlexanderGrooff / mermaid-ascii",
-      "source": "github"
-    },
-    "9be2298923154546": {
-      "date": "2026-01-31",
-      "title": "reconurge / flowsint",
-      "source": "github"
-    },
-    "dd96a3f3f4b9af84": {
-      "date": "2026-01-31",
-      "title": "cline / cline",
-      "source": "github"
-    },
-    "9994c95af5aa5bce": {
-      "date": "2026-01-31",
-      "title": "🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful",
-      "source": "devto"
-    },
-    "22b903b2733c4537": {
-      "date": "2026-01-31",
-      "title": "Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando",
-      "source": "devto"
-    },
-    "b656fb32d2357c7a": {
-      "date": "2026-01-31",
-      "title": "The Secret Life of JavaScript: The Proxy",
-      "source": "devto"
-    },
-    "7f0fb6f9560cae5a": {
-      "date": "2026-01-31",
-      "title": "Starting Without a Perfect Plan",
-      "source": "devto"
-    },
-    "0224794552e8f2eb": {
-      "date": "2026-01-31",
-      "title": "Why CLAUDE.md Is the Most Important File in Your Codebase",
-      "source": "devto"
-    },
-    "43a797cf62aeda87": {
-      "date": "2026-01-31",
-      "title": "The Ronin's Path: Building a Pure Portfolio for the Google AI Challenge",
-      "source": "devto"
-    },
-    "95df44cfa1121004": {
-      "date": "2026-01-31",
-      "title": "Why CLAUDE.md Is one of the Most Important File in Your Codebase",
-      "source": "devto"
-    },
-    "43e9628dd1baee8f": {
-      "date": "2026-01-31",
-      "title": "Logging Strategies for Real-Time Applications: Session Tracking at Scale",
-      "source": "devto"
-    },
-    "23f79d8dd48b0e36": {
-      "date": "2026-01-31",
-      "title": "from typing import FinallyAnExplanation",
-      "source": "devto"
-    },
-    "5cfc5b45aa27cb77": {
-      "date": "2026-01-31",
-      "title": "Abu Taher Siddik | The Celestial Full Stack Architect",
-      "source": "devto"
-    },
     "d40bc32a19951a09": {
       "date": "2026-02-01",
       "title": "Dottie",
@@ -4951,6 +4781,171 @@
       "date": "2026-03-02",
       "title": "The Numbers That Deflate the AI Hype About Replacing Coders—and Ease FOMO",
       "source": "devto"
+    },
+    "f63ca4e119e62e5c": {
+      "date": "2026-03-03",
+      "title": "Steps: Workout & Pedometer",
+      "source": "producthunt"
+    },
+    "e7dad1484093fab6": {
+      "date": "2026-03-03",
+      "title": "Springfield Oracle",
+      "source": "producthunt"
+    },
+    "3ef1be024386ea71": {
+      "date": "2026-03-03",
+      "title": "Qwen3.5 Small",
+      "source": "producthunt"
+    },
+    "dc0c8c9997089584": {
+      "date": "2026-03-03",
+      "title": "MonoDesk",
+      "source": "producthunt"
+    },
+    "5d4627229183cc10": {
+      "date": "2026-03-03",
+      "title": "Deep Personality",
+      "source": "producthunt"
+    },
+    "ff6060129a542911": {
+      "date": "2026-03-03",
+      "title": "Krisp Accent Conversion",
+      "source": "producthunt"
+    },
+    "f8fc1da608d22b7e": {
+      "date": "2026-03-03",
+      "title": "getviktor.com",
+      "source": "producthunt"
+    },
+    "c3c1770ed64b68fd": {
+      "date": "2026-03-03",
+      "title": "Tomosu",
+      "source": "producthunt"
+    },
+    "6ff213fc73abbb99": {
+      "date": "2026-03-03",
+      "title": "The Xkcd thing, now interactive",
+      "source": "hackernews"
+    },
+    "d03a088d0a455146": {
+      "date": "2026-03-03",
+      "title": "MacBook Pro with new M5 Pro and M5 Max",
+      "source": "hackernews"
+    },
+    "197aee49785c3b6c": {
+      "date": "2026-03-03",
+      "title": "Claude's Cycles [pdf]",
+      "source": "hackernews"
+    },
+    "a89cea9afb53ce6a": {
+      "date": "2026-03-03",
+      "title": "Don't become an engineering manager",
+      "source": "hackernews"
+    },
+    "380432cd193655e2": {
+      "date": "2026-03-03",
+      "title": "GPT‑5.3 Instant",
+      "source": "hackernews"
+    },
+    "0105585145fc7c57": {
+      "date": "2026-03-03",
+      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
+      "source": "hackernews"
+    },
+    "9e6502965c787b3b": {
+      "date": "2026-03-03",
+      "title": "When AI writes the software, who verifies it?",
+      "source": "hackernews"
+    },
+    "0148e11def93a1ae": {
+      "date": "2026-03-03",
+      "title": "An Interactive Intro to CRDTs (2023)",
+      "source": "hackernews"
+    },
+    "b6acfabed821e4d9": {
+      "date": "2026-03-03",
+      "title": "We've freed Cookie's Bustle from copyright hell",
+      "source": "hackernews"
+    },
+    "6a6a2db140b0f969": {
+      "date": "2026-03-03",
+      "title": "Voxile: A ray-traced game made in its own engine and programming language",
+      "source": "hackernews"
+    },
+    "56db7cac29a648dd": {
+      "date": "2026-03-03",
+      "title": "i built a social platform where everything vanishes after 24 hours",
+      "source": "devto"
+    },
+    "c1ed3642040edf34": {
+      "date": "2026-03-03",
+      "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
+      "source": "devto"
+    },
+    "28dab93be0dbfe71": {
+      "date": "2026-03-03",
+      "title": "I Run a Solo Company with AI Agent Departments",
+      "source": "devto"
+    },
+    "07f81874e0782b0b": {
+      "date": "2026-03-03",
+      "title": "Is Software Engineering Cooked? Not Yet. But Maybe.",
+      "source": "devto"
+    },
+    "1e6e32dc0a0c0fb3": {
+      "date": "2026-03-03",
+      "title": "What do you think about building when AI models get cheaper?",
+      "source": "devto"
+    },
+    "3951d52a1eab4d37": {
+      "date": "2026-03-03",
+      "title": "I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨",
+      "source": "devto"
+    },
+    "0618d42be023d8a4": {
+      "date": "2026-03-03",
+      "title": "I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.",
+      "source": "devto"
+    },
+    "ac5a19feebf40f5e": {
+      "date": "2026-03-03",
+      "title": "Building Disaster Pulse: What Happened When I Let AI Decide If a Disaster Is Real",
+      "source": "devto"
+    },
+    "4e8110f9cbfa27b8": {
+      "date": "2026-03-03",
+      "title": "How to make your first contribution to an open source project",
+      "source": "devto"
+    },
+    "4b0e1da9ab1575c8": {
+      "date": "2026-03-03",
+      "title": "We had a big team offsite and I forgot meme monday yesterday 😭\r\n\r\nBut here is another post",
+      "source": "devto"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-03-03",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "5b9c6c7e1661bc14": {
+      "date": "2026-03-03",
+      "title": "CodebuffAI / codebuff",
+      "source": "github"
+    },
+    "1296ad6d52cc7576": {
+      "date": "2026-03-03",
+      "title": "agentscope-ai / agentscope",
+      "source": "github"
+    },
+    "0446f29013000713": {
+      "date": "2026-03-03",
+      "title": "agentscope-ai / ReMe",
+      "source": "github"
+    },
+    "5c551e97a9eb1fa8": {
+      "date": "2026-03-03",
+      "title": "LMCache / LMCache",
+      "source": "github"
     }
   }
 }
