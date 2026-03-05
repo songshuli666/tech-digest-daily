@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-04T23:01:33.942185",
+  "last_updated": "2026-03-05T23:39:47.279433",
   "sent_items": {
-    "d2417ac309d149b8": {
-      "date": "2026-02-02",
-      "title": "Molthunt",
-      "source": "producthunt"
-    },
-    "555ce938210ac5b9": {
-      "date": "2026-02-02",
-      "title": "Moltweet",
-      "source": "producthunt"
-    },
-    "aa7948374c2c8c3f": {
-      "date": "2026-02-02",
-      "title": "Portal",
-      "source": "producthunt"
-    },
-    "e3ba6fe4e34ae839": {
-      "date": "2026-02-02",
-      "title": "Polyvia",
-      "source": "producthunt"
-    },
-    "c3dba039492409a7": {
-      "date": "2026-02-02",
-      "title": "EasyClaw",
-      "source": "producthunt"
-    },
-    "83d62148c38ddeed": {
-      "date": "2026-02-02",
-      "title": "Design In The Browser",
-      "source": "producthunt"
-    },
-    "ab32bc9eb76083cb": {
-      "date": "2026-02-02",
-      "title": "moltbook",
-      "source": "producthunt"
-    },
-    "2312902974ef2096": {
-      "date": "2026-02-02",
-      "title": "Voice Anywhere",
-      "source": "producthunt"
-    },
-    "0345dfcb87ab92b0": {
-      "date": "2026-02-02",
-      "title": "The Codex App",
-      "source": "hackernews"
-    },
-    "7b7951d3ea1f2c98": {
-      "date": "2026-02-02",
-      "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-      "source": "hackernews"
-    },
-    "9e4770255044ca76": {
-      "date": "2026-02-02",
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "source": "hackernews"
-    },
-    "3f0301148489f431": {
-      "date": "2026-02-02",
-      "title": "Hacking Moltbook",
-      "source": "hackernews"
-    },
-    "c46e2be8e578eec9": {
-      "date": "2026-02-02",
-      "title": "xAI joins SpaceX",
-      "source": "hackernews"
-    },
-    "b853f8a571e0029a": {
-      "date": "2026-02-02",
-      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
-      "source": "hackernews"
-    },
-    "d7e7f90dc29b9221": {
-      "date": "2026-02-02",
-      "title": "Anki ownership transferred to AnkiHub",
-      "source": "hackernews"
-    },
-    "12f40143f5b25b5f": {
-      "date": "2026-02-02",
-      "title": "Advancing AI Benchmarking with Game Arena",
-      "source": "hackernews"
-    },
-    "5b6d58134eaf9f23": {
-      "date": "2026-02-02",
-      "title": "Zig Libc",
-      "source": "hackernews"
-    },
-    "170e244c65564cc8": {
-      "date": "2026-02-02",
-      "title": "The largest number representable in 64 bits",
-      "source": "hackernews"
-    },
-    "c2fa17501ae427b2": {
-      "date": "2026-02-02",
-      "title": "netbirdio / netbird",
-      "source": "github"
-    },
-    "650662eced1761ea": {
-      "date": "2026-02-02",
-      "title": "OpenBMB / ChatDev",
-      "source": "github"
-    },
-    "f962742aef5f217b": {
-      "date": "2026-02-02",
-      "title": "autobrr / qui",
-      "source": "github"
-    },
-    "971dc80d24870e3a": {
-      "date": "2026-02-02",
-      "title": "karpathy / nanochat",
-      "source": "github"
-    },
-    "82f99bdb43e3e375": {
-      "date": "2026-02-02",
-      "title": "langchain-ai / rag-from-scratch",
-      "source": "github"
-    },
-    "3a8e39145166aa31": {
-      "date": "2026-02-02",
-      "title": "Online Community Demise and why DEV is Different (at least a little bit, I hope)",
-      "source": "devto"
-    },
-    "35ee39cf448f3baa": {
-      "date": "2026-02-02",
-      "title": "Setting Up OpenClaw on exe.dev with Discord",
-      "source": "devto"
-    },
-    "e66c6a2b9c3a40d9": {
-      "date": "2026-02-02",
-      "title": "The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder",
-      "source": "devto"
-    },
-    "b2eb80e0102c5860": {
-      "date": "2026-02-02",
-      "title": "Antigravity the Ralph Wiggum style",
-      "source": "devto"
-    },
-    "b36eda569166c6b6": {
-      "date": "2026-02-02",
-      "title": "Following Back: My Approach",
-      "source": "devto"
-    },
-    "77b72ac80ac14d53": {
-      "date": "2026-02-02",
-      "title": "DigitalOcean on Dev.to: Practical AI Insights for Builders",
-      "source": "devto"
-    },
-    "545a46e2828a34fe": {
-      "date": "2026-02-02",
-      "title": "🪙Let’s Become a Millionaire in a Second (Gold Fountain with React Three Fiber)🪙",
-      "source": "devto"
-    },
-    "fbdfd77fa19cf132": {
-      "date": "2026-02-02",
-      "title": "Rachel Wang's Portfolio - Built with Gemini & Cloud Run",
-      "source": "devto"
-    },
-    "b329fe2c5bf78f9c": {
-      "date": "2026-02-02",
-      "title": "Moltbook Exposed: It's Human Slop, Not AI Awakening",
-      "source": "devto"
-    },
-    "97bf9749f3200cda": {
-      "date": "2026-02-02",
-      "title": "I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model",
-      "source": "devto"
-    },
     "fb995a8a64582189": {
       "date": "2026-02-03",
       "title": "Hugo",
@@ -4935,6 +4770,166 @@
     "387fc3d479b6eb9a": {
       "date": "2026-03-04",
       "title": "Credexia: AI-Powered Loan Compliance Built with Google Gemini",
+      "source": "devto"
+    },
+    "dcf91714e9a8b526": {
+      "date": "2026-03-05",
+      "title": "Step 3.5 Flash",
+      "source": "producthunt"
+    },
+    "6ba7d52cd0044d40": {
+      "date": "2026-03-05",
+      "title": "Codex app for Windows",
+      "source": "producthunt"
+    },
+    "80abbc1e334a22d9": {
+      "date": "2026-03-05",
+      "title": "Coursekit",
+      "source": "producthunt"
+    },
+    "0e3f83837dbb1fcd": {
+      "date": "2026-03-05",
+      "title": "Aident AI Beta 2",
+      "source": "producthunt"
+    },
+    "e112e389fe521596": {
+      "date": "2026-03-05",
+      "title": "Itchy",
+      "source": "producthunt"
+    },
+    "a784eecbdaa08dc3": {
+      "date": "2026-03-05",
+      "title": "Hermit",
+      "source": "producthunt"
+    },
+    "efc7c68e72cc444b": {
+      "date": "2026-03-05",
+      "title": "Supa Social",
+      "source": "producthunt"
+    },
+    "c2784bc8a6064d33": {
+      "date": "2026-03-05",
+      "title": "Spoke",
+      "source": "producthunt"
+    },
+    "74528641b97d903f": {
+      "date": "2026-03-05",
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "source": "hackernews"
+    },
+    "985e51ede963dece": {
+      "date": "2026-03-05",
+      "title": "GPT-5.4",
+      "source": "hackernews"
+    },
+    "831e3892d5ff13ec": {
+      "date": "2026-03-05",
+      "title": "Good software knows when to stop",
+      "source": "hackernews"
+    },
+    "84f1dcd9712b7909": {
+      "date": "2026-03-05",
+      "title": "The Brand Age",
+      "source": "hackernews"
+    },
+    "3ea7b79bef6f5ba8": {
+      "date": "2026-03-05",
+      "title": "10% of Firefox crashes are caused by bitflips",
+      "source": "hackernews"
+    },
+    "36a3a42dd45d0b99": {
+      "date": "2026-03-05",
+      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "source": "hackernews"
+    },
+    "b63459dcb8c66b5c": {
+      "date": "2026-03-05",
+      "title": "Hardware hotplug events on Linux, the gory details",
+      "source": "hackernews"
+    },
+    "78920a9ec612e2c5": {
+      "date": "2026-03-05",
+      "title": "A ternary plot of citrus geneology",
+      "source": "hackernews"
+    },
+    "b78e7333e0714785": {
+      "date": "2026-03-05",
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "source": "hackernews"
+    },
+    "03b7f568fe03a129": {
+      "date": "2026-03-05",
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "source": "hackernews"
+    },
+    "398facd358d56db3": {
+      "date": "2026-03-05",
+      "title": "TheCraigHewitt / seomachine",
+      "source": "github"
+    },
+    "3dc639e4254858c2": {
+      "date": "2026-03-05",
+      "title": "inclusionAI / AReaL",
+      "source": "github"
+    },
+    "1e2345276002a361": {
+      "date": "2026-03-05",
+      "title": "microsoft / mcp-for-beginners",
+      "source": "github"
+    },
+    "339d4eac1e0e4733": {
+      "date": "2026-03-05",
+      "title": "microsoft / hve-core",
+      "source": "github"
+    },
+    "d16e307dc0a3bdff": {
+      "date": "2026-03-05",
+      "title": "How My \"Illegal\" Visit to Tech Show London Turned Into a Summer Internship Win",
+      "source": "devto"
+    },
+    "d2f7bab5ad986fbc": {
+      "date": "2026-03-05",
+      "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
+      "source": "devto"
+    },
+    "58bba0c3c3464e5f": {
+      "date": "2026-03-05",
+      "title": "How Claude Skills Replaced Our Documentation",
+      "source": "devto"
+    },
+    "855d8affcdb0d258": {
+      "date": "2026-03-05",
+      "title": "The Old Seniority Definition Is Collapsing",
+      "source": "devto"
+    },
+    "862470ab40eeb6aa": {
+      "date": "2026-03-05",
+      "title": "The Secret Life of Claude Code: Skill Is Not What You Think It Is",
+      "source": "devto"
+    },
+    "a9092d2b4c9c545b": {
+      "date": "2026-03-05",
+      "title": "I audited a codebase written by Devin 3.0. It was a nightmare.",
+      "source": "devto"
+    },
+    "d2ee61e5347d7534": {
+      "date": "2026-03-05",
+      "title": "GitHub Copilot CLI Challenge Winner Announcement - Further Delayed",
+      "source": "devto"
+    },
+    "5cd35dc5c26c3be1": {
+      "date": "2026-03-05",
+      "title": "d3d9-webgl — Run Legacy D3D9 Code in the Browser Without Rewriting It",
+      "source": "devto"
+    },
+    "bc9e332c07568ad0": {
+      "date": "2026-03-05",
+      "title": "Your MCP server's tool descriptions are an attack surface",
+      "source": "devto"
+    },
+    "ffe03fc846de971c": {
+      "date": "2026-03-05",
+      "title": "Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS",
       "source": "devto"
     }
   }
