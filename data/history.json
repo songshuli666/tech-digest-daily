@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-06T22:59:28.690364",
+  "last_updated": "2026-03-07T22:53:45.179562",
   "sent_items": {
-    "165060417da95541": {
-      "date": "2026-02-04",
-      "title": "Voxtral Transcribe 2",
-      "source": "hackernews"
-    },
-    "7779f6bb23c9f398": {
-      "date": "2026-02-04",
-      "title": "AI is killing B2B SaaS",
-      "source": "hackernews"
-    },
-    "0b21c55632dd1008": {
-      "date": "2026-02-04",
-      "title": "Tractor",
-      "source": "hackernews"
-    },
-    "86f013e06d0ad1ad": {
-      "date": "2026-02-04",
-      "title": "Claude Code: connect to a local model when your quota runs out",
-      "source": "hackernews"
-    },
-    "f712f66cccce39fa": {
-      "date": "2026-02-04",
-      "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "source": "hackernews"
-    },
-    "e0696cebfb6b5004": {
-      "date": "2026-02-04",
-      "title": "Claude Code for Infrastructure",
-      "source": "hackernews"
-    },
-    "fed4434c6b2b43d9": {
-      "date": "2026-02-04",
-      "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
-      "source": "hackernews"
-    },
-    "7cc91d24c0cfe003": {
-      "date": "2026-02-04",
-      "title": "The Singularity Is Always Near (2006)",
-      "source": "hackernews"
-    },
-    "c0b27eeba71896f3": {
-      "date": "2026-02-04",
-      "title": "A real-world benchmark for AI code review",
-      "source": "hackernews"
-    },
-    "f4c59151f2b7d325": {
-      "date": "2026-02-04",
-      "title": "Remarkable Pro Colors",
-      "source": "hackernews"
-    },
-    "714a60dfcff8baf6": {
-      "date": "2026-02-04",
-      "title": "Unblocked Code Review",
-      "source": "producthunt"
-    },
-    "f033a62d18e26b4b": {
-      "date": "2026-02-04",
-      "title": "Xcode 26.3",
-      "source": "producthunt"
-    },
-    "593fe56e2998cd18": {
-      "date": "2026-02-04",
-      "title": "Universal-3 Pro",
-      "source": "producthunt"
-    },
-    "cd5357e1e3287935": {
-      "date": "2026-02-04",
-      "title": "Bunny Database",
-      "source": "producthunt"
-    },
-    "f255f4ebbb5a3abe": {
-      "date": "2026-02-04",
-      "title": "Ember Mug CLI",
-      "source": "producthunt"
-    },
-    "ca24bcb2c5aeba83": {
-      "date": "2026-02-04",
-      "title": "SERA",
-      "source": "producthunt"
-    },
-    "64207818a4966920": {
-      "date": "2026-02-04",
-      "title": "Multitui",
-      "source": "producthunt"
-    },
-    "491607a13d400828": {
-      "date": "2026-02-04",
-      "title": "Camzy",
-      "source": "producthunt"
-    },
-    "a218956ba66563e4": {
-      "date": "2026-02-04",
-      "title": "Moltbook Is Not an AI Society",
-      "source": "devto"
-    },
-    "7f082dfad33bec7d": {
-      "date": "2026-02-04",
-      "title": "Why do you write?",
-      "source": "devto"
-    },
-    "6dd08dfd799813d7": {
-      "date": "2026-02-04",
-      "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-      "source": "devto"
-    },
-    "1cf94769eaba942a": {
-      "date": "2026-02-04",
-      "title": "An Al-go-llama Adventure",
-      "source": "devto"
-    },
-    "ddc5e12cc39041e0": {
-      "date": "2026-02-04",
-      "title": "I Watched an Anime and Built a VS Code Theme Bundle Inspired by 17th-Century Japanese Art",
-      "source": "devto"
-    },
-    "48f41df8e507733c": {
-      "date": "2026-02-04",
-      "title": "Welcome Thread - v363",
-      "source": "devto"
-    },
-    "c4106744d628c568": {
-      "date": "2026-02-04",
-      "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-      "source": "devto"
-    },
-    "2ce93dd1b7c62189": {
-      "date": "2026-02-04",
-      "title": "The Secret Life of Python: The Shadow Name",
-      "source": "devto"
-    },
-    "ea62ae15ac9e73eb": {
-      "date": "2026-02-04",
-      "title": "Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer's Approach",
-      "source": "devto"
-    },
-    "c95d7a82d869094c": {
-      "date": "2026-02-04",
-      "title": "I brought C++23 to Windows 95 because Microsoft told me my PC was too old",
-      "source": "devto"
-    },
-    "06bc1b3524d9b848": {
-      "date": "2026-02-04",
-      "title": "disler / claude-code-hooks-mastery",
-      "source": "github"
-    },
-    "8088d27b11eb5bed": {
-      "date": "2026-02-04",
-      "title": "ankitects / anki",
-      "source": "github"
-    },
-    "c2b8652385182a02": {
-      "date": "2026-02-04",
-      "title": "open-telemetry / opentelemetry-collector-contrib",
-      "source": "github"
-    },
-    "818ae6c0dbde6156": {
-      "date": "2026-02-04",
-      "title": "Canner / WrenAI",
-      "source": "github"
-    },
-    "e2e3cda3fa2e6709": {
-      "date": "2026-02-04",
-      "title": "nvm-sh / nvm",
-      "source": "github"
-    },
-    "34fc9d9a9bfb282b": {
-      "date": "2026-02-04",
-      "title": "microsoft / qlib",
-      "source": "github"
-    },
-    "b4c1f3891d0e98fc": {
-      "date": "2026-02-04",
-      "title": "LadybirdBrowser / ladybird",
-      "source": "github"
-    },
-    "239fc0bbdc76c10b": {
-      "date": "2026-02-04",
-      "title": "likec4 / likec4",
-      "source": "github"
-    },
     "ffb4fb0646fb7fd6": {
       "date": "2026-02-05",
       "title": "Claude Opus 4.6",
@@ -4930,6 +4750,171 @@
     "b33a629b744f1149": {
       "date": "2026-03-06",
       "title": "I built a Python library to make TCP networking as simple as Fastapi",
+      "source": "devto"
+    },
+    "5c5d645665e57aa1": {
+      "date": "2026-03-07",
+      "title": "Ki Editor - an editor that operates on the AST",
+      "source": "hackernews"
+    },
+    "ee3477300f63a47b": {
+      "date": "2026-03-07",
+      "title": "A decade of Docker containers",
+      "source": "hackernews"
+    },
+    "64d8d4a8b0413e62": {
+      "date": "2026-03-07",
+      "title": "FLASH radiotherapy's bold approach to cancer treatment",
+      "source": "hackernews"
+    },
+    "4f4a7065fed252c7": {
+      "date": "2026-03-07",
+      "title": "Effort to prevent government officials from engaging in prediction markets",
+      "source": "hackernews"
+    },
+    "fa39ed4006edf631": {
+      "date": "2026-03-07",
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "source": "hackernews"
+    },
+    "0f6186cec335125a": {
+      "date": "2026-03-07",
+      "title": "CasNum",
+      "source": "hackernews"
+    },
+    "ddfd6d6caf93d19a": {
+      "date": "2026-03-07",
+      "title": "Compiling Prolog to Forth [pdf]",
+      "source": "hackernews"
+    },
+    "c02ac081360aa4be": {
+      "date": "2026-03-07",
+      "title": "macOS code injection for fun and no profit (2024)",
+      "source": "hackernews"
+    },
+    "d560a36c65fc05b9": {
+      "date": "2026-03-07",
+      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
+      "source": "hackernews"
+    },
+    "be8079adbd66ffc6": {
+      "date": "2026-03-07",
+      "title": "The Day NY Publishing Lost Its Soul",
+      "source": "hackernews"
+    },
+    "52a9dca8688a54ef": {
+      "date": "2026-03-07",
+      "title": "Copperlane",
+      "source": "producthunt"
+    },
+    "8038626f3b9eadef": {
+      "date": "2026-03-07",
+      "title": "Thinking Line",
+      "source": "producthunt"
+    },
+    "d3367c9479736afb": {
+      "date": "2026-03-07",
+      "title": "GetBeel",
+      "source": "producthunt"
+    },
+    "70048a7533d037ba": {
+      "date": "2026-03-07",
+      "title": "Tailwind Form Builder",
+      "source": "producthunt"
+    },
+    "679d4cc3712dc9bb": {
+      "date": "2026-03-07",
+      "title": "21st Agents SDK",
+      "source": "producthunt"
+    },
+    "337e8af7e560f0f5": {
+      "date": "2026-03-07",
+      "title": "LTX Desktop",
+      "source": "producthunt"
+    },
+    "5fa324d6510a1f1b": {
+      "date": "2026-03-07",
+      "title": "666ghj / MiroFish",
+      "source": "github"
+    },
+    "e60f6498c318c48b": {
+      "date": "2026-03-07",
+      "title": "openai / skills",
+      "source": "github"
+    },
+    "eb0f738005a74134": {
+      "date": "2026-03-07",
+      "title": "GoogleCloudPlatform / generative-ai",
+      "source": "github"
+    },
+    "8f501e57fe872c4b": {
+      "date": "2026-03-07",
+      "title": "agentjido / jido",
+      "source": "github"
+    },
+    "4815469146dd988a": {
+      "date": "2026-03-07",
+      "title": "toeverything / AFFiNE",
+      "source": "github"
+    },
+    "5f02491b589aa491": {
+      "date": "2026-03-07",
+      "title": "shadcn-ui / ui",
+      "source": "github"
+    },
+    "d8d54e4bd4f02a14": {
+      "date": "2026-03-07",
+      "title": "alibaba / page-agent",
+      "source": "github"
+    },
+    "864f5edb64b9b0ed": {
+      "date": "2026-03-07",
+      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
+      "source": "devto"
+    },
+    "28a3b32a07770fd6": {
+      "date": "2026-03-07",
+      "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
+      "source": "devto"
+    },
+    "add8fe10d779615a": {
+      "date": "2026-03-07",
+      "title": "About Invisibility, Propaganda, and Assumptions of Incompetence",
+      "source": "devto"
+    },
+    "5a419ae7be2ad542": {
+      "date": "2026-03-07",
+      "title": "ScriptLite — a sandboxed ECMAScript subset interpreter for PHP (with optional C extension)",
+      "source": "devto"
+    },
+    "914dec4bb8fc22ef": {
+      "date": "2026-03-07",
+      "title": "I Submitted to a Mistral Hackathon at 10pm. My Agent Built the App While I Slept.",
+      "source": "devto"
+    },
+    "4cbf813e2f5f89f0": {
+      "date": "2026-03-07",
+      "title": "The Secret Life of Claude Code: The First Prompt",
+      "source": "devto"
+    },
+    "ff8fd2d2d3d3388c": {
+      "date": "2026-03-07",
+      "title": "Making AI Empathic",
+      "source": "devto"
+    },
+    "f6f94c1b48089ec5": {
+      "date": "2026-03-07",
+      "title": "The Next.js SEO Bug That Made Google Ignore My Entire Site (And How I Found It)",
+      "source": "devto"
+    },
+    "5ba1d7a7db2cd4f2": {
+      "date": "2026-03-07",
+      "title": "What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection",
+      "source": "devto"
+    },
+    "354a82a4c31cc915": {
+      "date": "2026-03-07",
+      "title": "I Built a Free Hemingway Editor Alternative That Runs in Your Browser",
       "source": "devto"
     }
   }
