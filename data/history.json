@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-08T22:54:33.138759",
+  "last_updated": "2026-03-09T22:59:22.706083",
   "sent_items": {
-    "4f638ab4ed1d6cfc": {
-      "date": "2026-02-06",
-      "title": "Commentblocks",
-      "source": "producthunt"
-    },
-    "e169a0a236171f0b": {
-      "date": "2026-02-06",
-      "title": "Field Theory",
-      "source": "producthunt"
-    },
-    "a735604dd8b40712": {
-      "date": "2026-02-06",
-      "title": "S3nding",
-      "source": "producthunt"
-    },
-    "f4b13f662a62b1f6": {
-      "date": "2026-02-06",
-      "title": "My Drawer",
-      "source": "producthunt"
-    },
-    "cd3f90121be40bcf": {
-      "date": "2026-02-06",
-      "title": "Model Council in Perplexity",
-      "source": "producthunt"
-    },
-    "89635e885c879a83": {
-      "date": "2026-02-06",
-      "title": "TabAI",
-      "source": "producthunt"
-    },
-    "18f264a8f3c15c83": {
-      "date": "2026-02-06",
-      "title": "Orange Slice",
-      "source": "producthunt"
-    },
-    "078484e7c1d994a2": {
-      "date": "2026-02-06",
-      "title": "The Waymo World Model",
-      "source": "hackernews"
-    },
-    "f422354c6a36d49a": {
-      "date": "2026-02-06",
-      "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-      "source": "hackernews"
-    },
-    "a070ef437841aea3": {
-      "date": "2026-02-06",
-      "title": "Sheldon Brown's Bicycle Technical Info",
-      "source": "hackernews"
-    },
-    "c151bb6095940f20": {
-      "date": "2026-02-06",
-      "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "source": "hackernews"
-    },
-    "f1cbcd8369c8832a": {
-      "date": "2026-02-06",
-      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
-      "source": "hackernews"
-    },
-    "625ce7826c877493": {
-      "date": "2026-02-06",
-      "title": "Learning from context is harder than we thought",
-      "source": "hackernews"
-    },
-    "08cc867aa84ffc19": {
-      "date": "2026-02-06",
-      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
-      "source": "hackernews"
-    },
-    "90737dd76404cc5f": {
-      "date": "2026-02-06",
-      "title": "Early Christian Writings",
-      "source": "hackernews"
-    },
-    "03d6be8a1e9e6a35": {
-      "date": "2026-02-06",
-      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-      "source": "hackernews"
-    },
-    "8acb4282a59a8b0b": {
-      "date": "2026-02-06",
-      "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
-      "source": "hackernews"
-    },
-    "f84e917e416c7dca": {
-      "date": "2026-02-06",
-      "title": "Flowseal / zapret-discord-youtube",
-      "source": "github"
-    },
-    "515531fcd7ff4b09": {
-      "date": "2026-02-06",
-      "title": "DataExpert-io / data-engineer-handbook",
-      "source": "github"
-    },
-    "d0323564e04649cc": {
-      "date": "2026-02-06",
-      "title": "Gaming Beat Me, Development Won't",
-      "source": "devto"
-    },
-    "c6e9eb0a0e937ee1": {
-      "date": "2026-02-06",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "569d0bfc37be6c86": {
-      "date": "2026-02-06",
-      "title": "Agent Factory Recap: Cracking Open an Open Model",
-      "source": "devto"
-    },
-    "0067086ce4d8fd4c": {
-      "date": "2026-02-06",
-      "title": "$100 OFF Google Cloud Next for the Community! Let's meet up?",
-      "source": "devto"
-    },
-    "678c2b0e850a59c5": {
-      "date": "2026-02-06",
-      "title": "Welcome to The Foundation: Preserving Developer Knowledge in Public",
-      "source": "devto"
-    },
-    "ff86444e03d6232e": {
-      "date": "2026-02-06",
-      "title": "Hostile Takeover of RubyGems: My Thoughts",
-      "source": "devto"
-    },
-    "fb6a5adcad221a75": {
-      "date": "2026-02-06",
-      "title": "The Secret Life of Python: The Phantom Copy",
-      "source": "devto"
-    },
-    "eea14b173f3dc7d1": {
-      "date": "2026-02-06",
-      "title": "Are you doomed learning coding in the AI era?",
-      "source": "devto"
-    },
-    "714d730aca99e084": {
-      "date": "2026-02-06",
-      "title": "280+ Leaky Skills: How OpenClaw & ClawHub Are Exposing API Keys and PII",
-      "source": "devto"
-    },
-    "199ec7188c6d3351": {
-      "date": "2026-02-06",
-      "title": "The Armored AI Agent You Can Actually Trust",
-      "source": "devto"
-    },
     "6c5dc426413b32c0": {
       "date": "2026-02-07",
       "title": "InspireNote",
@@ -4886,6 +4741,166 @@
       "date": "2026-03-08",
       "title": "pbakaus / impeccable",
       "source": "github"
+    },
+    "357ea0935b40644f": {
+      "date": "2026-03-09",
+      "title": "SCRAPR",
+      "source": "producthunt"
+    },
+    "a79ba7e2c9969a15": {
+      "date": "2026-03-09",
+      "title": "Kita",
+      "source": "producthunt"
+    },
+    "d3298e5df4505203": {
+      "date": "2026-03-09",
+      "title": "Wideframe",
+      "source": "producthunt"
+    },
+    "2477511fd49640bc": {
+      "date": "2026-03-09",
+      "title": "Flowripple",
+      "source": "producthunt"
+    },
+    "24a8c07cdaff778c": {
+      "date": "2026-03-09",
+      "title": "Phi-4-reasoning-vision",
+      "source": "producthunt"
+    },
+    "e4c29fb72ee67654": {
+      "date": "2026-03-09",
+      "title": "Nothing Phone (4a) Pro",
+      "source": "producthunt"
+    },
+    "2c811ed4e3121a77": {
+      "date": "2026-03-09",
+      "title": "simply",
+      "source": "producthunt"
+    },
+    "20085f7041c042ee": {
+      "date": "2026-03-09",
+      "title": "Reflct",
+      "source": "producthunt"
+    },
+    "d3e0c7a1f7a84b30": {
+      "date": "2026-03-09",
+      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+      "source": "hackernews"
+    },
+    "8fd83f2aecd86ed6": {
+      "date": "2026-03-09",
+      "title": "Florida judge rules red light camera tickets are unconstitutional",
+      "source": "hackernews"
+    },
+    "aff27df6c8b51ec8": {
+      "date": "2026-03-09",
+      "title": "Bluesky CEO Jay Graber is stepping down",
+      "source": "hackernews"
+    },
+    "1eb1e2b5039e5267": {
+      "date": "2026-03-09",
+      "title": "JSLinux Now Supports x86_64",
+      "source": "hackernews"
+    },
+    "b2d33fb3a49bacfa": {
+      "date": "2026-03-09",
+      "title": "DARPA's new X-76",
+      "source": "hackernews"
+    },
+    "1dde44881a4dadad": {
+      "date": "2026-03-09",
+      "title": "Oracle is building yesterday's data centers with tomorrow's debt",
+      "source": "hackernews"
+    },
+    "2016978cea3e8e0d": {
+      "date": "2026-03-09",
+      "title": "Show HN: The Mog Programming Language",
+      "source": "hackernews"
+    },
+    "1bcc344c9f03bcd3": {
+      "date": "2026-03-09",
+      "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
+      "source": "hackernews"
+    },
+    "0fec516e641712b8": {
+      "date": "2026-03-09",
+      "title": "Rendezvous with Rama",
+      "source": "hackernews"
+    },
+    "21f8272bdcd8b908": {
+      "date": "2026-03-09",
+      "title": "The First Airplane Fatality",
+      "source": "hackernews"
+    },
+    "971dc80d24870e3a": {
+      "date": "2026-03-09",
+      "title": "karpathy / nanochat",
+      "source": "github"
+    },
+    "4b6518559b83dc22": {
+      "date": "2026-03-09",
+      "title": "666ghj / BettaFish",
+      "source": "github"
+    },
+    "8b826b177eba41b4": {
+      "date": "2026-03-09",
+      "title": "alirezarezvani / claude-skills",
+      "source": "github"
+    },
+    "ce53e0e5cc55ed71": {
+      "date": "2026-03-09",
+      "title": "Raphire / Win11Debloat",
+      "source": "github"
+    },
+    "6e9f0a36e5ba2de4": {
+      "date": "2026-03-09",
+      "title": "Congrats to the GitHub Copilot CLI Challenge Winners!",
+      "source": "devto"
+    },
+    "29ffd4c53fec9f24": {
+      "date": "2026-03-09",
+      "title": "Revamped RSS Feed Imports",
+      "source": "devto"
+    },
+    "d6f33b61980cb0f2": {
+      "date": "2026-03-09",
+      "title": "I Planned an Exit Strategy. I Stayed the Whole Time.",
+      "source": "devto"
+    },
+    "823471c0463f9568": {
+      "date": "2026-03-09",
+      "title": "From a Confused Graduate to a DevOps Engineer",
+      "source": "devto"
+    },
+    "292680383411a0c9": {
+      "date": "2026-03-09",
+      "title": "I got tired of color contrast tools that break brand colors. So I built my own.",
+      "source": "devto"
+    },
+    "d1a9214fbd62705f": {
+      "date": "2026-03-09",
+      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
+      "source": "devto"
+    },
+    "37486306b3d474a5": {
+      "date": "2026-03-09",
+      "title": "Mapping the Territory",
+      "source": "devto"
+    },
+    "abeb42736a7c2ac9": {
+      "date": "2026-03-09",
+      "title": "Can you Truly Know that you are in the Right Path?",
+      "source": "devto"
+    },
+    "f42388874f5f26e7": {
+      "date": "2026-03-09",
+      "title": "From NEET Aspirant to Writing Code: A Journey I Never Planned",
+      "source": "devto"
+    },
+    "91347e5d6d767079": {
+      "date": "2026-03-09",
+      "title": "The Secret Life of Claude Code: When Claude Code Gets It Wrong",
+      "source": "devto"
     }
   }
 }
