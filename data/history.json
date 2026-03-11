@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-10T22:57:57.882446",
+  "last_updated": "2026-03-11T22:56:01.696591",
   "sent_items": {
-    "d317911722ad66d4": {
-      "date": "2026-02-08",
-      "title": "Snap",
-      "source": "producthunt"
-    },
-    "154866cf8f8cb30a": {
-      "date": "2026-02-08",
-      "title": "StayAwake.Dev",
-      "source": "producthunt"
-    },
-    "6f938864d71422f5": {
-      "date": "2026-02-08",
-      "title": "Extrovert",
-      "source": "producthunt"
-    },
-    "add258bbb70b9da9": {
-      "date": "2026-02-08",
-      "title": "Inspector",
-      "source": "producthunt"
-    },
-    "a8bfac0de95c1a4d": {
-      "date": "2026-02-08",
-      "title": "Axel",
-      "source": "producthunt"
-    },
-    "b5119e550347335b": {
-      "date": "2026-02-08",
-      "title": "VolumeHub",
-      "source": "producthunt"
-    },
-    "9ae8ec36678d19a8": {
-      "date": "2026-02-08",
-      "title": "Sway",
-      "source": "producthunt"
-    },
-    "d1f93fffc14b404f": {
-      "date": "2026-02-08",
-      "title": "UX HeatGrid",
-      "source": "producthunt"
-    },
-    "f3f8a15681578470": {
-      "date": "2026-02-08",
-      "title": "Vouch",
-      "source": "hackernews"
-    },
-    "cc3806e227356d8c": {
-      "date": "2026-02-08",
-      "title": "Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
-      "source": "hackernews"
-    },
-    "cf9200642302d13f": {
-      "date": "2026-02-08",
-      "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books",
-      "source": "hackernews"
-    },
-    "dae100a0044fb2a7": {
-      "date": "2026-02-08",
-      "title": "A GTA modder has got the 1997 original working on modern PCs and Steam Deck",
-      "source": "hackernews"
-    },
-    "6d03a9f45404b628": {
-      "date": "2026-02-08",
-      "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
-      "source": "hackernews"
-    },
-    "89b3465aa4d48d45": {
-      "date": "2026-02-08",
-      "title": "The Little Bool of Doom (2025)",
-      "source": "hackernews"
-    },
-    "b58f7b9ecaff6a6d": {
-      "date": "2026-02-08",
-      "title": "Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization",
-      "source": "hackernews"
-    },
-    "088e1ca0cd6fe640": {
-      "date": "2026-02-08",
-      "title": "Apple XNU: Clutch Scheduler",
-      "source": "hackernews"
-    },
-    "306c7fc756f66213": {
-      "date": "2026-02-08",
-      "title": "More Mac malware from Google search",
-      "source": "hackernews"
-    },
-    "e36c645d49c8071b": {
-      "date": "2026-02-08",
-      "title": "Reverse Engineering the Prom for the SGI O2",
-      "source": "hackernews"
-    },
-    "5b03df63c9ff35b3": {
-      "date": "2026-02-08",
-      "title": "Actually Static: When WordPress Stops Being the Enemy",
-      "source": "devto"
-    },
-    "38380aa7679f6d02": {
-      "date": "2026-02-08",
-      "title": "I Got Tired of Being a One-Man Dev Team (So I Built This Thing)",
-      "source": "devto"
-    },
-    "b59c594fd7b92c93": {
-      "date": "2026-02-08",
-      "title": "freeCodeCamp: Full Stack Developer Curriculum",
-      "source": "devto"
-    },
-    "8044bc0317a861a9": {
-      "date": "2026-02-08",
-      "title": "Build an Accessible Audio Controller",
-      "source": "devto"
-    },
-    "54c3423afd04c19e": {
-      "date": "2026-02-08",
-      "title": "You don't need CSS preprocessor",
-      "source": "devto"
-    },
-    "ae3ff9de7a529d77": {
-      "date": "2026-02-08",
-      "title": "Dotfiles Coach: Your Shell History is Full of Automation Gold (You Just Don't Know It Yet)",
-      "source": "devto"
-    },
-    "c0d128f3cd21349c": {
-      "date": "2026-02-08",
-      "title": "How I Built a Random Number Generator (Sort Of)",
-      "source": "devto"
-    },
-    "80a9970a7d1af760": {
-      "date": "2026-02-08",
-      "title": "x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know",
-      "source": "devto"
-    },
-    "f4ea2d5a8d43707e": {
-      "date": "2026-02-08",
-      "title": "I built codex-monitor so I could ship code while I slept",
-      "source": "devto"
-    },
-    "2f7453d281fe3f62": {
-      "date": "2026-02-08",
-      "title": "rut: A Python Test Runner That Skips Unaffected Tests",
-      "source": "devto"
-    },
-    "1487f491e0bfbf35": {
-      "date": "2026-02-08",
-      "title": "pydantic / monty",
-      "source": "github"
-    },
-    "07fa4a613238ec66": {
-      "date": "2026-02-08",
-      "title": "google / langextract",
-      "source": "github"
-    },
-    "29d2d14c8abeda21": {
-      "date": "2026-02-08",
-      "title": "iOfficeAI / AionUi",
-      "source": "github"
-    },
-    "e29b1e88a476cfaa": {
-      "date": "2026-02-08",
-      "title": "home-assistant / addons",
-      "source": "github"
-    },
     "28f9e1d0da9842c3": {
       "date": "2026-02-09",
       "title": "Discord will require a face scan or ID for full access next month",
@@ -4890,6 +4730,156 @@
     "a788da699916c6c3": {
       "date": "2026-03-10",
       "title": "How I Got My First Open Source Pull Request Merged (Beginner Guide)",
+      "source": "devto"
+    },
+    "de048df236a650eb": {
+      "date": "2026-03-11",
+      "title": "Nativeline AI + Cloud",
+      "source": "producthunt"
+    },
+    "d4dbf19b9d1e638a": {
+      "date": "2026-03-11",
+      "title": "MorphMind: A Steerable AI Platform",
+      "source": "producthunt"
+    },
+    "19a1f269ea999633": {
+      "date": "2026-03-11",
+      "title": "ELVES",
+      "source": "producthunt"
+    },
+    "821930cb24e011e3": {
+      "date": "2026-03-11",
+      "title": "ChatGPT Interactive Learning",
+      "source": "producthunt"
+    },
+    "b58ffa21d36583e5": {
+      "date": "2026-03-11",
+      "title": "Firecrawl CLI",
+      "source": "producthunt"
+    },
+    "33c5cb17ae768493": {
+      "date": "2026-03-11",
+      "title": "TADA",
+      "source": "producthunt"
+    },
+    "abc572e7661bbe8d": {
+      "date": "2026-03-11",
+      "title": "Product Workbench for Claude Code",
+      "source": "producthunt"
+    },
+    "62c4829ff5725f71": {
+      "date": "2026-03-11",
+      "title": "ScreenGeany AI",
+      "source": "producthunt"
+    },
+    "a1a72f485081bac8": {
+      "date": "2026-03-11",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+      "source": "hackernews"
+    },
+    "e1ac3bf7f843eccf": {
+      "date": "2026-03-11",
+      "title": "Temporal: A nine-year journey to fix time in JavaScript",
+      "source": "hackernews"
+    },
+    "3f7e6ba1870af644": {
+      "date": "2026-03-11",
+      "title": "Making WebAssembly a first-class language on the Web",
+      "source": "hackernews"
+    },
+    "fa7c1d7645939f46": {
+      "date": "2026-03-11",
+      "title": "The MacBook Neo",
+      "source": "hackernews"
+    },
+    "a0bd309057af0d1d": {
+      "date": "2026-03-11",
+      "title": "Google closes deal to acquire Wiz",
+      "source": "hackernews"
+    },
+    "e4526cb5d84c8efd": {
+      "date": "2026-03-11",
+      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+      "source": "hackernews"
+    },
+    "1bc485f4405fa05f": {
+      "date": "2026-03-11",
+      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+      "source": "hackernews"
+    },
+    "86935358bc0629ab": {
+      "date": "2026-03-11",
+      "title": "Personal Computer by Perplexity",
+      "source": "hackernews"
+    },
+    "510ce207eeb84ef0": {
+      "date": "2026-03-11",
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "source": "hackernews"
+    },
+    "e17156df6c16a872": {
+      "date": "2026-03-11",
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "source": "hackernews"
+    },
+    "77e7cf9780199e07": {
+      "date": "2026-03-11",
+      "title": "fishaudio / fish-speech",
+      "source": "github"
+    },
+    "6a29aa0fa11abd15": {
+      "date": "2026-03-11",
+      "title": "AstrBotDevs / AstrBot",
+      "source": "github"
+    },
+    "be032ae5f70ec64c": {
+      "date": "2026-03-11",
+      "title": "When AI Writes the Code… Who Takes Responsibility?",
+      "source": "devto"
+    },
+    "c104c22e51f705b9": {
+      "date": "2026-03-11",
+      "title": "I Built a Secure Planning Agent with MCP and Keycard",
+      "source": "devto"
+    },
+    "d20238a0c3cadf27": {
+      "date": "2026-03-11",
+      "title": "Unboxable in Tech",
+      "source": "devto"
+    },
+    "927afd9357ccefd3": {
+      "date": "2026-03-11",
+      "title": "Getting Started with Gemini CLI",
+      "source": "devto"
+    },
+    "21e70d5386bbf2ef": {
+      "date": "2026-03-11",
+      "title": "How to add AI to your App in 5 minutes",
+      "source": "devto"
+    },
+    "73bc880e3069ccd8": {
+      "date": "2026-03-11",
+      "title": "What Quitting My Job Taught Me About Tech",
+      "source": "devto"
+    },
+    "44c8f10addb87f47": {
+      "date": "2026-03-11",
+      "title": "Welcome Thread - v368",
+      "source": "devto"
+    },
+    "322526f0fb0f64cf": {
+      "date": "2026-03-11",
+      "title": "Why Asking an LLM for JSON Isn’t Enough",
+      "source": "devto"
+    },
+    "bef194b4ec32cd95": {
+      "date": "2026-03-11",
+      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
+      "source": "devto"
+    },
+    "7f06edf893773816": {
+      "date": "2026-03-11",
+      "title": "Why Our RAG System Was Silently Returning Wrong Answers — And How We Fixed It",
       "source": "devto"
     }
   }
