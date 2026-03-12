@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-11T22:56:01.696591",
+  "last_updated": "2026-03-12T22:57:50.796053",
   "sent_items": {
-    "28f9e1d0da9842c3": {
-      "date": "2026-02-09",
-      "title": "Discord will require a face scan or ID for full access next month",
-      "source": "hackernews"
-    },
-    "88de07e00e050d3e": {
-      "date": "2026-02-09",
-      "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
-      "source": "hackernews"
-    },
-    "b13d70a8e1d878b2": {
-      "date": "2026-02-09",
-      "title": "Why is the sky blue?",
-      "source": "hackernews"
-    },
-    "88843007c2b8b1e2": {
-      "date": "2026-02-09",
-      "title": "UEFI Bindings for JavaScript",
-      "source": "hackernews"
-    },
-    "52018f27487a8b50": {
-      "date": "2026-02-09",
-      "title": "Hard-braking events as indicators of road segment crash risk",
-      "source": "hackernews"
-    },
-    "054453e205f857f0": {
-      "date": "2026-02-09",
-      "title": "America has a tungsten problem",
-      "source": "hackernews"
-    },
-    "a2a0d08f3c47d29c": {
-      "date": "2026-02-09",
-      "title": "Game Boy Advance Audio Interpolation",
-      "source": "hackernews"
-    },
-    "9589efedda43d09a": {
-      "date": "2026-02-09",
-      "title": "Upcoming changes to Let's Encrypt and how they affect XMPP server operators",
-      "source": "hackernews"
-    },
-    "2980b255489b19cd": {
-      "date": "2026-02-09",
-      "title": "How I've run major projects (2025)",
-      "source": "hackernews"
-    },
-    "69bea8179b646e51": {
-      "date": "2026-02-09",
-      "title": "Expansion Microscopy Has Transformed How We See the Cellular World",
-      "source": "hackernews"
-    },
-    "2bae7486a91b0c45": {
-      "date": "2026-02-09",
-      "title": "Dropstone 3",
-      "source": "producthunt"
-    },
-    "ebfe376dd877c081": {
-      "date": "2026-02-09",
-      "title": "rivva",
-      "source": "producthunt"
-    },
-    "11e068c922de73f2": {
-      "date": "2026-02-09",
-      "title": "Umbrel Pro",
-      "source": "producthunt"
-    },
-    "2705154676c7cfe2": {
-      "date": "2026-02-09",
-      "title": "DubStream by CAMB.AI",
-      "source": "producthunt"
-    },
-    "73ffd56b2157519b": {
-      "date": "2026-02-09",
-      "title": "Apple Creator Studio",
-      "source": "producthunt"
-    },
-    "f37af712e55a755f": {
-      "date": "2026-02-09",
-      "title": "Afterpage",
-      "source": "producthunt"
-    },
-    "238296c31bd9904a": {
-      "date": "2026-02-09",
-      "title": "CRML",
-      "source": "producthunt"
-    },
-    "023262b9691ef53a": {
-      "date": "2026-02-09",
-      "title": "I Shipped the Solution to Knowledge Collapse in 21 Days",
-      "source": "devto"
-    },
-    "bb9e8dcc2c4a64e4": {
-      "date": "2026-02-09",
-      "title": "What Your Claude Code Agents Don't Need to Be Told",
-      "source": "devto"
-    },
-    "2ecd6a64c0b621d0": {
-      "date": "2026-02-09",
-      "title": "A Silly Idea: A Star Wars Lightsaber Duel in the Terminal with GitHub Copilot CLI",
-      "source": "devto"
-    },
-    "2909efe4127ee6f2": {
-      "date": "2026-02-09",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "ea48299d98549e37": {
-      "date": "2026-02-09",
-      "title": "How Fishjam.io Built a Multi-Speaker AI Game using Gemini Live",
-      "source": "devto"
-    },
-    "d70a8ca5c65d6351": {
-      "date": "2026-02-09",
-      "title": "Conversational Retrieval: When Chat Becomes Navigation 💬",
-      "source": "devto"
-    },
-    "6d2f020e0cfdbe0f": {
-      "date": "2026-02-09",
-      "title": "Dear Vibe Coder: Your App Works. Your Code Is the Problem.",
-      "source": "devto"
-    },
-    "eb1abac29079c2f2": {
-      "date": "2026-02-09",
-      "title": "Build a Checkout Page",
-      "source": "devto"
-    },
-    "f735afc09264ac85": {
-      "date": "2026-02-09",
-      "title": "Merging the \"This Is\" Community into \"Playful Programming\"",
-      "source": "devto"
-    },
-    "2fc9c7ba56d5931a": {
-      "date": "2026-02-09",
-      "title": "Beyond RAG: Building an AI Companion with \"Deep Memory\" using Knowledge Graphs",
-      "source": "devto"
-    },
-    "75a944068045ae29": {
-      "date": "2026-02-09",
-      "title": "hsliuping / TradingAgents-CN",
-      "source": "github"
-    },
-    "a55c819fccc2bf0d": {
-      "date": "2026-02-09",
-      "title": "public-apis / public-apis",
-      "source": "github"
-    },
-    "91dd5eeca6a0d950": {
-      "date": "2026-02-09",
-      "title": "github / gh-aw",
-      "source": "github"
-    },
-    "7cb97b3a7c12222e": {
-      "date": "2026-02-09",
-      "title": "EveryInc / compound-engineering-plugin",
-      "source": "github"
-    },
-    "5b1925fad66d25f2": {
-      "date": "2026-02-09",
-      "title": "DrewThomasson / ebook2audiobook",
-      "source": "github"
-    },
     "7cce03ccaa8553fc": {
       "date": "2026-02-10",
       "title": "The Singularity will occur on a Tuesday",
@@ -4880,6 +4720,181 @@
     "7f06edf893773816": {
       "date": "2026-03-11",
       "title": "Why Our RAG System Was Silently Returning Wrong Answers — And How We Fixed It",
+      "source": "devto"
+    },
+    "bee223324d32bfed": {
+      "date": "2026-03-12",
+      "title": "Malus – Clean Room as a Service",
+      "source": "hackernews"
+    },
+    "246ad178c079371d": {
+      "date": "2026-03-12",
+      "title": "Shall I implement it? No",
+      "source": "hackernews"
+    },
+    "bf701ab392d1a0ef": {
+      "date": "2026-03-12",
+      "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+      "source": "hackernews"
+    },
+    "9424cc10df81f16b": {
+      "date": "2026-03-12",
+      "title": "Bubble Sorted Amen Break",
+      "source": "hackernews"
+    },
+    "1b08d7bbf79ec1aa": {
+      "date": "2026-03-12",
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "source": "hackernews"
+    },
+    "bc63718b24f1d5f4": {
+      "date": "2026-03-12",
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "source": "hackernews"
+    },
+    "a80d5760a17e933c": {
+      "date": "2026-03-12",
+      "title": "Reversing memory loss via gut-brain communication",
+      "source": "hackernews"
+    },
+    "761ce3ae56419893": {
+      "date": "2026-03-12",
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "source": "hackernews"
+    },
+    "b1d8f93df0f73c02": {
+      "date": "2026-03-12",
+      "title": "Runners who churn butter on their runs",
+      "source": "hackernews"
+    },
+    "57732cc9a2978f84": {
+      "date": "2026-03-12",
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "source": "hackernews"
+    },
+    "c99a80a484c8b758": {
+      "date": "2026-03-12",
+      "title": "Monostate",
+      "source": "producthunt"
+    },
+    "e80ad2c23f06e5d8": {
+      "date": "2026-03-12",
+      "title": "Clayzo",
+      "source": "producthunt"
+    },
+    "2d2d4646abb434ac": {
+      "date": "2026-03-12",
+      "title": "Codirigent",
+      "source": "producthunt"
+    },
+    "c5d07f90516afe7c": {
+      "date": "2026-03-12",
+      "title": "RevFirma",
+      "source": "producthunt"
+    },
+    "65106032f51a647a": {
+      "date": "2026-03-12",
+      "title": "Outhop",
+      "source": "producthunt"
+    },
+    "9cbc6b5237aa294d": {
+      "date": "2026-03-12",
+      "title": "Yap-It",
+      "source": "producthunt"
+    },
+    "5993777feb14abc5": {
+      "date": "2026-03-12",
+      "title": "ClawsList",
+      "source": "producthunt"
+    },
+    "943678fe9d65eca2": {
+      "date": "2026-03-12",
+      "title": "Aligno AI",
+      "source": "producthunt"
+    },
+    "33b0d84c745e52f3": {
+      "date": "2026-03-12",
+      "title": "microsoft / BitNet",
+      "source": "github"
+    },
+    "2cedbf387044c4a1": {
+      "date": "2026-03-12",
+      "title": "langflow-ai / openrag",
+      "source": "github"
+    },
+    "d9229b5716bee102": {
+      "date": "2026-03-12",
+      "title": "InsForge / InsForge",
+      "source": "github"
+    },
+    "4628c962cd9b6f78": {
+      "date": "2026-03-12",
+      "title": "vectorize-io / hindsight",
+      "source": "github"
+    },
+    "bfb06e98986c1e05": {
+      "date": "2026-03-12",
+      "title": "google-ai-edge / LiteRT",
+      "source": "github"
+    },
+    "281c2c7748da9081": {
+      "date": "2026-03-12",
+      "title": "google / A2UI",
+      "source": "github"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-03-12",
+      "title": "anthropics / claude-plugins-official",
+      "source": "github"
+    },
+    "23b3d7e330533f63": {
+      "date": "2026-03-12",
+      "title": "Premature Optimization Is Bad, But Your App Is Just Slow Because You're Lazy",
+      "source": "devto"
+    },
+    "1f55a595d33ce8f8": {
+      "date": "2026-03-12",
+      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
+      "source": "devto"
+    },
+    "4b6c4c4d14ad94ea": {
+      "date": "2026-03-12",
+      "title": "An Update on How We Judge DEV Challenges",
+      "source": "devto"
+    },
+    "c659a1d7d273a8cd": {
+      "date": "2026-03-12",
+      "title": "Pi-hole behind Tailscale",
+      "source": "devto"
+    },
+    "2ce0c6ba1f4fa75c": {
+      "date": "2026-03-12",
+      "title": "Do commit ao deploy: CI/CD de uma API na AWS usando GitHub Actions, ECS e Terraform",
+      "source": "devto"
+    },
+    "fe78e09b04f1f74c": {
+      "date": "2026-03-12",
+      "title": "Things I Wish I Knew Before Building My Own IT Infrastructure",
+      "source": "devto"
+    },
+    "777fd23a08996b0b": {
+      "date": "2026-03-12",
+      "title": "🦀I Got Tired of Rewriting Macro Boilerplate — So I Built a Template Engine for Proc Macros",
+      "source": "devto"
+    },
+    "481096b05eb9b501": {
+      "date": "2026-03-12",
+      "title": "ANR Troubleshooting Practice: Log Analysis and Tool Practice",
+      "source": "devto"
+    },
+    "c65f526ed6ff0b40": {
+      "date": "2026-03-12",
+      "title": "Autonomous AI Research Does Not Need a Giant Framework",
+      "source": "devto"
+    },
+    "31aaff6dd9a2587b": {
+      "date": "2026-03-12",
+      "title": "How I built root cause analysis into my free API uptime monitor",
       "source": "devto"
     }
   }
