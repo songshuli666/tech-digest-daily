@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-12T22:57:50.796053",
+  "last_updated": "2026-03-13T22:58:01.758303",
   "sent_items": {
-    "7cce03ccaa8553fc": {
-      "date": "2026-02-10",
-      "title": "The Singularity will occur on a Tuesday",
-      "source": "hackernews"
-    },
-    "d522c02d8cfd0350": {
-      "date": "2026-02-10",
-      "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-      "source": "hackernews"
-    },
-    "a31e70fe548fdf4d": {
-      "date": "2026-02-10",
-      "title": "Simplifying Vulkan one subsystem at a time",
-      "source": "hackernews"
-    },
-    "99f38918a4d05d4f": {
-      "date": "2026-02-10",
-      "title": "Mathematicians disagree on the essential structure of the complex numbers (2024)",
-      "source": "hackernews"
-    },
-    "4d7c9f3921ee9fd8": {
-      "date": "2026-02-10",
-      "title": "My eighth year as a bootstrapped founder",
-      "source": "hackernews"
-    },
-    "512c5420e2dbae3a": {
-      "date": "2026-02-10",
-      "title": "Waymo exec reveals company uses remote workers in the Philippines",
-      "source": "hackernews"
-    },
-    "fb704a827bea459b": {
-      "date": "2026-02-10",
-      "title": "How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?",
-      "source": "hackernews"
-    },
-    "f9ab7f9188eb9d0d": {
-      "date": "2026-02-10",
-      "title": "The Little Learner: A Straight Line to Deep Learning",
-      "source": "hackernews"
-    },
-    "6cc739601207f1d5": {
-      "date": "2026-02-10",
-      "title": "The Day the Telnet Died",
-      "source": "hackernews"
-    },
-    "79beb6648f6f492e": {
-      "date": "2026-02-10",
-      "title": "The Feynman Lectures on Physics (1961-1964)",
-      "source": "hackernews"
-    },
-    "29ba26e0adb53992": {
-      "date": "2026-02-10",
-      "title": "Cosmic CLI",
-      "source": "producthunt"
-    },
-    "4653041ea0f3b651": {
-      "date": "2026-02-10",
-      "title": "Total addressable Market calculator",
-      "source": "producthunt"
-    },
-    "b5d68c739d640efd": {
-      "date": "2026-02-10",
-      "title": "Agent Builder by Thesys",
-      "source": "producthunt"
-    },
-    "6ba9a9bc87a0c0c1": {
-      "date": "2026-02-10",
-      "title": "Gravity Notes For Mac",
-      "source": "producthunt"
-    },
-    "38be79d2f411c260": {
-      "date": "2026-02-10",
-      "title": "Tinkerer Club",
-      "source": "producthunt"
-    },
-    "9e4b05d1e3fca70a": {
-      "date": "2026-02-10",
-      "title": "Spawned",
-      "source": "producthunt"
-    },
-    "fd2c8ae08b851076": {
-      "date": "2026-02-10",
-      "title": "Makers Page",
-      "source": "producthunt"
-    },
-    "ff8785db7d596443": {
-      "date": "2026-02-10",
-      "title": "claw.fm",
-      "source": "producthunt"
-    },
-    "733604692a5e504d": {
-      "date": "2026-02-10",
-      "title": "Stack Overflow: Time for a Change?",
-      "source": "devto"
-    },
-    "659e7cefe52c99e4": {
-      "date": "2026-02-10",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "a4e7effec89bf427": {
-      "date": "2026-02-10",
-      "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-      "source": "devto"
-    },
-    "51b00d19cb8cdaac": {
-      "date": "2026-02-10",
-      "title": "One Month at a Startup: What Stayed With Me After I Left",
-      "source": "devto"
-    },
-    "1f03e69e4a4a46f7": {
-      "date": "2026-02-10",
-      "title": "Implemented a Feature where the Theme on my Portfolio changes based on the Holiday (Because it's fun",
-      "source": "devto"
-    },
-    "daa20ac9613e0e52": {
-      "date": "2026-02-10",
-      "title": "Why Learning Basic Robotics Made Me a Better Software Engineer in the Age of AI",
-      "source": "devto"
-    },
-    "eaa416a549f908fd": {
-      "date": "2026-02-10",
-      "title": "Design a Movie Review Page",
-      "source": "devto"
-    },
-    "746125aa8944b386": {
-      "date": "2026-02-10",
-      "title": "Five Git Config Settings Every Dev Needs",
-      "source": "devto"
-    },
-    "d5b191a7220a253b": {
-      "date": "2026-02-10",
-      "title": "The Secret Life of Go: Panic and Recover",
-      "source": "devto"
-    },
-    "5c309a2307d666bd": {
-      "date": "2026-02-10",
-      "title": "The Push and Pull of AI",
-      "source": "devto"
-    },
-    "ca5f66269e6b1347": {
-      "date": "2026-02-10",
-      "title": "carlvellotti / claude-code-pm-course",
-      "source": "github"
-    },
-    "1ba9921a841424e3": {
-      "date": "2026-02-10",
-      "title": "drawdb-io / drawdb",
-      "source": "github"
-    },
-    "8b3ac28cee2a333a": {
-      "date": "2026-02-10",
-      "title": "cheahjs / free-llm-api-resources",
-      "source": "github"
-    },
-    "bd5866030024b70e": {
-      "date": "2026-02-10",
-      "title": "Jeffallan / claude-skills",
-      "source": "github"
-    },
     "6c9e0ca2abef1f63": {
       "date": "2026-02-11",
       "title": "happycapy",
@@ -4896,6 +4736,161 @@
       "date": "2026-03-12",
       "title": "How I built root cause analysis into my free API uptime monitor",
       "source": "devto"
+    },
+    "e38d7b03a21d6f24": {
+      "date": "2026-03-13",
+      "title": "doXmind",
+      "source": "producthunt"
+    },
+    "687f8ab17ecc2c29": {
+      "date": "2026-03-13",
+      "title": "Hyper",
+      "source": "producthunt"
+    },
+    "44e5bcc7e743ba7f": {
+      "date": "2026-03-13",
+      "title": "ClawMote",
+      "source": "producthunt"
+    },
+    "5d6364a5c909a462": {
+      "date": "2026-03-13",
+      "title": "Brutal Verdict",
+      "source": "producthunt"
+    },
+    "3785086ed4ebbf04": {
+      "date": "2026-03-13",
+      "title": "Parker by Perfectly",
+      "source": "producthunt"
+    },
+    "2fe44fc98b81807b": {
+      "date": "2026-03-13",
+      "title": "Atlasly",
+      "source": "producthunt"
+    },
+    "b98a185a68c4737c": {
+      "date": "2026-03-13",
+      "title": "KingCoding",
+      "source": "producthunt"
+    },
+    "c6e5bc5f48cf8475": {
+      "date": "2026-03-13",
+      "title": "ReplylessAI",
+      "source": "producthunt"
+    },
+    "f59705f090372230": {
+      "date": "2026-03-13",
+      "title": "Can I run AI locally?",
+      "source": "hackernews"
+    },
+    "d941d05360af4982": {
+      "date": "2026-03-13",
+      "title": "TUI Studio – visual terminal UI design tool",
+      "source": "hackernews"
+    },
+    "47e320ca65ec5a24": {
+      "date": "2026-03-13",
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "source": "hackernews"
+    },
+    "a59914b4e8443371": {
+      "date": "2026-03-13",
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "source": "hackernews"
+    },
+    "beed52fdd7b43f8a": {
+      "date": "2026-03-13",
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
+      "source": "hackernews"
+    },
+    "bfcd1fa87076778c": {
+      "date": "2026-03-13",
+      "title": "Hammerspoon",
+      "source": "hackernews"
+    },
+    "be9cf0af84f3376d": {
+      "date": "2026-03-13",
+      "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
+      "source": "hackernews"
+    },
+    "267fadfa3f9e721b": {
+      "date": "2026-03-13",
+      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+      "source": "hackernews"
+    },
+    "e3f98ead09706d85": {
+      "date": "2026-03-13",
+      "title": "New 'negative light' technology hides data transfers in plain sight",
+      "source": "hackernews"
+    },
+    "5aa4394701e532ae": {
+      "date": "2026-03-13",
+      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+      "source": "hackernews"
+    },
+    "8715623527e85904": {
+      "date": "2026-03-13",
+      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
+      "source": "devto"
+    },
+    "6f14cc6d116d14a3": {
+      "date": "2026-03-13",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "5a8913ad35b2fd40": {
+      "date": "2026-03-13",
+      "title": "I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn",
+      "source": "devto"
+    },
+    "d7bb28d8c9db83a8": {
+      "date": "2026-03-13",
+      "title": "I Built Surveys That Get Smarter With Every Response",
+      "source": "devto"
+    },
+    "0c9fa77eb41c8502": {
+      "date": "2026-03-13",
+      "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
+      "source": "devto"
+    },
+    "4d939e9dacbea21f": {
+      "date": "2026-03-13",
+      "title": "AI did a good job... and almost deleted everything",
+      "source": "devto"
+    },
+    "430d4ae6e465ea2f": {
+      "date": "2026-03-13",
+      "title": "Stop Asking AI for Answers - Start Shipping Fixes",
+      "source": "devto"
+    },
+    "24189974b6112e8b": {
+      "date": "2026-03-13",
+      "title": "The gap in AI agent security nobody talks about: your .env is already in the context window",
+      "source": "devto"
+    },
+    "e56e2201e890aba4": {
+      "date": "2026-03-13",
+      "title": "I built a real-time AI visual companion in one week from Zambia, here's what actually happened",
+      "source": "devto"
+    },
+    "084d116c84e7c8cc": {
+      "date": "2026-03-13",
+      "title": "I Have 18 GitHub Repos at 17 — Here's What I Built, Broke, and Learned",
+      "source": "devto"
+    },
+    "3e5bc6114122e8e4": {
+      "date": "2026-03-13",
+      "title": "lightpanda-io / browser",
+      "source": "github"
+    },
+    "a55c819fccc2bf0d": {
+      "date": "2026-03-13",
+      "title": "public-apis / public-apis",
+      "source": "github"
+    },
+    "bf8fb1d0832de1c2": {
+      "date": "2026-03-13",
+      "title": "dolthub / dolt",
+      "source": "github"
     }
   }
 }
