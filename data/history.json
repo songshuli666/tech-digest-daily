@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-14T22:57:31.774257",
+  "last_updated": "2026-03-15T22:59:22.126677",
   "sent_items": {
-    "a9bbf3fe587026a1": {
-      "date": "2026-02-12",
-      "title": "TrendWidget",
-      "source": "producthunt"
-    },
-    "7680b2dd7eae395e": {
-      "date": "2026-02-12",
-      "title": "Granary by Speakeasy",
-      "source": "producthunt"
-    },
-    "00c9c43317b518b0": {
-      "date": "2026-02-12",
-      "title": "Seda",
-      "source": "producthunt"
-    },
-    "88dfb29f27263814": {
-      "date": "2026-02-12",
-      "title": "Make AI Agents",
-      "source": "producthunt"
-    },
-    "f7353a0de8840a7e": {
-      "date": "2026-02-12",
-      "title": "Powering",
-      "source": "producthunt"
-    },
-    "d54e96c2393acc5e": {
-      "date": "2026-02-12",
-      "title": "Resume Builder by Foundire",
-      "source": "producthunt"
-    },
-    "1a8fe0c668b4a92d": {
-      "date": "2026-02-12",
-      "title": "Cube",
-      "source": "producthunt"
-    },
-    "c1c074e593ee2bc1": {
-      "date": "2026-02-12",
-      "title": "Palgo",
-      "source": "producthunt"
-    },
-    "88fce2f8bbe49f40": {
-      "date": "2026-02-12",
-      "title": "An AI agent published a hit piece on me",
-      "source": "hackernews"
-    },
-    "e795181f01f669df": {
-      "date": "2026-02-12",
-      "title": "Gemini 3 Deep Think",
-      "source": "hackernews"
-    },
-    "8da1c8fa2af8090e": {
-      "date": "2026-02-12",
-      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
-      "source": "hackernews"
-    },
-    "642051e96e8b7990": {
-      "date": "2026-02-12",
-      "title": "GPT‑5.3‑Codex‑Spark",
-      "source": "hackernews"
-    },
-    "3cf05b56d57d37dc": {
-      "date": "2026-02-12",
-      "title": "Major European payment processor can't send email to Google Workspace users",
-      "source": "hackernews"
-    },
-    "68c9362915a7e4dc": {
-      "date": "2026-02-12",
-      "title": "Apache Arrow is 10 years old",
-      "source": "hackernews"
-    },
-    "c7f3bb187280533e": {
-      "date": "2026-02-12",
-      "title": "Welcoming Discord users amidst the challenge of Age Verification",
-      "source": "hackernews"
-    },
-    "b1cc4303937588f5": {
-      "date": "2026-02-12",
-      "title": "Rari – Rust-powered React framework",
-      "source": "hackernews"
-    },
-    "5950b781467e22a8": {
-      "date": "2026-02-12",
-      "title": "Fixing retail with land value capture",
-      "source": "hackernews"
-    },
-    "24e22dcce425065b": {
-      "date": "2026-02-12",
-      "title": "How to Have a Bad Career – David Patterson (2016) [video]",
-      "source": "hackernews"
-    },
-    "ff07e0b609718852": {
-      "date": "2026-02-12",
-      "title": "tambo-ai / tambo",
-      "source": "github"
-    },
-    "7904af429ad536aa": {
-      "date": "2026-02-12",
-      "title": "danielmiessler / Personal_AI_Infrastructure",
-      "source": "github"
-    },
-    "5bfdb1381234aa52": {
-      "date": "2026-02-12",
-      "title": "rowboatlabs / rowboat",
-      "source": "github"
-    },
-    "4242e51e337ac7d2": {
-      "date": "2026-02-12",
-      "title": "unslothai / unsloth",
-      "source": "github"
-    },
-    "2860c61e97426a72": {
-      "date": "2026-02-12",
-      "title": "cinnyapp / cinny",
-      "source": "github"
-    },
-    "ca8557e367bfd6e3": {
-      "date": "2026-02-12",
-      "title": "HandsOnLLM / Hands-On-Large-Language-Models",
-      "source": "github"
-    },
-    "8d9d5374b1da5701": {
-      "date": "2026-02-12",
-      "title": "Becoming 1% better each day.",
-      "source": "devto"
-    },
-    "7649a3c1720037e8": {
-      "date": "2026-02-12",
-      "title": "Your IDE is an Attack Vector",
-      "source": "devto"
-    },
-    "58a4841ff01b8a8e": {
-      "date": "2026-02-12",
-      "title": "HTML Accessibility Review",
-      "source": "devto"
-    },
-    "8386d899a9527200": {
-      "date": "2026-02-12",
-      "title": "API vs Event Streaming: O Que Muda Para Quem Testa?",
-      "source": "devto"
-    },
-    "f7e80ccb8974ba1d": {
-      "date": "2026-02-12",
-      "title": "Layoffs! Fellow employees, be prepared for the worst.",
-      "source": "devto"
-    },
-    "a39ff9d1acd70a6d": {
-      "date": "2026-02-12",
-      "title": "I Curated 106 Software Design Resources and Ranked What Actually Matters",
-      "source": "devto"
-    },
-    "06bc92d81f1ed8ec": {
-      "date": "2026-02-12",
-      "title": "Duplicate “Follow” Button Text in User Profile Hover Card",
-      "source": "devto"
-    },
-    "b9248a8d45a66ca7": {
-      "date": "2026-02-12",
-      "title": "Built a Vibe Coded App where you can Style any Image you like! :D",
-      "source": "devto"
-    },
-    "ff7338066081b211": {
-      "date": "2026-02-12",
-      "title": "Why I Built nevr-env — And Why process.env Deserves Better",
-      "source": "devto"
-    },
-    "04984d57df262241": {
-      "date": "2026-02-12",
-      "title": "I Spent $174 Transpiling 12 Open-Source C Projects (28K Lines) to Rust. Here's What Happened.",
-      "source": "devto"
-    },
     "c69083701b1f8d26": {
       "date": "2026-02-13",
       "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
@@ -4895,6 +4725,166 @@
     "d2c1b9a871f9649c": {
       "date": "2026-03-14",
       "title": "When Zero-Knowledge Proofs Break: How Groth16 Verification Key Misconfigs Drained $3M+ From DeFi",
+      "source": "devto"
+    },
+    "3b0e2fc97032a35e": {
+      "date": "2026-03-15",
+      "title": "LaterAI",
+      "source": "producthunt"
+    },
+    "441f041b608ff1b6": {
+      "date": "2026-03-15",
+      "title": "ClawSecure",
+      "source": "producthunt"
+    },
+    "554ceb1668b3a2d9": {
+      "date": "2026-03-15",
+      "title": "ElevenCreative by ElevenLabs",
+      "source": "producthunt"
+    },
+    "5ebf6cd9c150ef6b": {
+      "date": "2026-03-15",
+      "title": "DynamicLake",
+      "source": "producthunt"
+    },
+    "11c19141b2117a8e": {
+      "date": "2026-03-15",
+      "title": "Query Memory",
+      "source": "producthunt"
+    },
+    "cb7d4681067f5622": {
+      "date": "2026-03-15",
+      "title": "Nutgrafe",
+      "source": "producthunt"
+    },
+    "09c8d4820b4e0aa8": {
+      "date": "2026-03-15",
+      "title": "Morgen",
+      "source": "producthunt"
+    },
+    "eaab43feffe1be9b": {
+      "date": "2026-03-15",
+      "title": "Motion Software",
+      "source": "producthunt"
+    },
+    "5f003d7f473b2f9b": {
+      "date": "2026-03-15",
+      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "source": "hackernews"
+    },
+    "62e4a250324e8d41": {
+      "date": "2026-03-15",
+      "title": "The 49MB Web Page",
+      "source": "hackernews"
+    },
+    "9790119d76362ad4": {
+      "date": "2026-03-15",
+      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+      "source": "hackernews"
+    },
+    "182c49142261a3f7": {
+      "date": "2026-03-15",
+      "title": "Separating the Wayland compositor and window manager",
+      "source": "hackernews"
+    },
+    "b04b5511a63b2883": {
+      "date": "2026-03-15",
+      "title": "What makes Intel Optane stand out (2023)",
+      "source": "hackernews"
+    },
+    "779e9403607a32c3": {
+      "date": "2026-03-15",
+      "title": "LLM Architecture Gallery",
+      "source": "hackernews"
+    },
+    "b4027256263eda73": {
+      "date": "2026-03-15",
+      "title": "Bus travel from Lima to Rio de Janeiro",
+      "source": "hackernews"
+    },
+    "51e69337bcac5853": {
+      "date": "2026-03-15",
+      "title": "C++26: The Oxford Variadic Comma",
+      "source": "hackernews"
+    },
+    "ff64a032a57cdc7a": {
+      "date": "2026-03-15",
+      "title": "Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians",
+      "source": "hackernews"
+    },
+    "fbd908abe745fd4e": {
+      "date": "2026-03-15",
+      "title": "Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
+      "source": "hackernews"
+    },
+    "41a6a86637e67fe4": {
+      "date": "2026-03-15",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "source": "github"
+    },
+    "26ea52d56cf57a70": {
+      "date": "2026-03-15",
+      "title": "shanraisshan / claude-code-best-practice",
+      "source": "github"
+    },
+    "194bbbbcb050ad73": {
+      "date": "2026-03-15",
+      "title": "topoteretes / cognee",
+      "source": "github"
+    },
+    "16bc14c9f10f5320": {
+      "date": "2026-03-15",
+      "title": "voidzero-dev / vite-plus",
+      "source": "github"
+    },
+    "b25109560d7f7010": {
+      "date": "2026-03-15",
+      "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
+      "source": "devto"
+    },
+    "4a5a75dd948aec21": {
+      "date": "2026-03-15",
+      "title": "Why PostgreSQL Row-Level Security Is the Right Approach to Django Multitenancy",
+      "source": "devto"
+    },
+    "2fbc494a2503c567": {
+      "date": "2026-03-15",
+      "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+      "source": "devto"
+    },
+    "6bbd98da49b39bf7": {
+      "date": "2026-03-15",
+      "title": "Why Your Agent's Memory Architecture Is Probably Wrong",
+      "source": "devto"
+    },
+    "23eb3079eba40e49": {
+      "date": "2026-03-15",
+      "title": "How I bypassed PyTorch OOM errors with a Zero-Copy C++ Graph Engine",
+      "source": "devto"
+    },
+    "24dd29abf687681f": {
+      "date": "2026-03-15",
+      "title": "Stop Putting LLM API Keys in .env Files",
+      "source": "devto"
+    },
+    "2fc8d75458f26ef2": {
+      "date": "2026-03-15",
+      "title": "The AS/400 Can't Send a Slack Message. I Made It.",
+      "source": "devto"
+    },
+    "85ee171871e56e7a": {
+      "date": "2026-03-15",
+      "title": "Git Archaeology #15 — AI Creates Stars, Not Gravity",
+      "source": "devto"
+    },
+    "25f0e7091c43f55b": {
+      "date": "2026-03-15",
+      "title": "Git Archaeology #14 — Civilization: Why Only Some Codebases Become Civilizations",
+      "source": "devto"
+    },
+    "626f11728189d1cd": {
+      "date": "2026-03-15",
+      "title": "My first attempt at building a productivity tool: The \"Yes/No\"minimal task list",
       "source": "devto"
     }
   }
