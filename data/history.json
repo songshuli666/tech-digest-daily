@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-16T23:00:33.535505",
+  "last_updated": "2026-03-17T23:04:19.943040",
   "sent_items": {
-    "62809d32ffc1901c": {
-      "date": "2026-02-14",
-      "title": "Ooh.directory: a place to find good blogs that interest you",
-      "source": "hackernews"
-    },
-    "e9357470903cbc0e": {
-      "date": "2026-02-14",
-      "title": "uBlock filter list to hide all YouTube Shorts",
-      "source": "hackernews"
-    },
-    "c5e88389f5d8cf5c": {
-      "date": "2026-02-14",
-      "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "source": "hackernews"
-    },
-    "cc076a01ad3b60fd": {
-      "date": "2026-02-14",
-      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-      "source": "hackernews"
-    },
-    "3a5285aaa104bb2e": {
-      "date": "2026-02-14",
-      "title": "Amsterdam Compiler Kit",
-      "source": "hackernews"
-    },
-    "238db68e1560524f": {
-      "date": "2026-02-14",
-      "title": "Breaking the spell of vibe coding",
-      "source": "hackernews"
-    },
-    "cd5245292d14c013": {
-      "date": "2026-02-14",
-      "title": "How often do full-body MRIs find cancer?",
-      "source": "hackernews"
-    },
-    "c64f3bca1425f30a": {
-      "date": "2026-02-14",
-      "title": "Discord: A case study in performance optimization",
-      "source": "hackernews"
-    },
-    "fd0e1ac2be5aed63": {
-      "date": "2026-02-14",
-      "title": "Instagram's URL Blackhole",
-      "source": "hackernews"
-    },
-    "3d63f2e9a8d54ed2": {
-      "date": "2026-02-14",
-      "title": "Zvec: A lightweight, fast, in-process vector database",
-      "source": "hackernews"
-    },
-    "595b3660633fc74c": {
-      "date": "2026-02-14",
-      "title": "Seedance 2.0",
-      "source": "producthunt"
-    },
-    "842bab32cd01b4dd": {
-      "date": "2026-02-14",
-      "title": "Elebean",
-      "source": "producthunt"
-    },
-    "3d5c78b77dcacbc3": {
-      "date": "2026-02-14",
-      "title": "Your Love Style",
-      "source": "producthunt"
-    },
-    "802cb9dbc9986a3e": {
-      "date": "2026-02-14",
-      "title": "Cline CLI 2.0",
-      "source": "producthunt"
-    },
-    "069609f06d534f26": {
-      "date": "2026-02-14",
-      "title": "OpenBug",
-      "source": "producthunt"
-    },
-    "5ccf166f81d844ce": {
-      "date": "2026-02-14",
-      "title": "Termsy",
-      "source": "producthunt"
-    },
-    "72ae0e3c0b6e52de": {
-      "date": "2026-02-14",
-      "title": "Valentine Online",
-      "source": "producthunt"
-    },
-    "53ef2c36363cddb4": {
-      "date": "2026-02-14",
-      "title": "TexTab",
-      "source": "producthunt"
-    },
-    "e1075e97d765fa48": {
-      "date": "2026-02-14",
-      "title": "minio / minio",
-      "source": "github"
-    },
-    "1345eb0c41fa55e6": {
-      "date": "2026-02-14",
-      "title": "ruvnet / wifi-densepose",
-      "source": "github"
-    },
-    "1a9f76dce696a3dc": {
-      "date": "2026-02-14",
-      "title": "Zipstack / unstract",
-      "source": "github"
-    },
-    "76d69cf563db527d": {
-      "date": "2026-02-14",
-      "title": "letta-ai / letta-code",
-      "source": "github"
-    },
-    "0ef9962604055b38": {
-      "date": "2026-02-14",
-      "title": "ruby / ruby",
-      "source": "github"
-    },
-    "0e9aa3e0a6c01d97": {
-      "date": "2026-02-14",
-      "title": "I built a Stutter-Friendly App in 1 Day with Elm, Elixir, and Copilot",
-      "source": "devto"
-    },
-    "915bfa1981b0cad8": {
-      "date": "2026-02-14",
-      "title": "Git Blamed Me, CSS Gaslit Me, Node Ghosted Me, React Re-rendered My Trauma",
-      "source": "devto"
-    },
-    "022d1fa4ba02698d": {
-      "date": "2026-02-14",
-      "title": "Track Your GitHub Copilot Pro from the Terminal 🖥️",
-      "source": "devto"
-    },
-    "0d6b45020ae492a7": {
-      "date": "2026-02-14",
-      "title": "From Chaos to Clarity: My Journey Building JSON Query Pro",
-      "source": "devto"
-    },
-    "cb0d9f5c06263092": {
-      "date": "2026-02-14",
-      "title": "I Built a CLI That Remembers What I Was Working On (So I Don't Have To)",
-      "source": "devto"
-    },
-    "c8576445574cd7d9": {
-      "date": "2026-02-14",
-      "title": "Cupid-Commit 💘 - Finding the Code That Completes You",
-      "source": "devto"
-    },
-    "e695299d06db0ab6": {
-      "date": "2026-02-14",
-      "title": "I Built a Free Open-Source Hotel AI (By Accident)",
-      "source": "devto"
-    },
-    "a42e9339785db44e": {
-      "date": "2026-02-14",
-      "title": "Conditions, Phases, and Declarative Phase Rules in Kubernetes Operators",
-      "source": "devto"
-    },
-    "3bcbc8bc129e9031": {
-      "date": "2026-02-14",
-      "title": "Scaling to 200+ Cities by Deleting 90% of My Database",
-      "source": "devto"
-    },
-    "177414dee530fee3": {
-      "date": "2026-02-14",
-      "title": "Destructive Reader LLM — When an Author Gets Tired of Reddit's Gatekeeping",
-      "source": "devto"
-    },
     "bd57e8d4ec83b625": {
       "date": "2026-02-15",
       "title": "Plus AI Presentation Agent",
@@ -4875,6 +4710,161 @@
     "61a00dad8f586c09": {
       "date": "2026-03-16",
       "title": "Building Adaptive Language Coaching with Gemini Live API",
+      "source": "devto"
+    },
+    "e6a6d6406902db6f": {
+      "date": "2026-03-17",
+      "title": "My Computer by Manus AI",
+      "source": "producthunt"
+    },
+    "99077f32467b113b": {
+      "date": "2026-03-17",
+      "title": "Ocean Orchestrator",
+      "source": "producthunt"
+    },
+    "5c062f9367917dbc": {
+      "date": "2026-03-17",
+      "title": "ClickSay",
+      "source": "producthunt"
+    },
+    "dea7cf1babe44050": {
+      "date": "2026-03-17",
+      "title": "Usercall Triggers",
+      "source": "producthunt"
+    },
+    "f443bcf8160233f3": {
+      "date": "2026-03-17",
+      "title": "dropadoo",
+      "source": "producthunt"
+    },
+    "5afd9337fb911711": {
+      "date": "2026-03-17",
+      "title": "Easy App Reports",
+      "source": "producthunt"
+    },
+    "afa66b7aba3c7f8b": {
+      "date": "2026-03-17",
+      "title": "Parallax",
+      "source": "producthunt"
+    },
+    "1b2741540c367424": {
+      "date": "2026-03-17",
+      "title": "Sokosumi",
+      "source": "producthunt"
+    },
+    "071cb1061c640916": {
+      "date": "2026-03-17",
+      "title": "Kagi Small Web",
+      "source": "hackernews"
+    },
+    "62b73f28c165479e": {
+      "date": "2026-03-17",
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "source": "hackernews"
+    },
+    "8c35518926d39f39": {
+      "date": "2026-03-17",
+      "title": "A Decade of Slug",
+      "source": "hackernews"
+    },
+    "06d0f0474e9011cf": {
+      "date": "2026-03-17",
+      "title": "Node.js needs a virtual file system",
+      "source": "hackernews"
+    },
+    "643ec61927b00c29": {
+      "date": "2026-03-17",
+      "title": "Python 3.15's JIT is now back on track",
+      "source": "hackernews"
+    },
+    "1f9183a2e2b1a960": {
+      "date": "2026-03-17",
+      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+      "source": "hackernews"
+    },
+    "a11903446ac1842e": {
+      "date": "2026-03-17",
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "source": "hackernews"
+    },
+    "48eae2c1b45dbbd2": {
+      "date": "2026-03-17",
+      "title": "Unsloth Studio",
+      "source": "hackernews"
+    },
+    "05cdb8ab0970449b": {
+      "date": "2026-03-17",
+      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+      "source": "hackernews"
+    },
+    "b1bb2da00630e1d1": {
+      "date": "2026-03-17",
+      "title": "Warranty Void If Regenerated",
+      "source": "hackernews"
+    },
+    "bcfb7e936799fa98": {
+      "date": "2026-03-17",
+      "title": "codecrafters-io / build-your-own-x",
+      "source": "github"
+    },
+    "c10bc61691ebb8eb": {
+      "date": "2026-03-17",
+      "title": "jarrodwatts / claude-hud",
+      "source": "github"
+    },
+    "fa0dec50322b8cae": {
+      "date": "2026-03-17",
+      "title": "cloudflare / workerd",
+      "source": "github"
+    },
+    "ef3b2c0d7882d473": {
+      "date": "2026-03-17",
+      "title": "Path of Discovery",
+      "source": "devto"
+    },
+    "81b1647c09bf7a18": {
+      "date": "2026-03-17",
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "source": "devto"
+    },
+    "aa426055711d4c61": {
+      "date": "2026-03-17",
+      "title": "Drop Your Challenge Submission Here",
+      "source": "devto"
+    },
+    "a4917d9d3a1958be": {
+      "date": "2026-03-17",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "52b8ef0a7aa57593": {
+      "date": "2026-03-17",
+      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
+      "source": "devto"
+    },
+    "1c0c63599d67caf9": {
+      "date": "2026-03-17",
+      "title": "What's in your headphones when you code? 🎧",
+      "source": "devto"
+    },
+    "9c33ec3ad182a4ee": {
+      "date": "2026-03-17",
+      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
+      "source": "devto"
+    },
+    "2dbf2312d40fcace": {
+      "date": "2026-03-17",
+      "title": "I Built a Skill That Writes Your Specs For You",
+      "source": "devto"
+    },
+    "e127d0a6945644d9": {
+      "date": "2026-03-17",
+      "title": "Setting Up CocoIndex with Docker and pgvector - A Practical Guide",
+      "source": "devto"
+    },
+    "1aaf9f4fc5f55177": {
+      "date": "2026-03-17",
+      "title": "The Secret Life of Go: Generics",
       "source": "devto"
     }
   }
