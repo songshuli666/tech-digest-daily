@@ -1,147 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-17T23:04:19.943040",
+  "last_updated": "2026-03-18T23:02:50.543993",
   "sent_items": {
-    "bd57e8d4ec83b625": {
-      "date": "2026-02-15",
-      "title": "Plus AI Presentation Agent",
-      "source": "producthunt"
-    },
-    "8f8dccb9cb2856d9": {
-      "date": "2026-02-15",
-      "title": "Habit Island",
-      "source": "producthunt"
-    },
-    "705fda7a2e7f6973": {
-      "date": "2026-02-15",
-      "title": "Prompt Library",
-      "source": "producthunt"
-    },
-    "45b51583c40547eb": {
-      "date": "2026-02-15",
-      "title": "WikiTrip 2.0",
-      "source": "producthunt"
-    },
-    "c623d124fb313fa7": {
-      "date": "2026-02-15",
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "source": "hackernews"
-    },
-    "ed7df854a1900994": {
-      "date": "2026-02-15",
-      "title": "I fixed Windows native development",
-      "source": "hackernews"
-    },
-    "e4f7fe0a389c3b70": {
-      "date": "2026-02-15",
-      "title": "LT6502: A 6502-based homebrew laptop",
-      "source": "hackernews"
-    },
-    "e8ceba2886f57af6": {
-      "date": "2026-02-15",
-      "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "source": "hackernews"
-    },
-    "5c58e7f381f0f360": {
-      "date": "2026-02-15",
-      "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
-      "source": "hackernews"
-    },
-    "b8308283227109b8": {
-      "date": "2026-02-15",
-      "title": "Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI",
-      "source": "hackernews"
-    },
-    "3a7f650e5c343d0a": {
-      "date": "2026-02-15",
-      "title": "GNU Pies – Program Invocation and Execution Supervisor",
-      "source": "hackernews"
-    },
-    "82f4cf5007754f7c": {
-      "date": "2026-02-15",
-      "title": "Audio is the one area small labs are winning",
-      "source": "hackernews"
-    },
-    "1064f73e72d929ea": {
-      "date": "2026-02-15",
-      "title": "Pocketblue – Fedora Atomic for mobile devices",
-      "source": "hackernews"
-    },
-    "bbdfafe45174d293": {
-      "date": "2026-02-15",
-      "title": "Continuous batching from first principles (2025)",
-      "source": "hackernews"
-    },
-    "77c460c436551b66": {
-      "date": "2026-02-15",
-      "title": "nautechsystems / nautilus_trader",
-      "source": "github"
-    },
-    "32a5d5a1e083e7fe": {
-      "date": "2026-02-15",
-      "title": "steipete / gogcli",
-      "source": "github"
-    },
-    "56de0ef29dd7fafa": {
-      "date": "2026-02-15",
-      "title": "moonshine-ai / moonshine",
-      "source": "github"
-    },
-    "e19b89691267e9c5": {
-      "date": "2026-02-15",
-      "title": "brave / brave-browser",
-      "source": "github"
-    },
-    "c771012ee3130b19": {
-      "date": "2026-02-15",
-      "title": "Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.",
-      "source": "devto"
-    },
-    "c1b99258b7671b10": {
-      "date": "2026-02-15",
-      "title": "The Secret Life of Python: Manual List Iteration with While and Reverse Loops",
-      "source": "devto"
-    },
-    "308ae8414822e551": {
-      "date": "2026-02-15",
-      "title": "The Gatekeeping Panic: What AI Actually Threatens in Software Development",
-      "source": "devto"
-    },
-    "5308072a5bddbad1": {
-      "date": "2026-02-15",
-      "title": "We Built Voice Chat That Lives Entirely in Your Terminal (Yes, Really)",
-      "source": "devto"
-    },
-    "4024185d75d47609": {
-      "date": "2026-02-15",
-      "title": "I built Spotify Wrapped for Git using GitHub Copilot CLI",
-      "source": "devto"
-    },
-    "ba3a22928beffca5": {
-      "date": "2026-02-15",
-      "title": "EnvHub: A Zero-Knowledge Secret Manager Built with GitHub Copilot CLI",
-      "source": "devto"
-    },
-    "29938b536c5ccb9d": {
-      "date": "2026-02-15",
-      "title": "Traduje “la guía” de Elm al español",
-      "source": "devto"
-    },
-    "8ebc186e72a10d62": {
-      "date": "2026-02-15",
-      "title": "Cute Magick: A Website Platform You Can Call Home",
-      "source": "devto"
-    },
-    "d3d66e59b1abb21b": {
-      "date": "2026-02-15",
-      "title": "How We Linked Technical Decisions to Pull Requests on GitHub",
-      "source": "devto"
-    },
-    "df46a97d700a5482": {
-      "date": "2026-02-15",
-      "title": "Every way to automate a Mac setup, ranked by mass of YAML you'll write",
-      "source": "devto"
-    },
     "d70fe09b06e0461a": {
       "date": "2026-02-16",
       "title": "NVIDIA PersonaPlex",
@@ -4865,6 +4725,156 @@
     "1aaf9f4fc5f55177": {
       "date": "2026-03-17",
       "title": "The Secret Life of Go: Generics",
+      "source": "devto"
+    },
+    "391a1e7b46346903": {
+      "date": "2026-03-18",
+      "title": "Rob Pike’s Rules of Programming (1989)",
+      "source": "hackernews"
+    },
+    "e92612fecffe9724": {
+      "date": "2026-03-18",
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "source": "hackernews"
+    },
+    "b35cedeffe53d156": {
+      "date": "2026-03-18",
+      "title": "OpenRocket",
+      "source": "hackernews"
+    },
+    "5a64136209e83236": {
+      "date": "2026-03-18",
+      "title": "Nvidia NemoClaw",
+      "source": "hackernews"
+    },
+    "54fc024717aaea63": {
+      "date": "2026-03-18",
+      "title": "Wander – A tiny, decentralised tool to explore the small web",
+      "source": "hackernews"
+    },
+    "fae48cc5e8023e0a": {
+      "date": "2026-03-18",
+      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "source": "hackernews"
+    },
+    "9df6d93989c48ad8": {
+      "date": "2026-03-18",
+      "title": "2025 Turing award given for quantum information science",
+      "source": "hackernews"
+    },
+    "21b0cc10ff5e5f70": {
+      "date": "2026-03-18",
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "source": "hackernews"
+    },
+    "444339a5b0c36e50": {
+      "date": "2026-03-18",
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "source": "hackernews"
+    },
+    "8750c879551674f9": {
+      "date": "2026-03-18",
+      "title": "MS AUTO CAPTIONS",
+      "source": "producthunt"
+    },
+    "f34186fce063888f": {
+      "date": "2026-03-18",
+      "title": "Permit.io MCP Gateway",
+      "source": "producthunt"
+    },
+    "1920dafe5f1c5c1f": {
+      "date": "2026-03-18",
+      "title": "Lore",
+      "source": "producthunt"
+    },
+    "fd5bc6fe80bbdf86": {
+      "date": "2026-03-18",
+      "title": "Bookshelf for NotebookLM",
+      "source": "producthunt"
+    },
+    "88ee6f4ed1c65ab9": {
+      "date": "2026-03-18",
+      "title": "ClipLedger",
+      "source": "producthunt"
+    },
+    "cc862dbdb267d5ab": {
+      "date": "2026-03-18",
+      "title": "MetricMap",
+      "source": "producthunt"
+    },
+    "86e16d9f1e5ba6e8": {
+      "date": "2026-03-18",
+      "title": "Fantastical MCP for Mac",
+      "source": "producthunt"
+    },
+    "4242e51e337ac7d2": {
+      "date": "2026-03-18",
+      "title": "unslothai / unsloth",
+      "source": "github"
+    },
+    "4a53340cdd41203b": {
+      "date": "2026-03-18",
+      "title": "newton-physics / newton",
+      "source": "github"
+    },
+    "26052f5a5c610540": {
+      "date": "2026-03-18",
+      "title": "shadps4-emu / shadPS4",
+      "source": "github"
+    },
+    "822936022f0efbbf": {
+      "date": "2026-03-18",
+      "title": "langchain-ai / open-swe",
+      "source": "github"
+    },
+    "281d97c590c7ec66": {
+      "date": "2026-03-18",
+      "title": "The Email That Nearly Stopped Me From Becoming a Developer",
+      "source": "devto"
+    },
+    "e27b37ce389c9be4": {
+      "date": "2026-03-18",
+      "title": "Golden Handcuffs Don't Feel Like Handcuffs",
+      "source": "devto"
+    },
+    "cfac25b729637bf9": {
+      "date": "2026-03-18",
+      "title": "AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It",
+      "source": "devto"
+    },
+    "6d1adab9b4677bad": {
+      "date": "2026-03-18",
+      "title": "How to Stop Babysitting Your AI Agents",
+      "source": "devto"
+    },
+    "bdc9771a518500d3": {
+      "date": "2026-03-18",
+      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
+      "source": "devto"
+    },
+    "0178b4a1b4178da5": {
+      "date": "2026-03-18",
+      "title": "The Secret Life of Claude Code — The Language You Don't Know",
+      "source": "devto"
+    },
+    "1b0ea13ce8437d7b": {
+      "date": "2026-03-18",
+      "title": "The AI Industry Has an E-Waste Problem. We're Mining Crypto on PowerBook G4s to Fix It.",
+      "source": "devto"
+    },
+    "8efde77086fbebca": {
+      "date": "2026-03-18",
+      "title": "I Bought a Domain at 15. Now It Powers 400,000+ Users.",
+      "source": "devto"
+    },
+    "3c6688607e0b5416": {
+      "date": "2026-03-18",
+      "title": "I built a free, open-source alternative to LocalStack — CloudDev",
+      "source": "devto"
+    },
+    "69c193928d9020d9": {
+      "date": "2026-03-18",
+      "title": "I Built a Free Accessibility Auditor That Actually Passes Its Own Audit",
       "source": "devto"
     }
   }
