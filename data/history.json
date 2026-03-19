@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-18T23:02:50.543993",
+  "last_updated": "2026-03-19T23:00:20.168315",
   "sent_items": {
-    "d70fe09b06e0461a": {
-      "date": "2026-02-16",
-      "title": "NVIDIA PersonaPlex",
-      "source": "producthunt"
-    },
-    "3bbdf875d0a85aa6": {
-      "date": "2026-02-16",
-      "title": "PenguinBot AI",
-      "source": "producthunt"
-    },
-    "87abbc9f45affc72": {
-      "date": "2026-02-16",
-      "title": "HookWatch",
-      "source": "producthunt"
-    },
-    "3b7280b406fabf94": {
-      "date": "2026-02-16",
-      "title": "SearchSeal",
-      "source": "producthunt"
-    },
-    "3f944b0520b0e052": {
-      "date": "2026-02-16",
-      "title": "Agent Bar",
-      "source": "producthunt"
-    },
-    "85f0886bc338f401": {
-      "date": "2026-02-16",
-      "title": "MockAPI Dog",
-      "source": "producthunt"
-    },
-    "e44fa746f2e42d15": {
-      "date": "2026-02-16",
-      "title": "Meteorite",
-      "source": "producthunt"
-    },
-    "cd4c9c67223d4def": {
-      "date": "2026-02-16",
-      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
-      "source": "hackernews"
-    },
-    "7de49ba78e4f6a3f": {
-      "date": "2026-02-16",
-      "title": "What your Bluetooth devices reveal",
-      "source": "hackernews"
-    },
-    "9e5ed3f39743edb1": {
-      "date": "2026-02-16",
-      "title": "Show HN: Jemini – Gemini for the Epstein Files",
-      "source": "hackernews"
-    },
-    "66342721e6e25b44": {
-      "date": "2026-02-16",
-      "title": "Study: Self-generated Agent Skills are useless",
-      "source": "hackernews"
-    },
-    "3e7d31aea3f51e9c": {
-      "date": "2026-02-16",
-      "title": "Visual Introduction to PyTorch",
-      "source": "hackernews"
-    },
-    "bf13089697736a67": {
-      "date": "2026-02-16",
-      "title": "Suicide Linux (2009)",
-      "source": "hackernews"
-    },
-    "d1d30093664ff7bb": {
-      "date": "2026-02-16",
-      "title": "State of Show HN: 2025",
-      "source": "hackernews"
-    },
-    "a620abe308ffb2e8": {
-      "date": "2026-02-16",
-      "title": "Testing Postgres race conditions with synchronization barriers",
-      "source": "hackernews"
-    },
-    "0dede85c5babd495": {
-      "date": "2026-02-16",
-      "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
-      "source": "hackernews"
-    },
-    "cb22d9af1dbd592c": {
-      "date": "2026-02-16",
-      "title": "Show HN: 2D Coulomb Gas Simulator",
-      "source": "hackernews"
-    },
-    "40e848ce1097dcdd": {
-      "date": "2026-02-16",
-      "title": "seerr-team / seerr",
-      "source": "github"
-    },
-    "2c741fa5ac3137ab": {
-      "date": "2026-02-16",
-      "title": "hummingbot / hummingbot",
-      "source": "github"
-    },
-    "75b1af75c27fdb23": {
-      "date": "2026-02-16",
-      "title": "How a DEV Friend and I Brought Two Avatars to Life",
-      "source": "devto"
-    },
-    "3bbef9cc10e5b70c": {
-      "date": "2026-02-16",
-      "title": "Do people still genuinely care about technical articles ?",
-      "source": "devto"
-    },
-    "f7f90b18914978f9": {
-      "date": "2026-02-16",
-      "title": "Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger",
-      "source": "devto"
-    },
-    "a412f885698b6d98": {
-      "date": "2026-02-16",
-      "title": "After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI Pa",
-      "source": "devto"
-    },
-    "d395e1305ab76913": {
-      "date": "2026-02-16",
-      "title": "I Built a Personality Test for Vibe Coding",
-      "source": "devto"
-    },
-    "3e469cae01bd2884": {
-      "date": "2026-02-16",
-      "title": "Your AI Agent Knows Your Passwords — Here's How I Fixed It",
-      "source": "devto"
-    },
-    "ff3b725afde70e4b": {
-      "date": "2026-02-16",
-      "title": "I built an accessibility data API because every restaurant app ignores wheelchair users",
-      "source": "devto"
-    },
-    "9f4576cfacd15931": {
-      "date": "2026-02-16",
-      "title": "We Scanned 8 Popular MCP Servers — Here's What We Found",
-      "source": "devto"
-    },
-    "3a3802aa7ce3e07d": {
-      "date": "2026-02-16",
-      "title": "FluxDown: A Free Download Manager Built with Rust + Flutter",
-      "source": "devto"
-    },
-    "fc947f75250864f8": {
-      "date": "2026-02-16",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
     "005387fb4800e9d7": {
       "date": "2026-02-17",
       "title": "TransLite",
@@ -4875,6 +4730,161 @@
     "69c193928d9020d9": {
       "date": "2026-03-18",
       "title": "I Built a Free Accessibility Auditor That Actually Passes Its Own Audit",
+      "source": "devto"
+    },
+    "8ebb7ed8af73f979": {
+      "date": "2026-03-19",
+      "title": "Billy.sh",
+      "source": "producthunt"
+    },
+    "74b8a7d92c27247c": {
+      "date": "2026-03-19",
+      "title": "Offload",
+      "source": "producthunt"
+    },
+    "6b3114297c7d19c2": {
+      "date": "2026-03-19",
+      "title": "PixelClaw",
+      "source": "producthunt"
+    },
+    "8f34c87d49022cb1": {
+      "date": "2026-03-19",
+      "title": "Scouts for iOS",
+      "source": "producthunt"
+    },
+    "537d43899d610f92": {
+      "date": "2026-03-19",
+      "title": "Netlify.new",
+      "source": "producthunt"
+    },
+    "0262242758b7a25e": {
+      "date": "2026-03-19",
+      "title": "MiniMax-M2.7",
+      "source": "producthunt"
+    },
+    "4539b84876446de6": {
+      "date": "2026-03-19",
+      "title": "Journey",
+      "source": "producthunt"
+    },
+    "e8abfa3a6db1230f": {
+      "date": "2026-03-19",
+      "title": "Cimanote",
+      "source": "producthunt"
+    },
+    "75bba1581a010ec0": {
+      "date": "2026-03-19",
+      "title": "Astral to Join OpenAI",
+      "source": "hackernews"
+    },
+    "7c897903bb733844": {
+      "date": "2026-03-19",
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "source": "hackernews"
+    },
+    "f76af7c9a5ad17d0": {
+      "date": "2026-03-19",
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "source": "hackernews"
+    },
+    "05c726260db7a73b": {
+      "date": "2026-03-19",
+      "title": "Waymo Safety Impact",
+      "source": "hackernews"
+    },
+    "ebbbe7d441a05939": {
+      "date": "2026-03-19",
+      "title": "Noq: n0's new QUIC implementation in Rust",
+      "source": "hackernews"
+    },
+    "3bee6e98a4fa9f48": {
+      "date": "2026-03-19",
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "source": "hackernews"
+    },
+    "1e5b37fdee07c7a6": {
+      "date": "2026-03-19",
+      "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
+      "source": "hackernews"
+    },
+    "653bfe135a4c848e": {
+      "date": "2026-03-19",
+      "title": "Clockwise acquired by Salesforce and shutting down next week",
+      "source": "hackernews"
+    },
+    "679bc619ef0b38a4": {
+      "date": "2026-03-19",
+      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+      "source": "hackernews"
+    },
+    "36937fe439316286": {
+      "date": "2026-03-19",
+      "title": "Be intentional about how AI changes your codebase",
+      "source": "hackernews"
+    },
+    "965fc61ede103703": {
+      "date": "2026-03-19",
+      "title": "opendataloader-project / opendataloader-pdf",
+      "source": "github"
+    },
+    "93eebb012ae4f832": {
+      "date": "2026-03-19",
+      "title": "mobile-dev-inc / Maestro",
+      "source": "github"
+    },
+    "7674f16f0663c9cb": {
+      "date": "2026-03-19",
+      "title": "louis-e / arnis",
+      "source": "github"
+    },
+    "4cafaa1aeecb93d4": {
+      "date": "2026-03-19",
+      "title": "We've Seen This Movie Before",
+      "source": "devto"
+    },
+    "3597ea896c9d4c34": {
+      "date": "2026-03-19",
+      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
+      "source": "devto"
+    },
+    "18515df6f5f4495c": {
+      "date": "2026-03-19",
+      "title": "Congrats to the \"Built with Google Gemini: Writing Challenge\" Winners!",
+      "source": "devto"
+    },
+    "89ea53450b7df54a": {
+      "date": "2026-03-19",
+      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
+      "source": "devto"
+    },
+    "af855de562ae4ca2": {
+      "date": "2026-03-19",
+      "title": "How to Stop My Agent from Getting Me Fired",
+      "source": "devto"
+    },
+    "e9b963d3d56fbb69": {
+      "date": "2026-03-19",
+      "title": "Why Your MCP Setup Keeps Timing Out in 60 Seconds (And How I Fixed It on Windows)",
+      "source": "devto"
+    },
+    "a5fee89a41f4c7dc": {
+      "date": "2026-03-19",
+      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
+      "source": "devto"
+    },
+    "469de48fbed3177d": {
+      "date": "2026-03-19",
+      "title": "Anki On My Wrist",
+      "source": "devto"
+    },
+    "000bb480c9a2e1cb": {
+      "date": "2026-03-19",
+      "title": "AI Vocab 101",
+      "source": "devto"
+    },
+    "c23667b3952c9622": {
+      "date": "2026-03-19",
+      "title": "Introducing Backlit: Lit SSR for Drupal, Hold the Node",
       "source": "devto"
     }
   }
