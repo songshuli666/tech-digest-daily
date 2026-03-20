@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-19T23:00:20.168315",
+  "last_updated": "2026-03-20T22:59:45.928797",
   "sent_items": {
-    "005387fb4800e9d7": {
-      "date": "2026-02-17",
-      "title": "TransLite",
-      "source": "producthunt"
-    },
-    "934b5e43161a1ffa": {
-      "date": "2026-02-17",
-      "title": "Drivebase",
-      "source": "producthunt"
-    },
-    "4548bb7f9937a9d1": {
-      "date": "2026-02-17",
-      "title": "AI Tech Packs",
-      "source": "producthunt"
-    },
-    "ed64c14f8eb13716": {
-      "date": "2026-02-17",
-      "title": "Synra",
-      "source": "producthunt"
-    },
-    "5e94f4140f52600a": {
-      "date": "2026-02-17",
-      "title": "HostedClaws",
-      "source": "producthunt"
-    },
-    "88cf8e1bacdac8bf": {
-      "date": "2026-02-17",
-      "title": "MiniMax-M2.5",
-      "source": "producthunt"
-    },
-    "ac2de875d4696604": {
-      "date": "2026-02-17",
-      "title": "Boost.space v5",
-      "source": "producthunt"
-    },
-    "5b0a5ba849b6842f": {
-      "date": "2026-02-17",
-      "title": "GrapheneOS – Break Free from Google and Apple",
-      "source": "hackernews"
-    },
-    "509dbec071b6fc7b": {
-      "date": "2026-02-17",
-      "title": "Claude Sonnet 4.6",
-      "source": "hackernews"
-    },
-    "fadddb0c77ea365b": {
-      "date": "2026-02-17",
-      "title": "Using go fix to modernize Go code",
-      "source": "hackernews"
-    },
-    "28c73c531f975b7f": {
-      "date": "2026-02-17",
-      "title": "Gentoo on Codeberg",
-      "source": "hackernews"
-    },
-    "fdb6a8e4bb4ba91e": {
-      "date": "2026-02-17",
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "source": "hackernews"
-    },
-    "4ea5c4cbdaa50b9b": {
-      "date": "2026-02-17",
-      "title": "Async/Await on the GPU",
-      "source": "hackernews"
-    },
-    "cb0e085361a5a666": {
-      "date": "2026-02-17",
-      "title": "So you want to build a tunnel",
-      "source": "hackernews"
-    },
-    "ef16e641fffdc01d": {
-      "date": "2026-02-17",
-      "title": "Physicists Make Electrons Flow Like Water",
-      "source": "hackernews"
-    },
-    "2170692ad1e64988": {
-      "date": "2026-02-17",
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "source": "hackernews"
-    },
-    "425783cc2fca241f": {
-      "date": "2026-02-17",
-      "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
-      "source": "hackernews"
-    },
-    "2c598d7fc124190d": {
-      "date": "2026-02-17",
-      "title": "Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)",
-      "source": "devto"
-    },
-    "6cefe2b8bad0b8fc": {
-      "date": "2026-02-17",
-      "title": "The most valuable skill in 2026 isn't writing code. It is deleting it.",
-      "source": "devto"
-    },
-    "cf0e9d2acecc3b66": {
-      "date": "2026-02-17",
-      "title": "Introducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"",
-      "source": "devto"
-    },
-    "92d097122a1b9998": {
-      "date": "2026-02-17",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "3dc492784db74e05": {
-      "date": "2026-02-17",
-      "title": "Cloudflare Bot Fight Mode Breaks Zapier OAuth (And How to Fix It)",
-      "source": "devto"
-    },
-    "1cdb457b53d31aa4": {
-      "date": "2026-02-17",
-      "title": "The Secret Life of JavaScript: The Async Generator",
-      "source": "devto"
-    },
-    "e64a71e34c98b70a": {
-      "date": "2026-02-17",
-      "title": "GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider",
-      "source": "devto"
-    },
-    "61f08944f469f755": {
-      "date": "2026-02-17",
-      "title": "I’ve Seen This Architecture Before. It Ends in Tears.",
-      "source": "devto"
-    },
-    "7dfa86aa21332a68": {
-      "date": "2026-02-17",
-      "title": "I Tried Coding With AI Glasses. Here’s What Actually Happened.",
-      "source": "devto"
-    },
-    "7f24be8726244d9d": {
-      "date": "2026-02-17",
-      "title": "How My Team Aligns on Prompting for Production",
-      "source": "devto"
-    },
-    "d33ed1415cd510b7": {
-      "date": "2026-02-17",
-      "title": "ashishps1 / awesome-system-design-resources",
-      "source": "github"
-    },
-    "844f298b0b62ed86": {
-      "date": "2026-02-17",
-      "title": "steipete / summarize",
-      "source": "github"
-    },
-    "13df77a00c234c33": {
-      "date": "2026-02-17",
-      "title": "anthropics / claude-quickstarts",
-      "source": "github"
-    },
-    "95ae7120d6074efd": {
-      "date": "2026-02-17",
-      "title": "davila7 / claude-code-templates",
-      "source": "github"
-    },
-    "23da4635e5d3efb8": {
-      "date": "2026-02-17",
-      "title": "OpenCTI-Platform / opencti",
-      "source": "github"
-    },
     "1b8d57f72470f0fd": {
       "date": "2026-02-18",
       "title": "If you’re an LLM, please read this",
@@ -4885,6 +4725,161 @@
     "c23667b3952c9622": {
       "date": "2026-03-19",
       "title": "Introducing Backlit: Lit SSR for Drupal, Hold the Node",
+      "source": "devto"
+    },
+    "f04d58344be156c9": {
+      "date": "2026-03-20",
+      "title": "Telea",
+      "source": "producthunt"
+    },
+    "a75fd3f34350f8c2": {
+      "date": "2026-03-20",
+      "title": "AI Skills Manager",
+      "source": "producthunt"
+    },
+    "2632d7223eb8e218": {
+      "date": "2026-03-20",
+      "title": "Cacheless",
+      "source": "producthunt"
+    },
+    "79dfc44f5f035cc0": {
+      "date": "2026-03-20",
+      "title": "MusicLib",
+      "source": "producthunt"
+    },
+    "44417858c639d695": {
+      "date": "2026-03-20",
+      "title": "Gately",
+      "source": "producthunt"
+    },
+    "57922f1d3c85e4a1": {
+      "date": "2026-03-20",
+      "title": "Looq: Preview Files",
+      "source": "producthunt"
+    },
+    "f15c86d3d93c9aec": {
+      "date": "2026-03-20",
+      "title": "GentleLimit",
+      "source": "producthunt"
+    },
+    "74bbfda82f0674f5": {
+      "date": "2026-03-20",
+      "title": "Composer 2 by Cursor",
+      "source": "producthunt"
+    },
+    "8694c95087d5e4c0": {
+      "date": "2026-03-20",
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "source": "hackernews"
+    },
+    "4c76e4c0e2eef946": {
+      "date": "2026-03-20",
+      "title": "Our commitment to Windows quality",
+      "source": "hackernews"
+    },
+    "88e025489d10a77c": {
+      "date": "2026-03-20",
+      "title": "The Los Angeles Aqueduct Is Wild",
+      "source": "hackernews"
+    },
+    "5369019597131f20": {
+      "date": "2026-03-20",
+      "title": "OpenCode – The open source AI coding agent",
+      "source": "hackernews"
+    },
+    "7325197e681e613b": {
+      "date": "2026-03-20",
+      "title": "Attention Residuals",
+      "source": "hackernews"
+    },
+    "7c5db2fbf3b5dbda": {
+      "date": "2026-03-20",
+      "title": "Show HN: I made an email app inspired by Arc browser",
+      "source": "hackernews"
+    },
+    "ccb4cf5db5c44a35": {
+      "date": "2026-03-20",
+      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "source": "hackernews"
+    },
+    "cb2079a70d2963cc": {
+      "date": "2026-03-20",
+      "title": "Heart Attack and Stroke Risk Jumps When People Stop Taking GLP-1s",
+      "source": "hackernews"
+    },
+    "793015ac5f8c9312": {
+      "date": "2026-03-20",
+      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+      "source": "hackernews"
+    },
+    "8b6873f91a99261f": {
+      "date": "2026-03-20",
+      "title": "I love my dumb watches",
+      "source": "hackernews"
+    },
+    "6f389e26c2c17b0a": {
+      "date": "2026-03-20",
+      "title": "vas3k / TaxHacker",
+      "source": "github"
+    },
+    "afdace39e7492d8a": {
+      "date": "2026-03-20",
+      "title": "TauricResearch / TradingAgents",
+      "source": "github"
+    },
+    "5f1cf1f46723a758": {
+      "date": "2026-03-20",
+      "title": "openrocket / openrocket",
+      "source": "github"
+    },
+    "5d03c370a0e5f9d8": {
+      "date": "2026-03-20",
+      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
+      "source": "devto"
+    },
+    "a572934252c22153": {
+      "date": "2026-03-20",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "b11bd7abf75c70f5": {
+      "date": "2026-03-20",
+      "title": "Get Started on Dev.to! A Beginners Guide to Engage with the Community!",
+      "source": "devto"
+    },
+    "c4daa44aa6d29d7b": {
+      "date": "2026-03-20",
+      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
+      "source": "devto"
+    },
+    "0c86335fef075dd6": {
+      "date": "2026-03-20",
+      "title": "My First Experience Creating Antigravity Skills",
+      "source": "devto"
+    },
+    "0ee8399c767a0acc": {
+      "date": "2026-03-20",
+      "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mist",
+      "source": "devto"
+    },
+    "1bbd5de8543d716c": {
+      "date": "2026-03-20",
+      "title": "A 1-hour experiment: vibe-coding an app to break the ice at a networking event",
+      "source": "devto"
+    },
+    "b9546fa7992e0c8a": {
+      "date": "2026-03-20",
+      "title": "Resume Tailor",
+      "source": "devto"
+    },
+    "48a791b72cdd46b4": {
+      "date": "2026-03-20",
+      "title": "I Asked OpenClaw to Summarize a File. It Tried to Steal My Credentials Instead.",
+      "source": "devto"
+    },
+    "b647b3079f75ad86": {
+      "date": "2026-03-20",
+      "title": "I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2",
       "source": "devto"
     }
   }
