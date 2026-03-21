@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-20T22:59:45.928797",
+  "last_updated": "2026-03-21T22:55:41.667739",
   "sent_items": {
-    "1b8d57f72470f0fd": {
-      "date": "2026-02-18",
-      "title": "If you’re an LLM, please read this",
-      "source": "hackernews"
-    },
-    "9fa60d93feda5600": {
-      "date": "2026-02-18",
-      "title": "Tailscale Peer Relays is now generally available",
-      "source": "hackernews"
-    },
-    "db81568e5f89be6b": {
-      "date": "2026-02-18",
-      "title": "Cosmologically Unique IDs",
-      "source": "hackernews"
-    },
-    "d515bd8aad9b378b": {
-      "date": "2026-02-18",
-      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "source": "hackernews"
-    },
-    "024b6bc5f781ffa6": {
-      "date": "2026-02-18",
-      "title": "Sizing chaos",
-      "source": "hackernews"
-    },
-    "14054d8e9f253ba3": {
-      "date": "2026-02-18",
-      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "source": "hackernews"
-    },
-    "34ad5067afe5c62c": {
-      "date": "2026-02-18",
-      "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
-      "source": "hackernews"
-    },
-    "b19f1ab8eb43125c": {
-      "date": "2026-02-18",
-      "title": "The Perils of ISBN",
-      "source": "hackernews"
-    },
-    "35740ee623e84879": {
-      "date": "2026-02-18",
-      "title": "R3forth: A concatenative language derived from ColorForth",
-      "source": "hackernews"
-    },
-    "e1a9ee481f775dda": {
-      "date": "2026-02-18",
-      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "source": "hackernews"
-    },
-    "44808fce19d5dd65": {
-      "date": "2026-02-18",
-      "title": "Travel Animator",
-      "source": "producthunt"
-    },
-    "4a5e828058895ac9": {
-      "date": "2026-02-18",
-      "title": "Design Rails",
-      "source": "producthunt"
-    },
-    "776b4d8f9fbc98ba": {
-      "date": "2026-02-18",
-      "title": "SPECTRE",
-      "source": "producthunt"
-    },
-    "4f472cc636c51df4": {
-      "date": "2026-02-18",
-      "title": "Empirical Health for web",
-      "source": "producthunt"
-    },
-    "1f4153c61e598d62": {
-      "date": "2026-02-18",
-      "title": "Calendarly",
-      "source": "producthunt"
-    },
-    "34597fd0a5400f52": {
-      "date": "2026-02-18",
-      "title": "Baseline Core",
-      "source": "producthunt"
-    },
-    "0a01ac08ab2a65ba": {
-      "date": "2026-02-18",
-      "title": "Reflex Rooster",
-      "source": "producthunt"
-    },
-    "99b09d88fd4b294b": {
-      "date": "2026-02-18",
-      "title": "OpenFlowKit",
-      "source": "producthunt"
-    },
-    "5a31de5224f44403": {
-      "date": "2026-02-18",
-      "title": "QwenLM / qwen-code",
-      "source": "github"
-    },
-    "f0b34cf3c4f8847f": {
-      "date": "2026-02-18",
-      "title": "NirDiamant / RAG_Techniques",
-      "source": "github"
-    },
-    "fa9c1eb8c45e34c9": {
-      "date": "2026-02-18",
-      "title": "harvard-edge / cs249r_book",
-      "source": "github"
-    },
-    "a080e7124766645a": {
-      "date": "2026-02-18",
-      "title": "HailToDodongo / pyrite64",
-      "source": "github"
-    },
-    "fc24b831bd589abd": {
-      "date": "2026-02-18",
-      "title": "ComposioHQ / composio",
-      "source": "github"
-    },
-    "a3c30cd4ef578db8": {
-      "date": "2026-02-18",
-      "title": "p2r3 / convert",
-      "source": "github"
-    },
-    "f9b1cf4e068344ed": {
-      "date": "2026-02-18",
-      "title": "A New Chapter: DEV is Joining Forces with Major League Hacking (MLH)",
-      "source": "devto"
-    },
-    "418f2ad19f2b27ed": {
-      "date": "2026-02-18",
-      "title": "The Future of Software Has a Lot More Builders. They’re Going to Need a Home.",
-      "source": "devto"
-    },
-    "b38b906eef8b5abe": {
-      "date": "2026-02-18",
-      "title": "How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity",
-      "source": "devto"
-    },
-    "bf12f8c22cd2575d": {
-      "date": "2026-02-18",
-      "title": "Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side",
-      "source": "devto"
-    },
-    "06eb832d9131d4e8": {
-      "date": "2026-02-18",
-      "title": "If You See These Red Flags in an IT Interview — Run (Real Stories)",
-      "source": "devto"
-    },
-    "0a3d08a67de0e81a": {
-      "date": "2026-02-18",
-      "title": "If Writing still Matters, How to Do it Right and Avoid AI Suspicion?",
-      "source": "devto"
-    },
-    "f80a6b0363673a61": {
-      "date": "2026-02-18",
-      "title": "How I Tricked AWS Elastic Beanstalk Into Using pnpm",
-      "source": "devto"
-    },
-    "ba4f882a7e048aa1": {
-      "date": "2026-02-18",
-      "title": "Build a Container from Scratch in Go (Modern Namespaces + cgroup v2)",
-      "source": "devto"
-    },
-    "5cfe28d1973fb814": {
-      "date": "2026-02-18",
-      "title": "A CI tool that stops AI from undoing your team's architectural decisions",
-      "source": "devto"
-    },
-    "b3b1a9970e928e4a": {
-      "date": "2026-02-18",
-      "title": "The Question That Changed How I Build ML Models",
-      "source": "devto"
-    },
     "86430443d4dec04b": {
       "date": "2026-02-19",
       "title": "Gemini 3.1 Pro",
@@ -4881,6 +4711,166 @@
       "date": "2026-03-20",
       "title": "I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2",
       "source": "devto"
+    },
+    "9c1a57e32af06f50": {
+      "date": "2026-03-21",
+      "title": "murmur",
+      "source": "producthunt"
+    },
+    "3e30a4316f644030": {
+      "date": "2026-03-21",
+      "title": "Contral",
+      "source": "producthunt"
+    },
+    "a8dd46597afbab46": {
+      "date": "2026-03-21",
+      "title": "Claude Cowork Projects",
+      "source": "producthunt"
+    },
+    "40cae0d5153552de": {
+      "date": "2026-03-21",
+      "title": "Sanota",
+      "source": "producthunt"
+    },
+    "1ded79bf9ffb03fe": {
+      "date": "2026-03-21",
+      "title": "Caplo",
+      "source": "producthunt"
+    },
+    "cb2ed8a5888dc1c6": {
+      "date": "2026-03-21",
+      "title": "Everest AI",
+      "source": "producthunt"
+    },
+    "968ded0cd2363b96": {
+      "date": "2026-03-21",
+      "title": "optimo",
+      "source": "producthunt"
+    },
+    "c3849279988de60f": {
+      "date": "2026-03-21",
+      "title": "Educato App",
+      "source": "producthunt"
+    },
+    "2f94084252983be8": {
+      "date": "2026-03-21",
+      "title": "Some things just take time",
+      "source": "hackernews"
+    },
+    "be10e0d15831a264": {
+      "date": "2026-03-21",
+      "title": "Do Not Turn Child Protection into Internet Access Control",
+      "source": "hackernews"
+    },
+    "2e2907b1fd16cacf": {
+      "date": "2026-03-21",
+      "title": "Tinybox- offline AI device 120B parameters",
+      "source": "hackernews"
+    },
+    "d00b623dd2d89b08": {
+      "date": "2026-03-21",
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "source": "hackernews"
+    },
+    "7f08b24041b0154e": {
+      "date": "2026-03-21",
+      "title": "How Invisalign became the biggest user of 3D printers",
+      "source": "hackernews"
+    },
+    "b2fc80c458d2041c": {
+      "date": "2026-03-21",
+      "title": "The seven hour explosion nobody could explain",
+      "source": "hackernews"
+    },
+    "d81cb064b8e3c715": {
+      "date": "2026-03-21",
+      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
+      "source": "hackernews"
+    },
+    "76fd594c303269a9": {
+      "date": "2026-03-21",
+      "title": "Electronics for Kids, 2nd Edition",
+      "source": "hackernews"
+    },
+    "b0a85820affa2a6a": {
+      "date": "2026-03-21",
+      "title": "Professional video editing, right in the browser with WebGPU and WASM",
+      "source": "hackernews"
+    },
+    "045a61813b1aff1e": {
+      "date": "2026-03-21",
+      "title": "No Semicolons Needed",
+      "source": "hackernews"
+    },
+    "ccd80bf8ca428d1c": {
+      "date": "2026-03-21",
+      "title": "How I Made fzf Feel Snappy Again in Large Repositories",
+      "source": "devto"
+    },
+    "7ec175f50b10ef30": {
+      "date": "2026-03-21",
+      "title": "I built a 1.7kb VDOM-less framework, it went \"viral\", and Reddit banned me 🤣",
+      "source": "devto"
+    },
+    "a4c3c836741b1ad9": {
+      "date": "2026-03-21",
+      "title": "Adding Stripe Checkout to a Solo SaaS: Lessons from PatentLLM's $1K/mo Plan",
+      "source": "devto"
+    },
+    "1a61eeb45c12de3b": {
+      "date": "2026-03-21",
+      "title": "Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs",
+      "source": "devto"
+    },
+    "40ee0cf291478416": {
+      "date": "2026-03-21",
+      "title": "I Modernized BitchX — The Legendary 90s IRC Client Now Has AI Built In",
+      "source": "devto"
+    },
+    "e5d1710aaa0221cf": {
+      "date": "2026-03-21",
+      "title": "Downgrading to macOS Catalina: A Sermon on Obsolescence",
+      "source": "devto"
+    },
+    "e71a7cc424928fb6": {
+      "date": "2026-03-21",
+      "title": "I Built a Personalized AI Life Coach with Obsidian + Claude — Here's the Exact Setup",
+      "source": "devto"
+    },
+    "4495c4fd8f7c7dc4": {
+      "date": "2026-03-21",
+      "title": "Optimizing for Zero: Building a High-Performance Browser Runner with No Budget",
+      "source": "devto"
+    },
+    "e48d0fe6bbf786b4": {
+      "date": "2026-03-21",
+      "title": "The Agent Memory Problem (And How I Solved It Without a Database)",
+      "source": "devto"
+    },
+    "933fede767c3938e": {
+      "date": "2026-03-21",
+      "title": "I Built a Tool That Turns TODO Comments Into Actual Documentation",
+      "source": "devto"
+    },
+    "19277cf46013e4f0": {
+      "date": "2026-03-21",
+      "title": "systemd / systemd",
+      "source": "github"
+    },
+    "7fdb3d2f4950e680": {
+      "date": "2026-03-21",
+      "title": "aquasecurity / trivy",
+      "source": "github"
+    },
+    "89a665d7fafbfdc7": {
+      "date": "2026-03-21",
+      "title": "protocolbuffers / protobuf",
+      "source": "github"
+    },
+    "c8b564d136536934": {
+      "date": "2026-03-21",
+      "title": "vllm-project / vllm-omni",
+      "source": "github"
     }
   }
 }
