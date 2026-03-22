@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-21T22:55:41.667739",
+  "last_updated": "2026-03-22T22:57:19.827974",
   "sent_items": {
-    "86430443d4dec04b": {
-      "date": "2026-02-19",
-      "title": "Gemini 3.1 Pro",
-      "source": "hackernews"
-    },
-    "0f89c79813a0e0e7": {
-      "date": "2026-02-19",
-      "title": "Show HN: Micasa – track your house from the terminal",
-      "source": "hackernews"
-    },
-    "f8ee080801da89c8": {
-      "date": "2026-02-19",
-      "title": "Pebble Production: February Update",
-      "source": "hackernews"
-    },
-    "efe4cfabbadcb9af": {
-      "date": "2026-02-19",
-      "title": "America vs. Singapore: You can't save your way out of economic shocks",
-      "source": "hackernews"
-    },
-    "944824a792415266": {
-      "date": "2026-02-19",
-      "title": "We're no longer attracting top talent: the brain drain killing American science",
-      "source": "hackernews"
-    },
-    "31b3ecb35049b04f": {
-      "date": "2026-02-19",
-      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-      "source": "hackernews"
-    },
-    "b4a7581b5178171d": {
-      "date": "2026-02-19",
-      "title": "Micropayments as a reality check for news sites",
-      "source": "hackernews"
-    },
-    "78caf627e85323df": {
-      "date": "2026-02-19",
-      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
-      "source": "hackernews"
-    },
-    "0483299a7e22039b": {
-      "date": "2026-02-19",
-      "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-      "source": "hackernews"
-    },
-    "e4ea2be95ab9fd67": {
-      "date": "2026-02-19",
-      "title": "A Beginner's Guide to Split Keyboards",
-      "source": "hackernews"
-    },
-    "ee908b766ed3d3c7": {
-      "date": "2026-02-19",
-      "title": "Feedix",
-      "source": "producthunt"
-    },
-    "bf0ac5fd8ef5dbc4": {
-      "date": "2026-02-19",
-      "title": "HyperCaps for macOS",
-      "source": "producthunt"
-    },
-    "0bda2ba8ec15f4e4": {
-      "date": "2026-02-19",
-      "title": "Monologue for iOS",
-      "source": "producthunt"
-    },
-    "38fe4918d680ebad": {
-      "date": "2026-02-19",
-      "title": "Reloop",
-      "source": "producthunt"
-    },
-    "b4ea2703afc85aa5": {
-      "date": "2026-02-19",
-      "title": "Clawi.ai",
-      "source": "producthunt"
-    },
-    "9450b7bf35613adb": {
-      "date": "2026-02-19",
-      "title": "CertNode Reflex",
-      "source": "producthunt"
-    },
-    "ffd031117d974332": {
-      "date": "2026-02-19",
-      "title": "Decks For Good",
-      "source": "producthunt"
-    },
-    "048d86e764985c81": {
-      "date": "2026-02-19",
-      "title": "FF Designer",
-      "source": "producthunt"
-    },
-    "295188a6a4784326": {
-      "date": "2026-02-19",
-      "title": "RichardAtCT / claude-code-telegram",
-      "source": "github"
-    },
-    "bee0abc8fe48f7d0": {
-      "date": "2026-02-19",
-      "title": "open-mercato / open-mercato",
-      "source": "github"
-    },
-    "1954e5592796e3fe": {
-      "date": "2026-02-19",
-      "title": "freemocap / freemocap",
-      "source": "github"
-    },
-    "7b434e2239d9d5ce": {
-      "date": "2026-02-19",
-      "title": "Suffering from BUGS: How I Almost Deleted My Entire Project",
-      "source": "devto"
-    },
-    "e128e03ccb297799": {
-      "date": "2026-02-19",
-      "title": "Why did you become a Developer?",
-      "source": "devto"
-    },
-    "3ddbdb5c7320728b": {
-      "date": "2026-02-19",
-      "title": "Taming non-determinism: from logic gates to LLMs",
-      "source": "devto"
-    },
-    "02594ebd3f4896b6": {
-      "date": "2026-02-19",
-      "title": "Congrats to the \"New Year, New You\" Portfolio Challenge Winners and Runner-Ups!",
-      "source": "devto"
-    },
-    "ff2022b6d96c050e": {
-      "date": "2026-02-19",
-      "title": "Your Swagger Doc Is More Than Documentation — It's a Test Suite Waiting to Happen",
-      "source": "devto"
-    },
-    "a115b06c61fe8502": {
-      "date": "2026-02-19",
-      "title": "Migrating from Jekyll to Hugo... or not",
-      "source": "devto"
-    },
-    "ffcc19b9e8bea8e3": {
-      "date": "2026-02-19",
-      "title": "The Secret Life of JavaScript: The Catch",
-      "source": "devto"
-    },
-    "0c2617f45d22baed": {
-      "date": "2026-02-19",
-      "title": "🌱 Bloom Update — February 19, 2026",
-      "source": "devto"
-    },
-    "c73bc6e19d2b9d87": {
-      "date": "2026-02-19",
-      "title": "Your API Tests Are Lying to You, The Schema Drift Problem Nobody Talks About",
-      "source": "devto"
-    },
-    "a68a2411590086ec": {
-      "date": "2026-02-19",
-      "title": "Color Always Haunts Me",
-      "source": "devto"
-    },
     "db0e76466dc21fce": {
       "date": "2026-02-20",
       "title": "Google Pomelli - Photoshoot",
@@ -4870,6 +4715,151 @@
     "c8b564d136536934": {
       "date": "2026-03-21",
       "title": "vllm-project / vllm-omni",
+      "source": "github"
+    },
+    "a73f8d45977aeb76": {
+      "date": "2026-03-22",
+      "title": "Context.dev",
+      "source": "producthunt"
+    },
+    "0179535a49fcd8b3": {
+      "date": "2026-03-22",
+      "title": "Edgee Claude Code Compression",
+      "source": "producthunt"
+    },
+    "086ae3ab7c30b006": {
+      "date": "2026-03-22",
+      "title": "Vite+",
+      "source": "producthunt"
+    },
+    "d8b45e06f5a1dab7": {
+      "date": "2026-03-22",
+      "title": "The future of version control",
+      "source": "hackernews"
+    },
+    "a7b3665a8d2153de": {
+      "date": "2026-03-22",
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "source": "hackernews"
+    },
+    "4d133f1fc9b9065a": {
+      "date": "2026-03-22",
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "source": "hackernews"
+    },
+    "e691085e0ea96a06": {
+      "date": "2026-03-22",
+      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+      "source": "hackernews"
+    },
+    "104888e5676df28f": {
+      "date": "2026-03-22",
+      "title": "Reports of code's death are greatly exaggerated",
+      "source": "hackernews"
+    },
+    "61266b2a5f0e5ee1": {
+      "date": "2026-03-22",
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "source": "hackernews"
+    },
+    "bcd41570cc4d4b5a": {
+      "date": "2026-03-22",
+      "title": "Five Years of Running a Systems Reading Group at Microsoft",
+      "source": "hackernews"
+    },
+    "668a3e4a234e7619": {
+      "date": "2026-03-22",
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "source": "hackernews"
+    },
+    "37cca2182e9fc4dc": {
+      "date": "2026-03-22",
+      "title": "LLMs Predict My Coffee",
+      "source": "hackernews"
+    },
+    "628a26de1b772b34": {
+      "date": "2026-03-22",
+      "title": "Rust Project Perspectives on AI",
+      "source": "hackernews"
+    },
+    "cdf687dd83441dc4": {
+      "date": "2026-03-22",
+      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
+      "source": "devto"
+    },
+    "3881c87e31fd5c3c": {
+      "date": "2026-03-22",
+      "title": "I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, N",
+      "source": "devto"
+    },
+    "3565c1fdb3d6c96a": {
+      "date": "2026-03-22",
+      "title": "Raw Developer Stories: The Side Nobody Shows",
+      "source": "devto"
+    },
+    "f455ad2e57940e7c": {
+      "date": "2026-03-22",
+      "title": "Built a CLI that gives your codebase a memory",
+      "source": "devto"
+    },
+    "62c9d65c98e6917d": {
+      "date": "2026-03-22",
+      "title": "I spent several months building an AI safety app for my elderly parent — here is what I learned",
+      "source": "devto"
+    },
+    "e4226ee1304be1c7": {
+      "date": "2026-03-22",
+      "title": "Flash-KMeans Dropped and It Makes sklearn Look Slow",
+      "source": "devto"
+    },
+    "8acc26e097a8de91": {
+      "date": "2026-03-22",
+      "title": "I Built a UK Business Intelligence MCP Server — Here's How",
+      "source": "devto"
+    },
+    "8ebcf0c84fcdc764": {
+      "date": "2026-03-22",
+      "title": "Your Multi-Agent System Is a Black Box You Built Yourself",
+      "source": "devto"
+    },
+    "b16ea9a78d60b0f9": {
+      "date": "2026-03-22",
+      "title": "When nothing seems to stick",
+      "source": "devto"
+    },
+    "1fdb2b44c65587de": {
+      "date": "2026-03-22",
+      "title": "Building Multi-Language SEO for Video Aggregation Sites",
+      "source": "devto"
+    },
+    "e7969addf9dd898b": {
+      "date": "2026-03-22",
+      "title": "jamwithai / production-agentic-rag-course",
+      "source": "github"
+    },
+    "b2b81d4907c6a390": {
+      "date": "2026-03-22",
+      "title": "affaan-m / everything-claude-code",
+      "source": "github"
+    },
+    "2f48be63fe82be5d": {
+      "date": "2026-03-22",
+      "title": "browser-use / browser-use",
+      "source": "github"
+    },
+    "cc1f6ac7ca5fd31f": {
+      "date": "2026-03-22",
+      "title": "HKUDS / LightRAG",
+      "source": "github"
+    },
+    "75a944068045ae29": {
+      "date": "2026-03-22",
+      "title": "hsliuping / TradingAgents-CN",
+      "source": "github"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-03-22",
+      "title": "harry0703 / MoneyPrinterTurbo",
       "source": "github"
     }
   }
