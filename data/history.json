@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-22T22:57:19.827974",
+  "last_updated": "2026-03-23T23:04:01.733407",
   "sent_items": {
-    "db0e76466dc21fce": {
-      "date": "2026-02-20",
-      "title": "Google Pomelli - Photoshoot",
-      "source": "producthunt"
-    },
-    "d9a017bd8f1a76a0": {
-      "date": "2026-02-20",
-      "title": "Coasty",
-      "source": "producthunt"
-    },
-    "92ca6d6059f0efde": {
-      "date": "2026-02-20",
-      "title": "Claudebin",
-      "source": "producthunt"
-    },
-    "bc976c21e9743395": {
-      "date": "2026-02-20",
-      "title": "keychains.dev",
-      "source": "producthunt"
-    },
-    "d226bc785504a28b": {
-      "date": "2026-02-20",
-      "title": "Arcmark",
-      "source": "producthunt"
-    },
-    "123d2c1f141f0913": {
-      "date": "2026-02-20",
-      "title": "Guideless",
-      "source": "producthunt"
-    },
-    "8ddc8d74d54944e6": {
-      "date": "2026-02-20",
-      "title": "PI-Link Speed Radar",
-      "source": "producthunt"
-    },
-    "c859354a08b011a6": {
-      "date": "2026-02-20",
-      "title": "Keep Android Open",
-      "source": "hackernews"
-    },
-    "5dd1e28ade37712b": {
-      "date": "2026-02-20",
-      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-      "source": "hackernews"
-    },
-    "69b07f7460b26f63": {
-      "date": "2026-02-20",
-      "title": "Facebook is cooked",
-      "source": "hackernews"
-    },
-    "83c0091350ba5c3a": {
-      "date": "2026-02-20",
-      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-      "source": "hackernews"
-    },
-    "1b6da089d2b6993d": {
-      "date": "2026-02-20",
-      "title": "I found a Vulnerability. They found a Lawyer",
-      "source": "hackernews"
-    },
-    "04cf99fc021d64bb": {
-      "date": "2026-02-20",
-      "title": "Turn Dependabot Off",
-      "source": "hackernews"
-    },
-    "4310baa90d6135fd": {
-      "date": "2026-02-20",
-      "title": "Blue light filters don't work – controlling total luminance is a better bet",
-      "source": "hackernews"
-    },
-    "9ff04544b0ffa4d5": {
-      "date": "2026-02-20",
-      "title": "OpenScan",
-      "source": "hackernews"
-    },
-    "3dce2fb0e4b6bd4b": {
-      "date": "2026-02-20",
-      "title": "Uncovering insiders and alpha on Polymarket with AI",
-      "source": "hackernews"
-    },
-    "3b0b0b463bf3a2a1": {
-      "date": "2026-02-20",
-      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
-      "source": "hackernews"
-    },
-    "85770197f1cb7d8d": {
-      "date": "2026-02-20",
-      "title": "vxcontrol / pentagi",
-      "source": "github"
-    },
-    "da590e70e40b55bf": {
-      "date": "2026-02-20",
-      "title": "blackboardsh / electrobun",
-      "source": "github"
-    },
-    "6fb08428e288194e": {
-      "date": "2026-02-20",
-      "title": "PostHog / posthog",
-      "source": "github"
-    },
-    "0666c423761a7c81": {
-      "date": "2026-02-20",
-      "title": "eslint / eslint",
-      "source": "github"
-    },
-    "d3905385e8279fd0": {
-      "date": "2026-02-20",
-      "title": "Effect-TS / effect-smol",
-      "source": "github"
-    },
-    "17a133fee8f3ef38": {
-      "date": "2026-02-20",
-      "title": "google-research / timesfm",
-      "source": "github"
-    },
-    "89bbfafe215d8de5": {
-      "date": "2026-02-20",
-      "title": "roboflow / trackers",
-      "source": "github"
-    },
-    "928195ecaee541cc": {
-      "date": "2026-02-20",
-      "title": "huggingface / skills",
-      "source": "github"
-    },
-    "e1f26f1ac01ccedf": {
-      "date": "2026-02-20",
-      "title": "databricks-solutions / ai-dev-kit",
-      "source": "github"
-    },
-    "09716c77cd35fd0b": {
-      "date": "2026-02-20",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "8ed2a453073032fc": {
-      "date": "2026-02-20",
-      "title": "The Meter Was Always Running",
-      "source": "devto"
-    },
-    "637de736ed39efce": {
-      "date": "2026-02-20",
-      "title": "I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong (And Why It’s Not Their Fault)",
-      "source": "devto"
-    },
-    "a0435dfee8b4c466": {
-      "date": "2026-02-20",
-      "title": "What Do You Want to Know About Antigravity?",
-      "source": "devto"
-    },
-    "77223b26753321a7": {
-      "date": "2026-02-20",
-      "title": "The hosting setup nobody talks about anymore",
-      "source": "devto"
-    },
-    "0a6d82330bfe6a8b": {
-      "date": "2026-02-20",
-      "title": "How to Build a Research Assistant using Deep Agents",
-      "source": "devto"
-    },
-    "4b7cf65f683932aa": {
-      "date": "2026-02-20",
-      "title": "What does MLH stand for?",
-      "source": "devto"
-    },
-    "d2a3f47bbea6a906": {
-      "date": "2026-02-20",
-      "title": "The Promotion I Didn't Get Taught Me More Than the One I Did",
-      "source": "devto"
-    },
-    "301aab1e71106a6c": {
-      "date": "2026-02-20",
-      "title": "AI Coding Tools and the Runtime Context Gap",
-      "source": "devto"
-    },
-    "45918878867850dd": {
-      "date": "2026-02-20",
-      "title": "I Tried Running File Conversion Fully in the Browser (WASM, LibreOffice, FFmpeg)",
-      "source": "devto"
-    },
     "f663969f15e50435": {
       "date": "2026-02-21",
       "title": "I verified my LinkedIn identity. Here's what I handed over",
@@ -4860,6 +4680,171 @@
     "7c09473f1ffc3548": {
       "date": "2026-03-22",
       "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "16842075c63b1378": {
+      "date": "2026-03-23",
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "source": "hackernews"
+    },
+    "c08826cc2e79e1b5": {
+      "date": "2026-03-23",
+      "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
+      "source": "hackernews"
+    },
+    "6a2f37359fc3b82d": {
+      "date": "2026-03-23",
+      "title": "Autoresearch on an old research idea",
+      "source": "hackernews"
+    },
+    "bbae3878f6e50b61": {
+      "date": "2026-03-23",
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "source": "hackernews"
+    },
+    "ff3b5448aebbea6d": {
+      "date": "2026-03-23",
+      "title": "Finding all regex matches has always been O(n²)",
+      "source": "hackernews"
+    },
+    "86f309f05dce6861": {
+      "date": "2026-03-23",
+      "title": "Local Stack Archived their GitHub repo and requires an account to run",
+      "source": "hackernews"
+    },
+    "05b31e694e6ce14e": {
+      "date": "2026-03-23",
+      "title": "How I'm Productive with Claude Code",
+      "source": "hackernews"
+    },
+    "07995d0b897c76d6": {
+      "date": "2026-03-23",
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "source": "hackernews"
+    },
+    "8e5cf7d246e99dc4": {
+      "date": "2026-03-23",
+      "title": "Printable Claude Code Cheat Sheet (auto-updated daily)",
+      "source": "hackernews"
+    },
+    "550fc89b3c98fb57": {
+      "date": "2026-03-23",
+      "title": "Hacker Mints $80M USD Worth of USR Stablecoins",
+      "source": "hackernews"
+    },
+    "957070100b19e58c": {
+      "date": "2026-03-23",
+      "title": "Claude Usage Tracker",
+      "source": "producthunt"
+    },
+    "19df4ded2f5810a7": {
+      "date": "2026-03-23",
+      "title": "Tobira.ai",
+      "source": "producthunt"
+    },
+    "27d45aeff1af9e76": {
+      "date": "2026-03-23",
+      "title": "Iris",
+      "source": "producthunt"
+    },
+    "b94a0a7b7b4df241": {
+      "date": "2026-03-23",
+      "title": "DataSieve 2.0",
+      "source": "producthunt"
+    },
+    "6e4724e6f4505271": {
+      "date": "2026-03-23",
+      "title": "Fastlane",
+      "source": "producthunt"
+    },
+    "132f4ef9707f280c": {
+      "date": "2026-03-23",
+      "title": "AlphaClaw Apex",
+      "source": "producthunt"
+    },
+    "7b362647b9290c63": {
+      "date": "2026-03-23",
+      "title": "WeixinClawBot",
+      "source": "producthunt"
+    },
+    "5b654261636a0ec2": {
+      "date": "2026-03-23",
+      "title": "Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)",
+      "source": "devto"
+    },
+    "79a7bc4b126f74a0": {
+      "date": "2026-03-23",
+      "title": "Meme Monday",
+      "source": "devto"
+    },
+    "e3d03d196617195f": {
+      "date": "2026-03-23",
+      "title": "The Most Painful Career Lesson My Best Job Taught Me",
+      "source": "devto"
+    },
+    "c9164aa8bca3f2c8": {
+      "date": "2026-03-23",
+      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
+      "source": "devto"
+    },
+    "88afaad54b920430": {
+      "date": "2026-03-23",
+      "title": "I Built an MCP Server to Automate Dropshipping Product Imports",
+      "source": "devto"
+    },
+    "2ca7b05842e55dac": {
+      "date": "2026-03-23",
+      "title": "Building a Weather Station Using an Old Raspberry Pi",
+      "source": "devto"
+    },
+    "81ad5bc517f3ce66": {
+      "date": "2026-03-23",
+      "title": "My Portfolio's AI Chatbot Hates Its Job. It's the Best Career Decision I've Made.",
+      "source": "devto"
+    },
+    "7f9d2a55019018d1": {
+      "date": "2026-03-23",
+      "title": "I built an open-source \\\"limbic system\\\" for AI agents — emotion, bias, and memory as MCP servers",
+      "source": "devto"
+    },
+    "c140b0b3eb35485d": {
+      "date": "2026-03-23",
+      "title": "The Illusion of the Human Touch",
+      "source": "devto"
+    },
+    "ef040ab441ecfa56": {
+      "date": "2026-03-23",
+      "title": "Designing an AI That Remembers: How We Built a Coding Mentor with a \"Human\" Memory",
+      "source": "devto"
+    },
+    "26bcca7d7b544736": {
+      "date": "2026-03-23",
+      "title": "tinygrad / tinygrad",
+      "source": "github"
+    },
+    "73c10ecbf681fc5a": {
+      "date": "2026-03-23",
+      "title": "jingyaogong / minimind",
+      "source": "github"
+    },
+    "333ac7fd8f02fc43": {
+      "date": "2026-03-23",
+      "title": "kepano / obsidian-skills",
+      "source": "github"
+    },
+    "6441a71a96a5c444": {
+      "date": "2026-03-23",
+      "title": "czlonkowski / n8n-mcp",
+      "source": "github"
+    },
+    "b11d32bac2710243": {
+      "date": "2026-03-23",
+      "title": "iptv-org / iptv",
+      "source": "github"
+    },
+    "ec2b5bfa19731be2": {
+      "date": "2026-03-23",
+      "title": "hesreallyhim / awesome-claude-code",
       "source": "github"
     }
   }
