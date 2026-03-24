@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-23T23:04:01.733407",
+  "last_updated": "2026-03-24T23:03:15.541724",
   "sent_items": {
-    "f663969f15e50435": {
-      "date": "2026-02-21",
-      "title": "I verified my LinkedIn identity. Here's what I handed over",
-      "source": "hackernews"
-    },
-    "581a5c9670efc0f9": {
-      "date": "2026-02-21",
-      "title": "How far back in time can you understand English?",
-      "source": "hackernews"
-    },
-    "d714936b4ab8636f": {
-      "date": "2026-02-21",
-      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-      "source": "hackernews"
-    },
-    "e86d36a24d90da91": {
-      "date": "2026-02-21",
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "source": "hackernews"
-    },
-    "625814b60c54c5cc": {
-      "date": "2026-02-21",
-      "title": "I Don't Like Magic",
-      "source": "hackernews"
-    },
-    "dd30f1d4323cdcec": {
-      "date": "2026-02-21",
-      "title": "When Code is Free, Why is Claude is an Electron app?",
-      "source": "hackernews"
-    },
-    "fd70e2cfa5878e63": {
-      "date": "2026-02-21",
-      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-      "source": "hackernews"
-    },
-    "b3dbe95d33322f49": {
-      "date": "2026-02-21",
-      "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
-      "source": "hackernews"
-    },
-    "de667323dbd5dfb4": {
-      "date": "2026-02-21",
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "source": "hackernews"
-    },
-    "81a2f4d2e94f309d": {
-      "date": "2026-02-21",
-      "title": "Password managers less secure than promised",
-      "source": "hackernews"
-    },
-    "d1ff6f1e6c3d23a9": {
-      "date": "2026-02-21",
-      "title": "Rork Max",
-      "source": "producthunt"
-    },
-    "c226f35f284d7e81": {
-      "date": "2026-02-21",
-      "title": "PulseKit",
-      "source": "producthunt"
-    },
-    "4060351c01d24e8a": {
-      "date": "2026-02-21",
-      "title": "Woise",
-      "source": "producthunt"
-    },
-    "8ea7e7335b552229": {
-      "date": "2026-02-21",
-      "title": "Prism Videos",
-      "source": "producthunt"
-    },
-    "b17ec740a0285f99": {
-      "date": "2026-02-21",
-      "title": "WANotifier",
-      "source": "producthunt"
-    },
-    "dbc5c7b85f0c078d": {
-      "date": "2026-02-21",
-      "title": "Lyria 3 by Google Deepmind",
-      "source": "producthunt"
-    },
-    "46e24096af5aa5e6": {
-      "date": "2026-02-21",
-      "title": "abhigyanpatwari / GitNexus",
-      "source": "github"
-    },
-    "948e14202b264559": {
-      "date": "2026-02-21",
-      "title": "PowerShell / PowerShell",
-      "source": "github"
-    },
-    "1e61851c7eb0065b": {
-      "date": "2026-02-21",
-      "title": "anthropics / claude-code",
-      "source": "github"
-    },
-    "97f521215cf5512d": {
-      "date": "2026-02-21",
-      "title": "stan-smith / FossFLOW",
-      "source": "github"
-    },
-    "4c6e2b5d342dc532": {
-      "date": "2026-02-21",
-      "title": "ggml-org / ggml",
-      "source": "github"
-    },
-    "dac0f50fad3f86f4": {
-      "date": "2026-02-21",
-      "title": "Stremio / stremio-web",
-      "source": "github"
-    },
-    "d3b459a921b895af": {
-      "date": "2026-02-21",
-      "title": "cloudflare / agents",
-      "source": "github"
-    },
-    "1c8ca2374a6403a1": {
-      "date": "2026-02-21",
-      "title": "hiddify / hiddify-app",
-      "source": "github"
-    },
-    "9a467a929952d4db": {
-      "date": "2026-02-21",
-      "title": "StackOverflow - was it worth it?",
-      "source": "devto"
-    },
-    "de27d1794d824ba1": {
-      "date": "2026-02-21",
-      "title": "I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup",
-      "source": "devto"
-    },
-    "a80414c6cd91a5ef": {
-      "date": "2026-02-21",
-      "title": "Your Article Isn’t the Real Content",
-      "source": "devto"
-    },
-    "b9d506289f7f8899": {
-      "date": "2026-02-21",
-      "title": "Are markdown files becoming the new dot files?",
-      "source": "devto"
-    },
-    "2d9065f7a5c5d420": {
-      "date": "2026-02-21",
-      "title": "98 Bytes That Prove Your Document Existed",
-      "source": "devto"
-    },
-    "6a677a0157e5a85a": {
-      "date": "2026-02-21",
-      "title": "I Kept Enjoying Game Programming—and Ended Up with 500 Homemade Games",
-      "source": "devto"
-    },
-    "0352b4c1ca255383": {
-      "date": "2026-02-21",
-      "title": "I'm a dyslexic developer. Here is why I built a task tracker to escape the \"Wall of Text\"",
-      "source": "devto"
-    },
-    "3964353d697e2f9f": {
-      "date": "2026-02-21",
-      "title": "Optimizing OCR Performance on Mobile: From 5 Seconds to Under 1 Second",
-      "source": "devto"
-    },
-    "a27df484248a35fc": {
-      "date": "2026-02-21",
-      "title": "I built a web capture API in my spare time. Here is what happened when I added AI voice narration.",
-      "source": "devto"
-    },
-    "13df32e5c4a9c437": {
-      "date": "2026-02-21",
-      "title": "localhost to deploy..project that changed my thinking....",
-      "source": "devto"
-    },
     "1b630a4528e975fa": {
       "date": "2026-02-22",
       "title": "Claude in PowerPoint",
@@ -4846,6 +4676,161 @@
       "date": "2026-03-23",
       "title": "hesreallyhim / awesome-claude-code",
       "source": "github"
+    },
+    "6eae6031a4140bbd": {
+      "date": "2026-03-24",
+      "title": "Flux",
+      "source": "producthunt"
+    },
+    "1601998fdfebaa7a": {
+      "date": "2026-03-24",
+      "title": "What The Duck!",
+      "source": "producthunt"
+    },
+    "d35143ead8ff880d": {
+      "date": "2026-03-24",
+      "title": "Navox Network",
+      "source": "producthunt"
+    },
+    "81ee6caf9a9778f7": {
+      "date": "2026-03-24",
+      "title": "LelaAI",
+      "source": "producthunt"
+    },
+    "0b122e50ae4c61bf": {
+      "date": "2026-03-24",
+      "title": "TypeScript 6.0",
+      "source": "producthunt"
+    },
+    "eca863eb653dad16": {
+      "date": "2026-03-24",
+      "title": "imgcmd",
+      "source": "producthunt"
+    },
+    "a32f17700868e1ec": {
+      "date": "2026-03-24",
+      "title": "Drift",
+      "source": "producthunt"
+    },
+    "6b9751c30690b678": {
+      "date": "2026-03-24",
+      "title": "Cekura",
+      "source": "producthunt"
+    },
+    "409812603e568aea": {
+      "date": "2026-03-24",
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "source": "hackernews"
+    },
+    "388c33cda9b563ef": {
+      "date": "2026-03-24",
+      "title": "Apple Business",
+      "source": "hackernews"
+    },
+    "4cb3a132db311572": {
+      "date": "2026-03-24",
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "source": "hackernews"
+    },
+    "54e1a81b32edfae4": {
+      "date": "2026-03-24",
+      "title": "Arm AGI CPU",
+      "source": "hackernews"
+    },
+    "378648c23452a1e4": {
+      "date": "2026-03-24",
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "source": "hackernews"
+    },
+    "f4b3ff08e1294e09": {
+      "date": "2026-03-24",
+      "title": "Hypothesis, Antithesis, synthesis",
+      "source": "hackernews"
+    },
+    "985455d52654e6f2": {
+      "date": "2026-03-24",
+      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+      "source": "hackernews"
+    },
+    "0fe599934ce7271a": {
+      "date": "2026-03-24",
+      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+      "source": "hackernews"
+    },
+    "9326329d42304cfe": {
+      "date": "2026-03-24",
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "source": "hackernews"
+    },
+    "af10af4ccc2d020b": {
+      "date": "2026-03-24",
+      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+      "source": "hackernews"
+    },
+    "f3ea32c160be052c": {
+      "date": "2026-03-24",
+      "title": "pascalorg / editor",
+      "source": "github"
+    },
+    "c48c82e47f720318": {
+      "date": "2026-03-24",
+      "title": "supermemoryai / supermemory",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-03-24",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "bd3bf3d1dd983ec0": {
+      "date": "2026-03-24",
+      "title": "The Ultimate Job Finding-Management Tool",
+      "source": "devto"
+    },
+    "bd0583108f22bdee": {
+      "date": "2026-03-24",
+      "title": "Check Up with Each Other",
+      "source": "devto"
+    },
+    "cdd919fdbaa46a2d": {
+      "date": "2026-03-24",
+      "title": "AI Writes Code. You Own Quality.",
+      "source": "devto"
+    },
+    "26c5733b7371343b": {
+      "date": "2026-03-24",
+      "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
+      "source": "devto"
+    },
+    "456a23c90883a184": {
+      "date": "2026-03-24",
+      "title": "Implementing a RAG system: Crawl",
+      "source": "devto"
+    },
+    "f02d7b402098a2c6": {
+      "date": "2026-03-24",
+      "title": "Construí um gerador de playlists no Spotify com Claude",
+      "source": "devto"
+    },
+    "83570676fc227ee0": {
+      "date": "2026-03-24",
+      "title": "Deploying AG-UI Agents to Production with Amazon Bedrock AgentCore",
+      "source": "devto"
+    },
+    "dca7ea36b09c9947": {
+      "date": "2026-03-24",
+      "title": "From Engineering Floor to App Store: What 10 Years as a Manufacturing Engineer Taught Me About Build",
+      "source": "devto"
+    },
+    "eca975f17b121c8b": {
+      "date": "2026-03-24",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "3f642d00e5c76fd3": {
+      "date": "2026-03-24",
+      "title": "Why Purging Nginx Cache Is Only Half the Job (And How I Built the Other Half)",
+      "source": "devto"
     }
   }
 }
