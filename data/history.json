@@ -1,132 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-24T23:03:15.541724",
+  "last_updated": "2026-03-25T23:06:30.892087",
   "sent_items": {
-    "1b630a4528e975fa": {
-      "date": "2026-02-22",
-      "title": "Claude in PowerPoint",
-      "source": "producthunt"
-    },
-    "3763f4ed4d98664f": {
-      "date": "2026-02-22",
-      "title": "Wordy",
-      "source": "producthunt"
-    },
-    "e4208d3fb42ae4e1": {
-      "date": "2026-02-22",
-      "title": "Tidy",
-      "source": "producthunt"
-    },
-    "7a8e107ca6d837bb": {
-      "date": "2026-02-22",
-      "title": "Attention Media ≠ Social Networks",
-      "source": "hackernews"
-    },
-    "ddc00755200b9251": {
-      "date": "2026-02-22",
-      "title": "I built Timeframe, our family e-paper dashboard",
-      "source": "hackernews"
-    },
-    "dabc46ba7032b800": {
-      "date": "2026-02-22",
-      "title": "Fix your tools",
-      "source": "hackernews"
-    },
-    "c66648e231a7c223": {
-      "date": "2026-02-22",
-      "title": "Loops is a federated, open-source TikTok",
-      "source": "hackernews"
-    },
-    "90c41127ec08ed67": {
-      "date": "2026-02-22",
-      "title": "Show HN: Local-First Linux MicroVMs for macOS",
-      "source": "hackernews"
-    },
-    "a00810ac74a4ed76": {
-      "date": "2026-02-22",
-      "title": "Global Intelligence Crisis",
-      "source": "hackernews"
-    },
-    "cde7070e991255f8": {
-      "date": "2026-02-22",
-      "title": "Linuxulator on FreeBSD Feels Like Magic",
-      "source": "hackernews"
-    },
-    "274fa5be4e10f7ef": {
-      "date": "2026-02-22",
-      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
-      "source": "hackernews"
-    },
-    "b087b463e0459f3f": {
-      "date": "2026-02-22",
-      "title": "Algolia Hacker News Search GitHub Project Archived",
-      "source": "hackernews"
-    },
-    "7de9f98a57d5ecfa": {
-      "date": "2026-02-22",
-      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-      "source": "hackernews"
-    },
-    "58c322f57d693443": {
-      "date": "2026-02-22",
-      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
-      "source": "github"
-    },
-    "aa52d8501eee42c2": {
-      "date": "2026-02-22",
-      "title": "OpenBB-finance / OpenBB",
-      "source": "github"
-    },
-    "d8ef8b2a0cd1d64e": {
-      "date": "2026-02-22",
-      "title": "I Left My First Hackathon at 8 PM — And it Was a Massive Success!",
-      "source": "devto"
-    },
-    "ee0fe7e93f370bbf": {
-      "date": "2026-02-22",
-      "title": "I feel lost on AI",
-      "source": "devto"
-    },
-    "a86ad88b7f1743a6": {
-      "date": "2026-02-22",
-      "title": "LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good ",
-      "source": "devto"
-    },
-    "e1db049804e9cf3c": {
-      "date": "2026-02-22",
-      "title": "I Built a Tiny MCP That Understands Your Code and Saves 70% Tokens",
-      "source": "devto"
-    },
-    "0ca19a524648c08b": {
-      "date": "2026-02-22",
-      "title": "Promotions Don't Go to the Best Coders (Here's Why)",
-      "source": "devto"
-    },
-    "eb5c3ff6a0a3da98": {
-      "date": "2026-02-22",
-      "title": "Migrating from DataWeave 1.0 to 2.0: A Practical Guide",
-      "source": "devto"
-    },
-    "d31d3423223b6dab": {
-      "date": "2026-02-22",
-      "title": "The time bomb in your codebase (and mine too)",
-      "source": "devto"
-    },
-    "eba095275f3e7064": {
-      "date": "2026-02-22",
-      "title": "Cursor deleted all the comments in my file",
-      "source": "devto"
-    },
-    "ce66f6f8a31e3c03": {
-      "date": "2026-02-22",
-      "title": "I Built a Free yt-dlp Web Frontend That Supports 1000+ Sites — Here's How",
-      "source": "devto"
-    },
-    "f73444f99db836e9": {
-      "date": "2026-02-22",
-      "title": "I built a note-taking app where I literally can't access your data",
-      "source": "devto"
-    },
     "9227c5e46bacde6f": {
       "date": "2026-02-23",
       "title": "Callio",
@@ -4831,6 +4706,161 @@
       "date": "2026-03-24",
       "title": "Why Purging Nginx Cache Is Only Half the Job (And How I Built the Other Half)",
       "source": "devto"
+    },
+    "8c6e1536e32043bd": {
+      "date": "2026-03-25",
+      "title": "My astrophotography in the movie Project Hail Mary",
+      "source": "hackernews"
+    },
+    "fd40b72e2a29edba": {
+      "date": "2026-03-25",
+      "title": "The EU still wants to scan  your private messages and photos",
+      "source": "hackernews"
+    },
+    "fb42f84165c9b340": {
+      "date": "2026-03-25",
+      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+      "source": "hackernews"
+    },
+    "0898a31dce5a987d": {
+      "date": "2026-03-25",
+      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+      "source": "hackernews"
+    },
+    "b8ccf1d0a47ec968": {
+      "date": "2026-03-25",
+      "title": "ARC-AGI-3",
+      "source": "hackernews"
+    },
+    "ac1a06a44a910ba6": {
+      "date": "2026-03-25",
+      "title": "Quantization from the Ground Up",
+      "source": "hackernews"
+    },
+    "3b414c87822711af": {
+      "date": "2026-03-25",
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "source": "hackernews"
+    },
+    "e9c9f3acab4a41ad": {
+      "date": "2026-03-25",
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "source": "hackernews"
+    },
+    "64d7a7514c8eb5f6": {
+      "date": "2026-03-25",
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "source": "hackernews"
+    },
+    "46f277e05bfd1cce": {
+      "date": "2026-03-25",
+      "title": "My DIY FPGA board can run Quake II",
+      "source": "hackernews"
+    },
+    "c1e07b347c33f152": {
+      "date": "2026-03-25",
+      "title": "CronBox",
+      "source": "producthunt"
+    },
+    "145e005ec8012361": {
+      "date": "2026-03-25",
+      "title": "Uni-1 by Luma",
+      "source": "producthunt"
+    },
+    "f788458cd1c6dafa": {
+      "date": "2026-03-25",
+      "title": "Magine",
+      "source": "producthunt"
+    },
+    "29663c10143b47e3": {
+      "date": "2026-03-25",
+      "title": "Descent",
+      "source": "producthunt"
+    },
+    "c704940f4b984839": {
+      "date": "2026-03-25",
+      "title": "agumbe.dev",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-03-25",
+      "title": "Basedash Insights",
+      "source": "producthunt"
+    },
+    "badc4c54c91f8f56": {
+      "date": "2026-03-25",
+      "title": "Axra",
+      "source": "producthunt"
+    },
+    "84bed60e783adb35": {
+      "date": "2026-03-25",
+      "title": "Pendium",
+      "source": "producthunt"
+    },
+    "6964616d3db41fdb": {
+      "date": "2026-03-25",
+      "title": "your agent can think. it can't remember.",
+      "source": "devto"
+    },
+    "149c1fec08ae0d5a": {
+      "date": "2026-03-25",
+      "title": "Why hiring junior developers pays off more than you think (I’ve lived it firsthand)",
+      "source": "devto"
+    },
+    "9f88a4c3b7fb0347": {
+      "date": "2026-03-25",
+      "title": "NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠",
+      "source": "devto"
+    },
+    "3963a290bcb29638": {
+      "date": "2026-03-25",
+      "title": "I Built a Clipboard Manager for Kali Linux — And Learned Way More Than Expected",
+      "source": "devto"
+    },
+    "f6e74712a6fce5aa": {
+      "date": "2026-03-25",
+      "title": "Vim + Markdown = Writer's Heaven",
+      "source": "devto"
+    },
+    "67b6e2e1a0a081b9": {
+      "date": "2026-03-25",
+      "title": "Run Away From Work — Stopped Using React for the Game Loop",
+      "source": "devto"
+    },
+    "518ee64dab6e755d": {
+      "date": "2026-03-25",
+      "title": "Free LocalStack Alternative — 20 AWS Services and counting",
+      "source": "devto"
+    },
+    "c36bdd419c00481e": {
+      "date": "2026-03-25",
+      "title": "Integrating Vuetify v4 with TailwindCSS v4 in a Vite project",
+      "source": "devto"
+    },
+    "b982ec1617820785": {
+      "date": "2026-03-25",
+      "title": "Zero-copy protobuf and ConnectRPC for Rust",
+      "source": "devto"
+    },
+    "4c8254f46aa5da2a": {
+      "date": "2026-03-25",
+      "title": "When to Use Multi-Agent Systems (And When Not To)",
+      "source": "devto"
+    },
+    "04c2ea756fd7e571": {
+      "date": "2026-03-25",
+      "title": "BerriAI / litellm",
+      "source": "github"
+    },
+    "5262a644f99afae7": {
+      "date": "2026-03-25",
+      "title": "letta-ai / claude-subconscious",
+      "source": "github"
+    },
+    "11576ef07d08cff8": {
+      "date": "2026-03-25",
+      "title": "usestrix / strix",
+      "source": "github"
     }
   }
 }
