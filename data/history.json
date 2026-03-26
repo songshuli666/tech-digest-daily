@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-25T23:06:30.892087",
+  "last_updated": "2026-03-26T22:59:56.514346",
   "sent_items": {
-    "9227c5e46bacde6f": {
-      "date": "2026-02-23",
-      "title": "Callio",
-      "source": "producthunt"
-    },
-    "ed789aa971c9bd0a": {
-      "date": "2026-02-23",
-      "title": "Seagull",
-      "source": "producthunt"
-    },
-    "2df29dce83775f94": {
-      "date": "2026-02-23",
-      "title": "Wispr Flow for Android",
-      "source": "producthunt"
-    },
-    "e76c51e8118c4b05": {
-      "date": "2026-02-23",
-      "title": "OpenHunt",
-      "source": "producthunt"
-    },
-    "51002bac3ea1c32d": {
-      "date": "2026-02-23",
-      "title": "App Cleaner & Uninstaller 9.1",
-      "source": "producthunt"
-    },
-    "665701e565e8eac7": {
-      "date": "2026-02-23",
-      "title": "YAP",
-      "source": "producthunt"
-    },
-    "1b9abb0d48d2a284": {
-      "date": "2026-02-23",
-      "title": "PipedriveSheets",
-      "source": "producthunt"
-    },
-    "c6a4e2af64a12ecd": {
-      "date": "2026-02-23",
-      "title": "AnnotateAI",
-      "source": "producthunt"
-    },
-    "bdb351474b37c0cb": {
-      "date": "2026-02-23",
-      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "source": "hackernews"
-    },
-    "8d8fe75a9c447c42": {
-      "date": "2026-02-23",
-      "title": "Ladybird adopts Rust",
-      "source": "hackernews"
-    },
-    "318525fe36e06537": {
-      "date": "2026-02-23",
-      "title": "Elsevier shuts down its finance journal citation cartel",
-      "source": "hackernews"
-    },
-    "a63868c9573d71ff": {
-      "date": "2026-02-23",
-      "title": "Americans are destroying Flock surveillance cameras",
-      "source": "hackernews"
-    },
-    "9e6d85f69f49ad03": {
-      "date": "2026-02-23",
-      "title": "Flock cameras gifted by Horowitz Foundation, avoiding public oversight",
-      "source": "hackernews"
-    },
-    "c014d83c88a19e73": {
-      "date": "2026-02-23",
-      "title": "Show HN: PgDog – Scale Postgres without changing the app",
-      "source": "hackernews"
-    },
-    "5ea22df841ffe913": {
-      "date": "2026-02-23",
-      "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
-      "source": "hackernews"
-    },
-    "59ea00fc5cc9e68b": {
-      "date": "2026-02-23",
-      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
-      "source": "hackernews"
-    },
-    "6b567ece34fa3535": {
-      "date": "2026-02-23",
-      "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
-      "source": "hackernews"
-    },
-    "2d97bbb594c8004f": {
-      "date": "2026-02-23",
-      "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
-      "source": "hackernews"
-    },
-    "251033f709a8ef6a": {
-      "date": "2026-02-23",
-      "title": "muratcankoylan / Agent-Skills-for-Context-Engineering",
-      "source": "github"
-    },
-    "f4dc7845d5a0da45": {
-      "date": "2026-02-23",
-      "title": "f / prompts.chat",
-      "source": "github"
-    },
-    "334df41a788ba98a": {
-      "date": "2026-02-23",
-      "title": "CompVis / stable-diffusion",
-      "source": "github"
-    },
-    "409c29b9ffd2c331": {
-      "date": "2026-02-23",
-      "title": "siteboon / claudecodeui",
-      "source": "github"
-    },
-    "bf149dba61d06599": {
-      "date": "2026-02-23",
-      "title": "clash-verge-rev / clash-verge-rev",
-      "source": "github"
-    },
-    "7022a6629c7a83e6": {
-      "date": "2026-02-23",
-      "title": "A Quick Recovery Guide for AI-Dependent Coders",
-      "source": "devto"
-    },
-    "8a302f5756c59595": {
-      "date": "2026-02-23",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "09e5b6c1158bdab4": {
-      "date": "2026-02-23",
-      "title": "Sorting algorithms visualized",
-      "source": "devto"
-    },
-    "225c5c3c111f3cd3": {
-      "date": "2026-02-23",
-      "title": "I Let AI Rewrite 40% of My Codebase. Here’s What Actually Happened.",
-      "source": "devto"
-    },
-    "b30c25f1b7f79fe2": {
-      "date": "2026-02-23",
-      "title": "I Said Yes to Everything for a Year. Here's What It Cost Me.",
-      "source": "devto"
-    },
-    "26b07f908f7f6d27": {
-      "date": "2026-02-23",
-      "title": "💥How to Reduce Stress for Free (Mega Bazooka with React Three Fiber + AI)💥",
-      "source": "devto"
-    },
-    "c5911267a1eb3a96": {
-      "date": "2026-02-23",
-      "title": "I Clicked ‘Azure Portal’ and Realized How Small My World Was",
-      "source": "devto"
-    },
-    "6a371d536466b0a1": {
-      "date": "2026-02-23",
-      "title": "2026 is the New 2016 and Honestly? I Kind of Get It.",
-      "source": "devto"
-    },
-    "0150d0dc3a7095d0": {
-      "date": "2026-02-23",
-      "title": "I Built a Tool to Convert Invoice PDFs into Excel - Here’s What Surprised Me",
-      "source": "devto"
-    },
-    "0dc8e6763a13cfc8": {
-      "date": "2026-02-23",
-      "title": "Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule",
-      "source": "devto"
-    },
     "ed3e9a106b51091c": {
       "date": "2026-02-24",
       "title": "I'm helping my dog vibe code games",
@@ -4861,6 +4696,171 @@
       "date": "2026-03-25",
       "title": "usestrix / strix",
       "source": "github"
+    },
+    "021a2eee014273dc": {
+      "date": "2026-03-26",
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "source": "hackernews"
+    },
+    "a868609eddd20d67": {
+      "date": "2026-03-26",
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "source": "hackernews"
+    },
+    "f197b20ec5971aaf": {
+      "date": "2026-03-26",
+      "title": "My minute-by-minute response to the LiteLLM malware attack",
+      "source": "hackernews"
+    },
+    "07890c00fed434ba": {
+      "date": "2026-03-26",
+      "title": "DOOM Over DNS",
+      "source": "hackernews"
+    },
+    "a3a304d3103a55ca": {
+      "date": "2026-03-26",
+      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "source": "hackernews"
+    },
+    "7777e8c321414356": {
+      "date": "2026-03-26",
+      "title": "CERN to host a new phase of Open Research Europe",
+      "source": "hackernews"
+    },
+    "ac0286305141eec7": {
+      "date": "2026-03-26",
+      "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
+      "source": "hackernews"
+    },
+    "d268652acc8d89da": {
+      "date": "2026-03-26",
+      "title": "Deploytarot.com – tarot card reading for deployments",
+      "source": "hackernews"
+    },
+    "f34a9bde0fbf2e3a": {
+      "date": "2026-03-26",
+      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+      "source": "hackernews"
+    },
+    "da90e989755a54bf": {
+      "date": "2026-03-26",
+      "title": "Using FireWire on a Raspberry Pi",
+      "source": "hackernews"
+    },
+    "98f039a27d7b34ee": {
+      "date": "2026-03-26",
+      "title": "Appoval",
+      "source": "producthunt"
+    },
+    "1e06dd329e70f608": {
+      "date": "2026-03-26",
+      "title": "Zeus",
+      "source": "producthunt"
+    },
+    "5d47211db84d9262": {
+      "date": "2026-03-26",
+      "title": "Trivia by Typito AI",
+      "source": "producthunt"
+    },
+    "8e5f71284335ea58": {
+      "date": "2026-03-26",
+      "title": "Anvil",
+      "source": "producthunt"
+    },
+    "e62d8633f69865ba": {
+      "date": "2026-03-26",
+      "title": "Jentic Mini",
+      "source": "producthunt"
+    },
+    "b719cfa4c77869f0": {
+      "date": "2026-03-26",
+      "title": "PIO",
+      "source": "producthunt"
+    },
+    "3ccf0fb4584706f4": {
+      "date": "2026-03-26",
+      "title": "Luzo",
+      "source": "producthunt"
+    },
+    "8b119ab7154c93ec": {
+      "date": "2026-03-26",
+      "title": "Eron",
+      "source": "producthunt"
+    },
+    "ff81ab010fda3cfc": {
+      "date": "2026-03-26",
+      "title": "Yeachan-Heo / oh-my-claudecode",
+      "source": "github"
+    },
+    "1556da33724cda2d": {
+      "date": "2026-03-26",
+      "title": "virattt / dexter",
+      "source": "github"
+    },
+    "ec0d04fb3c57da92": {
+      "date": "2026-03-26",
+      "title": "Vaibhavs10 / insanely-fast-whisper",
+      "source": "github"
+    },
+    "4e4265489a81fda2": {
+      "date": "2026-03-26",
+      "title": "twentyhq / twenty",
+      "source": "github"
+    },
+    "0bc7a4fbd261375a": {
+      "date": "2026-03-26",
+      "title": "datalab-to / chandra",
+      "source": "github"
+    },
+    "4c59754b01cc7993": {
+      "date": "2026-03-26",
+      "title": "How I Almost Burned Out Doing Everything “Right”",
+      "source": "devto"
+    },
+    "f92f8fb64359ac11": {
+      "date": "2026-03-26",
+      "title": "The Small Details That Make a Website Feel Finished (And Quietly Improve Accessibility, Performance,",
+      "source": "devto"
+    },
+    "74e5945ef81d2959": {
+      "date": "2026-03-26",
+      "title": "The data engineer's Cortex Code cheat sheet",
+      "source": "devto"
+    },
+    "e4213bca44aaf308": {
+      "date": "2026-03-26",
+      "title": "Speed vs smarts for coding agents?",
+      "source": "devto"
+    },
+    "8780e002598b68ee": {
+      "date": "2026-03-26",
+      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
+      "source": "devto"
+    },
+    "c99e6971de6065cf": {
+      "date": "2026-03-26",
+      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
+      "source": "devto"
+    },
+    "2d4931834a57ae57": {
+      "date": "2026-03-26",
+      "title": "The Future of Coding is Communication, Not Just Code",
+      "source": "devto"
+    },
+    "8f1623a27e949aee": {
+      "date": "2026-03-26",
+      "title": "The Hackers Who Tracked My Sleep Cycle",
+      "source": "devto"
+    },
+    "584bf496281edb6a": {
+      "date": "2026-03-26",
+      "title": "The Software Architect Elevator",
+      "source": "devto"
+    },
+    "948519f270b523e7": {
+      "date": "2026-03-26",
+      "title": "The Backyard Quarry, Part 2: Designing a Schema for Physical Objects",
+      "source": "devto"
     }
   }
 }
