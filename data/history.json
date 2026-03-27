@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-26T22:59:56.514346",
+  "last_updated": "2026-03-27T23:03:59.388408",
   "sent_items": {
-    "ed3e9a106b51091c": {
-      "date": "2026-02-24",
-      "title": "I'm helping my dog vibe code games",
-      "source": "hackernews"
-    },
-    "c60813c690981168": {
-      "date": "2026-02-24",
-      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-      "source": "hackernews"
-    },
-    "073d387a48854ee8": {
-      "date": "2026-02-24",
-      "title": "How we rebuilt Next.js with AI in one week",
-      "source": "hackernews"
-    },
-    "204453ed001279f0": {
-      "date": "2026-02-24",
-      "title": "Mac mini will be made at a new facility in Houston",
-      "source": "hackernews"
-    },
-    "e6ee92627034ca36": {
-      "date": "2026-02-24",
-      "title": "Nearby Glasses",
-      "source": "hackernews"
-    },
-    "3970eed3cb3b30d7": {
-      "date": "2026-02-24",
-      "title": "Hacking an old Kindle to display bus arrival times",
-      "source": "hackernews"
-    },
-    "77f9d587ba816a6c": {
-      "date": "2026-02-24",
-      "title": "Looks like it is happening",
-      "source": "hackernews"
-    },
-    "6e210223a6c75373": {
-      "date": "2026-02-24",
-      "title": "Show HN: Emdash – Open-source agentic development environment",
-      "source": "hackernews"
-    },
-    "3f11e4819876adf0": {
-      "date": "2026-02-24",
-      "title": "Pi – a minimal terminal coding harness",
-      "source": "hackernews"
-    },
-    "cb4c42d6da206459": {
-      "date": "2026-02-24",
-      "title": "toktrack",
-      "source": "producthunt"
-    },
-    "58546d5bcd517a8a": {
-      "date": "2026-02-24",
-      "title": "What YC Is Really Betting On?",
-      "source": "producthunt"
-    },
-    "4d05535cfccf8b18": {
-      "date": "2026-02-24",
-      "title": "Ziva.sh",
-      "source": "producthunt"
-    },
-    "28b40685a463ebfe": {
-      "date": "2026-02-24",
-      "title": "Dock 3.0",
-      "source": "producthunt"
-    },
-    "351776e22b73cf27": {
-      "date": "2026-02-24",
-      "title": "Dictato",
-      "source": "producthunt"
-    },
-    "ef4d8d2b3694315a": {
-      "date": "2026-02-24",
-      "title": "Just The Article Please",
-      "source": "producthunt"
-    },
-    "871c4c61e39ae8d2": {
-      "date": "2026-02-24",
-      "title": "Falconer",
-      "source": "producthunt"
-    },
-    "bff213be04ac224d": {
-      "date": "2026-02-24",
-      "title": "Toggle for OpenClaw",
-      "source": "producthunt"
-    },
-    "37a3be7fceddb85d": {
-      "date": "2026-02-24",
-      "title": "First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!",
-      "source": "devto"
-    },
-    "a23e651a8c30e394": {
-      "date": "2026-02-24",
-      "title": "Developers Think AI Makes Them 24% Faster. The Data Says 19% Slower.",
-      "source": "devto"
-    },
-    "fae5e5677638b78d": {
-      "date": "2026-02-24",
-      "title": "The Increasing Need for Human Connection in the Age of AI",
-      "source": "devto"
-    },
-    "b264d98d029ce35d": {
-      "date": "2026-02-24",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "3bbbfb73c951200d": {
-      "date": "2026-02-24",
-      "title": "🗓️ Monthly Dev Report: February 2026",
-      "source": "devto"
-    },
-    "1fe56a3aaf889715": {
-      "date": "2026-02-24",
-      "title": "Once Upon a Time, Writing Code Was Fun",
-      "source": "devto"
-    },
-    "3faef21ab155bd62": {
-      "date": "2026-02-24",
-      "title": "You Are Absolutely Right",
-      "source": "devto"
-    },
-    "6c1725d809edc387": {
-      "date": "2026-02-24",
-      "title": "We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here's What We Found",
-      "source": "devto"
-    },
-    "fe5f8e9fe2bdb6bd": {
-      "date": "2026-02-24",
-      "title": "Code Review for TypeScript React: What to Look For",
-      "source": "devto"
-    },
-    "8504cedaa74ac157": {
-      "date": "2026-02-24",
-      "title": "Doctrine ORM: How I Escaped the Cartesian Product Trap",
-      "source": "devto"
-    },
-    "39269ed7661b78ab": {
-      "date": "2026-02-24",
-      "title": "ruvnet / ruvector",
-      "source": "github"
-    },
-    "76a267c59bdc6676": {
-      "date": "2026-02-24",
-      "title": "D4Vinci / Scrapling",
-      "source": "github"
-    },
-    "a7e88f210d841bd3": {
-      "date": "2026-02-24",
-      "title": "GVCLab / PersonaLive",
-      "source": "github"
-    },
-    "313f5b1e67ddc488": {
-      "date": "2026-02-24",
-      "title": "HunxByts / GhostTrack",
-      "source": "github"
-    },
-    "3db65f772405599e": {
-      "date": "2026-02-24",
-      "title": "openemr / openemr",
-      "source": "github"
-    },
     "faea15102266a711": {
       "date": "2026-02-25",
       "title": "Mercury 2",
@@ -4860,6 +4700,171 @@
     "948519f270b523e7": {
       "date": "2026-03-26",
       "title": "The Backyard Quarry, Part 2: Designing a Schema for Physical Objects",
+      "source": "devto"
+    },
+    "47b19dc2f23a85bd": {
+      "date": "2026-03-27",
+      "title": "Anatomy of the .claude/ folder",
+      "source": "hackernews"
+    },
+    "a3c31a172c286c3f": {
+      "date": "2026-03-27",
+      "title": "Make macOS consistently bad (unironically)",
+      "source": "hackernews"
+    },
+    "7617c78558398375": {
+      "date": "2026-03-27",
+      "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
+      "source": "hackernews"
+    },
+    "48e7a13a3bc2661a": {
+      "date": "2026-03-27",
+      "title": "Nashville library launches Memory Lab for digitizing home movies",
+      "source": "hackernews"
+    },
+    "849ce943e56bdcab": {
+      "date": "2026-03-27",
+      "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
+      "source": "hackernews"
+    },
+    "ae7bd816f39077e5": {
+      "date": "2026-03-27",
+      "title": "Telnyx package compromised on PyPI",
+      "source": "hackernews"
+    },
+    "4a98f791771c7339": {
+      "date": "2026-03-27",
+      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "source": "hackernews"
+    },
+    "746acd80828dd4d3": {
+      "date": "2026-03-27",
+      "title": "ISBN Visualization – Annas Archive",
+      "source": "hackernews"
+    },
+    "e0c9b3740a9aa97c": {
+      "date": "2026-03-27",
+      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
+      "source": "hackernews"
+    },
+    "2f345ca9f6529a0a": {
+      "date": "2026-03-27",
+      "title": "Automatically generate all 3D print files for organizing a drawer",
+      "source": "hackernews"
+    },
+    "e5ac93b8c12d03d6": {
+      "date": "2026-03-27",
+      "title": "Voxtral TTS by Mistral AI",
+      "source": "producthunt"
+    },
+    "358243d845399d63": {
+      "date": "2026-03-27",
+      "title": "1DevTool",
+      "source": "producthunt"
+    },
+    "d077ec3245831d58": {
+      "date": "2026-03-27",
+      "title": "Hunna",
+      "source": "producthunt"
+    },
+    "8346f9e2fc3b77dc": {
+      "date": "2026-03-27",
+      "title": "PickleMatch",
+      "source": "producthunt"
+    },
+    "7797569370640678": {
+      "date": "2026-03-27",
+      "title": "Stripe Projects",
+      "source": "producthunt"
+    },
+    "5793a5e4f76a751e": {
+      "date": "2026-03-27",
+      "title": "Audos Publishing House",
+      "source": "producthunt"
+    },
+    "6042b610096c928b": {
+      "date": "2026-03-27",
+      "title": "Noctiluca",
+      "source": "producthunt"
+    },
+    "966e5956d382837d": {
+      "date": "2026-03-27",
+      "title": "Supapin",
+      "source": "producthunt"
+    },
+    "bd74c2a4ab5ba468": {
+      "date": "2026-03-27",
+      "title": "hacksider / Deep-Live-Cam",
+      "source": "github"
+    },
+    "adb3b01e2e043482": {
+      "date": "2026-03-27",
+      "title": "SakanaAI / AI-Scientist-v2",
+      "source": "github"
+    },
+    "104b57e9a4316877": {
+      "date": "2026-03-27",
+      "title": "microsoft / VibeVoice",
+      "source": "github"
+    },
+    "e35a7d76c5ad7b9f": {
+      "date": "2026-03-27",
+      "title": "FreeCAD / FreeCAD",
+      "source": "github"
+    },
+    "bb9d2ce5de648740": {
+      "date": "2026-03-27",
+      "title": "onyx-dot-app / onyx",
+      "source": "github"
+    },
+    "e7a98e3fd78c89d8": {
+      "date": "2026-03-27",
+      "title": "Building Reliable Agents with the Transactional Outbox Pattern and Redis Streams",
+      "source": "devto"
+    },
+    "0ca7e315f221c4e0": {
+      "date": "2026-03-27",
+      "title": "I Love Watching the Storms Roll In",
+      "source": "devto"
+    },
+    "b3433f2d54eab6b6": {
+      "date": "2026-03-27",
+      "title": "Ghost Maintainer — An AI Junior Partner for Open Source",
+      "source": "devto"
+    },
+    "40ebba9940541c8c": {
+      "date": "2026-03-27",
+      "title": "🗓️ Monthly Dev Report: March 2026",
+      "source": "devto"
+    },
+    "1275c6de91095503": {
+      "date": "2026-03-27",
+      "title": "Why I Deleted My Custom \"Crew\" Logic Mid-Build",
+      "source": "devto"
+    },
+    "fd83e0f6eb5c047b": {
+      "date": "2026-03-27",
+      "title": "Bidirectional MCP Bridge: Turning Notion into the Human Interface for a Headless Blockchain Agent",
+      "source": "devto"
+    },
+    "81d4f6c70e35939a": {
+      "date": "2026-03-27",
+      "title": "How to Audit and Lock Down Your AI Training Data Exposure on GitHub",
+      "source": "devto"
+    },
+    "2b85410f03f9ed20": {
+      "date": "2026-03-27",
+      "title": "Cursor Used Kimi K2.5 (a Chinese AI Model) Without Disclosure — Why Every Developer Should Care",
+      "source": "devto"
+    },
+    "272824297d748f78": {
+      "date": "2026-03-27",
+      "title": "How I Built a Memory System for Claude Code and Open-Sourced It",
+      "source": "devto"
+    },
+    "a7c92f5935057a7e": {
+      "date": "2026-03-27",
+      "title": "I built a dating app that runs in your terminal and it's backend-less",
       "source": "devto"
     }
   }
