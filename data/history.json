@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-27T23:03:59.388408",
+  "last_updated": "2026-03-28T23:00:24.146199",
   "sent_items": {
-    "faea15102266a711": {
-      "date": "2026-02-25",
-      "title": "Mercury 2",
-      "source": "producthunt"
-    },
-    "0cd56e121c49a5ae": {
-      "date": "2026-02-25",
-      "title": "Arzule",
-      "source": "producthunt"
-    },
-    "ce8620f2b3648316": {
-      "date": "2026-02-25",
-      "title": "Notion Custom Agents",
-      "source": "producthunt"
-    },
-    "6bb41e475509217a": {
-      "date": "2026-02-25",
-      "title": "PeonPing",
-      "source": "producthunt"
-    },
-    "75b78f1fbcd8a224": {
-      "date": "2026-02-25",
-      "title": "Draftwise Playbook Studio",
-      "source": "producthunt"
-    },
-    "bdbb5d5465bf6df6": {
-      "date": "2026-02-25",
-      "title": "Orca",
-      "source": "producthunt"
-    },
-    "d89bc6fa8e5ae81c": {
-      "date": "2026-02-25",
-      "title": "DemoMe",
-      "source": "producthunt"
-    },
-    "8cff9187b6945972": {
-      "date": "2026-02-25",
-      "title": "Bus stop balancing is fast, cheap, and effective",
-      "source": "hackernews"
-    },
-    "c14231565e77cb06": {
-      "date": "2026-02-25",
-      "title": "The Om Programming Language",
-      "source": "hackernews"
-    },
-    "94fbe1be2769e33a": {
-      "date": "2026-02-25",
-      "title": "Jimi Hendrix was a systems engineer",
-      "source": "hackernews"
-    },
-    "fb001081fb5fd644": {
-      "date": "2026-02-25",
-      "title": "Large-Scale Online Deanonymization with LLMs",
-      "source": "hackernews"
-    },
-    "861bebf1a412a0f4": {
-      "date": "2026-02-25",
-      "title": "Windows 11 Notepad to support Markdown",
-      "source": "hackernews"
-    },
-    "f6781b6693b0cd19": {
-      "date": "2026-02-25",
-      "title": "The First Fully General Computer Action Model",
-      "source": "hackernews"
-    },
-    "ac1b08a50d0b2573": {
-      "date": "2026-02-25",
-      "title": "Making MCP cheaper via CLI",
-      "source": "hackernews"
-    },
-    "193e53dbb3ae6d8d": {
-      "date": "2026-02-25",
-      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
-      "source": "hackernews"
-    },
-    "8a80dd4c53d7aa94": {
-      "date": "2026-02-25",
-      "title": "Learnings from 4 months of Image-Video VAE experiments",
-      "source": "hackernews"
-    },
-    "e5453934753a14f7": {
-      "date": "2026-02-25",
-      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
-      "source": "hackernews"
-    },
-    "32e797feba9d0f2e": {
-      "date": "2026-02-25",
-      "title": "Join the \"Built with Google Gemini: Writing Challenge\" Presented by Major League Hacking (MLH). Win ",
-      "source": "devto"
-    },
-    "c7d1abe6250fde7d": {
-      "date": "2026-02-25",
-      "title": "The $0 Developer Phase — And How Dev.to Pulled Me Out",
-      "source": "devto"
-    },
-    "7cbd0e092baa2117": {
-      "date": "2026-02-25",
-      "title": "Stop Ignoring RFC 2324. It's the Most Important Protocol You've Never Implemented.",
-      "source": "devto"
-    },
-    "204b632d6cf244ec": {
-      "date": "2026-02-25",
-      "title": "16 Modern JavaScript Features That Might Blow Your Mind",
-      "source": "devto"
-    },
-    "89d379fefeccb787": {
-      "date": "2026-02-25",
-      "title": "How to Make Your API Agent-Ready: Design Principles for the Agentic Era",
-      "source": "devto"
-    },
-    "71fca8bd66cd5df5": {
-      "date": "2026-02-25",
-      "title": "PyLadies Dublin x Dublin C++ Feb 2026",
-      "source": "devto"
-    },
-    "ee3c3fe87da33c97": {
-      "date": "2026-02-25",
-      "title": "Code Without Purpose",
-      "source": "devto"
-    },
-    "f34ac3f64d2c8c2b": {
-      "date": "2026-02-25",
-      "title": "Welcome Thread - v366",
-      "source": "devto"
-    },
-    "03fe15f635feb11c": {
-      "date": "2026-02-25",
-      "title": "I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here's Why",
-      "source": "devto"
-    },
-    "6c3f27e78ceb2415": {
-      "date": "2026-02-25",
-      "title": "Catching Breaking API Changes Before Production (with a Chrome Extension)",
-      "source": "devto"
-    },
-    "150ed4f8b5463679": {
-      "date": "2026-02-25",
-      "title": "datawhalechina / hello-agents",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-02-25",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
-    "5fc099b31494892d": {
-      "date": "2026-02-25",
-      "title": "NVIDIA / Megatron-LM",
-      "source": "github"
-    },
-    "a09f21e37d73301d": {
-      "date": "2026-02-25",
-      "title": "shareAI-lab / learn-claude-code",
-      "source": "github"
-    },
-    "181a7629fe891965": {
-      "date": "2026-02-25",
-      "title": "katanemo / plano",
-      "source": "github"
-    },
-    "3bd1cfbeb98c86c7": {
-      "date": "2026-02-25",
-      "title": "liyupi / ai-guide",
-      "source": "github"
-    },
     "b06f935b7dc4b8a3": {
       "date": "2026-02-26",
       "title": "Zipladin",
@@ -4866,6 +4701,151 @@
       "date": "2026-03-27",
       "title": "I built a dating app that runs in your terminal and it's backend-less",
       "source": "devto"
+    },
+    "2ca49411bd50a9b6": {
+      "date": "2026-03-28",
+      "title": "WordPress Studio CLI",
+      "source": "producthunt"
+    },
+    "dc96485549927085": {
+      "date": "2026-03-28",
+      "title": "Bulk Exporter for Sora",
+      "source": "producthunt"
+    },
+    "30649c28bbd2b2c7": {
+      "date": "2026-03-28",
+      "title": "Glance",
+      "source": "producthunt"
+    },
+    "3f45ff7697a9aa43": {
+      "date": "2026-03-28",
+      "title": "Domscribe",
+      "source": "producthunt"
+    },
+    "ed13a5c76a937c5b": {
+      "date": "2026-03-28",
+      "title": "Lexaclaw",
+      "source": "producthunt"
+    },
+    "ec7ddcc42237bffd": {
+      "date": "2026-03-28",
+      "title": "CrabTalk",
+      "source": "producthunt"
+    },
+    "d72e1176734fcd37": {
+      "date": "2026-03-28",
+      "title": "Aera Browser",
+      "source": "producthunt"
+    },
+    "f6d075d58ad88875": {
+      "date": "2026-03-28",
+      "title": "RepoLens",
+      "source": "producthunt"
+    },
+    "9eada22cf394957c": {
+      "date": "2026-03-28",
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "source": "hackernews"
+    },
+    "6dcb4aa9b9bed7bc": {
+      "date": "2026-03-28",
+      "title": "AI overly affirms users asking for personal advice",
+      "source": "hackernews"
+    },
+    "96bba54b13e6643e": {
+      "date": "2026-03-28",
+      "title": "I decompiled the White House's new app",
+      "source": "hackernews"
+    },
+    "2a3c167b95f8798a": {
+      "date": "2026-03-28",
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "source": "hackernews"
+    },
+    "782dcd099d110bae": {
+      "date": "2026-03-28",
+      "title": "Linux is an interpreter",
+      "source": "hackernews"
+    },
+    "5fbfc651eee63d69": {
+      "date": "2026-03-28",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "source": "hackernews"
+    },
+    "9125101bd9963401": {
+      "date": "2026-03-28",
+      "title": "CSS is DOOMed",
+      "source": "hackernews"
+    },
+    "2396aeb519c52631": {
+      "date": "2026-03-28",
+      "title": "The first 40 months of the AI era",
+      "source": "hackernews"
+    },
+    "2fd34db23b534004": {
+      "date": "2026-03-28",
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "source": "hackernews"
+    },
+    "9fc7cac873f2672e": {
+      "date": "2026-03-28",
+      "title": "1929: Inside the Greatest Crash in Wall Street History",
+      "source": "hackernews"
+    },
+    "b582fe704736db1a": {
+      "date": "2026-03-28",
+      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
+      "source": "devto"
+    },
+    "4d50402b22d1d9df": {
+      "date": "2026-03-28",
+      "title": "I Built a Netflix-Style AI App to Study AWS (And It Actually Works)",
+      "source": "devto"
+    },
+    "3f9504ef98d7764c": {
+      "date": "2026-03-28",
+      "title": "I Built an MCP That Publishes Your Blog to Every Platform With One Sentence to Claude",
+      "source": "devto"
+    },
+    "477a19fa07e93565": {
+      "date": "2026-03-28",
+      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
+      "source": "devto"
+    },
+    "47b82ca1dac27c60": {
+      "date": "2026-03-28",
+      "title": "Will AI Replace Software Developers?",
+      "source": "devto"
+    },
+    "384d4c8dfd6214e8": {
+      "date": "2026-03-28",
+      "title": "Why You Should Start Blogging (Even If Nobody Will Read It)",
+      "source": "devto"
+    },
+    "d5202b17e0ea417b": {
+      "date": "2026-03-28",
+      "title": "You inherited a .NET codebase with zero tests. Now what?",
+      "source": "devto"
+    },
+    "a9808d4957c51971": {
+      "date": "2026-03-28",
+      "title": "I Run 6 AI Agents as My Dev Team — Here's the Architecture That Actually Works",
+      "source": "devto"
+    },
+    "80bf7624b224f160": {
+      "date": "2026-03-28",
+      "title": "How AI workloads changed the queue I was already building",
+      "source": "devto"
+    },
+    "fbbb6b042a2ae65b": {
+      "date": "2026-03-28",
+      "title": "Taming the Glucose Spike: Predicting Postprandial Peaks with Transformers and PyTorch",
+      "source": "devto"
+    },
+    "39fd78f02e666b3c": {
+      "date": "2026-03-28",
+      "title": "apache / superset",
+      "source": "github"
     }
   }
 }
