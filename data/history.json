@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-28T23:00:24.146199",
+  "last_updated": "2026-03-29T23:03:23.995742",
   "sent_items": {
-    "b06f935b7dc4b8a3": {
-      "date": "2026-02-26",
-      "title": "Zipladin",
-      "source": "producthunt"
-    },
-    "7254994c875ad474": {
-      "date": "2026-02-26",
-      "title": "ChatPal",
-      "source": "producthunt"
-    },
-    "37737990dabe2e91": {
-      "date": "2026-02-26",
-      "title": "IronClaw",
-      "source": "producthunt"
-    },
-    "24341eb886407048": {
-      "date": "2026-02-26",
-      "title": "Playground by Natoma",
-      "source": "producthunt"
-    },
-    "3c0ee114f8ed7f1e": {
-      "date": "2026-02-26",
-      "title": "DeltaMemory",
-      "source": "producthunt"
-    },
-    "15f9d095e5307e1b": {
-      "date": "2026-02-26",
-      "title": "FoodHealth Score",
-      "source": "producthunt"
-    },
-    "fbced9080ee3e81c": {
-      "date": "2026-02-26",
-      "title": "Commit Please",
-      "source": "producthunt"
-    },
-    "b51cbdb18147f179": {
-      "date": "2026-02-26",
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "source": "hackernews"
-    },
-    "c878d137fb77cf73": {
-      "date": "2026-02-26",
-      "title": "Will vibe coding end like the maker movement?",
-      "source": "hackernews"
-    },
-    "8e30cf8be22a804b": {
-      "date": "2026-02-26",
-      "title": "Layoffs at Block",
-      "source": "hackernews"
-    },
-    "13f33e7b0910084e": {
-      "date": "2026-02-26",
-      "title": "What Claude Code Chooses",
-      "source": "hackernews"
-    },
-    "96d5816e5c21978a": {
-      "date": "2026-02-26",
-      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-      "source": "hackernews"
-    },
-    "942acc0b7ce2bc98": {
-      "date": "2026-02-26",
-      "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
-      "source": "hackernews"
-    },
-    "5f447d343f4085e4": {
-      "date": "2026-02-26",
-      "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
-      "source": "hackernews"
-    },
-    "6d7d55a3320425c7": {
-      "date": "2026-02-26",
-      "title": "What does \" 2>&1 \" mean?",
-      "source": "hackernews"
-    },
-    "734bd67b5af1b0eb": {
-      "date": "2026-02-26",
-      "title": "Lidar waveforms are worth 40x128x33 words",
-      "source": "hackernews"
-    },
-    "4c8b1b9cf98308f4": {
-      "date": "2026-02-26",
-      "title": "Hydroph0bia – a fixed SecureBoot bypass for UEFI firmware based on Insyde H2O",
-      "source": "hackernews"
-    },
-    "0af07a45ced8667f": {
-      "date": "2026-02-26",
-      "title": "clockworklabs / SpacetimeDB",
-      "source": "github"
-    },
-    "470f8fb77e89b3a9": {
-      "date": "2026-02-26",
-      "title": "farion1231 / cc-switch",
-      "source": "github"
-    },
-    "011f16b19a63acc1": {
-      "date": "2026-02-26",
-      "title": "ruvnet / claude-flow",
-      "source": "github"
-    },
-    "76419d40bf92cb11": {
-      "date": "2026-02-26",
-      "title": "The Token Economy",
-      "source": "devto"
-    },
-    "d5da43ff0019c9ca": {
-      "date": "2026-02-26",
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "source": "devto"
-    },
-    "92b46c8f5353b238": {
-      "date": "2026-02-26",
-      "title": "Winner Announcement Delayed for Algolia Agent Studio Challenge and GitHub CLI Challenge",
-      "source": "devto"
-    },
-    "0206efdcda433973": {
-      "date": "2026-02-26",
-      "title": "The Agent Skills Gold Rush Has a Malware Problem",
-      "source": "devto"
-    },
-    "666f6a962cc91321": {
-      "date": "2026-02-26",
-      "title": "StenoAI - Privacy Focused AI meeting intelligence. 380+ GitHub stars, 1000+ downloads",
-      "source": "devto"
-    },
-    "87d906eb23bd4f11": {
-      "date": "2026-02-26",
-      "title": "I Built a Local AI Agent That Actually Remembers You — Here's How the River Algorithm Works",
-      "source": "devto"
-    },
-    "43a81beccdd98760": {
-      "date": "2026-02-26",
-      "title": "I Built an AI Agent Monitoring System as a Non-Dev Side Project. Here's Why.",
-      "source": "devto"
-    },
-    "6d0fb68387206911": {
-      "date": "2026-02-26",
-      "title": "When the Reasoning Doesn't Survive",
-      "source": "devto"
-    },
-    "65c2af0a7ca6c1b2": {
-      "date": "2026-02-26",
-      "title": "Remote Developer Jobs in 2026: What Actually Changed",
-      "source": "devto"
-    },
-    "85f2a1c0a72d5965": {
-      "date": "2026-02-26",
-      "title": "The Pitfall of \"Helpful\" AI: Navigating the Missing Context Problem in Software Engineering",
-      "source": "devto"
-    },
     "150518045e4c35d5": {
       "date": "2026-02-27",
       "title": "HelixDB",
@@ -4846,6 +4696,166 @@
       "date": "2026-03-28",
       "title": "apache / superset",
       "source": "github"
+    },
+    "27ada779b4ff4a2d": {
+      "date": "2026-03-29",
+      "title": "Pensieve",
+      "source": "producthunt"
+    },
+    "b5bc37c1eadac417": {
+      "date": "2026-03-29",
+      "title": "CodingPrep",
+      "source": "producthunt"
+    },
+    "52abb83c6f4576e3": {
+      "date": "2026-03-29",
+      "title": "GuideYou",
+      "source": "producthunt"
+    },
+    "b375a36dade644d6": {
+      "date": "2026-03-29",
+      "title": "Sheet Ninja",
+      "source": "producthunt"
+    },
+    "ca67163e8ea57d5c": {
+      "date": "2026-03-29",
+      "title": "SUN",
+      "source": "producthunt"
+    },
+    "7a4ad25b59e5ca06": {
+      "date": "2026-03-29",
+      "title": "Clico",
+      "source": "producthunt"
+    },
+    "2b7ce65ddba8c414": {
+      "date": "2026-03-29",
+      "title": "Google Search Live",
+      "source": "producthunt"
+    },
+    "62267e7b78dc18dc": {
+      "date": "2026-03-29",
+      "title": "Parallel Code",
+      "source": "producthunt"
+    },
+    "8df586e9c4bcbd16": {
+      "date": "2026-03-29",
+      "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
+      "source": "hackernews"
+    },
+    "ef43add00ef11327": {
+      "date": "2026-03-29",
+      "title": "Neovim 0.12.0",
+      "source": "hackernews"
+    },
+    "96c8c75bda9694de": {
+      "date": "2026-03-29",
+      "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
+      "source": "hackernews"
+    },
+    "af070f57da547e00": {
+      "date": "2026-03-29",
+      "title": "Pretext: TypeScript library for multiline text measurement and layout",
+      "source": "hackernews"
+    },
+    "6ea36d9408bb0b5c": {
+      "date": "2026-03-29",
+      "title": "The Cognitive Dark Forest",
+      "source": "hackernews"
+    },
+    "664e734e3ee5db28": {
+      "date": "2026-03-29",
+      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "source": "hackernews"
+    },
+    "4e12226434057891": {
+      "date": "2026-03-29",
+      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
+      "source": "hackernews"
+    },
+    "ab70a9f2930db91e": {
+      "date": "2026-03-29",
+      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "source": "hackernews"
+    },
+    "ebe7b989495308c9": {
+      "date": "2026-03-29",
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "source": "hackernews"
+    },
+    "6c75e2310fcfbc47": {
+      "date": "2026-03-29",
+      "title": "The road signs that teach travellers about France",
+      "source": "hackernews"
+    },
+    "aaa5c7366cbdcbd7": {
+      "date": "2026-03-29",
+      "title": "luongnv89 / claude-howto",
+      "source": "github"
+    },
+    "aa52d8501eee42c2": {
+      "date": "2026-03-29",
+      "title": "OpenBB-finance / OpenBB",
+      "source": "github"
+    },
+    "a09f21e37d73301d": {
+      "date": "2026-03-29",
+      "title": "shareAI-lab / learn-claude-code",
+      "source": "github"
+    },
+    "9b431387df4711e4": {
+      "date": "2026-03-29",
+      "title": "fastfetch-cli / fastfetch",
+      "source": "github"
+    },
+    "f85544ec85c5b73f": {
+      "date": "2026-03-29",
+      "title": "Gemini 3.1: Real-World Voice Recognition with Flash Live: Making Your LINE Bot Understand You",
+      "source": "devto"
+    },
+    "8e0dcc80b9cd1ec5": {
+      "date": "2026-03-29",
+      "title": "Gemini Tool Combo: Building a LINE Meetup Helper with Maps Grounding and Places API in a Single API ",
+      "source": "devto"
+    },
+    "528c33a63cf41874": {
+      "date": "2026-03-29",
+      "title": "7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn't Expect — A Post-Launch Retrospective",
+      "source": "devto"
+    },
+    "7dffbce55452e2c4": {
+      "date": "2026-03-29",
+      "title": "fixing two bugs stacked on top of each other in ProseMirror",
+      "source": "devto"
+    },
+    "e6d0ec098da3ef86": {
+      "date": "2026-03-29",
+      "title": "How I Built a Health Data API With Zero Dependencies (And Why You Should Too)",
+      "source": "devto"
+    },
+    "ae3f13ea668a923c": {
+      "date": "2026-03-29",
+      "title": "I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data",
+      "source": "devto"
+    },
+    "ea3cd6c38c9c9a83": {
+      "date": "2026-03-29",
+      "title": "If cache is faster than database, why not store everything in cache?",
+      "source": "devto"
+    },
+    "a346d15906f9074a": {
+      "date": "2026-03-29",
+      "title": "Building an A2A Simulator to Debug Agent-to-Agent Communication",
+      "source": "devto"
+    },
+    "d4055acb29711bb0": {
+      "date": "2026-03-29",
+      "title": "It's not about AI token costs. It's about prototyping.",
+      "source": "devto"
+    },
+    "a16a1f804caf9691": {
+      "date": "2026-03-29",
+      "title": "How to compare translation APIs without rewriting your workflow",
+      "source": "devto"
     }
   }
 }
