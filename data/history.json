@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-29T23:03:23.995742",
+  "last_updated": "2026-03-30T23:07:22.961749",
   "sent_items": {
-    "150518045e4c35d5": {
-      "date": "2026-02-27",
-      "title": "HelixDB",
-      "source": "producthunt"
-    },
-    "152006a64920ae4c": {
-      "date": "2026-02-27",
-      "title": "Hacker News for macOS",
-      "source": "producthunt"
-    },
-    "772851c977294ec7": {
-      "date": "2026-02-27",
-      "title": "What's Up With That?",
-      "source": "producthunt"
-    },
-    "cd3372f58baf0e0b": {
-      "date": "2026-02-27",
-      "title": "Nano Banana 2",
-      "source": "producthunt"
-    },
-    "83854bb035e08c25": {
-      "date": "2026-02-27",
-      "title": "Claude Code Remote Control",
-      "source": "producthunt"
-    },
-    "238751c94638bac4": {
-      "date": "2026-02-27",
-      "title": "Flarehawk",
-      "source": "producthunt"
-    },
-    "d13afa439d4e7b59": {
-      "date": "2026-02-27",
-      "title": "Dan Simmons, author of Hyperion, has died",
-      "source": "hackernews"
-    },
-    "9893ac4573967424": {
-      "date": "2026-02-27",
-      "title": "A better streams API is possible for JavaScript",
-      "source": "hackernews"
-    },
-    "2ccaab9d8c6b8058": {
-      "date": "2026-02-27",
-      "title": "Leaving Google has actively improved my life",
-      "source": "hackernews"
-    },
-    "8ba1cea8cf774344": {
-      "date": "2026-02-27",
-      "title": "OpenAI raises $110B on $730B pre-money valuation",
-      "source": "hackernews"
-    },
-    "b01d1f7abb6a700e": {
-      "date": "2026-02-27",
-      "title": "A new California law says all operating systems need to have age verification",
-      "source": "hackernews"
-    },
-    "e0a63d9e99e92284": {
-      "date": "2026-02-27",
-      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
-      "source": "hackernews"
-    },
-    "cbfba97cffde124a": {
-      "date": "2026-02-27",
-      "title": "Department of War Designates Anthropic Supply Chain Risk",
-      "source": "hackernews"
-    },
-    "32dc71b4fb989b65": {
-      "date": "2026-02-27",
-      "title": "Let's discuss sandbox isolation",
-      "source": "hackernews"
-    },
-    "dcf240477e4edaf5": {
-      "date": "2026-02-27",
-      "title": "Writing a Guide to SDF Fonts",
-      "source": "hackernews"
-    },
-    "81d3d5d564547d4f": {
-      "date": "2026-02-27",
-      "title": "The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages",
-      "source": "hackernews"
-    },
-    "ebe69a8411ca36d3": {
-      "date": "2026-02-27",
-      "title": "moeru-ai / airi",
-      "source": "github"
-    },
-    "2fd0b88f562bfd95": {
-      "date": "2026-02-27",
-      "title": "Wei-Shaw / claude-relay-service",
-      "source": "github"
-    },
-    "1f90020b8fd72dbb": {
-      "date": "2026-02-27",
-      "title": "tukaani-project / xz",
-      "source": "github"
-    },
-    "c051caeabfc178e8": {
-      "date": "2026-02-27",
-      "title": "Happening Now: DEV Weekend Challenge!! Submissions due March 2 at 7:59am UTC.",
-      "source": "devto"
-    },
-    "b36595db541c8a0b": {
-      "date": "2026-02-27",
-      "title": "Upgraded embed experience and new embed types in DEV posts",
-      "source": "devto"
-    },
-    "a8083ccf102be052": {
-      "date": "2026-02-27",
-      "title": "My Take On AI and Technology (Besides the Pure Developer PoV)",
-      "source": "devto"
-    },
-    "24441d75fd2667ac": {
-      "date": "2026-02-27",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "75bc7bdaa9be523d": {
-      "date": "2026-02-27",
-      "title": "I vibe-coded an internal tool that slashed my content workflow by 4 hours",
-      "source": "devto"
-    },
-    "24f149db89110709": {
-      "date": "2026-02-27",
-      "title": "Entering the Age of AI: A Laggard's Tale",
-      "source": "devto"
-    },
-    "9904f9e4b0ca5d30": {
-      "date": "2026-02-27",
-      "title": "I Run a Fleet of AI Agents in Production — Here's the Architecture That Keeps Them Honest",
-      "source": "devto"
-    },
-    "55caa3d68c90500f": {
-      "date": "2026-02-27",
-      "title": "RFC 1516: A Build for the Community That Keeps 418 Alive",
-      "source": "devto"
-    },
-    "82a3ef35f6c6ea9c": {
-      "date": "2026-02-27",
-      "title": "How I Built a Security Flywheel for AI Agents in 14 Days",
-      "source": "devto"
-    },
-    "2e904556a17dd310": {
-      "date": "2026-02-27",
-      "title": "How to Disagree With a Senior Engineer (Without Killing Your Career) 🗣️",
-      "source": "devto"
-    },
     "6f2bb389ff147836": {
       "date": "2026-02-28",
       "title": "theORQL",
@@ -4856,6 +4711,151 @@
       "date": "2026-03-29",
       "title": "How to compare translation APIs without rewriting your workflow",
       "source": "devto"
+    },
+    "959c7b48ff3a8fd3": {
+      "date": "2026-03-30",
+      "title": "Bluor AI",
+      "source": "producthunt"
+    },
+    "58912b4276df8ccc": {
+      "date": "2026-03-30",
+      "title": "Invoke",
+      "source": "producthunt"
+    },
+    "2b09e93a8eb00ac5": {
+      "date": "2026-03-30",
+      "title": "Git Blog",
+      "source": "producthunt"
+    },
+    "96818286a84540c5": {
+      "date": "2026-03-30",
+      "title": "dictate.",
+      "source": "producthunt"
+    },
+    "e9f752df0ffb3371": {
+      "date": "2026-03-30",
+      "title": "PopTask",
+      "source": "producthunt"
+    },
+    "be437db9f3765eac": {
+      "date": "2026-03-30",
+      "title": "Diploi",
+      "source": "producthunt"
+    },
+    "471e0c33311161b1": {
+      "date": "2026-03-30",
+      "title": "Blood Sugar Journal",
+      "source": "producthunt"
+    },
+    "31592de3022b48a9": {
+      "date": "2026-03-30",
+      "title": "How to turn anything into a router",
+      "source": "hackernews"
+    },
+    "f1129ed29a9a5d5b": {
+      "date": "2026-03-30",
+      "title": "Fedware: Government apps that spy harder than the apps they ban",
+      "source": "hackernews"
+    },
+    "a187d5aa07e422dd": {
+      "date": "2026-03-30",
+      "title": "Do your own writing",
+      "source": "hackernews"
+    },
+    "1fa6ad496d1a4ca0": {
+      "date": "2026-03-30",
+      "title": "Bird brains (2023)",
+      "source": "hackernews"
+    },
+    "587771ef014d937e": {
+      "date": "2026-03-30",
+      "title": "Cherri – programming language that compiles to an Apple Shortuct",
+      "source": "hackernews"
+    },
+    "c314922ceeef9f26": {
+      "date": "2026-03-30",
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "source": "hackernews"
+    },
+    "aaf976c3041f3f04": {
+      "date": "2026-03-30",
+      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
+      "source": "hackernews"
+    },
+    "9675d983f4140508": {
+      "date": "2026-03-30",
+      "title": "Learn Claude Code by doing, not reading",
+      "source": "hackernews"
+    },
+    "94e669a25a097f0e": {
+      "date": "2026-03-30",
+      "title": "Agents of Chaos",
+      "source": "hackernews"
+    },
+    "c6ab5b9d90c24cfa": {
+      "date": "2026-03-30",
+      "title": "The stealthy startup that pitched brainless human clones",
+      "source": "hackernews"
+    },
+    "e417cda618d2425e": {
+      "date": "2026-03-30",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "16034daf1f011ba5": {
+      "date": "2026-03-30",
+      "title": "What are your goals for the week? #172",
+      "source": "devto"
+    },
+    "2219bef88d6f196a": {
+      "date": "2026-03-30",
+      "title": "CodePen TV secrets",
+      "source": "devto"
+    },
+    "d18477e03206db54": {
+      "date": "2026-03-30",
+      "title": "I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.",
+      "source": "devto"
+    },
+    "d600a6bdde855fe4": {
+      "date": "2026-03-30",
+      "title": "When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me",
+      "source": "devto"
+    },
+    "38fa62306cc69a9a": {
+      "date": "2026-03-30",
+      "title": "I Built a Piano Trainer That Measures Stability, Not Just Speed",
+      "source": "devto"
+    },
+    "f81d400baaa61d99": {
+      "date": "2026-03-30",
+      "title": "Agents Don't Just Do Unauthorized Things. They Cause Humans to Do Unauthorized Things.",
+      "source": "devto"
+    },
+    "5d9c59001552274b": {
+      "date": "2026-03-30",
+      "title": "NexusTriage: Turning Notion into an Autonomous, Self-Healing System 🧠",
+      "source": "devto"
+    },
+    "40c37259975d86e3": {
+      "date": "2026-03-30",
+      "title": "Keep_AS — The System That Refuses to Let You Miss Opportunities",
+      "source": "devto"
+    },
+    "e10221e97c886566": {
+      "date": "2026-03-30",
+      "title": "Reflective — AI journaling companion built with Notion MCP and Claude",
+      "source": "devto"
+    },
+    "52e5d1d72c1088d2": {
+      "date": "2026-03-30",
+      "title": "freeCodeCamp / freeCodeCamp",
+      "source": "github"
+    },
+    "be490188feb3a8f7": {
+      "date": "2026-03-30",
+      "title": "sherlock-project / sherlock",
+      "source": "github"
     }
   }
 }
