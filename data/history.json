@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-03-30T23:07:22.961749",
+  "last_updated": "2026-03-31T23:04:19.641133",
   "sent_items": {
-    "6f2bb389ff147836": {
-      "date": "2026-02-28",
-      "title": "theORQL",
-      "source": "producthunt"
-    },
-    "ab7b76d1735469c7": {
-      "date": "2026-02-28",
-      "title": "The Claw News",
-      "source": "producthunt"
-    },
-    "088181f1a1465f6e": {
-      "date": "2026-02-28",
-      "title": "Study OS",
-      "source": "producthunt"
-    },
-    "fe11f27a56a8ad61": {
-      "date": "2026-02-28",
-      "title": "SellShots",
-      "source": "producthunt"
-    },
-    "a15c79063a34fc8c": {
-      "date": "2026-02-28",
-      "title": "Solace",
-      "source": "producthunt"
-    },
-    "f96f21f3069ffcd0": {
-      "date": "2026-02-28",
-      "title": "Obsidian Sync now has a headless client",
-      "source": "hackernews"
-    },
-    "35e21117168e8773": {
-      "date": "2026-02-28",
-      "title": "The happiest I've ever been",
-      "source": "hackernews"
-    },
-    "79b2a0ae2b29124b": {
-      "date": "2026-02-28",
-      "title": "Addressing Antigravity Bans and Reinstating Access",
-      "source": "hackernews"
-    },
-    "f81e202b76dec8f9": {
-      "date": "2026-02-28",
-      "title": "Verified Spec-Driven Development (VSDD)",
-      "source": "hackernews"
-    },
-    "63a9a46f03d23ffd": {
-      "date": "2026-02-28",
-      "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
-      "source": "hackernews"
-    },
-    "da8c87766e161e4a": {
-      "date": "2026-02-28",
-      "title": "MinIO Is Dead, Long Live MinIO",
-      "source": "hackernews"
-    },
-    "6f5a56582375a1b8": {
-      "date": "2026-02-28",
-      "title": "New evidence that Cantor plagiarized Dedekind?",
-      "source": "hackernews"
-    },
-    "7fed809fefdb730d": {
-      "date": "2026-02-28",
-      "title": "Block the \"Upgrade to Tahoe\" Alerts",
-      "source": "hackernews"
-    },
-    "05e1910a4f78927f": {
-      "date": "2026-02-28",
-      "title": "Werner Herzog Between Fact and Fiction",
-      "source": "hackernews"
-    },
-    "48f9f11f297a98bc": {
-      "date": "2026-02-28",
-      "title": "Building a Minimal Transformer for 10-digit Addition",
-      "source": "hackernews"
-    },
-    "46405393d4f50fd7": {
-      "date": "2026-02-28",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "source": "github"
-    },
-    "9a16f8b0667e86a0": {
-      "date": "2026-02-28",
-      "title": "ruvnet / ruflo",
-      "source": "github"
-    },
-    "978e35c607178533": {
-      "date": "2026-02-28",
-      "title": "NousResearch / hermes-agent",
-      "source": "github"
-    },
-    "52e4e705179f6a5b": {
-      "date": "2026-02-28",
-      "title": "superset-sh / superset",
-      "source": "github"
-    },
-    "85b6002c9d84a293": {
-      "date": "2026-02-28",
-      "title": "PaddlePaddle / Paddle",
-      "source": "github"
-    },
-    "775289354c9e56be": {
-      "date": "2026-02-28",
-      "title": "datagouv / datagouv-mcp",
-      "source": "github"
-    },
-    "e1a6696969acd12e": {
-      "date": "2026-02-28",
-      "title": "Wei-Shaw / sub2api",
-      "source": "github"
-    },
-    "5c2dea634ecb2f29": {
-      "date": "2026-02-28",
-      "title": "X-PLUG / MobileAgent",
-      "source": "github"
-    },
-    "568709892a7c7f4f": {
-      "date": "2026-02-28",
-      "title": "An App where you can Train your Own Hand Pose Model for your Project! 🤌",
-      "source": "devto"
-    },
-    "ee3cdeb53883f524": {
-      "date": "2026-02-28",
-      "title": "🐾 FurEver Log — The App I Built After Losing Abu",
-      "source": "devto"
-    },
-    "4600c3eae6235ab0": {
-      "date": "2026-02-28",
-      "title": "Stop Downloading Apps for Your Kids. Build Them Instead.",
-      "source": "devto"
-    },
-    "7447d4c529fb05e9": {
-      "date": "2026-02-28",
-      "title": "UTMACH Rides -- I Built a Carpooling App So My Classmates Stop Paying $3 for a 10-Minute Ride",
-      "source": "devto"
-    },
-    "981ef7ccc239dce9": {
-      "date": "2026-02-28",
-      "title": "I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀",
-      "source": "devto"
-    },
-    "640fcbfe04302a35": {
-      "date": "2026-02-28",
-      "title": "Kimi Wrote 8,500 Lines, Blamed Me for Delegating, Then Claimed to Be Claude",
-      "source": "devto"
-    },
-    "030bb0e911cfe690": {
-      "date": "2026-02-28",
-      "title": "When My AI Blocked Itself: What Constitutional Governance Actually Looks Like in Practice",
-      "source": "devto"
-    },
-    "9cd2abfeeec628b8": {
-      "date": "2026-02-28",
-      "title": "The .NET Architecture Pattern That Looks Professional but Scales Like Trash (and What to Do Instead)",
-      "source": "devto"
-    },
-    "81c898ab19d135cc": {
-      "date": "2026-02-28",
-      "title": "The Hardest Part of Being a Developer Isn’t Coding. It’s Disappearing Quietly.",
-      "source": "devto"
-    },
-    "38d4c6bb0da56e0d": {
-      "date": "2026-02-28",
-      "title": "Adding Navigation support to Large Content Viewer with Compose",
-      "source": "devto"
-    },
     "c5a62c6d3d7cff92": {
       "date": "2026-03-01",
       "title": "Ghostty – Terminal Emulator",
@@ -4856,6 +4691,166 @@
       "date": "2026-03-30",
       "title": "sherlock-project / sherlock",
       "source": "github"
+    },
+    "e11f5cfd132985cc": {
+      "date": "2026-03-31",
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "source": "hackernews"
+    },
+    "9ff3618669fd217a": {
+      "date": "2026-03-31",
+      "title": "Open source CAD in the browser (Solvespace)",
+      "source": "hackernews"
+    },
+    "60b6b374768b1494": {
+      "date": "2026-03-31",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "source": "hackernews"
+    },
+    "8768936771293379": {
+      "date": "2026-03-31",
+      "title": "Slop is not necessarily the future",
+      "source": "hackernews"
+    },
+    "e7d2b1f4fba23ad8": {
+      "date": "2026-03-31",
+      "title": "Cohere Transcribe: Speech Recognition",
+      "source": "hackernews"
+    },
+    "5ca1b9911f5f2161": {
+      "date": "2026-03-31",
+      "title": "4D Doom",
+      "source": "hackernews"
+    },
+    "9add3a638ae50ed4": {
+      "date": "2026-03-31",
+      "title": "Ministack (Replacement for LocalStack)",
+      "source": "hackernews"
+    },
+    "794d188bd78c8b41": {
+      "date": "2026-03-31",
+      "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
+      "source": "hackernews"
+    },
+    "55c8788f07b20e01": {
+      "date": "2026-03-31",
+      "title": "A dot a day keeps the clutter away",
+      "source": "hackernews"
+    },
+    "604984affea69a47": {
+      "date": "2026-03-31",
+      "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+      "source": "hackernews"
+    },
+    "cde7836916265279": {
+      "date": "2026-03-31",
+      "title": "Autoclaw",
+      "source": "producthunt"
+    },
+    "2f6bc3420d395f0a": {
+      "date": "2026-03-31",
+      "title": "MacMonitor",
+      "source": "producthunt"
+    },
+    "eb5874180c92a401": {
+      "date": "2026-03-31",
+      "title": "FireAPI",
+      "source": "producthunt"
+    },
+    "110ef61328464a68": {
+      "date": "2026-03-31",
+      "title": "IndieEvent",
+      "source": "producthunt"
+    },
+    "1363d3e07208eb2c": {
+      "date": "2026-03-31",
+      "title": "Dictura",
+      "source": "producthunt"
+    },
+    "c11f3abe1698bf4c": {
+      "date": "2026-03-31",
+      "title": "Codync",
+      "source": "producthunt"
+    },
+    "0f779bc236545d9c": {
+      "date": "2026-03-31",
+      "title": "microsoft / agent-lightning",
+      "source": "github"
+    },
+    "68c57e7779dc4696": {
+      "date": "2026-03-31",
+      "title": "PaddlePaddle / PaddleOCR",
+      "source": "github"
+    },
+    "4df7bcfe19df504a": {
+      "date": "2026-03-31",
+      "title": "Dimillian / Skills",
+      "source": "github"
+    },
+    "11fc259c0de8242a": {
+      "date": "2026-03-31",
+      "title": "neovim / neovim",
+      "source": "github"
+    },
+    "650662eced1761ea": {
+      "date": "2026-03-31",
+      "title": "OpenBMB / ChatDev",
+      "source": "github"
+    },
+    "7d9f29e1c13843dd": {
+      "date": "2026-03-31",
+      "title": "jwasham / coding-interview-university",
+      "source": "github"
+    },
+    "606d2345bcbaf994": {
+      "date": "2026-03-31",
+      "title": "A Year of Change and Persistence",
+      "source": "devto"
+    },
+    "8d28bc2f06aa7310": {
+      "date": "2026-03-31",
+      "title": "Surviving as a Human in the Age of AI",
+      "source": "devto"
+    },
+    "e4094fdc7cd9b505": {
+      "date": "2026-03-31",
+      "title": "How I Search 10,000+ AWS GitHub Repos in 10 Seconds",
+      "source": "devto"
+    },
+    "543e7b4baca12b81": {
+      "date": "2026-03-31",
+      "title": "How a Payment Problem Unexpectedly Changed My Career Path in Tech",
+      "source": "devto"
+    },
+    "61b8a6d569e9fd63": {
+      "date": "2026-03-31",
+      "title": "I'm such a slow typer",
+      "source": "devto"
+    },
+    "495a6c04acd90769": {
+      "date": "2026-03-31",
+      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
+      "source": "devto"
+    },
+    "9c3bed6f89c735c5": {
+      "date": "2026-03-31",
+      "title": "Reflecting on \"dead\" communities, engagement, and AI",
+      "source": "devto"
+    },
+    "f5303c5b9b471b97": {
+      "date": "2026-03-31",
+      "title": "AI agents shouldn't control your apps; they should be the app",
+      "source": "devto"
+    },
+    "05d819a6b5779884": {
+      "date": "2026-03-31",
+      "title": "Product Mindset Is the Skill Vibe Coding Can't Replace",
+      "source": "devto"
+    },
+    "d45adf07cebda09c": {
+      "date": "2026-03-31",
+      "title": "The Seven Deadly Sins of MCP: Operational Sins",
+      "source": "devto"
     }
   }
 }
