@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-02T23:03:40.513619",
+  "last_updated": "2026-04-03T23:04:35.235930",
   "sent_items": {
-    "f63ca4e119e62e5c": {
-      "date": "2026-03-03",
-      "title": "Steps: Workout & Pedometer",
-      "source": "producthunt"
-    },
-    "e7dad1484093fab6": {
-      "date": "2026-03-03",
-      "title": "Springfield Oracle",
-      "source": "producthunt"
-    },
-    "3ef1be024386ea71": {
-      "date": "2026-03-03",
-      "title": "Qwen3.5 Small",
-      "source": "producthunt"
-    },
-    "dc0c8c9997089584": {
-      "date": "2026-03-03",
-      "title": "MonoDesk",
-      "source": "producthunt"
-    },
-    "5d4627229183cc10": {
-      "date": "2026-03-03",
-      "title": "Deep Personality",
-      "source": "producthunt"
-    },
-    "ff6060129a542911": {
-      "date": "2026-03-03",
-      "title": "Krisp Accent Conversion",
-      "source": "producthunt"
-    },
-    "f8fc1da608d22b7e": {
-      "date": "2026-03-03",
-      "title": "getviktor.com",
-      "source": "producthunt"
-    },
-    "c3c1770ed64b68fd": {
-      "date": "2026-03-03",
-      "title": "Tomosu",
-      "source": "producthunt"
-    },
-    "6ff213fc73abbb99": {
-      "date": "2026-03-03",
-      "title": "The Xkcd thing, now interactive",
-      "source": "hackernews"
-    },
-    "d03a088d0a455146": {
-      "date": "2026-03-03",
-      "title": "MacBook Pro with new M5 Pro and M5 Max",
-      "source": "hackernews"
-    },
-    "197aee49785c3b6c": {
-      "date": "2026-03-03",
-      "title": "Claude's Cycles [pdf]",
-      "source": "hackernews"
-    },
-    "a89cea9afb53ce6a": {
-      "date": "2026-03-03",
-      "title": "Don't become an engineering manager",
-      "source": "hackernews"
-    },
-    "380432cd193655e2": {
-      "date": "2026-03-03",
-      "title": "GPT‑5.3 Instant",
-      "source": "hackernews"
-    },
-    "0105585145fc7c57": {
-      "date": "2026-03-03",
-      "title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon",
-      "source": "hackernews"
-    },
-    "9e6502965c787b3b": {
-      "date": "2026-03-03",
-      "title": "When AI writes the software, who verifies it?",
-      "source": "hackernews"
-    },
-    "0148e11def93a1ae": {
-      "date": "2026-03-03",
-      "title": "An Interactive Intro to CRDTs (2023)",
-      "source": "hackernews"
-    },
-    "b6acfabed821e4d9": {
-      "date": "2026-03-03",
-      "title": "We've freed Cookie's Bustle from copyright hell",
-      "source": "hackernews"
-    },
-    "6a6a2db140b0f969": {
-      "date": "2026-03-03",
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "source": "hackernews"
-    },
-    "56db7cac29a648dd": {
-      "date": "2026-03-03",
-      "title": "i built a social platform where everything vanishes after 24 hours",
-      "source": "devto"
-    },
-    "c1ed3642040edf34": {
-      "date": "2026-03-03",
-      "title": "Fusing NASA Data with AI: How I Built CosmoDex and Won the MLH Data Hackfest!",
-      "source": "devto"
-    },
-    "28dab93be0dbfe71": {
-      "date": "2026-03-03",
-      "title": "I Run a Solo Company with AI Agent Departments",
-      "source": "devto"
-    },
-    "07f81874e0782b0b": {
-      "date": "2026-03-03",
-      "title": "Is Software Engineering Cooked? Not Yet. But Maybe.",
-      "source": "devto"
-    },
-    "1e6e32dc0a0c0fb3": {
-      "date": "2026-03-03",
-      "title": "What do you think about building when AI models get cheaper?",
-      "source": "devto"
-    },
-    "3951d52a1eab4d37": {
-      "date": "2026-03-03",
-      "title": "I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨",
-      "source": "devto"
-    },
-    "0618d42be023d8a4": {
-      "date": "2026-03-03",
-      "title": "I Plugged Gemini Into My 10,000-Line Rental Platform. Here's What Happened.",
-      "source": "devto"
-    },
-    "ac5a19feebf40f5e": {
-      "date": "2026-03-03",
-      "title": "Building Disaster Pulse: What Happened When I Let AI Decide If a Disaster Is Real",
-      "source": "devto"
-    },
-    "4e8110f9cbfa27b8": {
-      "date": "2026-03-03",
-      "title": "How to make your first contribution to an open source project",
-      "source": "devto"
-    },
-    "4b0e1da9ab1575c8": {
-      "date": "2026-03-03",
-      "title": "We had a big team offsite and I forgot meme monday yesterday 😭\r\n\r\nBut here is another post",
-      "source": "devto"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-03-03",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "5b9c6c7e1661bc14": {
-      "date": "2026-03-03",
-      "title": "CodebuffAI / codebuff",
-      "source": "github"
-    },
-    "1296ad6d52cc7576": {
-      "date": "2026-03-03",
-      "title": "agentscope-ai / agentscope",
-      "source": "github"
-    },
-    "0446f29013000713": {
-      "date": "2026-03-03",
-      "title": "agentscope-ai / ReMe",
-      "source": "github"
-    },
-    "5c551e97a9eb1fa8": {
-      "date": "2026-03-03",
-      "title": "LMCache / LMCache",
-      "source": "github"
-    },
     "e78a024f2f6dfe85": {
       "date": "2026-03-04",
       "title": "MacBook Neo",
@@ -4860,6 +4695,146 @@
     "180e9d7d859b4b6a": {
       "date": "2026-04-02",
       "title": "Time Spender v1",
+      "source": "devto"
+    },
+    "fbd80249c8669b21": {
+      "date": "2026-04-03",
+      "title": "MAI-Transcribe-1",
+      "source": "producthunt"
+    },
+    "4083be409d8a873d": {
+      "date": "2026-04-03",
+      "title": "Vxero Neo",
+      "source": "producthunt"
+    },
+    "da4d9f6257b9e4c7": {
+      "date": "2026-04-03",
+      "title": "Codictate",
+      "source": "producthunt"
+    },
+    "c1b3f018c27d065a": {
+      "date": "2026-04-03",
+      "title": "StampCut",
+      "source": "producthunt"
+    },
+    "04b1dac108457fcb": {
+      "date": "2026-04-03",
+      "title": "Straude",
+      "source": "producthunt"
+    },
+    "d5d24cf4bcea398c": {
+      "date": "2026-04-03",
+      "title": "ZooClaw",
+      "source": "producthunt"
+    },
+    "35d1c8927f720b27": {
+      "date": "2026-04-03",
+      "title": "SlapWindows",
+      "source": "producthunt"
+    },
+    "41fa63316610f35c": {
+      "date": "2026-04-03",
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "source": "hackernews"
+    },
+    "37ae1ed1762285cd": {
+      "date": "2026-04-03",
+      "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+      "source": "hackernews"
+    },
+    "c1f9c014ea995061": {
+      "date": "2026-04-03",
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "source": "hackernews"
+    },
+    "c0b69a1d3e452ada": {
+      "date": "2026-04-03",
+      "title": "iNaturalist",
+      "source": "hackernews"
+    },
+    "a3e400ec8b19f0ec": {
+      "date": "2026-04-03",
+      "title": "Oracle Files H-1B Visa Petitions Amid Mass Layoffs",
+      "source": "hackernews"
+    },
+    "334a49d6044eae0f": {
+      "date": "2026-04-03",
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "source": "hackernews"
+    },
+    "8c2da1bbef85c15b": {
+      "date": "2026-04-03",
+      "title": "Go on Embedded Systems and WebAssembly",
+      "source": "hackernews"
+    },
+    "c6c15e633732a6da": {
+      "date": "2026-04-03",
+      "title": "What changes when you turn a Linux box into a router",
+      "source": "hackernews"
+    },
+    "4f304bcc31417e6d": {
+      "date": "2026-04-03",
+      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+      "source": "hackernews"
+    },
+    "29deae7f58b607b5": {
+      "date": "2026-04-03",
+      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+      "source": "hackernews"
+    },
+    "03861b5a5fa4b41e": {
+      "date": "2026-04-03",
+      "title": "dmtrKovalenko / fff.nvim",
+      "source": "github"
+    },
+    "781109758d085dd1": {
+      "date": "2026-04-03",
+      "title": "PURESLOP.md — teach your AI agent to write terrible code.",
+      "source": "devto"
+    },
+    "2fdbd66443ba8c1a": {
+      "date": "2026-04-03",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "07fd8c03ce5cbc96": {
+      "date": "2026-04-03",
+      "title": "What do you want to know about hardware acceleration? Ask the Google team!",
+      "source": "devto"
+    },
+    "ef0b085ee0efe60b": {
+      "date": "2026-04-03",
+      "title": "Forged Between Coal and Code",
+      "source": "devto"
+    },
+    "607a302464716c91": {
+      "date": "2026-04-03",
+      "title": "Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee",
+      "source": "devto"
+    },
+    "d89a099c04309609": {
+      "date": "2026-04-03",
+      "title": "Why I built a self-hosted centralized backup manager",
+      "source": "devto"
+    },
+    "1d61b325f9b400eb": {
+      "date": "2026-04-03",
+      "title": "Claude Code Skills Have a Model Field. Here's Why You Should Be Using It.",
+      "source": "devto"
+    },
+    "8145b365f36f6620": {
+      "date": "2026-04-03",
+      "title": "I Built 174 AI Agents That Fight Each Other.",
+      "source": "devto"
+    },
+    "b36aa082e52c8013": {
+      "date": "2026-04-03",
+      "title": "I'm Paying $200/Month for Claude. Anthropic Quietly Downgraded What I'm Getting.",
+      "source": "devto"
+    },
+    "1cda36c1aa3ad44a": {
+      "date": "2026-04-03",
+      "title": "I built an npm malware scanner in Rust because npm audit isn't enough",
       "source": "devto"
     }
   }
