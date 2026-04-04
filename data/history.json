@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-03T23:04:35.235930",
+  "last_updated": "2026-04-04T23:02:43.897154",
   "sent_items": {
-    "e78a024f2f6dfe85": {
-      "date": "2026-03-04",
-      "title": "MacBook Neo",
-      "source": "hackernews"
-    },
-    "a183e5f42b93fc12": {
-      "date": "2026-03-04",
-      "title": "An interactive map of Flock Cams",
-      "source": "hackernews"
-    },
-    "e809c54af0e1ba92": {
-      "date": "2026-03-04",
-      "title": "Something is afoot in the land of Qwen",
-      "source": "hackernews"
-    },
-    "e7de4ac6af7b5fb1": {
-      "date": "2026-03-04",
-      "title": "Moss is a pixel canvas where every brush is a tiny program",
-      "source": "hackernews"
-    },
-    "46d2496c9bf746b4": {
-      "date": "2026-03-04",
-      "title": "Does that use a lot of energy?",
-      "source": "hackernews"
-    },
-    "2a4c55985eac73f2": {
-      "date": "2026-03-04",
-      "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
-      "source": "hackernews"
-    },
-    "25409da21b6eac4f": {
-      "date": "2026-03-04",
-      "title": "Data Has Weight but Only on SSDs",
-      "source": "hackernews"
-    },
-    "004fd870b7a35f71": {
-      "date": "2026-03-04",
-      "title": "The View from RSS",
-      "source": "hackernews"
-    },
-    "35574b8a7c6dd880": {
-      "date": "2026-03-04",
-      "title": "Humans 40k yrs ago developed a system of conventional signs",
-      "source": "hackernews"
-    },
-    "8c297da6ff29f47e": {
-      "date": "2026-03-04",
-      "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
-      "source": "hackernews"
-    },
-    "e470a75734b9907f": {
-      "date": "2026-03-04",
-      "title": "Gemini 3.1 Flash-Lite",
-      "source": "producthunt"
-    },
-    "1d2db20221e650aa": {
-      "date": "2026-03-04",
-      "title": "Fix in Cursor",
-      "source": "producthunt"
-    },
-    "df21fe125f08421b": {
-      "date": "2026-03-04",
-      "title": "Picsart Persona & Storyline",
-      "source": "producthunt"
-    },
-    "9e1487fabbb39415": {
-      "date": "2026-03-04",
-      "title": "moltdj",
-      "source": "producthunt"
-    },
-    "0902af8511f519ea": {
-      "date": "2026-03-04",
-      "title": "NOVA",
-      "source": "producthunt"
-    },
-    "20cdfecfff45c3ec": {
-      "date": "2026-03-04",
-      "title": "Locally AI + Qwen",
-      "source": "producthunt"
-    },
-    "1b182734f112a76d": {
-      "date": "2026-03-04",
-      "title": "Personal AI Memory",
-      "source": "producthunt"
-    },
-    "5dfe15d5980db3b9": {
-      "date": "2026-03-04",
-      "title": "msitarzewski / agency-agents",
-      "source": "github"
-    },
-    "198b944a98639532": {
-      "date": "2026-03-04",
-      "title": "FujiwaraChoki / MoneyPrinterV2",
-      "source": "github"
-    },
-    "3f73db67a25786aa": {
-      "date": "2026-03-04",
-      "title": "ItzCrazyKns / Perplexica",
-      "source": "github"
-    },
-    "11d9e124fc3f3661": {
-      "date": "2026-03-04",
-      "title": "FlowiseAI / Flowise",
-      "source": "github"
-    },
-    "ebf4e23c97021af9": {
-      "date": "2026-03-04",
-      "title": "Share, Embed, and Curate Agent Sessions on DEV [Beta]",
-      "source": "devto"
-    },
-    "117a9f2addcd8aad": {
-      "date": "2026-03-04",
-      "title": "I Stopped Reviewing Code: A Backend Dev’s Experiment with Google Gemini",
-      "source": "devto"
-    },
-    "2e5f56a45000be63": {
-      "date": "2026-03-04",
-      "title": "React: Singletons aren't as evil as you think",
-      "source": "devto"
-    },
-    "c6391212a09bd2be": {
-      "date": "2026-03-04",
-      "title": "What’s the Worst Advice AI Has Given You? Here’s Mine.",
-      "source": "devto"
-    },
-    "aba60a3172b06862": {
-      "date": "2026-03-04",
-      "title": "Argus",
-      "source": "devto"
-    },
-    "d17c4f5aee3010d8": {
-      "date": "2026-03-04",
-      "title": "Congrats to the Algolia Agent Studio Challenge Winners!",
-      "source": "devto"
-    },
-    "7511edcb2d9b7f3b": {
-      "date": "2026-03-04",
-      "title": "I Shipped Broken Code and Wrote an Article About It",
-      "source": "devto"
-    },
-    "5738313be5f2a8fe": {
-      "date": "2026-03-04",
-      "title": "Join the Notion MCP Challenge: $1,500 in Prizes!",
-      "source": "devto"
-    },
-    "99f8217651813072": {
-      "date": "2026-03-04",
-      "title": "You don't have to be a developer",
-      "source": "devto"
-    },
-    "387fc3d479b6eb9a": {
-      "date": "2026-03-04",
-      "title": "Credexia: AI-Powered Loan Compliance Built with Google Gemini",
-      "source": "devto"
-    },
     "dcf91714e9a8b526": {
       "date": "2026-03-05",
       "title": "Step 3.5 Flash",
@@ -4835,6 +4680,166 @@
     "1cda36c1aa3ad44a": {
       "date": "2026-04-03",
       "title": "I built an npm malware scanner in Rust because npm audit isn't enough",
+      "source": "devto"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-04-04",
+      "title": "Google Vids 2.0",
+      "source": "producthunt"
+    },
+    "b439b5bbf52dc8e4": {
+      "date": "2026-04-04",
+      "title": "Open Claude in Chrome",
+      "source": "producthunt"
+    },
+    "f8464ee12814ea2f": {
+      "date": "2026-04-04",
+      "title": "Surf Social Websites",
+      "source": "producthunt"
+    },
+    "6a88855095c0f174": {
+      "date": "2026-04-04",
+      "title": "OpenGyver",
+      "source": "producthunt"
+    },
+    "6f93e6853dcf13c6": {
+      "date": "2026-04-04",
+      "title": "Vista",
+      "source": "producthunt"
+    },
+    "8033ef29df6b8320": {
+      "date": "2026-04-04",
+      "title": "Sleek Analytics",
+      "source": "producthunt"
+    },
+    "7cdce6380a15689a": {
+      "date": "2026-04-04",
+      "title": "APImage",
+      "source": "producthunt"
+    },
+    "eb18fd572eafc7aa": {
+      "date": "2026-04-04",
+      "title": "Fluently",
+      "source": "producthunt"
+    },
+    "107576af511103e8": {
+      "date": "2026-04-04",
+      "title": "Embarrassingly simple self-distillation improves code generation",
+      "source": "hackernews"
+    },
+    "f3a45fc949d4f5f0": {
+      "date": "2026-04-04",
+      "title": "Show HN: A game where you build a GPU",
+      "source": "hackernews"
+    },
+    "0ef6ebe36967e66b": {
+      "date": "2026-04-04",
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "source": "hackernews"
+    },
+    "dc498db67d8e33c8": {
+      "date": "2026-04-04",
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "source": "hackernews"
+    },
+    "9025f0fa948654d9": {
+      "date": "2026-04-04",
+      "title": "Components of a Coding Agent",
+      "source": "hackernews"
+    },
+    "a8078d3648377364": {
+      "date": "2026-04-04",
+      "title": "Emotion concepts and their function in a large language model",
+      "source": "hackernews"
+    },
+    "72e0e22899cd337c": {
+      "date": "2026-04-04",
+      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+      "source": "hackernews"
+    },
+    "e3c26a3a2be8592f": {
+      "date": "2026-04-04",
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "source": "hackernews"
+    },
+    "40ea04316eb54e9e": {
+      "date": "2026-04-04",
+      "title": "The Indie Internet Index – submit your favorite sites",
+      "source": "hackernews"
+    },
+    "ae04df1bcc6d439d": {
+      "date": "2026-04-04",
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "source": "hackernews"
+    },
+    "ad7e72a85a18f86c": {
+      "date": "2026-04-04",
+      "title": "Blaizzy / mlx-vlm",
+      "source": "github"
+    },
+    "1692c6ee2eb0c690": {
+      "date": "2026-04-04",
+      "title": "telegramdesktop / tdesktop",
+      "source": "github"
+    },
+    "72fa17aeb2856515": {
+      "date": "2026-04-04",
+      "title": "block / goose",
+      "source": "github"
+    },
+    "459bb0a1f9e395c5": {
+      "date": "2026-04-04",
+      "title": "microsoft / agent-framework",
+      "source": "github"
+    },
+    "2fdb981e9e93a638": {
+      "date": "2026-04-04",
+      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
+      "source": "devto"
+    },
+    "eb584094877af2e7": {
+      "date": "2026-04-04",
+      "title": "How to Supervise AI Coding Agents Without Losing Your Mind",
+      "source": "devto"
+    },
+    "06dd8c804a95bb39": {
+      "date": "2026-04-04",
+      "title": "I built a database in France because the Cloud Act makes EU data sovereignty impossible",
+      "source": "devto"
+    },
+    "387c1556c1a3c47c": {
+      "date": "2026-04-04",
+      "title": "I Read a 1999 Book About How Geniuses Think. Then I Built an AI Framework With a Real Nervous System",
+      "source": "devto"
+    },
+    "d0843eeb3f5d15a5": {
+      "date": "2026-04-04",
+      "title": "I built a GUI-powered Userscript manager for faster userscript creation!",
+      "source": "devto"
+    },
+    "e33a329b9c8345fe": {
+      "date": "2026-04-04",
+      "title": "Same Model, Different Environment, Different Results",
+      "source": "devto"
+    },
+    "b8a8ce439d66a42a": {
+      "date": "2026-04-04",
+      "title": "Why SSH Key Management Is Broken and How Certificates Fix It",
+      "source": "devto"
+    },
+    "9d83f5ab31b8508a": {
+      "date": "2026-04-04",
+      "title": "The Agent Orchestration Problem Nobody Talks About",
+      "source": "devto"
+    },
+    "3015bfab4a350598": {
+      "date": "2026-04-04",
+      "title": "The Case for Markdown as Your Agent's Task Format",
+      "source": "devto"
+    },
+    "807d0aff36eacd4f": {
+      "date": "2026-04-04",
+      "title": "7 Reasons Your Demo Video Feels Longer Than It Is",
       "source": "devto"
     }
   }
