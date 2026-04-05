@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-04T23:02:43.897154",
+  "last_updated": "2026-04-05T23:04:02.186530",
   "sent_items": {
-    "dcf91714e9a8b526": {
-      "date": "2026-03-05",
-      "title": "Step 3.5 Flash",
-      "source": "producthunt"
-    },
-    "6ba7d52cd0044d40": {
-      "date": "2026-03-05",
-      "title": "Codex app for Windows",
-      "source": "producthunt"
-    },
-    "80abbc1e334a22d9": {
-      "date": "2026-03-05",
-      "title": "Coursekit",
-      "source": "producthunt"
-    },
-    "0e3f83837dbb1fcd": {
-      "date": "2026-03-05",
-      "title": "Aident AI Beta 2",
-      "source": "producthunt"
-    },
-    "e112e389fe521596": {
-      "date": "2026-03-05",
-      "title": "Itchy",
-      "source": "producthunt"
-    },
-    "a784eecbdaa08dc3": {
-      "date": "2026-03-05",
-      "title": "Hermit",
-      "source": "producthunt"
-    },
-    "efc7c68e72cc444b": {
-      "date": "2026-03-05",
-      "title": "Supa Social",
-      "source": "producthunt"
-    },
-    "c2784bc8a6064d33": {
-      "date": "2026-03-05",
-      "title": "Spoke",
-      "source": "producthunt"
-    },
-    "74528641b97d903f": {
-      "date": "2026-03-05",
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "source": "hackernews"
-    },
-    "985e51ede963dece": {
-      "date": "2026-03-05",
-      "title": "GPT-5.4",
-      "source": "hackernews"
-    },
-    "831e3892d5ff13ec": {
-      "date": "2026-03-05",
-      "title": "Good software knows when to stop",
-      "source": "hackernews"
-    },
-    "84f1dcd9712b7909": {
-      "date": "2026-03-05",
-      "title": "The Brand Age",
-      "source": "hackernews"
-    },
-    "3ea7b79bef6f5ba8": {
-      "date": "2026-03-05",
-      "title": "10% of Firefox crashes are caused by bitflips",
-      "source": "hackernews"
-    },
-    "36a3a42dd45d0b99": {
-      "date": "2026-03-05",
-      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
-      "source": "hackernews"
-    },
-    "b63459dcb8c66b5c": {
-      "date": "2026-03-05",
-      "title": "Hardware hotplug events on Linux, the gory details",
-      "source": "hackernews"
-    },
-    "78920a9ec612e2c5": {
-      "date": "2026-03-05",
-      "title": "A ternary plot of citrus geneology",
-      "source": "hackernews"
-    },
-    "b78e7333e0714785": {
-      "date": "2026-03-05",
-      "title": "Labor market impacts of AI: A new measure and early evidence",
-      "source": "hackernews"
-    },
-    "03b7f568fe03a129": {
-      "date": "2026-03-05",
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "source": "hackernews"
-    },
-    "398facd358d56db3": {
-      "date": "2026-03-05",
-      "title": "TheCraigHewitt / seomachine",
-      "source": "github"
-    },
-    "3dc639e4254858c2": {
-      "date": "2026-03-05",
-      "title": "inclusionAI / AReaL",
-      "source": "github"
-    },
-    "1e2345276002a361": {
-      "date": "2026-03-05",
-      "title": "microsoft / mcp-for-beginners",
-      "source": "github"
-    },
-    "339d4eac1e0e4733": {
-      "date": "2026-03-05",
-      "title": "microsoft / hve-core",
-      "source": "github"
-    },
-    "d16e307dc0a3bdff": {
-      "date": "2026-03-05",
-      "title": "How My \"Illegal\" Visit to Tech Show London Turned Into a Summer Internship Win",
-      "source": "devto"
-    },
-    "d2f7bab5ad986fbc": {
-      "date": "2026-03-05",
-      "title": "The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste",
-      "source": "devto"
-    },
-    "58bba0c3c3464e5f": {
-      "date": "2026-03-05",
-      "title": "How Claude Skills Replaced Our Documentation",
-      "source": "devto"
-    },
-    "855d8affcdb0d258": {
-      "date": "2026-03-05",
-      "title": "The Old Seniority Definition Is Collapsing",
-      "source": "devto"
-    },
-    "862470ab40eeb6aa": {
-      "date": "2026-03-05",
-      "title": "The Secret Life of Claude Code: Skill Is Not What You Think It Is",
-      "source": "devto"
-    },
-    "a9092d2b4c9c545b": {
-      "date": "2026-03-05",
-      "title": "I audited a codebase written by Devin 3.0. It was a nightmare.",
-      "source": "devto"
-    },
-    "d2ee61e5347d7534": {
-      "date": "2026-03-05",
-      "title": "GitHub Copilot CLI Challenge Winner Announcement - Further Delayed",
-      "source": "devto"
-    },
-    "5cd35dc5c26c3be1": {
-      "date": "2026-03-05",
-      "title": "d3d9-webgl — Run Legacy D3D9 Code in the Browser Without Rewriting It",
-      "source": "devto"
-    },
-    "bc9e332c07568ad0": {
-      "date": "2026-03-05",
-      "title": "Your MCP server's tool descriptions are an attack surface",
-      "source": "devto"
-    },
-    "ffe03fc846de971c": {
-      "date": "2026-03-05",
-      "title": "Deep Dive: Resolving DNS Issues with GitHub and Understanding SSH vs HTTPS",
-      "source": "devto"
-    },
     "db10dc9f6896c0c9": {
       "date": "2026-03-06",
       "title": "Cushion",
@@ -4840,6 +4680,146 @@
     "807d0aff36eacd4f": {
       "date": "2026-04-04",
       "title": "7 Reasons Your Demo Video Feels Longer Than It Is",
+      "source": "devto"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-04-05",
+      "title": "Caveman: Why use many token when few token do trick",
+      "source": "hackernews"
+    },
+    "7b5e5a6e4118c68d": {
+      "date": "2026-04-05",
+      "title": "Eight years of wanting, three months of building with AI",
+      "source": "hackernews"
+    },
+    "2b3692d618d3efbc": {
+      "date": "2026-04-05",
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "source": "hackernews"
+    },
+    "35269162cd5fae02": {
+      "date": "2026-04-05",
+      "title": "Gemma 4 on iPhone",
+      "source": "hackernews"
+    },
+    "ab25a5b2bea9921f": {
+      "date": "2026-04-05",
+      "title": "LÖVE: 2D Game Framework for Lua",
+      "source": "hackernews"
+    },
+    "8e7d779058419848": {
+      "date": "2026-04-05",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "source": "hackernews"
+    },
+    "67c028a84349eef0": {
+      "date": "2026-04-05",
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "source": "hackernews"
+    },
+    "5cbcf58b1b278b99": {
+      "date": "2026-04-05",
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "source": "hackernews"
+    },
+    "6b699e26da0aafce": {
+      "date": "2026-04-05",
+      "title": "UK intelligence censored report on global warming and homeland security",
+      "source": "hackernews"
+    },
+    "395afa6d459c08c1": {
+      "date": "2026-04-05",
+      "title": "Music for Programming",
+      "source": "hackernews"
+    },
+    "c769540fdaf49b92": {
+      "date": "2026-04-05",
+      "title": "Tiny Aya",
+      "source": "producthunt"
+    },
+    "119f619afd0a2a49": {
+      "date": "2026-04-05",
+      "title": "Ember",
+      "source": "producthunt"
+    },
+    "135380016a271429": {
+      "date": "2026-04-05",
+      "title": "Influcio",
+      "source": "producthunt"
+    },
+    "aff4f8e7f3ee84a7": {
+      "date": "2026-04-05",
+      "title": "Handle Extension",
+      "source": "producthunt"
+    },
+    "84df26d6bf2a0bc6": {
+      "date": "2026-04-05",
+      "title": "Faahh",
+      "source": "producthunt"
+    },
+    "29093b3e32ca9035": {
+      "date": "2026-04-05",
+      "title": "google-ai-edge / gallery",
+      "source": "github"
+    },
+    "11320934555e9771": {
+      "date": "2026-04-05",
+      "title": "badlogic / pi-mono",
+      "source": "github"
+    },
+    "56bdfc6f48d8e52c": {
+      "date": "2026-04-05",
+      "title": "google-ai-edge / LiteRT-LM",
+      "source": "github"
+    },
+    "bc21f3c6e4abf2b1": {
+      "date": "2026-04-05",
+      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+      "source": "devto"
+    },
+    "d127ad4f2f28d6a9": {
+      "date": "2026-04-05",
+      "title": "Fourbidden: A Serious AI Solution to 2+2, With Maximum Ceremony and No Resolution",
+      "source": "devto"
+    },
+    "53ea81b799e91e8c": {
+      "date": "2026-04-05",
+      "title": "Building a Decentralized Mesh Network in Rust — Lessons from the Global South",
+      "source": "devto"
+    },
+    "ed8786657c112b78": {
+      "date": "2026-04-05",
+      "title": "What I Learned Supervising 5 AI Agents on a Real Project",
+      "source": "devto"
+    },
+    "a4024a7dae0256cc": {
+      "date": "2026-04-05",
+      "title": "I Built a Chess Engine with 5 AI Agents — Here's What Surprised Me",
+      "source": "devto"
+    },
+    "eeb0eb6b8c254981": {
+      "date": "2026-04-05",
+      "title": "The Stack Nobody Recommended",
+      "source": "devto"
+    },
+    "906b372b207bd86a": {
+      "date": "2026-04-05",
+      "title": "Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator",
+      "source": "devto"
+    },
+    "b8cebd3e2752f86d": {
+      "date": "2026-04-05",
+      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+      "source": "devto"
+    },
+    "ed3effb730ffa53a": {
+      "date": "2026-04-05",
+      "title": "I Built a Voice AI with Sub-500ms Latency. Here's the Echo Cancellation Problem Nobody Talks About",
+      "source": "devto"
+    },
+    "7de1f79643031261": {
+      "date": "2026-04-05",
+      "title": "Why a Markdown File Beats a Message Bus",
       "source": "devto"
     }
   }
