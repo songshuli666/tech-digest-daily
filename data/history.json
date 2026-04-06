@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-05T23:04:02.186530",
+  "last_updated": "2026-04-06T23:09:02.593586",
   "sent_items": {
-    "db10dc9f6896c0c9": {
-      "date": "2026-03-06",
-      "title": "Cushion",
-      "source": "producthunt"
-    },
-    "76d9e7da444deab4": {
-      "date": "2026-03-06",
-      "title": "CoChat",
-      "source": "producthunt"
-    },
-    "ed2a7b7a3081ebcd": {
-      "date": "2026-03-06",
-      "title": "Cockpit",
-      "source": "producthunt"
-    },
-    "285121066b0594e8": {
-      "date": "2026-03-06",
-      "title": "Vera Platform by Cortex Research",
-      "source": "producthunt"
-    },
-    "67252d7261d11b03": {
-      "date": "2026-03-06",
-      "title": "VolumeGlass",
-      "source": "producthunt"
-    },
-    "2284caba5c8bc789": {
-      "date": "2026-03-06",
-      "title": "Pitwall F1",
-      "source": "producthunt"
-    },
-    "54b0fc916ff4486f": {
-      "date": "2026-03-06",
-      "title": "Saydi",
-      "source": "producthunt"
-    },
-    "d32b81375b5ec7c4": {
-      "date": "2026-03-06",
-      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-      "source": "hackernews"
-    },
-    "c42ea5dc1d455adb": {
-      "date": "2026-03-06",
-      "title": "Hardening Firefox with Anthropic's Red Team",
-      "source": "hackernews"
-    },
-    "71aad8b1577b977a": {
-      "date": "2026-03-06",
-      "title": "Payphone Go",
-      "source": "hackernews"
-    },
-    "86c42e3f6572f734": {
-      "date": "2026-03-06",
-      "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "source": "hackernews"
-    },
-    "d42ac54a9a1c2a01": {
-      "date": "2026-03-06",
-      "title": "Ada 2022",
-      "source": "hackernews"
-    },
-    "774f8841033e6ca8": {
-      "date": "2026-03-06",
-      "title": "The worst acquisition in history, again",
-      "source": "hackernews"
-    },
-    "97e0fbaefb8b10a4": {
-      "date": "2026-03-06",
-      "title": "this css proves me human",
-      "source": "hackernews"
-    },
-    "dbaeafdbaf00da8d": {
-      "date": "2026-03-06",
-      "title": "Art Bits from HyperCard",
-      "source": "hackernews"
-    },
-    "dad159d4d992044b": {
-      "date": "2026-03-06",
-      "title": "Math Notepad",
-      "source": "hackernews"
-    },
-    "3a583dd704fa7c72": {
-      "date": "2026-03-06",
-      "title": "Wild crows in Sweden help clean up cigarette butts",
-      "source": "hackernews"
-    },
-    "3b76702440d413c3": {
-      "date": "2026-03-06",
-      "title": "QwenLM / Qwen-Agent",
-      "source": "github"
-    },
-    "e21d995ca654e7a9": {
-      "date": "2026-03-06",
-      "title": "Ed1s0nZ / CyberStrikeAI",
-      "source": "github"
-    },
-    "ff235f8bee5eb032": {
-      "date": "2026-03-06",
-      "title": "lingfengQAQ / webnovel-writer",
-      "source": "github"
-    },
-    "86aa53f1b07692ef": {
-      "date": "2026-03-06",
-      "title": "virattt / ai-hedge-fund",
-      "source": "github"
-    },
-    "75f18a0b44304adf": {
-      "date": "2026-03-06",
-      "title": "aidenybai / react-grab",
-      "source": "github"
-    },
-    "77a8466f15284a55": {
-      "date": "2026-03-06",
-      "title": "Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Fron",
-      "source": "devto"
-    },
-    "aa4070a0b2e78284": {
-      "date": "2026-03-06",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "a6bb2352f3dfe5d3": {
-      "date": "2026-03-06",
-      "title": "Questions about building multimodal agents? The Google team might just have an answer for you!",
-      "source": "devto"
-    },
-    "55864fb882bf1129": {
-      "date": "2026-03-06",
-      "title": "9 Years on DEV.",
-      "source": "devto"
-    },
-    "b153c03c3a1eb0b2": {
-      "date": "2026-03-06",
-      "title": "Customizing the MacOS Terminal with help from AI",
-      "source": "devto"
-    },
-    "27978d67d10f582c": {
-      "date": "2026-03-06",
-      "title": "Advice I’d Send Back in Time: Technology in 2026 and Four Lessons for My High School Self",
-      "source": "devto"
-    },
-    "e101483894c1f0f6": {
-      "date": "2026-03-06",
-      "title": "Your Dialog Has role='dialog'. That Doesn't Make It Accessible.",
-      "source": "devto"
-    },
-    "61665d3cfee25b21": {
-      "date": "2026-03-06",
-      "title": "Fragile Constraints: What Happens When AI Makes Rewriting Free",
-      "source": "devto"
-    },
-    "e8938377b3157f93": {
-      "date": "2026-03-06",
-      "title": "Why Your Chaos Experiments Are Probably Wasting Time (and How to Fix It)",
-      "source": "devto"
-    },
-    "b33a629b744f1149": {
-      "date": "2026-03-06",
-      "title": "I built a Python library to make TCP networking as simple as Fastapi",
-      "source": "devto"
-    },
     "5c5d645665e57aa1": {
       "date": "2026-03-07",
       "title": "Ki Editor - an editor that operates on the AST",
@@ -4821,6 +4661,191 @@
       "date": "2026-04-05",
       "title": "Why a Markdown File Beats a Message Bus",
       "source": "devto"
+    },
+    "a2e06d582adbf383": {
+      "date": "2026-04-06",
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "source": "hackernews"
+    },
+    "690112f6441b6727": {
+      "date": "2026-04-06",
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "source": "hackernews"
+    },
+    "858927836bc24b3f": {
+      "date": "2026-04-06",
+      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+      "source": "hackernews"
+    },
+    "08a75abd2cd9d135": {
+      "date": "2026-04-06",
+      "title": "What being ripped off taught me",
+      "source": "hackernews"
+    },
+    "c856815d392cdadd": {
+      "date": "2026-04-06",
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "source": "hackernews"
+    },
+    "dc201ebceab0e56e": {
+      "date": "2026-04-06",
+      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+      "source": "hackernews"
+    },
+    "4bf8ed051fa7c4b5": {
+      "date": "2026-04-06",
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "source": "hackernews"
+    },
+    "ac76cc742729fd44": {
+      "date": "2026-04-06",
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "source": "hackernews"
+    },
+    "b24ecf804d20a03f": {
+      "date": "2026-04-06",
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "source": "hackernews"
+    },
+    "55a0d6e6984a2522": {
+      "date": "2026-04-06",
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "source": "hackernews"
+    },
+    "eb85bb0c70b6cee6": {
+      "date": "2026-04-06",
+      "title": "PixVerse V6",
+      "source": "producthunt"
+    },
+    "ca57dc8f56f1c0e1": {
+      "date": "2026-04-06",
+      "title": "Epismo Context Pack",
+      "source": "producthunt"
+    },
+    "18784cbc43d880bc": {
+      "date": "2026-04-06",
+      "title": "Glassbrain",
+      "source": "producthunt"
+    },
+    "80ac689c4a0ee37f": {
+      "date": "2026-04-06",
+      "title": "Ogoron",
+      "source": "producthunt"
+    },
+    "3b1d3ccba7250122": {
+      "date": "2026-04-06",
+      "title": "AgentPulse by Rectify",
+      "source": "producthunt"
+    },
+    "4e8fb3055437f963": {
+      "date": "2026-04-06",
+      "title": "Moonshot",
+      "source": "producthunt"
+    },
+    "df91d239e9089139": {
+      "date": "2026-04-06",
+      "title": "HyperCap",
+      "source": "producthunt"
+    },
+    "1380f70781b72251": {
+      "date": "2026-04-06",
+      "title": "Mailero",
+      "source": "producthunt"
+    },
+    "f94e4f668da89cb2": {
+      "date": "2026-04-06",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "e4a980077fb0387a": {
+      "date": "2026-04-06",
+      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
+      "source": "devto"
+    },
+    "069a020c920ed5f7": {
+      "date": "2026-04-06",
+      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
+      "source": "devto"
+    },
+    "c8f4049f29c5f5f6": {
+      "date": "2026-04-06",
+      "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
+      "source": "devto"
+    },
+    "1a192f9d377d1bbd": {
+      "date": "2026-04-06",
+      "title": "What are your goals for the week? #173",
+      "source": "devto"
+    },
+    "524f4d51328c461b": {
+      "date": "2026-04-06",
+      "title": "Building a Production-Ready Composable AI Agent System with CopilotKit and LangGraph",
+      "source": "devto"
+    },
+    "89cb92ee8d1c6fb5": {
+      "date": "2026-04-06",
+      "title": "ARIA Labels Are Probably Making Your Site Less Accessible. Here's When to Use Them (And When to Dele",
+      "source": "devto"
+    },
+    "e1541f12257a15df": {
+      "date": "2026-04-06",
+      "title": "I built a linter that proves 74% of your AGENTS.md is wasting your AI agent's time",
+      "source": "devto"
+    },
+    "c3c9f0f91d535b73": {
+      "date": "2026-04-06",
+      "title": "Why I Built TracerKit",
+      "source": "devto"
+    },
+    "17b33e71df60b5ca": {
+      "date": "2026-04-06",
+      "title": "Stop Prompting; Use the Design-Log Method to Build Predictable Tools",
+      "source": "devto"
+    },
+    "46e24096af5aa5e6": {
+      "date": "2026-04-06",
+      "title": "abhigyanpatwari / GitNexus",
+      "source": "github"
+    },
+    "f6d44bafc3780456": {
+      "date": "2026-04-06",
+      "title": "immich-app / immich",
+      "source": "github"
+    },
+    "8578f89662f6e7d9": {
+      "date": "2026-04-06",
+      "title": "KeygraphHQ / shannon",
+      "source": "github"
+    },
+    "978e35c607178533": {
+      "date": "2026-04-06",
+      "title": "NousResearch / hermes-agent",
+      "source": "github"
+    },
+    "e388694ac33bd216": {
+      "date": "2026-04-06",
+      "title": "tobi / qmd",
+      "source": "github"
+    },
+    "811ad685109906f3": {
+      "date": "2026-04-06",
+      "title": "TelegramMessenger / Telegram-iOS",
+      "source": "github"
+    },
+    "6eec8646764a2da4": {
+      "date": "2026-04-06",
+      "title": "ollama / ollama",
+      "source": "github"
+    },
+    "087dae28b6e341d1": {
+      "date": "2026-04-06",
+      "title": "ggml-org / llama.cpp",
+      "source": "github"
+    },
+    "22e8f3650109b115": {
+      "date": "2026-04-06",
+      "title": "NVIDIA / personaplex",
+      "source": "github"
     }
   }
 }
