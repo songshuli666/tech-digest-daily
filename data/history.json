@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-06T23:09:02.593586",
+  "last_updated": "2026-04-07T23:11:05.558784",
   "sent_items": {
-    "5c5d645665e57aa1": {
-      "date": "2026-03-07",
-      "title": "Ki Editor - an editor that operates on the AST",
-      "source": "hackernews"
-    },
-    "ee3477300f63a47b": {
-      "date": "2026-03-07",
-      "title": "A decade of Docker containers",
-      "source": "hackernews"
-    },
-    "64d8d4a8b0413e62": {
-      "date": "2026-03-07",
-      "title": "FLASH radiotherapy's bold approach to cancer treatment",
-      "source": "hackernews"
-    },
-    "4f4a7065fed252c7": {
-      "date": "2026-03-07",
-      "title": "Effort to prevent government officials from engaging in prediction markets",
-      "source": "hackernews"
-    },
-    "fa39ed4006edf631": {
-      "date": "2026-03-07",
-      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-      "source": "hackernews"
-    },
-    "0f6186cec335125a": {
-      "date": "2026-03-07",
-      "title": "CasNum",
-      "source": "hackernews"
-    },
-    "ddfd6d6caf93d19a": {
-      "date": "2026-03-07",
-      "title": "Compiling Prolog to Forth [pdf]",
-      "source": "hackernews"
-    },
-    "c02ac081360aa4be": {
-      "date": "2026-03-07",
-      "title": "macOS code injection for fun and no profit (2024)",
-      "source": "hackernews"
-    },
-    "d560a36c65fc05b9": {
-      "date": "2026-03-07",
-      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-      "source": "hackernews"
-    },
-    "be8079adbd66ffc6": {
-      "date": "2026-03-07",
-      "title": "The Day NY Publishing Lost Its Soul",
-      "source": "hackernews"
-    },
-    "52a9dca8688a54ef": {
-      "date": "2026-03-07",
-      "title": "Copperlane",
-      "source": "producthunt"
-    },
-    "8038626f3b9eadef": {
-      "date": "2026-03-07",
-      "title": "Thinking Line",
-      "source": "producthunt"
-    },
-    "d3367c9479736afb": {
-      "date": "2026-03-07",
-      "title": "GetBeel",
-      "source": "producthunt"
-    },
-    "70048a7533d037ba": {
-      "date": "2026-03-07",
-      "title": "Tailwind Form Builder",
-      "source": "producthunt"
-    },
-    "679d4cc3712dc9bb": {
-      "date": "2026-03-07",
-      "title": "21st Agents SDK",
-      "source": "producthunt"
-    },
-    "337e8af7e560f0f5": {
-      "date": "2026-03-07",
-      "title": "LTX Desktop",
-      "source": "producthunt"
-    },
-    "5fa324d6510a1f1b": {
-      "date": "2026-03-07",
-      "title": "666ghj / MiroFish",
-      "source": "github"
-    },
-    "e60f6498c318c48b": {
-      "date": "2026-03-07",
-      "title": "openai / skills",
-      "source": "github"
-    },
-    "eb0f738005a74134": {
-      "date": "2026-03-07",
-      "title": "GoogleCloudPlatform / generative-ai",
-      "source": "github"
-    },
-    "8f501e57fe872c4b": {
-      "date": "2026-03-07",
-      "title": "agentjido / jido",
-      "source": "github"
-    },
-    "4815469146dd988a": {
-      "date": "2026-03-07",
-      "title": "toeverything / AFFiNE",
-      "source": "github"
-    },
-    "5f02491b589aa491": {
-      "date": "2026-03-07",
-      "title": "shadcn-ui / ui",
-      "source": "github"
-    },
-    "d8d54e4bd4f02a14": {
-      "date": "2026-03-07",
-      "title": "alibaba / page-agent",
-      "source": "github"
-    },
-    "864f5edb64b9b0ed": {
-      "date": "2026-03-07",
-      "title": "3 words worth a billion dollars: Drift to Determinism (DriDe)",
-      "source": "devto"
-    },
-    "28a3b32a07770fd6": {
-      "date": "2026-03-07",
-      "title": "I Turned Notion Into a Control Plane for my 18 OpenClaw AI Agents",
-      "source": "devto"
-    },
-    "add8fe10d779615a": {
-      "date": "2026-03-07",
-      "title": "About Invisibility, Propaganda, and Assumptions of Incompetence",
-      "source": "devto"
-    },
-    "5a419ae7be2ad542": {
-      "date": "2026-03-07",
-      "title": "ScriptLite — a sandboxed ECMAScript subset interpreter for PHP (with optional C extension)",
-      "source": "devto"
-    },
-    "914dec4bb8fc22ef": {
-      "date": "2026-03-07",
-      "title": "I Submitted to a Mistral Hackathon at 10pm. My Agent Built the App While I Slept.",
-      "source": "devto"
-    },
-    "4cbf813e2f5f89f0": {
-      "date": "2026-03-07",
-      "title": "The Secret Life of Claude Code: The First Prompt",
-      "source": "devto"
-    },
-    "ff8fd2d2d3d3388c": {
-      "date": "2026-03-07",
-      "title": "Making AI Empathic",
-      "source": "devto"
-    },
-    "f6f94c1b48089ec5": {
-      "date": "2026-03-07",
-      "title": "The Next.js SEO Bug That Made Google Ignore My Entire Site (And How I Found It)",
-      "source": "devto"
-    },
-    "5ba1d7a7db2cd4f2": {
-      "date": "2026-03-07",
-      "title": "What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection",
-      "source": "devto"
-    },
-    "354a82a4c31cc915": {
-      "date": "2026-03-07",
-      "title": "I Built a Free Hemingway Editor Alternative That Runs in Your Browser",
-      "source": "devto"
-    },
     "78ce8c3ef6e6767c": {
       "date": "2026-03-08",
       "title": "Pulldog",
@@ -4846,6 +4681,161 @@
       "date": "2026-04-06",
       "title": "NVIDIA / personaplex",
       "source": "github"
+    },
+    "3eade88d874fb788": {
+      "date": "2026-04-07",
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "source": "hackernews"
+    },
+    "82a631a7d5b7a35c": {
+      "date": "2026-04-07",
+      "title": "System Card: Claude Mythos Preview [pdf]",
+      "source": "hackernews"
+    },
+    "7761d89b31848191": {
+      "date": "2026-04-07",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "source": "hackernews"
+    },
+    "5be52ef9b1bf5ec8": {
+      "date": "2026-04-07",
+      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
+      "source": "hackernews"
+    },
+    "702eb452184c3093": {
+      "date": "2026-04-07",
+      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+      "source": "hackernews"
+    },
+    "35d81c76a86a9717": {
+      "date": "2026-04-07",
+      "title": "Lunar Flyby",
+      "source": "hackernews"
+    },
+    "5a0b30ec1f21dad0": {
+      "date": "2026-04-07",
+      "title": "S3 Files",
+      "source": "hackernews"
+    },
+    "837a66a43257bfe1": {
+      "date": "2026-04-07",
+      "title": "How to get better at guitar",
+      "source": "hackernews"
+    },
+    "5b70a31ac5d7f5f2": {
+      "date": "2026-04-07",
+      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+      "source": "hackernews"
+    },
+    "1aac672437728f6b": {
+      "date": "2026-04-07",
+      "title": "Bitcoin and quantum computing",
+      "source": "hackernews"
+    },
+    "6ba6ed0a0a5e409d": {
+      "date": "2026-04-07",
+      "title": "MacYaps",
+      "source": "producthunt"
+    },
+    "ac49e37ba7beb70b": {
+      "date": "2026-04-07",
+      "title": "MBCompass",
+      "source": "producthunt"
+    },
+    "0085fecd87a992f8": {
+      "date": "2026-04-07",
+      "title": "sync-3",
+      "source": "producthunt"
+    },
+    "a0be80b1a5f242f2": {
+      "date": "2026-04-07",
+      "title": "Gaia",
+      "source": "producthunt"
+    },
+    "52bc91a4537c54b8": {
+      "date": "2026-04-07",
+      "title": "ChatGPT Ads by Gauge",
+      "source": "producthunt"
+    },
+    "85d424b8b84f3911": {
+      "date": "2026-04-07",
+      "title": "Couch",
+      "source": "producthunt"
+    },
+    "0adc46425b1935ba": {
+      "date": "2026-04-07",
+      "title": "VoxTori",
+      "source": "producthunt"
+    },
+    "098f2d324ee05c0d": {
+      "date": "2026-04-07",
+      "title": "forrestchang / andrej-karpathy-skills",
+      "source": "github"
+    },
+    "134275397b64b129": {
+      "date": "2026-04-07",
+      "title": "elebumm / RedditVideoMakerBot",
+      "source": "github"
+    },
+    "bca7775ac9caec94": {
+      "date": "2026-04-07",
+      "title": "HKUDS / DeepTutor",
+      "source": "github"
+    },
+    "398facd358d56db3": {
+      "date": "2026-04-07",
+      "title": "TheCraigHewitt / seomachine",
+      "source": "github"
+    },
+    "c9a4e87bd8ff5465": {
+      "date": "2026-04-07",
+      "title": "Component-based CSS",
+      "source": "devto"
+    },
+    "262ea9de0f6db503": {
+      "date": "2026-04-07",
+      "title": "Forem (Dev.to) is slow, so I del...optimized it.",
+      "source": "devto"
+    },
+    "079afda0c303aa9f": {
+      "date": "2026-04-07",
+      "title": "Sharing CodePen 2.0 demos on DEV",
+      "source": "devto"
+    },
+    "e00dde67d345ba8d": {
+      "date": "2026-04-07",
+      "title": "Momentum vs. Alignment Tax - Hidden Costs in Your LLM Session",
+      "source": "devto"
+    },
+    "3f06108743e3a399": {
+      "date": "2026-04-07",
+      "title": "Tired of boring AI assistants? I built a \"Desktop Pet\" Copilot that wanders around your screen and w",
+      "source": "devto"
+    },
+    "4236ff7bf7f9c735": {
+      "date": "2026-04-07",
+      "title": "I Built a \"Blame Finder\" for AI Agents – So You Never Have to Guess Who Broke Production",
+      "source": "devto"
+    },
+    "02335fbfd979a379": {
+      "date": "2026-04-07",
+      "title": "Building a YouTube-to-Podcast Pipeline with yt-dlp, ffmpeg, and Backblaze B2",
+      "source": "devto"
+    },
+    "b7660004b4039f86": {
+      "date": "2026-04-07",
+      "title": "#26 The Ledger of Flames",
+      "source": "devto"
+    },
+    "a23c7884fd534a52": {
+      "date": "2026-04-07",
+      "title": "Why I Built a 4,000-Line Agent Skill Instead of Another npm Package",
+      "source": "devto"
+    },
+    "482d0c34b4031afd": {
+      "date": "2026-04-07",
+      "title": "How I Built LoopSignal: Public Feedback Boards, GitHub Sync, and Changelogs for Indie Developers",
+      "source": "devto"
     }
   }
 }
