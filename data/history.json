@@ -1,147 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-07T23:11:05.558784",
+  "last_updated": "2026-04-08T23:23:15.039224",
   "sent_items": {
-    "78ce8c3ef6e6767c": {
-      "date": "2026-03-08",
-      "title": "Pulldog",
-      "source": "producthunt"
-    },
-    "e7a7a5bab693501b": {
-      "date": "2026-03-08",
-      "title": "Song Sweeper",
-      "source": "producthunt"
-    },
-    "7a64c0af28c59d2e": {
-      "date": "2026-03-08",
-      "title": "Claude Marketplace",
-      "source": "producthunt"
-    },
-    "ca24bcb2c5aeba83": {
-      "date": "2026-03-08",
-      "title": "Olmo Hybrid",
-      "source": "producthunt"
-    },
-    "4d34bc042ed871ea": {
-      "date": "2026-03-08",
-      "title": "FrameBook",
-      "source": "hackernews"
-    },
-    "ad5905973fb145e4": {
-      "date": "2026-03-08",
-      "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-      "source": "hackernews"
-    },
-    "356c38d07c938974": {
-      "date": "2026-03-08",
-      "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-      "source": "hackernews"
-    },
-    "403a77efd9b5833b": {
-      "date": "2026-03-08",
-      "title": "Microscopes Can See Video on a LaserDisc",
-      "source": "hackernews"
-    },
-    "4281ab436f3307fa": {
-      "date": "2026-03-08",
-      "title": "My Homelab Setup",
-      "source": "hackernews"
-    },
-    "a6d3a89ebf156d94": {
-      "date": "2026-03-08",
-      "title": "We should revisit literate programming in the agent era",
-      "source": "hackernews"
-    },
-    "c68f576db4c569ac": {
-      "date": "2026-03-08",
-      "title": "WSL Manager",
-      "source": "hackernews"
-    },
-    "844de8810597be1e": {
-      "date": "2026-03-08",
-      "title": "Blacksky AppView",
-      "source": "hackernews"
-    },
-    "923dabadc9b275c7": {
-      "date": "2026-03-08",
-      "title": "Pushing and Pulling: Three reactivity algorithms",
-      "source": "hackernews"
-    },
-    "bbc19b895944ca53": {
-      "date": "2026-03-08",
-      "title": "Lil Finder Guy",
-      "source": "hackernews"
-    },
-    "43d152ef51d931e8": {
-      "date": "2026-03-08",
-      "title": "Not Everyone Gets to Be a Beginner in Tech",
-      "source": "devto"
-    },
-    "e6f14188afce4383": {
-      "date": "2026-03-08",
-      "title": "The Women Who Helped Me Grow as a Developer",
-      "source": "devto"
-    },
-    "5f7eeedfde8f1ad9": {
-      "date": "2026-03-08",
-      "title": "Why I replaced \"think freely\" with structured blackboarding in my agent loops",
-      "source": "devto"
-    },
-    "575ae40b76be07cb": {
-      "date": "2026-03-08",
-      "title": "Confessions of an AI Sceptic",
-      "source": "devto"
-    },
-    "9e8beb442abce0e7": {
-      "date": "2026-03-08",
-      "title": "I Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)",
-      "source": "devto"
-    },
-    "88de8eddda7027ac": {
-      "date": "2026-03-08",
-      "title": "When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz",
-      "source": "devto"
-    },
-    "623cda456d80c70f": {
-      "date": "2026-03-08",
-      "title": "AI Agent Landscape: February 2026 Data from Running One for 6 Months",
-      "source": "devto"
-    },
-    "5192e65558185325": {
-      "date": "2026-03-08",
-      "title": "I Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc",
-      "source": "devto"
-    },
-    "b165c99b31f8cf72": {
-      "date": "2026-03-08",
-      "title": "Stop Treating AI Agents as Web Servers: A Kubernetes Survival Guide - Part 1",
-      "source": "devto"
-    },
-    "63a971faa9d31263": {
-      "date": "2026-03-08",
-      "title": "How I Designed a Multi-Tenant ERP System That Isolates 100% of Customer Data",
-      "source": "devto"
-    },
-    "0bd21c2cf11fc945": {
-      "date": "2026-03-08",
-      "title": "openclaw / openclaw",
-      "source": "github"
-    },
-    "46b4daa0ac43193f": {
-      "date": "2026-03-08",
-      "title": "is-a-dev / register",
-      "source": "github"
-    },
-    "d1175731313615bc": {
-      "date": "2026-03-08",
-      "title": "teng-lin / notebooklm-py",
-      "source": "github"
-    },
-    "be8acfaf11180d2a": {
-      "date": "2026-03-08",
-      "title": "pbakaus / impeccable",
-      "source": "github"
-    },
     "357ea0935b40644f": {
       "date": "2026-03-09",
       "title": "SCRAPR",
@@ -4835,6 +4695,156 @@
     "482d0c34b4031afd": {
       "date": "2026-04-07",
       "title": "How I Built LoopSignal: Public Feedback Boards, GitHub Sync, and Changelogs for Indie Developers",
+      "source": "devto"
+    },
+    "914fd727524b98e0": {
+      "date": "2026-04-08",
+      "title": "Git commands I run before reading any code",
+      "source": "hackernews"
+    },
+    "724b531c2f075b3d": {
+      "date": "2026-04-08",
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "source": "hackernews"
+    },
+    "1b1ba5aa4155f696": {
+      "date": "2026-04-08",
+      "title": "Veracrypt project update",
+      "source": "hackernews"
+    },
+    "71a9e3d97bf8c60f": {
+      "date": "2026-04-08",
+      "title": "They're made out of meat (1991)",
+      "source": "hackernews"
+    },
+    "c19ca13d9ab6e11c": {
+      "date": "2026-04-08",
+      "title": "ML promises to be profoundly weird",
+      "source": "hackernews"
+    },
+    "02bd7f7d647b545e": {
+      "date": "2026-04-08",
+      "title": "Muse Spark: Scaling towards personal superintelligence",
+      "source": "hackernews"
+    },
+    "1669948d7e6ed2ae": {
+      "date": "2026-04-08",
+      "title": "Understanding the Kalman filter with a simple radar example",
+      "source": "hackernews"
+    },
+    "8360ea2da1c164a1": {
+      "date": "2026-04-08",
+      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "source": "hackernews"
+    },
+    "4f5d03f1e0e4ec8a": {
+      "date": "2026-04-08",
+      "title": "Expanding Swift's IDE Support",
+      "source": "hackernews"
+    },
+    "97e693c7711ac6b7": {
+      "date": "2026-04-08",
+      "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
+      "source": "hackernews"
+    },
+    "aa1e9a5879bb44ba": {
+      "date": "2026-04-08",
+      "title": "MindsDB Anton",
+      "source": "producthunt"
+    },
+    "0930ba5d609b2a5d": {
+      "date": "2026-04-08",
+      "title": "Hire Roger",
+      "source": "producthunt"
+    },
+    "b49aaf92fa0d2a2c": {
+      "date": "2026-04-08",
+      "title": "Keeby",
+      "source": "producthunt"
+    },
+    "ba3eac388614990e": {
+      "date": "2026-04-08",
+      "title": "Marble 1.1",
+      "source": "producthunt"
+    },
+    "2afbea291ce7b116": {
+      "date": "2026-04-08",
+      "title": "FeatDrop",
+      "source": "producthunt"
+    },
+    "72cff960655c4d1b": {
+      "date": "2026-04-08",
+      "title": "Zoho Projects Infinity.ai",
+      "source": "producthunt"
+    },
+    "afc7aa4dbc7f31cb": {
+      "date": "2026-04-08",
+      "title": "RoomieU",
+      "source": "producthunt"
+    },
+    "d17dea0042e97d95": {
+      "date": "2026-04-08",
+      "title": "Velo",
+      "source": "producthunt"
+    },
+    "86aa53f1b07692ef": {
+      "date": "2026-04-08",
+      "title": "virattt / ai-hedge-fund",
+      "source": "github"
+    },
+    "2844fb5f4495aa40": {
+      "date": "2026-04-08",
+      "title": "goharbor / harbor",
+      "source": "github"
+    },
+    "95a6aed46e7e1280": {
+      "date": "2026-04-08",
+      "title": "Converting old home movie DVDs into a private streaming site",
+      "source": "devto"
+    },
+    "6982813acd7f0ac6": {
+      "date": "2026-04-08",
+      "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
+      "source": "devto"
+    },
+    "0462b4ef0727a610": {
+      "date": "2026-04-08",
+      "title": "I Built a Website Whose Only Feature Is Explaining How It Builds Itself",
+      "source": "devto"
+    },
+    "2f4f587cf7379659": {
+      "date": "2026-04-08",
+      "title": "Clawshier OpenClaw Skill",
+      "source": "devto"
+    },
+    "55f46d6520fdd22c": {
+      "date": "2026-04-08",
+      "title": "Who's Al and Where's Webfont Legibility?",
+      "source": "devto"
+    },
+    "445ad68f501d7170": {
+      "date": "2026-04-08",
+      "title": "AIMock: One Mock Server For Your Entire AI Stack",
+      "source": "devto"
+    },
+    "74262b70b7fba1ae": {
+      "date": "2026-04-08",
+      "title": "I Built an Agent to Run Live Event Raffles (then tried to rig it)",
+      "source": "devto"
+    },
+    "04811ea77907bbdf": {
+      "date": "2026-04-08",
+      "title": "Semver in Retrograde",
+      "source": "devto"
+    },
+    "bd8e28ea26ffd6d5": {
+      "date": "2026-04-08",
+      "title": "I Built an Open-Source Visual Kubernetes Orchestration Platform — No YAML Required",
+      "source": "devto"
+    },
+    "7668b4f021eee9e5": {
+      "date": "2026-04-08",
+      "title": "Dafuq did I just installed?",
       "source": "devto"
     }
   }
