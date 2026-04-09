@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-08T23:23:15.039224",
+  "last_updated": "2026-04-09T23:24:22.433314",
   "sent_items": {
-    "357ea0935b40644f": {
-      "date": "2026-03-09",
-      "title": "SCRAPR",
-      "source": "producthunt"
-    },
-    "a79ba7e2c9969a15": {
-      "date": "2026-03-09",
-      "title": "Kita",
-      "source": "producthunt"
-    },
-    "d3298e5df4505203": {
-      "date": "2026-03-09",
-      "title": "Wideframe",
-      "source": "producthunt"
-    },
-    "2477511fd49640bc": {
-      "date": "2026-03-09",
-      "title": "Flowripple",
-      "source": "producthunt"
-    },
-    "24a8c07cdaff778c": {
-      "date": "2026-03-09",
-      "title": "Phi-4-reasoning-vision",
-      "source": "producthunt"
-    },
-    "e4c29fb72ee67654": {
-      "date": "2026-03-09",
-      "title": "Nothing Phone (4a) Pro",
-      "source": "producthunt"
-    },
-    "2c811ed4e3121a77": {
-      "date": "2026-03-09",
-      "title": "simply",
-      "source": "producthunt"
-    },
-    "20085f7041c042ee": {
-      "date": "2026-03-09",
-      "title": "Reflct",
-      "source": "producthunt"
-    },
-    "d3e0c7a1f7a84b30": {
-      "date": "2026-03-09",
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "source": "hackernews"
-    },
-    "8fd83f2aecd86ed6": {
-      "date": "2026-03-09",
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "source": "hackernews"
-    },
-    "aff27df6c8b51ec8": {
-      "date": "2026-03-09",
-      "title": "Bluesky CEO Jay Graber is stepping down",
-      "source": "hackernews"
-    },
-    "1eb1e2b5039e5267": {
-      "date": "2026-03-09",
-      "title": "JSLinux Now Supports x86_64",
-      "source": "hackernews"
-    },
-    "b2d33fb3a49bacfa": {
-      "date": "2026-03-09",
-      "title": "DARPA's new X-76",
-      "source": "hackernews"
-    },
-    "1dde44881a4dadad": {
-      "date": "2026-03-09",
-      "title": "Oracle is building yesterday's data centers with tomorrow's debt",
-      "source": "hackernews"
-    },
-    "2016978cea3e8e0d": {
-      "date": "2026-03-09",
-      "title": "Show HN: The Mog Programming Language",
-      "source": "hackernews"
-    },
-    "1bcc344c9f03bcd3": {
-      "date": "2026-03-09",
-      "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-      "source": "hackernews"
-    },
-    "0fec516e641712b8": {
-      "date": "2026-03-09",
-      "title": "Rendezvous with Rama",
-      "source": "hackernews"
-    },
-    "21f8272bdcd8b908": {
-      "date": "2026-03-09",
-      "title": "The First Airplane Fatality",
-      "source": "hackernews"
-    },
-    "971dc80d24870e3a": {
-      "date": "2026-03-09",
-      "title": "karpathy / nanochat",
-      "source": "github"
-    },
-    "4b6518559b83dc22": {
-      "date": "2026-03-09",
-      "title": "666ghj / BettaFish",
-      "source": "github"
-    },
-    "8b826b177eba41b4": {
-      "date": "2026-03-09",
-      "title": "alirezarezvani / claude-skills",
-      "source": "github"
-    },
-    "ce53e0e5cc55ed71": {
-      "date": "2026-03-09",
-      "title": "Raphire / Win11Debloat",
-      "source": "github"
-    },
-    "6e9f0a36e5ba2de4": {
-      "date": "2026-03-09",
-      "title": "Congrats to the GitHub Copilot CLI Challenge Winners!",
-      "source": "devto"
-    },
-    "29ffd4c53fec9f24": {
-      "date": "2026-03-09",
-      "title": "Revamped RSS Feed Imports",
-      "source": "devto"
-    },
-    "d6f33b61980cb0f2": {
-      "date": "2026-03-09",
-      "title": "I Planned an Exit Strategy. I Stayed the Whole Time.",
-      "source": "devto"
-    },
-    "823471c0463f9568": {
-      "date": "2026-03-09",
-      "title": "From a Confused Graduate to a DevOps Engineer",
-      "source": "devto"
-    },
-    "292680383411a0c9": {
-      "date": "2026-03-09",
-      "title": "I got tired of color contrast tools that break brand colors. So I built my own.",
-      "source": "devto"
-    },
-    "d1a9214fbd62705f": {
-      "date": "2026-03-09",
-      "title": "Criei uma pipeline de planejamento no OpenCode e olha no que deu",
-      "source": "devto"
-    },
-    "37486306b3d474a5": {
-      "date": "2026-03-09",
-      "title": "Mapping the Territory",
-      "source": "devto"
-    },
-    "abeb42736a7c2ac9": {
-      "date": "2026-03-09",
-      "title": "Can you Truly Know that you are in the Right Path?",
-      "source": "devto"
-    },
-    "f42388874f5f26e7": {
-      "date": "2026-03-09",
-      "title": "From NEET Aspirant to Writing Code: A Journey I Never Planned",
-      "source": "devto"
-    },
-    "91347e5d6d767079": {
-      "date": "2026-03-09",
-      "title": "The Secret Life of Claude Code: When Claude Code Gets It Wrong",
-      "source": "devto"
-    },
     "344a14d8ce76bb75": {
       "date": "2026-03-10",
       "title": "Tony Hoare has died",
@@ -4845,6 +4685,161 @@
     "7668b4f021eee9e5": {
       "date": "2026-04-08",
       "title": "Dafuq did I just installed?",
+      "source": "devto"
+    },
+    "62a9f1c6ae76a0b3": {
+      "date": "2026-04-09",
+      "title": "Smuggl",
+      "source": "producthunt"
+    },
+    "f95ec426c74f8c34": {
+      "date": "2026-04-09",
+      "title": "ScreenSmooth",
+      "source": "producthunt"
+    },
+    "9d5cea4a58085285": {
+      "date": "2026-04-09",
+      "title": "brag.fast",
+      "source": "producthunt"
+    },
+    "1cc5027f3c3aae6a": {
+      "date": "2026-04-09",
+      "title": "Onform.work",
+      "source": "producthunt"
+    },
+    "c666f92998f68731": {
+      "date": "2026-04-09",
+      "title": "riffle",
+      "source": "producthunt"
+    },
+    "4889b5235fb5e483": {
+      "date": "2026-04-09",
+      "title": "Morsel",
+      "source": "producthunt"
+    },
+    "be755bb0400c3eb2": {
+      "date": "2026-04-09",
+      "title": "Grass",
+      "source": "producthunt"
+    },
+    "dab59a67342ff904": {
+      "date": "2026-04-09",
+      "title": "Offsite",
+      "source": "producthunt"
+    },
+    "d97397cd9731350b": {
+      "date": "2026-04-09",
+      "title": "Native Instant Space Switching on macOS",
+      "source": "hackernews"
+    },
+    "7d638b67a266c493": {
+      "date": "2026-04-09",
+      "title": "Unfolder for Mac – A 3D model unfolding tool for creating papercraft",
+      "source": "hackernews"
+    },
+    "04dc0f629c2f31a7": {
+      "date": "2026-04-09",
+      "title": "Research-Driven Agents: When an agent reads before it codes",
+      "source": "hackernews"
+    },
+    "ca14badbe018f6a9": {
+      "date": "2026-04-09",
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "source": "hackernews"
+    },
+    "bf62e32ac8b3c3b1": {
+      "date": "2026-04-09",
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "source": "hackernews"
+    },
+    "4a0fa2a3305b5f10": {
+      "date": "2026-04-09",
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "source": "hackernews"
+    },
+    "6d40a03575c4ff8b": {
+      "date": "2026-04-09",
+      "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+      "source": "hackernews"
+    },
+    "f3cc263f48792264": {
+      "date": "2026-04-09",
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "source": "hackernews"
+    },
+    "3d18f13cac8f4daf": {
+      "date": "2026-04-09",
+      "title": "Many African families spend fortunes burying their dead",
+      "source": "hackernews"
+    },
+    "21786246238f175a": {
+      "date": "2026-04-09",
+      "title": "Robots Eat Cars",
+      "source": "hackernews"
+    },
+    "78ddb48b10aef7ae": {
+      "date": "2026-04-09",
+      "title": "OpenBMB / VoxCPM",
+      "source": "github"
+    },
+    "7a978aa4a2c8885e": {
+      "date": "2026-04-09",
+      "title": "coleam00 / Archon",
+      "source": "github"
+    },
+    "c175a33fc9954c9b": {
+      "date": "2026-04-09",
+      "title": "shiyu-coder / Kronos",
+      "source": "github"
+    },
+    "e8bb49ea61ca75ba": {
+      "date": "2026-04-09",
+      "title": "Unlocking Casual Fun: AI-Powered 'Vibe Coding' for Quick, Niche Apps",
+      "source": "devto"
+    },
+    "3d90d317428a2a49": {
+      "date": "2026-04-09",
+      "title": "You’re a Real Software Developer Only If…",
+      "source": "devto"
+    },
+    "834dd41a2d89482a": {
+      "date": "2026-04-09",
+      "title": "Experimenting with AI subagents",
+      "source": "devto"
+    },
+    "4a649c1d0c35cd79": {
+      "date": "2026-04-09",
+      "title": "When Your UX Only Fits Two Sizes",
+      "source": "devto"
+    },
+    "59465f1774afcd96": {
+      "date": "2026-04-09",
+      "title": "There's an Entire Ecosystem Yet to Be Built",
+      "source": "devto"
+    },
+    "61912ec86d50fe5d": {
+      "date": "2026-04-09",
+      "title": "The Review Revolution: Why Code Review Is Now the Most Important Skill You Have",
+      "source": "devto"
+    },
+    "88b8ce518fd6efb4": {
+      "date": "2026-04-09",
+      "title": "Skills Are the New CLI",
+      "source": "devto"
+    },
+    "433ac906d3be4aca": {
+      "date": "2026-04-09",
+      "title": "Fine-Tuning Gemma 3 with Cloud Run Jobs: Serverless GPUs (NVIDIA RTX 6000 Pro) for pet breed classif",
+      "source": "devto"
+    },
+    "4d7f71bd0e68b3b5": {
+      "date": "2026-04-09",
+      "title": "TigerFS: A Filesystem Backed by PostgreSQL",
+      "source": "devto"
+    },
+    "4fcd4e9810777e57": {
+      "date": "2026-04-09",
+      "title": "47 Blog Posts, Zero Traffic: What I Learned About SEO the Hard Way",
       "source": "devto"
     }
   }
