@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-09T23:24:22.433314",
+  "last_updated": "2026-04-10T23:08:25.037006",
   "sent_items": {
-    "344a14d8ce76bb75": {
-      "date": "2026-03-10",
-      "title": "Tony Hoare has died",
-      "source": "hackernews"
-    },
-    "0e5952a629494c95": {
-      "date": "2026-03-10",
-      "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
-      "source": "hackernews"
-    },
-    "1f1e3a965f3512a9": {
-      "date": "2026-03-10",
-      "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "source": "hackernews"
-    },
-    "815c4eea8c3c3f33": {
-      "date": "2026-03-10",
-      "title": "Debian decides not to decide on AI-generated contributions",
-      "source": "hackernews"
-    },
-    "71661d77fb4757d7": {
-      "date": "2026-03-10",
-      "title": "Agents that run while I sleep",
-      "source": "hackernews"
-    },
-    "5611bcdfd0603f0f": {
-      "date": "2026-03-10",
-      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "source": "hackernews"
-    },
-    "0c7ebc54d5fb1a84": {
-      "date": "2026-03-10",
-      "title": "RISC-V Is Sloooow",
-      "source": "hackernews"
-    },
-    "845b6cf9c3106c66": {
-      "date": "2026-03-10",
-      "title": "Billion-Parameter Theories",
-      "source": "hackernews"
-    },
-    "4f78e7873fc452d8": {
-      "date": "2026-03-10",
-      "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "source": "hackernews"
-    },
-    "a40c09435a0e98ff": {
-      "date": "2026-03-10",
-      "title": "HyperCard discovery: Neuromancer, Count Zero, Mona Lisa Overdrive (2022)",
-      "source": "hackernews"
-    },
-    "10ec2f04d2a3efd4": {
-      "date": "2026-03-10",
-      "title": "Crikket",
-      "source": "producthunt"
-    },
-    "5f3a15c7dce5b514": {
-      "date": "2026-03-10",
-      "title": "Book Reading Habit",
-      "source": "producthunt"
-    },
-    "10b93a234877603a": {
-      "date": "2026-03-10",
-      "title": "On Demand Ads by beehiv",
-      "source": "producthunt"
-    },
-    "2bf8995202e2da47": {
-      "date": "2026-03-10",
-      "title": "GapHunt",
-      "source": "producthunt"
-    },
-    "132fbe79ae2089ca": {
-      "date": "2026-03-10",
-      "title": "Spine Swarm",
-      "source": "producthunt"
-    },
-    "c3e89a6c0cf08038": {
-      "date": "2026-03-10",
-      "title": "Contentdrips Design Agent",
-      "source": "producthunt"
-    },
-    "beab71e4a454d92c": {
-      "date": "2026-03-10",
-      "title": "Visual Translate by Vozo",
-      "source": "producthunt"
-    },
-    "e80682a120a8dd8b": {
-      "date": "2026-03-10",
-      "title": "sitefire.ai",
-      "source": "producthunt"
-    },
-    "592085c43868c23e": {
-      "date": "2026-03-10",
-      "title": "promptfoo / promptfoo",
-      "source": "github"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-03-10",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "f2a914abba69adac": {
-      "date": "2026-03-10",
-      "title": "sepinf-inc / IPED",
-      "source": "github"
-    },
-    "c9ea5340fffe061e": {
-      "date": "2026-03-10",
-      "title": "The Enablers Who Helped Me Code Forward",
-      "source": "devto"
-    },
-    "d42b927a10f5057b": {
-      "date": "2026-03-10",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "7f16aec38df0f02e": {
-      "date": "2026-03-10",
-      "title": "DumbQuestion.ai - Self-Awareness, Prompt Injection, Search Intent... and darkness",
-      "source": "devto"
-    },
-    "7cbc72e67ad561e2": {
-      "date": "2026-03-10",
-      "title": "TLS Certificates Are About to Expire Way More Often. Here's How I'm Handling It.",
-      "source": "devto"
-    },
-    "c168190d6ee31a54": {
-      "date": "2026-03-10",
-      "title": "I Made Claude Code Think Before It Codes. Here's the Prompt.",
-      "source": "devto"
-    },
-    "300f30da2765f6dc": {
-      "date": "2026-03-10",
-      "title": "Gemini 2.5 Flash vs Claude 3.7 Sonnet: 4 Production Constraints That Made the Decision for Me",
-      "source": "devto"
-    },
-    "fca4f19c5bf017b9": {
-      "date": "2026-03-10",
-      "title": "Running a Local Sandboxed macOS Desktop Using VNC and a Restricted User",
-      "source": "devto"
-    },
-    "79e2fa699e72cde3": {
-      "date": "2026-03-10",
-      "title": "I built a VS Code extension that lets you chat with your database - everything runs locally",
-      "source": "devto"
-    },
-    "32eb192c710ccb00": {
-      "date": "2026-03-10",
-      "title": "notion-flows: Your Notion Pages Are Your Automation Code",
-      "source": "devto"
-    },
-    "a788da699916c6c3": {
-      "date": "2026-03-10",
-      "title": "How I Got My First Open Source Pull Request Merged (Beginner Guide)",
-      "source": "devto"
-    },
     "de048df236a650eb": {
       "date": "2026-03-11",
       "title": "Nativeline AI + Cloud",
@@ -4840,6 +4685,166 @@
     "4fcd4e9810777e57": {
       "date": "2026-04-09",
       "title": "47 Blog Posts, Zero Traffic: What I Learned About SEO the Hard Way",
+      "source": "devto"
+    },
+    "6fc28ff0e06e848c": {
+      "date": "2026-04-10",
+      "title": "1D Chess",
+      "source": "hackernews"
+    },
+    "4b0ff9599ecf14aa": {
+      "date": "2026-04-10",
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "source": "hackernews"
+    },
+    "964c67956e2f095d": {
+      "date": "2026-04-10",
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "source": "hackernews"
+    },
+    "d6c4833566827b91": {
+      "date": "2026-04-10",
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "source": "hackernews"
+    },
+    "23b682d48a4be7a8": {
+      "date": "2026-04-10",
+      "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
+      "source": "hackernews"
+    },
+    "cb051ed2718de20f": {
+      "date": "2026-04-10",
+      "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+      "source": "hackernews"
+    },
+    "3f55a54fddf7090d": {
+      "date": "2026-04-10",
+      "title": "Filing the Corners Off MacBooks",
+      "source": "hackernews"
+    },
+    "634ead7a80032847": {
+      "date": "2026-04-10",
+      "title": "Nowhere Is Safe",
+      "source": "hackernews"
+    },
+    "30e157307caea719": {
+      "date": "2026-04-10",
+      "title": "Watgo – A WebAssembly Toolkit for Go",
+      "source": "hackernews"
+    },
+    "d3e35cdb4df8b5cc": {
+      "date": "2026-04-10",
+      "title": "Installing Every* Firefox Extension",
+      "source": "hackernews"
+    },
+    "084069e49f52c8fe": {
+      "date": "2026-04-10",
+      "title": "Buddi",
+      "source": "producthunt"
+    },
+    "612288d51628dae1": {
+      "date": "2026-04-10",
+      "title": "Complexity Indicator",
+      "source": "producthunt"
+    },
+    "06da8dcd61d0e0bc": {
+      "date": "2026-04-10",
+      "title": "Codentis",
+      "source": "producthunt"
+    },
+    "12600f8dd156f74e": {
+      "date": "2026-04-10",
+      "title": "Inbox Autopilot by Dimension",
+      "source": "producthunt"
+    },
+    "05527f8370de571f": {
+      "date": "2026-04-10",
+      "title": "SoulLink",
+      "source": "producthunt"
+    },
+    "63c4735ffd888924": {
+      "date": "2026-04-10",
+      "title": "Orbit Money",
+      "source": "producthunt"
+    },
+    "92b2d3b69408338e": {
+      "date": "2026-04-10",
+      "title": "Matcha",
+      "source": "producthunt"
+    },
+    "34473dd3c0827e17": {
+      "date": "2026-04-10",
+      "title": "PromptEditor",
+      "source": "producthunt"
+    },
+    "33054ecb8bf0f855": {
+      "date": "2026-04-10",
+      "title": "microsoft / markitdown",
+      "source": "github"
+    },
+    "5bfdb1381234aa52": {
+      "date": "2026-04-10",
+      "title": "rowboatlabs / rowboat",
+      "source": "github"
+    },
+    "c4933f0e2181e2eb": {
+      "date": "2026-04-10",
+      "title": "multica-ai / multica",
+      "source": "github"
+    },
+    "3ca65329ff3ba689": {
+      "date": "2026-04-10",
+      "title": "jqlang / jq",
+      "source": "github"
+    },
+    "8a4bbaa8cd7aa1e2": {
+      "date": "2026-04-10",
+      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
+      "source": "devto"
+    },
+    "201fef4ec4655d34": {
+      "date": "2026-04-10",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "f05ffb8b45850ec2": {
+      "date": "2026-04-10",
+      "title": "I'm a bit lost.",
+      "source": "devto"
+    },
+    "b8c8fbf6e1fb5eee": {
+      "date": "2026-04-10",
+      "title": "The Formula Was Exact. The Assumption Was Wrong. That's Not an AI Problem.",
+      "source": "devto"
+    },
+    "633b3bf9010105ef": {
+      "date": "2026-04-10",
+      "title": "EasyPollVote [Dev Log #1]",
+      "source": "devto"
+    },
+    "52bbba7f0ce7f328": {
+      "date": "2026-04-10",
+      "title": "A simple React hook for running local LLMs via WebGPU",
+      "source": "devto"
+    },
+    "014ecb67bd1f2bce": {
+      "date": "2026-04-10",
+      "title": "I Crashed My Mac 5 Times So You Don't Have To: Mounting S3 Files on macOS",
+      "source": "devto"
+    },
+    "9423cb591d6a2635": {
+      "date": "2026-04-10",
+      "title": "Why Prompt-Only Moderation Failed in My AI Generation App",
+      "source": "devto"
+    },
+    "49f29d4ece4804b2": {
+      "date": "2026-04-10",
+      "title": "I built a secure runtime for AI agents with Rust and Linux kernel features",
+      "source": "devto"
+    },
+    "f4e298273b618b31": {
+      "date": "2026-04-10",
+      "title": "I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs",
       "source": "devto"
     }
   }
