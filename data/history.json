@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-10T23:08:25.037006",
+  "last_updated": "2026-04-11T23:05:21.583534",
   "sent_items": {
-    "de048df236a650eb": {
-      "date": "2026-03-11",
-      "title": "Nativeline AI + Cloud",
-      "source": "producthunt"
-    },
-    "d4dbf19b9d1e638a": {
-      "date": "2026-03-11",
-      "title": "MorphMind: A Steerable AI Platform",
-      "source": "producthunt"
-    },
-    "19a1f269ea999633": {
-      "date": "2026-03-11",
-      "title": "ELVES",
-      "source": "producthunt"
-    },
-    "821930cb24e011e3": {
-      "date": "2026-03-11",
-      "title": "ChatGPT Interactive Learning",
-      "source": "producthunt"
-    },
-    "b58ffa21d36583e5": {
-      "date": "2026-03-11",
-      "title": "Firecrawl CLI",
-      "source": "producthunt"
-    },
-    "33c5cb17ae768493": {
-      "date": "2026-03-11",
-      "title": "TADA",
-      "source": "producthunt"
-    },
-    "abc572e7661bbe8d": {
-      "date": "2026-03-11",
-      "title": "Product Workbench for Claude Code",
-      "source": "producthunt"
-    },
-    "62c4829ff5725f71": {
-      "date": "2026-03-11",
-      "title": "ScreenGeany AI",
-      "source": "producthunt"
-    },
-    "a1a72f485081bac8": {
-      "date": "2026-03-11",
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "source": "hackernews"
-    },
-    "e1ac3bf7f843eccf": {
-      "date": "2026-03-11",
-      "title": "Temporal: A nine-year journey to fix time in JavaScript",
-      "source": "hackernews"
-    },
-    "3f7e6ba1870af644": {
-      "date": "2026-03-11",
-      "title": "Making WebAssembly a first-class language on the Web",
-      "source": "hackernews"
-    },
-    "fa7c1d7645939f46": {
-      "date": "2026-03-11",
-      "title": "The MacBook Neo",
-      "source": "hackernews"
-    },
-    "a0bd309057af0d1d": {
-      "date": "2026-03-11",
-      "title": "Google closes deal to acquire Wiz",
-      "source": "hackernews"
-    },
-    "e4526cb5d84c8efd": {
-      "date": "2026-03-11",
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "source": "hackernews"
-    },
-    "1bc485f4405fa05f": {
-      "date": "2026-03-11",
-      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-      "source": "hackernews"
-    },
-    "86935358bc0629ab": {
-      "date": "2026-03-11",
-      "title": "Personal Computer by Perplexity",
-      "source": "hackernews"
-    },
-    "510ce207eeb84ef0": {
-      "date": "2026-03-11",
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "source": "hackernews"
-    },
-    "e17156df6c16a872": {
-      "date": "2026-03-11",
-      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
-      "source": "hackernews"
-    },
-    "77e7cf9780199e07": {
-      "date": "2026-03-11",
-      "title": "fishaudio / fish-speech",
-      "source": "github"
-    },
-    "6a29aa0fa11abd15": {
-      "date": "2026-03-11",
-      "title": "AstrBotDevs / AstrBot",
-      "source": "github"
-    },
-    "be032ae5f70ec64c": {
-      "date": "2026-03-11",
-      "title": "When AI Writes the Code… Who Takes Responsibility?",
-      "source": "devto"
-    },
-    "c104c22e51f705b9": {
-      "date": "2026-03-11",
-      "title": "I Built a Secure Planning Agent with MCP and Keycard",
-      "source": "devto"
-    },
-    "d20238a0c3cadf27": {
-      "date": "2026-03-11",
-      "title": "Unboxable in Tech",
-      "source": "devto"
-    },
-    "927afd9357ccefd3": {
-      "date": "2026-03-11",
-      "title": "Getting Started with Gemini CLI",
-      "source": "devto"
-    },
-    "21e70d5386bbf2ef": {
-      "date": "2026-03-11",
-      "title": "How to add AI to your App in 5 minutes",
-      "source": "devto"
-    },
-    "73bc880e3069ccd8": {
-      "date": "2026-03-11",
-      "title": "What Quitting My Job Taught Me About Tech",
-      "source": "devto"
-    },
-    "44c8f10addb87f47": {
-      "date": "2026-03-11",
-      "title": "Welcome Thread - v368",
-      "source": "devto"
-    },
-    "322526f0fb0f64cf": {
-      "date": "2026-03-11",
-      "title": "Why Asking an LLM for JSON Isn’t Enough",
-      "source": "devto"
-    },
-    "bef194b4ec32cd95": {
-      "date": "2026-03-11",
-      "title": "The Diplomatic Core: Shared Logic in a Multi-Framework World",
-      "source": "devto"
-    },
-    "7f06edf893773816": {
-      "date": "2026-03-11",
-      "title": "Why Our RAG System Was Silently Returning Wrong Answers — And How We Fixed It",
-      "source": "devto"
-    },
     "bee223324d32bfed": {
       "date": "2026-03-12",
       "title": "Malus – Clean Room as a Service",
@@ -4846,6 +4696,161 @@
       "date": "2026-04-10",
       "title": "I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs",
       "source": "devto"
+    },
+    "dcb73030ff8cbfba": {
+      "date": "2026-04-11",
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "source": "hackernews"
+    },
+    "ed85e4314942650a": {
+      "date": "2026-04-11",
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "source": "hackernews"
+    },
+    "b3d3a83e59314f2d": {
+      "date": "2026-04-11",
+      "title": "Cirrus Labs to join OpenAI",
+      "source": "hackernews"
+    },
+    "cd2990c5b30081b9": {
+      "date": "2026-04-11",
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "source": "hackernews"
+    },
+    "8221e7c8d1c35b12": {
+      "date": "2026-04-11",
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "source": "hackernews"
+    },
+    "1824bbfae25cf3e2": {
+      "date": "2026-04-11",
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "source": "hackernews"
+    },
+    "f7f1f9f1c548f820": {
+      "date": "2026-04-11",
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "source": "hackernews"
+    },
+    "1806b6c8b67c4d11": {
+      "date": "2026-04-11",
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "source": "hackernews"
+    },
+    "39b1b44c1aa7d796": {
+      "date": "2026-04-11",
+      "title": "Dark Castle",
+      "source": "hackernews"
+    },
+    "40311c00dfe128fa": {
+      "date": "2026-04-11",
+      "title": "How to build a `Git diff` driver",
+      "source": "hackernews"
+    },
+    "1b630a4528e975fa": {
+      "date": "2026-04-11",
+      "title": "Claude for Word",
+      "source": "producthunt"
+    },
+    "327d8c8577ec2a09": {
+      "date": "2026-04-11",
+      "title": "Tech Marketing Framework",
+      "source": "producthunt"
+    },
+    "d17c9a0aad076ded": {
+      "date": "2026-04-11",
+      "title": "uTerminal",
+      "source": "producthunt"
+    },
+    "5c74e3dad303fcce": {
+      "date": "2026-04-11",
+      "title": "LinkShell",
+      "source": "producthunt"
+    },
+    "a06aaa3e3f7235e8": {
+      "date": "2026-04-11",
+      "title": "SummAgent",
+      "source": "producthunt"
+    },
+    "c9934a650c5fa473": {
+      "date": "2026-04-11",
+      "title": "Buildermark",
+      "source": "producthunt"
+    },
+    "36262680480d7e33": {
+      "date": "2026-04-11",
+      "title": "Capso",
+      "source": "producthunt"
+    },
+    "9d1f741fa93338b7": {
+      "date": "2026-04-11",
+      "title": "Claude Code ultraplan",
+      "source": "producthunt"
+    },
+    "8c8dcce64883a97a": {
+      "date": "2026-04-11",
+      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
+      "source": "devto"
+    },
+    "d3d39a746a8264e6": {
+      "date": "2026-04-11",
+      "title": "Title: The Overthinking Machine — I Built an AI That Turns \"Tea or Coffee?\" Into an Existential Cris",
+      "source": "devto"
+    },
+    "c66f8ae9872ece81": {
+      "date": "2026-04-11",
+      "title": "Build a Desktop File Organizer in 35 Lines of Python — Weekend Project",
+      "source": "devto"
+    },
+    "92c5d2db73fbed06": {
+      "date": "2026-04-11",
+      "title": "The Feature Creep",
+      "source": "devto"
+    },
+    "66ebda3b021cd3dc": {
+      "date": "2026-04-11",
+      "title": "I Couldn’t Afford Earth, So I Built Something Better",
+      "source": "devto"
+    },
+    "42ab01aabaf16586": {
+      "date": "2026-04-11",
+      "title": "Writing a TypeScript Type Inference Engine in 300 Lines of Vanilla JS",
+      "source": "devto"
+    },
+    "75ddeab4ca520b00": {
+      "date": "2026-04-11",
+      "title": "I code-reviewed 3 \"vibe-coded\" PRs last week. Every one had hardcoded API keys. So I built a grader.",
+      "source": "devto"
+    },
+    "2ebb899d6b48d78b": {
+      "date": "2026-04-11",
+      "title": "I got mass-flagged by GPTZero for my own writing. So I built an open-source alternative in pure Pyth",
+      "source": "devto"
+    },
+    "1ca9ee8351918cbe": {
+      "date": "2026-04-11",
+      "title": "I built a local screen reader that reads your screen aloud — no cloud, no API keys",
+      "source": "devto"
+    },
+    "f2f60f263a389e95": {
+      "date": "2026-04-11",
+      "title": "I got tired of using 10 different dev tools, so I built my own",
+      "source": "devto"
+    },
+    "7bd0775c5ce4ee5c": {
+      "date": "2026-04-11",
+      "title": "TapXWorld / ChinaTextbook",
+      "source": "github"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-04-11",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "69e4bf61ae703959": {
+      "date": "2026-04-11",
+      "title": "alexpate / awesome-design-systems",
+      "source": "github"
     }
   }
 }
