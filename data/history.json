@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-11T23:05:21.583534",
+  "last_updated": "2026-04-12T23:07:12.809720",
   "sent_items": {
-    "bee223324d32bfed": {
-      "date": "2026-03-12",
-      "title": "Malus – Clean Room as a Service",
-      "source": "hackernews"
-    },
-    "246ad178c079371d": {
-      "date": "2026-03-12",
-      "title": "Shall I implement it? No",
-      "source": "hackernews"
-    },
-    "bf701ab392d1a0ef": {
-      "date": "2026-03-12",
-      "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
-      "source": "hackernews"
-    },
-    "9424cc10df81f16b": {
-      "date": "2026-03-12",
-      "title": "Bubble Sorted Amen Break",
-      "source": "hackernews"
-    },
-    "1b08d7bbf79ec1aa": {
-      "date": "2026-03-12",
-      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-      "source": "hackernews"
-    },
-    "bc63718b24f1d5f4": {
-      "date": "2026-03-12",
-      "title": "The Met releases high-def 3D scans of 140 famous art objects",
-      "source": "hackernews"
-    },
-    "a80d5760a17e933c": {
-      "date": "2026-03-12",
-      "title": "Reversing memory loss via gut-brain communication",
-      "source": "hackernews"
-    },
-    "761ce3ae56419893": {
-      "date": "2026-03-12",
-      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-      "source": "hackernews"
-    },
-    "b1d8f93df0f73c02": {
-      "date": "2026-03-12",
-      "title": "Runners who churn butter on their runs",
-      "source": "hackernews"
-    },
-    "57732cc9a2978f84": {
-      "date": "2026-03-12",
-      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
-      "source": "hackernews"
-    },
-    "c99a80a484c8b758": {
-      "date": "2026-03-12",
-      "title": "Monostate",
-      "source": "producthunt"
-    },
-    "e80ad2c23f06e5d8": {
-      "date": "2026-03-12",
-      "title": "Clayzo",
-      "source": "producthunt"
-    },
-    "2d2d4646abb434ac": {
-      "date": "2026-03-12",
-      "title": "Codirigent",
-      "source": "producthunt"
-    },
-    "c5d07f90516afe7c": {
-      "date": "2026-03-12",
-      "title": "RevFirma",
-      "source": "producthunt"
-    },
-    "65106032f51a647a": {
-      "date": "2026-03-12",
-      "title": "Outhop",
-      "source": "producthunt"
-    },
-    "9cbc6b5237aa294d": {
-      "date": "2026-03-12",
-      "title": "Yap-It",
-      "source": "producthunt"
-    },
-    "5993777feb14abc5": {
-      "date": "2026-03-12",
-      "title": "ClawsList",
-      "source": "producthunt"
-    },
-    "943678fe9d65eca2": {
-      "date": "2026-03-12",
-      "title": "Aligno AI",
-      "source": "producthunt"
-    },
-    "33b0d84c745e52f3": {
-      "date": "2026-03-12",
-      "title": "microsoft / BitNet",
-      "source": "github"
-    },
-    "2cedbf387044c4a1": {
-      "date": "2026-03-12",
-      "title": "langflow-ai / openrag",
-      "source": "github"
-    },
-    "d9229b5716bee102": {
-      "date": "2026-03-12",
-      "title": "InsForge / InsForge",
-      "source": "github"
-    },
-    "4628c962cd9b6f78": {
-      "date": "2026-03-12",
-      "title": "vectorize-io / hindsight",
-      "source": "github"
-    },
-    "bfb06e98986c1e05": {
-      "date": "2026-03-12",
-      "title": "google-ai-edge / LiteRT",
-      "source": "github"
-    },
-    "281c2c7748da9081": {
-      "date": "2026-03-12",
-      "title": "google / A2UI",
-      "source": "github"
-    },
-    "f2ef8f8410a81a77": {
-      "date": "2026-03-12",
-      "title": "anthropics / claude-plugins-official",
-      "source": "github"
-    },
-    "23b3d7e330533f63": {
-      "date": "2026-03-12",
-      "title": "Premature Optimization Is Bad, But Your App Is Just Slow Because You're Lazy",
-      "source": "devto"
-    },
-    "1f55a595d33ce8f8": {
-      "date": "2026-03-12",
-      "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-      "source": "devto"
-    },
-    "4b6c4c4d14ad94ea": {
-      "date": "2026-03-12",
-      "title": "An Update on How We Judge DEV Challenges",
-      "source": "devto"
-    },
-    "c659a1d7d273a8cd": {
-      "date": "2026-03-12",
-      "title": "Pi-hole behind Tailscale",
-      "source": "devto"
-    },
-    "2ce0c6ba1f4fa75c": {
-      "date": "2026-03-12",
-      "title": "Do commit ao deploy: CI/CD de uma API na AWS usando GitHub Actions, ECS e Terraform",
-      "source": "devto"
-    },
-    "fe78e09b04f1f74c": {
-      "date": "2026-03-12",
-      "title": "Things I Wish I Knew Before Building My Own IT Infrastructure",
-      "source": "devto"
-    },
-    "777fd23a08996b0b": {
-      "date": "2026-03-12",
-      "title": "🦀I Got Tired of Rewriting Macro Boilerplate — So I Built a Template Engine for Proc Macros",
-      "source": "devto"
-    },
-    "481096b05eb9b501": {
-      "date": "2026-03-12",
-      "title": "ANR Troubleshooting Practice: Log Analysis and Tool Practice",
-      "source": "devto"
-    },
-    "c65f526ed6ff0b40": {
-      "date": "2026-03-12",
-      "title": "Autonomous AI Research Does Not Need a Giant Framework",
-      "source": "devto"
-    },
-    "31aaff6dd9a2587b": {
-      "date": "2026-03-12",
-      "title": "How I built root cause analysis into my free API uptime monitor",
-      "source": "devto"
-    },
     "e38d7b03a21d6f24": {
       "date": "2026-03-13",
       "title": "doXmind",
@@ -4850,6 +4675,141 @@
     "69e4bf61ae703959": {
       "date": "2026-04-11",
       "title": "alexpate / awesome-design-systems",
+      "source": "github"
+    },
+    "29ae514ec9114997": {
+      "date": "2026-04-12",
+      "title": "Bring Back Idiomatic Design",
+      "source": "hackernews"
+    },
+    "017a35782a81d06c": {
+      "date": "2026-04-12",
+      "title": "The peril of laziness lost",
+      "source": "hackernews"
+    },
+    "8cfeaa6ca26e27a3": {
+      "date": "2026-04-12",
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "source": "hackernews"
+    },
+    "2b5b00c6b94472b1": {
+      "date": "2026-04-12",
+      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
+      "source": "hackernews"
+    },
+    "27d04aa47151bbdc": {
+      "date": "2026-04-12",
+      "title": "Most people can't juggle one ball",
+      "source": "hackernews"
+    },
+    "b064b1c80fa19409": {
+      "date": "2026-04-12",
+      "title": "I gave every train in New York an instrument",
+      "source": "hackernews"
+    },
+    "589df95768dd3f33": {
+      "date": "2026-04-12",
+      "title": "DIY Soft Drinks",
+      "source": "hackernews"
+    },
+    "db576c7c0b5c1ee5": {
+      "date": "2026-04-12",
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "source": "hackernews"
+    },
+    "4bd74d5a5551e38c": {
+      "date": "2026-04-12",
+      "title": "Show HN: Claudraband – Claude Code for the Power User",
+      "source": "hackernews"
+    },
+    "35b86bc5223380b6": {
+      "date": "2026-04-12",
+      "title": "Tech valuations are back to pre-AI boom levels",
+      "source": "hackernews"
+    },
+    "fb9efc649e8c9e4c": {
+      "date": "2026-04-12",
+      "title": "Layered",
+      "source": "producthunt"
+    },
+    "79b55452e1c87c49": {
+      "date": "2026-04-12",
+      "title": "Ray",
+      "source": "producthunt"
+    },
+    "e470a75734b9907f": {
+      "date": "2026-04-12",
+      "title": "Interactive Simulations in Gemini",
+      "source": "producthunt"
+    },
+    "02c89eb173e164a1": {
+      "date": "2026-04-12",
+      "title": "Nicelydone MCP",
+      "source": "producthunt"
+    },
+    "64d5b026bc27238b": {
+      "date": "2026-04-12",
+      "title": "Building a Football Analytics Pipeline: Patterns, Tradeoffs, and What Production Would Look Like",
+      "source": "devto"
+    },
+    "5d1f7816300e4328": {
+      "date": "2026-04-12",
+      "title": "How to Programmatically Install Firefox Extensions (And Why It Breaks)",
+      "source": "devto"
+    },
+    "684c7d92d032afc9": {
+      "date": "2026-04-12",
+      "title": "How We Ran Two Portals on the Same Domain During a React Migration (Without Users Noticing)",
+      "source": "devto"
+    },
+    "f342437c2bce3b30": {
+      "date": "2026-04-12",
+      "title": "Health Checks in ASP.NET Core: Beyond the Basic /health Endpoint",
+      "source": "devto"
+    },
+    "17023344ba5989d3": {
+      "date": "2026-04-12",
+      "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
+      "source": "devto"
+    },
+    "246e9a55acf925ba": {
+      "date": "2026-04-12",
+      "title": "DualClip - Update_2026.04.12.",
+      "source": "devto"
+    },
+    "6bd79c7d6ed1d2e9": {
+      "date": "2026-04-12",
+      "title": "Sentinel Diary #2: the day the dashboard lied (and other honest bugs)",
+      "source": "devto"
+    },
+    "d8a4416fc7b53e7f": {
+      "date": "2026-04-12",
+      "title": "I built a pixel-perfect, printer-independent report designer with Avalonia UI",
+      "source": "devto"
+    },
+    "ff280d263ea6dce3": {
+      "date": "2026-04-12",
+      "title": "I built a Telegram bot that reads 70 arXiv papers a day so I don't have to",
+      "source": "devto"
+    },
+    "409259fc1039a056": {
+      "date": "2026-04-12",
+      "title": "GitHub Actions Supabase で技術記事投稿を自動化した話 — 1日に21本をQiita/dev.toへ",
+      "source": "devto"
+    },
+    "6539c7615faa828b": {
+      "date": "2026-04-12",
+      "title": "ahujasid / blender-mcp",
+      "source": "github"
+    },
+    "7e0cdf3f57bc56a3": {
+      "date": "2026-04-12",
+      "title": "rustfs / rustfs",
+      "source": "github"
+    },
+    "6ba295e36e4d8f6f": {
+      "date": "2026-04-12",
+      "title": "snarktank / ralph",
       "source": "github"
     }
   }
