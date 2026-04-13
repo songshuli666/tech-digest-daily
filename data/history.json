@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-12T23:07:12.809720",
+  "last_updated": "2026-04-13T23:28:14.560757",
   "sent_items": {
-    "e38d7b03a21d6f24": {
-      "date": "2026-03-13",
-      "title": "doXmind",
-      "source": "producthunt"
-    },
-    "687f8ab17ecc2c29": {
-      "date": "2026-03-13",
-      "title": "Hyper",
-      "source": "producthunt"
-    },
-    "44e5bcc7e743ba7f": {
-      "date": "2026-03-13",
-      "title": "ClawMote",
-      "source": "producthunt"
-    },
-    "5d6364a5c909a462": {
-      "date": "2026-03-13",
-      "title": "Brutal Verdict",
-      "source": "producthunt"
-    },
-    "3785086ed4ebbf04": {
-      "date": "2026-03-13",
-      "title": "Parker by Perfectly",
-      "source": "producthunt"
-    },
-    "2fe44fc98b81807b": {
-      "date": "2026-03-13",
-      "title": "Atlasly",
-      "source": "producthunt"
-    },
-    "b98a185a68c4737c": {
-      "date": "2026-03-13",
-      "title": "KingCoding",
-      "source": "producthunt"
-    },
-    "c6e5bc5f48cf8475": {
-      "date": "2026-03-13",
-      "title": "ReplylessAI",
-      "source": "producthunt"
-    },
-    "f59705f090372230": {
-      "date": "2026-03-13",
-      "title": "Can I run AI locally?",
-      "source": "hackernews"
-    },
-    "d941d05360af4982": {
-      "date": "2026-03-13",
-      "title": "TUI Studio – visual terminal UI design tool",
-      "source": "hackernews"
-    },
-    "47e320ca65ec5a24": {
-      "date": "2026-03-13",
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "source": "hackernews"
-    },
-    "a59914b4e8443371": {
-      "date": "2026-03-13",
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "source": "hackernews"
-    },
-    "beed52fdd7b43f8a": {
-      "date": "2026-03-13",
-      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-      "source": "hackernews"
-    },
-    "bfcd1fa87076778c": {
-      "date": "2026-03-13",
-      "title": "Hammerspoon",
-      "source": "hackernews"
-    },
-    "be9cf0af84f3376d": {
-      "date": "2026-03-13",
-      "title": "Parallels confirms MacBook Neo can run Windows in a virtual machine",
-      "source": "hackernews"
-    },
-    "267fadfa3f9e721b": {
-      "date": "2026-03-13",
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "source": "hackernews"
-    },
-    "e3f98ead09706d85": {
-      "date": "2026-03-13",
-      "title": "New 'negative light' technology hides data transfers in plain sight",
-      "source": "hackernews"
-    },
-    "5aa4394701e532ae": {
-      "date": "2026-03-13",
-      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
-      "source": "hackernews"
-    },
-    "8715623527e85904": {
-      "date": "2026-03-13",
-      "title": "The Internet Is Getting Quieter - Who Will Feed the Next Generation of AI?",
-      "source": "devto"
-    },
-    "6f14cc6d116d14a3": {
-      "date": "2026-03-13",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "5a8913ad35b2fd40": {
-      "date": "2026-03-13",
-      "title": "I Was One Day Away From Quitting — And Then My Career Took An Unexpected Turn",
-      "source": "devto"
-    },
-    "d7bb28d8c9db83a8": {
-      "date": "2026-03-13",
-      "title": "I Built Surveys That Get Smarter With Every Response",
-      "source": "devto"
-    },
-    "0c9fa77eb41c8502": {
-      "date": "2026-03-13",
-      "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-      "source": "devto"
-    },
-    "4d939e9dacbea21f": {
-      "date": "2026-03-13",
-      "title": "AI did a good job... and almost deleted everything",
-      "source": "devto"
-    },
-    "430d4ae6e465ea2f": {
-      "date": "2026-03-13",
-      "title": "Stop Asking AI for Answers - Start Shipping Fixes",
-      "source": "devto"
-    },
-    "24189974b6112e8b": {
-      "date": "2026-03-13",
-      "title": "The gap in AI agent security nobody talks about: your .env is already in the context window",
-      "source": "devto"
-    },
-    "e56e2201e890aba4": {
-      "date": "2026-03-13",
-      "title": "I built a real-time AI visual companion in one week from Zambia, here's what actually happened",
-      "source": "devto"
-    },
-    "084d116c84e7c8cc": {
-      "date": "2026-03-13",
-      "title": "I Have 18 GitHub Repos at 17 — Here's What I Built, Broke, and Learned",
-      "source": "devto"
-    },
-    "3e5bc6114122e8e4": {
-      "date": "2026-03-13",
-      "title": "lightpanda-io / browser",
-      "source": "github"
-    },
-    "a55c819fccc2bf0d": {
-      "date": "2026-03-13",
-      "title": "public-apis / public-apis",
-      "source": "github"
-    },
-    "bf8fb1d0832de1c2": {
-      "date": "2026-03-13",
-      "title": "dolthub / dolt",
-      "source": "github"
-    },
     "441e5be6ee852604": {
       "date": "2026-03-14",
       "title": "Lingofable",
@@ -4810,6 +4655,156 @@
     "6ba295e36e4d8f6f": {
       "date": "2026-04-12",
       "title": "snarktank / ralph",
+      "source": "github"
+    },
+    "364d6c0924ae49f8": {
+      "date": "2026-04-13",
+      "title": "REasy",
+      "source": "producthunt"
+    },
+    "8886edb3efbc5800": {
+      "date": "2026-04-13",
+      "title": "Vekta",
+      "source": "producthunt"
+    },
+    "2a8e2d4d91e4610d": {
+      "date": "2026-04-13",
+      "title": "Legitify",
+      "source": "producthunt"
+    },
+    "b2982ed9033a87ad": {
+      "date": "2026-04-13",
+      "title": "ContextPool",
+      "source": "producthunt"
+    },
+    "f62cf4c0e6c86447": {
+      "date": "2026-04-13",
+      "title": "showmd",
+      "source": "producthunt"
+    },
+    "fc0d48457972137a": {
+      "date": "2026-04-13",
+      "title": "GhostDesk",
+      "source": "producthunt"
+    },
+    "2a07106529e1987c": {
+      "date": "2026-04-13",
+      "title": "Open Comet",
+      "source": "producthunt"
+    },
+    "78803f96b8c46264": {
+      "date": "2026-04-13",
+      "title": "SigmaMind MCP",
+      "source": "producthunt"
+    },
+    "f62d3829fbb33427": {
+      "date": "2026-04-13",
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "source": "hackernews"
+    },
+    "fa4911febe9fb380": {
+      "date": "2026-04-13",
+      "title": "Servo is now available on crates.io",
+      "source": "hackernews"
+    },
+    "6db14a462d1731b3": {
+      "date": "2026-04-13",
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "source": "hackernews"
+    },
+    "9b20605de4e9e79c": {
+      "date": "2026-04-13",
+      "title": "GitHub Stacked PRs",
+      "source": "hackernews"
+    },
+    "d1cb113d6520b941": {
+      "date": "2026-04-13",
+      "title": "Building a CLI for All of Cloudflare",
+      "source": "hackernews"
+    },
+    "7b1b2eeb7cf235e4": {
+      "date": "2026-04-13",
+      "title": "How to make Firefox builds 17% faster",
+      "source": "hackernews"
+    },
+    "64e7d8573592c1da": {
+      "date": "2026-04-13",
+      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+      "source": "hackernews"
+    },
+    "8d59befe4ebf4b4e": {
+      "date": "2026-04-13",
+      "title": "(AMD) Build AI Agents That Run Locally",
+      "source": "hackernews"
+    },
+    "3d3ad27ebcc1ca32": {
+      "date": "2026-04-13",
+      "title": "The tech jobs bust is real. Don't blame AI (yet)",
+      "source": "hackernews"
+    },
+    "e1b22d84cbc7da3d": {
+      "date": "2026-04-13",
+      "title": "What We Learned Building a Rust Runtime for TypeScript",
+      "source": "hackernews"
+    },
+    "55ad460b8b1072b3": {
+      "date": "2026-04-13",
+      "title": "Meet Hotfix—The Dragon Your Legacy Code Deserves",
+      "source": "devto"
+    },
+    "81dc40af8aaa5f14": {
+      "date": "2026-04-13",
+      "title": "I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.",
+      "source": "devto"
+    },
+    "b8ef58480cc08a08": {
+      "date": "2026-04-13",
+      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
+      "source": "devto"
+    },
+    "3698fd7b3ec468d3": {
+      "date": "2026-04-13",
+      "title": "The Emotional Terror of Closing a Browser Tab",
+      "source": "devto"
+    },
+    "6884224a81fbb57a": {
+      "date": "2026-04-13",
+      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
+      "source": "devto"
+    },
+    "4e316f705cc31686": {
+      "date": "2026-04-13",
+      "title": "I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖",
+      "source": "devto"
+    },
+    "d3494484e52a4bcf": {
+      "date": "2026-04-13",
+      "title": "Gemini Thinking: How \"Brainy\" Models Unexpectedly Blew My Budget",
+      "source": "devto"
+    },
+    "58d009d444394a2c": {
+      "date": "2026-04-13",
+      "title": "🎤 Music Player - Scream to Skip Ads (But You Can’t)",
+      "source": "devto"
+    },
+    "0457d2235bba8eff": {
+      "date": "2026-04-13",
+      "title": "The Open Sourcerer of Forem: Beyond the UI",
+      "source": "devto"
+    },
+    "0fb1cec99349761e": {
+      "date": "2026-04-13",
+      "title": "The Developer's Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don't Nee",
+      "source": "devto"
+    },
+    "3f87148fc02bbcf5": {
+      "date": "2026-04-13",
+      "title": "anthropics / claude-cookbooks",
+      "source": "github"
+    },
+    "bfeff07f7d8682f0": {
+      "date": "2026-04-13",
+      "title": "jamiepine / voicebox",
       "source": "github"
     }
   }
