@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-13T23:28:14.560757",
+  "last_updated": "2026-04-14T23:28:17.445934",
   "sent_items": {
-    "441e5be6ee852604": {
-      "date": "2026-03-14",
-      "title": "Lingofable",
-      "source": "producthunt"
-    },
-    "728328b3daee6896": {
-      "date": "2026-03-14",
-      "title": "Campee",
-      "source": "producthunt"
-    },
-    "8f72ec71faf11ed2": {
-      "date": "2026-03-14",
-      "title": "OpenMolt",
-      "source": "producthunt"
-    },
-    "e8833d3ca36e0c83": {
-      "date": "2026-03-14",
-      "title": "Docket",
-      "source": "producthunt"
-    },
-    "60fcbfca17af3ae1": {
-      "date": "2026-03-14",
-      "title": "AI Website Redesign by Shuffle",
-      "source": "producthunt"
-    },
-    "a4f403778eec5297": {
-      "date": "2026-03-14",
-      "title": "Tellus",
-      "source": "producthunt"
-    },
-    "46e7a760a236bcec": {
-      "date": "2026-03-14",
-      "title": "Startup Archive",
-      "source": "producthunt"
-    },
-    "c0177659b21602fb": {
-      "date": "2026-03-14",
-      "title": "GStack",
-      "source": "producthunt"
-    },
-    "f1c4d7647e68c59d": {
-      "date": "2026-03-14",
-      "title": "Baochip-1x: What it is, why I'm doing it now and how it came about",
-      "source": "hackernews"
-    },
-    "71d7c8c0d52ff325": {
-      "date": "2026-03-14",
-      "title": "Montana passes Right to Compute act (2025)",
-      "source": "hackernews"
-    },
-    "ccb309b5750e01fa": {
-      "date": "2026-03-14",
-      "title": "Claude March 2026 usage promotion",
-      "source": "hackernews"
-    },
-    "5556e8c147ba3ad7": {
-      "date": "2026-03-14",
-      "title": "Marketing for Founders",
-      "source": "hackernews"
-    },
-    "10f77bae69ea8745": {
-      "date": "2026-03-14",
-      "title": "Show HN: Han – A Korean programming language written in Rust",
-      "source": "hackernews"
-    },
-    "038ee28510d31f6c": {
-      "date": "2026-03-14",
-      "title": "Changes to OpenTTD Distribution on Steam",
-      "source": "hackernews"
-    },
-    "ca3e8f739c78a34a": {
-      "date": "2026-03-14",
-      "title": "Fedora 44 on the Raspberry Pi 5",
-      "source": "hackernews"
-    },
-    "1bd39e9b6f3624f8": {
-      "date": "2026-03-14",
-      "title": "Anthropic invests $100M into the Claude Partner Network",
-      "source": "hackernews"
-    },
-    "3a43a84aae216a38": {
-      "date": "2026-03-14",
-      "title": "CSMWrap: Legacy BIOS booting on UEFI-only systems via SeaBIOS",
-      "source": "hackernews"
-    },
-    "d7d6492801bd0256": {
-      "date": "2026-03-14",
-      "title": "Library of Short Stories",
-      "source": "hackernews"
-    },
-    "91af1ab046d36261": {
-      "date": "2026-03-14",
-      "title": "volcengine / OpenViking",
-      "source": "github"
-    },
-    "fbf1b63dde48b728": {
-      "date": "2026-03-14",
-      "title": "dimensionalOS / dimos",
-      "source": "github"
-    },
-    "d2f39386e20eb773": {
-      "date": "2026-03-14",
-      "title": "p-e-w / heretic",
-      "source": "github"
-    },
-    "d343655279607a11": {
-      "date": "2026-03-14",
-      "title": "Building a Production-Grade Private EKS Cluster with OpenVPN, Prometheus & Grafana",
-      "source": "devto"
-    },
-    "db46612e35af2088": {
-      "date": "2026-03-14",
-      "title": "I Was So Angry, I Actually Shipped It",
-      "source": "devto"
-    },
-    "ca7b695bc192750f": {
-      "date": "2026-03-14",
-      "title": "Building a Process Scheduling Simulator: Relearning TypeScript and Reducing AI Dependence",
-      "source": "devto"
-    },
-    "e87a07469df0c443": {
-      "date": "2026-03-14",
-      "title": "Brew: I Built a Real-Time Voice AI Drive-Thru Barista with Gemini Live API and Google ADK",
-      "source": "devto"
-    },
-    "b35024ee356f1f7c": {
-      "date": "2026-03-14",
-      "title": "Building Agent Emulator: Habbo emulator + MCP 👨‍💻🏨",
-      "source": "devto"
-    },
-    "7dc7b56dadbe1719": {
-      "date": "2026-03-14",
-      "title": "Like LEGO? Love Python! 🧱🐍 Ep.4",
-      "source": "devto"
-    },
-    "18b6b1f2dba7ecd9": {
-      "date": "2026-03-14",
-      "title": "How I Built clsh: Phone-First Terminal Access to Your Mac",
-      "source": "devto"
-    },
-    "fb14aeb06e610344": {
-      "date": "2026-03-14",
-      "title": "Eventual Consistency Needs a Read Barrier",
-      "source": "devto"
-    },
-    "8d104722ec686139": {
-      "date": "2026-03-14",
-      "title": "How ProofVault turned trust from a documentation claim into a reproducible release artifact",
-      "source": "devto"
-    },
-    "d2c1b9a871f9649c": {
-      "date": "2026-03-14",
-      "title": "When Zero-Knowledge Proofs Break: How Groth16 Verification Key Misconfigs Drained $3M+ From DeFi",
-      "source": "devto"
-    },
     "3b0e2fc97032a35e": {
       "date": "2026-03-15",
       "title": "LaterAI",
@@ -4805,6 +4650,156 @@
     "bfeff07f7d8682f0": {
       "date": "2026-04-13",
       "title": "jamiepine / voicebox",
+      "source": "github"
+    },
+    "be743e9b42f42e82": {
+      "date": "2026-04-14",
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "source": "hackernews"
+    },
+    "8ae9647725db9f25": {
+      "date": "2026-04-14",
+      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+      "source": "hackernews"
+    },
+    "327ef7b3ca9aafb7": {
+      "date": "2026-04-14",
+      "title": "Claude Code Routines",
+      "source": "hackernews"
+    },
+    "5976ac98db2d6eab": {
+      "date": "2026-04-14",
+      "title": "5NF and Database Design",
+      "source": "hackernews"
+    },
+    "d360c349680dfca8": {
+      "date": "2026-04-14",
+      "title": "Let's talk space toilets",
+      "source": "hackernews"
+    },
+    "e015096a93a229bb": {
+      "date": "2026-04-14",
+      "title": "The Orange Pi 6 Plus",
+      "source": "hackernews"
+    },
+    "a7d9897422054ab0": {
+      "date": "2026-04-14",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "source": "hackernews"
+    },
+    "b7111513b6d0915a": {
+      "date": "2026-04-14",
+      "title": "H.R.8250 – To require operating system providers to verify the age of any user",
+      "source": "hackernews"
+    },
+    "ae14c299e481e075": {
+      "date": "2026-04-14",
+      "title": "Trusted access for the next era of cyber defense",
+      "source": "hackernews"
+    },
+    "2646ecbf6cfc6164": {
+      "date": "2026-04-14",
+      "title": "Fuck the cloud (2009)",
+      "source": "hackernews"
+    },
+    "352272a760f9be06": {
+      "date": "2026-04-14",
+      "title": "CatDoes v4",
+      "source": "producthunt"
+    },
+    "f2ac114bcfb3b9d3": {
+      "date": "2026-04-14",
+      "title": "MarketRecon",
+      "source": "producthunt"
+    },
+    "a7e83d96322f2002": {
+      "date": "2026-04-14",
+      "title": "Cascode",
+      "source": "producthunt"
+    },
+    "e95f73598e3c52a0": {
+      "date": "2026-04-14",
+      "title": "HeyGen CLI",
+      "source": "producthunt"
+    },
+    "c0b8caecf032de63": {
+      "date": "2026-04-14",
+      "title": "Ovren",
+      "source": "producthunt"
+    },
+    "6fad77a674aa7f9f": {
+      "date": "2026-04-14",
+      "title": "Caveman",
+      "source": "producthunt"
+    },
+    "db5956c7e2402297": {
+      "date": "2026-04-14",
+      "title": "Softr AI Co-Builder",
+      "source": "producthunt"
+    },
+    "08d65ddf610faca1": {
+      "date": "2026-04-14",
+      "title": "Renderr",
+      "source": "producthunt"
+    },
+    "2cf863253d48b33c": {
+      "date": "2026-04-14",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "585652e4e9a3b4e5": {
+      "date": "2026-04-14",
+      "title": "Your Job Isn't Going Away. But Someone's Fundraise Depends on You Thinking It Is.",
+      "source": "devto"
+    },
+    "aae82ec29e40ec5b": {
+      "date": "2026-04-14",
+      "title": "TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform",
+      "source": "devto"
+    },
+    "a1527cf00c34b9eb": {
+      "date": "2026-04-14",
+      "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
+      "source": "devto"
+    },
+    "fd5b8bdd3fee76ef": {
+      "date": "2026-04-14",
+      "title": "We Had 6 Hours, a Dying API, and I'm Ran rm -rf. We Still Won. 🏆",
+      "source": "devto"
+    },
+    "8011f184e9eff718": {
+      "date": "2026-04-14",
+      "title": "From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Witho",
+      "source": "devto"
+    },
+    "7afff8688193605b": {
+      "date": "2026-04-14",
+      "title": "VoxMind: A Secure, Local-First Voice AI Agent on the Edge",
+      "source": "devto"
+    },
+    "9d0ff76442883d22": {
+      "date": "2026-04-14",
+      "title": "The Backyard Quarry, Part 5: Digital Twins for Physical Objects",
+      "source": "devto"
+    },
+    "df479511969d222b": {
+      "date": "2026-04-14",
+      "title": "Revisiting Idris in 2026: Is It Ready for Real Work?",
+      "source": "devto"
+    },
+    "20de6ed4665edd9b": {
+      "date": "2026-04-14",
+      "title": "Why I Built tat: A Tiny API Test Tool for Real Integration Work and fits With AI Workflows",
+      "source": "devto"
+    },
+    "44fef4354ab3fc2f": {
+      "date": "2026-04-14",
+      "title": "chrislgarry / Apollo-11",
+      "source": "github"
+    },
+    "e5c17dd649f0e4a4": {
+      "date": "2026-04-14",
+      "title": "tw93 / Mole",
       "source": "github"
     }
   }
