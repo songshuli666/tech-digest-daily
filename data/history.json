@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-14T23:28:17.445934",
+  "last_updated": "2026-04-15T23:27:50.877991",
   "sent_items": {
-    "3b0e2fc97032a35e": {
-      "date": "2026-03-15",
-      "title": "LaterAI",
-      "source": "producthunt"
-    },
-    "441f041b608ff1b6": {
-      "date": "2026-03-15",
-      "title": "ClawSecure",
-      "source": "producthunt"
-    },
-    "554ceb1668b3a2d9": {
-      "date": "2026-03-15",
-      "title": "ElevenCreative by ElevenLabs",
-      "source": "producthunt"
-    },
-    "5ebf6cd9c150ef6b": {
-      "date": "2026-03-15",
-      "title": "DynamicLake",
-      "source": "producthunt"
-    },
-    "11c19141b2117a8e": {
-      "date": "2026-03-15",
-      "title": "Query Memory",
-      "source": "producthunt"
-    },
-    "cb7d4681067f5622": {
-      "date": "2026-03-15",
-      "title": "Nutgrafe",
-      "source": "producthunt"
-    },
-    "09c8d4820b4e0aa8": {
-      "date": "2026-03-15",
-      "title": "Morgen",
-      "source": "producthunt"
-    },
-    "eaab43feffe1be9b": {
-      "date": "2026-03-15",
-      "title": "Motion Software",
-      "source": "producthunt"
-    },
-    "5f003d7f473b2f9b": {
-      "date": "2026-03-15",
-      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
-      "source": "hackernews"
-    },
-    "62e4a250324e8d41": {
-      "date": "2026-03-15",
-      "title": "The 49MB Web Page",
-      "source": "hackernews"
-    },
-    "9790119d76362ad4": {
-      "date": "2026-03-15",
-      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "source": "hackernews"
-    },
-    "182c49142261a3f7": {
-      "date": "2026-03-15",
-      "title": "Separating the Wayland compositor and window manager",
-      "source": "hackernews"
-    },
-    "b04b5511a63b2883": {
-      "date": "2026-03-15",
-      "title": "What makes Intel Optane stand out (2023)",
-      "source": "hackernews"
-    },
-    "779e9403607a32c3": {
-      "date": "2026-03-15",
-      "title": "LLM Architecture Gallery",
-      "source": "hackernews"
-    },
-    "b4027256263eda73": {
-      "date": "2026-03-15",
-      "title": "Bus travel from Lima to Rio de Janeiro",
-      "source": "hackernews"
-    },
-    "51e69337bcac5853": {
-      "date": "2026-03-15",
-      "title": "C++26: The Oxford Variadic Comma",
-      "source": "hackernews"
-    },
-    "ff64a032a57cdc7a": {
-      "date": "2026-03-15",
-      "title": "Canada's Bill C-22 Mandates Mass Metadata Surveillance of Canadians",
-      "source": "hackernews"
-    },
-    "fbd908abe745fd4e": {
-      "date": "2026-03-15",
-      "title": "Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image",
-      "source": "hackernews"
-    },
-    "41a6a86637e67fe4": {
-      "date": "2026-03-15",
-      "title": "Crosstalk-Solutions / project-nomad",
-      "source": "github"
-    },
-    "26ea52d56cf57a70": {
-      "date": "2026-03-15",
-      "title": "shanraisshan / claude-code-best-practice",
-      "source": "github"
-    },
-    "194bbbbcb050ad73": {
-      "date": "2026-03-15",
-      "title": "topoteretes / cognee",
-      "source": "github"
-    },
-    "16bc14c9f10f5320": {
-      "date": "2026-03-15",
-      "title": "voidzero-dev / vite-plus",
-      "source": "github"
-    },
-    "b25109560d7f7010": {
-      "date": "2026-03-15",
-      "title": "Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL",
-      "source": "devto"
-    },
-    "4a5a75dd948aec21": {
-      "date": "2026-03-15",
-      "title": "Why PostgreSQL Row-Level Security Is the Right Approach to Django Multitenancy",
-      "source": "devto"
-    },
-    "2fbc494a2503c567": {
-      "date": "2026-03-15",
-      "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
-      "source": "devto"
-    },
-    "6bbd98da49b39bf7": {
-      "date": "2026-03-15",
-      "title": "Why Your Agent's Memory Architecture Is Probably Wrong",
-      "source": "devto"
-    },
-    "23eb3079eba40e49": {
-      "date": "2026-03-15",
-      "title": "How I bypassed PyTorch OOM errors with a Zero-Copy C++ Graph Engine",
-      "source": "devto"
-    },
-    "24dd29abf687681f": {
-      "date": "2026-03-15",
-      "title": "Stop Putting LLM API Keys in .env Files",
-      "source": "devto"
-    },
-    "2fc8d75458f26ef2": {
-      "date": "2026-03-15",
-      "title": "The AS/400 Can't Send a Slack Message. I Made It.",
-      "source": "devto"
-    },
-    "85ee171871e56e7a": {
-      "date": "2026-03-15",
-      "title": "Git Archaeology #15 — AI Creates Stars, Not Gravity",
-      "source": "devto"
-    },
-    "25f0e7091c43f55b": {
-      "date": "2026-03-15",
-      "title": "Git Archaeology #14 — Civilization: Why Only Some Codebases Become Civilizations",
-      "source": "devto"
-    },
-    "626f11728189d1cd": {
-      "date": "2026-03-15",
-      "title": "My first attempt at building a productivity tool: The \"Yes/No\"minimal task list",
-      "source": "devto"
-    },
     "309b65c6fbf3df96": {
       "date": "2026-03-16",
       "title": "Why I love FreeBSD",
@@ -4800,6 +4640,166 @@
     "e5c17dd649f0e4a4": {
       "date": "2026-04-14",
       "title": "tw93 / Mole",
+      "source": "github"
+    },
+    "f5b9b3472b5f4037": {
+      "date": "2026-04-15",
+      "title": "Google broke its promise to me – now ICE has my data",
+      "source": "hackernews"
+    },
+    "14022ccef1403f7b": {
+      "date": "2026-04-15",
+      "title": "God sleeps in the minerals",
+      "source": "hackernews"
+    },
+    "07697f11677afc9d": {
+      "date": "2026-04-15",
+      "title": "Live Nation illegally monopolized ticketing market, jury finds",
+      "source": "hackernews"
+    },
+    "12ac0310f51d2968": {
+      "date": "2026-04-15",
+      "title": "Cal.com is going closed source",
+      "source": "hackernews"
+    },
+    "6483c73125492dfe": {
+      "date": "2026-04-15",
+      "title": "Cybersecurity looks like proof of work now",
+      "source": "hackernews"
+    },
+    "45632120f0b22e5e": {
+      "date": "2026-04-15",
+      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+      "source": "hackernews"
+    },
+    "7939ebd8626fd226": {
+      "date": "2026-04-15",
+      "title": "ChatGPT for Excel",
+      "source": "hackernews"
+    },
+    "5df2eb78cbf0648f": {
+      "date": "2026-04-15",
+      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+      "source": "hackernews"
+    },
+    "81ff0dfab20a95bd": {
+      "date": "2026-04-15",
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling",
+      "source": "hackernews"
+    },
+    "0a4e7ce66d613d97": {
+      "date": "2026-04-15",
+      "title": "I made a terminal pager",
+      "source": "hackernews"
+    },
+    "bed356e1d5f83f04": {
+      "date": "2026-04-15",
+      "title": "SnapEdit",
+      "source": "producthunt"
+    },
+    "ee9d142a0bc70430": {
+      "date": "2026-04-15",
+      "title": "Crazzy",
+      "source": "producthunt"
+    },
+    "ab7024d0873cd39d": {
+      "date": "2026-04-15",
+      "title": "Google app for desktop",
+      "source": "producthunt"
+    },
+    "d7097dd0052c1785": {
+      "date": "2026-04-15",
+      "title": "DataGrout",
+      "source": "producthunt"
+    },
+    "011409dedfcf5c9a": {
+      "date": "2026-04-15",
+      "title": "Cenote",
+      "source": "producthunt"
+    },
+    "73a040771506d362": {
+      "date": "2026-04-15",
+      "title": "Playbook Intelligence",
+      "source": "producthunt"
+    },
+    "618b1bf41184c3f7": {
+      "date": "2026-04-15",
+      "title": "How to prompt Gemini 3.1's new text to speech model",
+      "source": "devto"
+    },
+    "d7ea42ebc296e435": {
+      "date": "2026-04-15",
+      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
+      "source": "devto"
+    },
+    "c7d98c1f4b603f42": {
+      "date": "2026-04-15",
+      "title": "Lost in the AI Hype, I Started Small",
+      "source": "devto"
+    },
+    "efa3c3424cff8084": {
+      "date": "2026-04-15",
+      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
+      "source": "devto"
+    },
+    "879d0d1a97fbd81d": {
+      "date": "2026-04-15",
+      "title": "Why I Picked Rust for a Production-Ready Micro SaaS",
+      "source": "devto"
+    },
+    "6ce63ef19efe3c71": {
+      "date": "2026-04-15",
+      "title": "How I Ran a Live Production Upgrade in 24 Minutes Without Taking the Site Down",
+      "source": "devto"
+    },
+    "08e101784e54629b": {
+      "date": "2026-04-15",
+      "title": "Senior Developers Collect Mistakes. Junior Developers Erase Them.",
+      "source": "devto"
+    },
+    "07ebb2aad66f9c99": {
+      "date": "2026-04-15",
+      "title": "What's actually in a modern favicon set (and why everyone gets it wrong)",
+      "source": "devto"
+    },
+    "42cf686610ccf0fa": {
+      "date": "2026-04-15",
+      "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
+      "source": "devto"
+    },
+    "0b3511f72531fdde": {
+      "date": "2026-04-15",
+      "title": "Garbage collecting OpenCode's 2.4 GB session database",
+      "source": "devto"
+    },
+    "1fc186e3e23d6cbb": {
+      "date": "2026-04-15",
+      "title": "Lordog / dive-into-llms",
+      "source": "github"
+    },
+    "a55c819fccc2bf0d": {
+      "date": "2026-04-15",
+      "title": "public-apis / public-apis",
+      "source": "github"
+    },
+    "5b7717888e6ce91c": {
+      "date": "2026-04-15",
+      "title": "vercel-labs / open-agents",
+      "source": "github"
+    },
+    "c2a426889a1afcfb": {
+      "date": "2026-04-15",
+      "title": "lsdefine / GenericAgent",
+      "source": "github"
+    },
+    "38e81cc957755f9c": {
+      "date": "2026-04-15",
+      "title": "google / magika",
+      "source": "github"
+    },
+    "92509c4f30bfa957": {
+      "date": "2026-04-15",
+      "title": "Donchitos / Claude-Code-Game-Studios",
       "source": "github"
     }
   }
