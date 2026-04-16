@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-15T23:27:50.877991",
+  "last_updated": "2026-04-16T23:24:25.169186",
   "sent_items": {
-    "309b65c6fbf3df96": {
-      "date": "2026-03-16",
-      "title": "Why I love FreeBSD",
-      "source": "hackernews"
-    },
-    "f2ca0f52adb0586d": {
-      "date": "2026-03-16",
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "source": "hackernews"
-    },
-    "736e90506aa6b5c3": {
-      "date": "2026-03-16",
-      "title": "Meta’s renewed commitment to jemalloc",
-      "source": "hackernews"
-    },
-    "1edb5f4f39dd7905": {
-      "date": "2026-03-16",
-      "title": "The “small web” is bigger than you might think",
-      "source": "hackernews"
-    },
-    "7164f6983d9bb897": {
-      "date": "2026-03-16",
-      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
-      "source": "hackernews"
-    },
-    "379765352345552b": {
-      "date": "2026-03-16",
-      "title": "Show HN: Claude Code skills that build complete Godot games",
-      "source": "hackernews"
-    },
-    "bbf12d8204453222": {
-      "date": "2026-03-16",
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "source": "hackernews"
-    },
-    "b5f2552d05f3f48a": {
-      "date": "2026-03-16",
-      "title": "Language Model Teams as Distrbuted Systems",
-      "source": "hackernews"
-    },
-    "5d284a02882b5d44": {
-      "date": "2026-03-16",
-      "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
-      "source": "hackernews"
-    },
-    "5969dc053b27b8b9": {
-      "date": "2026-03-16",
-      "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
-      "source": "hackernews"
-    },
-    "b8d9841d383e086f": {
-      "date": "2026-03-16",
-      "title": "Glam AI",
-      "source": "producthunt"
-    },
-    "0c3517e559ee975f": {
-      "date": "2026-03-16",
-      "title": "Adaptive — The Agent Computer",
-      "source": "producthunt"
-    },
-    "4662e09b4ece12cd": {
-      "date": "2026-03-16",
-      "title": "Spott",
-      "source": "producthunt"
-    },
-    "2802ce63add103b6": {
-      "date": "2026-03-16",
-      "title": "Knock",
-      "source": "producthunt"
-    },
-    "d9520dfe4dd0c189": {
-      "date": "2026-03-16",
-      "title": "JetBrains Air",
-      "source": "producthunt"
-    },
-    "322276057cf3f483": {
-      "date": "2026-03-16",
-      "title": "GitFit.AI",
-      "source": "producthunt"
-    },
-    "af0a7424915fb0bf": {
-      "date": "2026-03-16",
-      "title": "Masko Code",
-      "source": "producthunt"
-    },
-    "39ebcc5345040f37": {
-      "date": "2026-03-16",
-      "title": "Donely",
-      "source": "producthunt"
-    },
-    "f08d8cf2c7baf95f": {
-      "date": "2026-03-16",
-      "title": "thedotmack / claude-mem",
-      "source": "github"
-    },
-    "1b63b09106adb202": {
-      "date": "2026-03-16",
-      "title": "langchain-ai / deepagents",
-      "source": "github"
-    },
-    "4c4b0cfcda029263": {
-      "date": "2026-03-16",
-      "title": "YishenTu / claudian",
-      "source": "github"
-    },
-    "c1bccdda57db1b45": {
-      "date": "2026-03-16",
-      "title": "I Think a Lot of Developers Are Quietly Grieving the Old Internet",
-      "source": "devto"
-    },
-    "9b81310418fa1611": {
-      "date": "2026-03-16",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "6dba95823e76a16e": {
-      "date": "2026-03-16",
-      "title": "Maybe there's a little time left",
-      "source": "devto"
-    },
-    "bc2f6e2fb882f1a9": {
-      "date": "2026-03-16",
-      "title": "The Secret Life of Claude Code: Reading Code You Didn't Write",
-      "source": "devto"
-    },
-    "c8b4dc6b7acf573c": {
-      "date": "2026-03-16",
-      "title": "4 Tips to Avoid Rushing to Code (and Building the Wrong Thing)",
-      "source": "devto"
-    },
-    "59bb92ce1cef7005": {
-      "date": "2026-03-16",
-      "title": "neither naive nor nostalgic",
-      "source": "devto"
-    },
-    "7b0d0dbb8b20741d": {
-      "date": "2026-03-16",
-      "title": "I Built an AI Agent That Writes My Daily Standup in Notion Automatically",
-      "source": "devto"
-    },
-    "64466c43b28b3ed9": {
-      "date": "2026-03-16",
-      "title": "Your MCP Server Is Eating Your Context Window. There's a Simpler Way",
-      "source": "devto"
-    },
-    "a0aef3c3765101d3": {
-      "date": "2026-03-16",
-      "title": "I Over-Engineered My First Project: Bridging TypeScript and Zig with Bun! 🚀",
-      "source": "devto"
-    },
-    "61a00dad8f586c09": {
-      "date": "2026-03-16",
-      "title": "Building Adaptive Language Coaching with Gemini Live API",
-      "source": "devto"
-    },
     "e6a6d6406902db6f": {
       "date": "2026-03-17",
       "title": "My Computer by Manus AI",
@@ -4801,6 +4646,176 @@
       "date": "2026-04-15",
       "title": "Donchitos / Claude-Code-Game-Studios",
       "source": "github"
+    },
+    "f138857a7c8bdd06": {
+      "date": "2026-04-16",
+      "title": "Google Chrome Skills",
+      "source": "producthunt"
+    },
+    "0e03d3ebd9dcb798": {
+      "date": "2026-04-16",
+      "title": "Subspace",
+      "source": "producthunt"
+    },
+    "e74cb0586f6910e9": {
+      "date": "2026-04-16",
+      "title": "Fellow for iOS",
+      "source": "producthunt"
+    },
+    "9989746b52f1b04b": {
+      "date": "2026-04-16",
+      "title": "Agent Card",
+      "source": "producthunt"
+    },
+    "6ba7d52cd0044d40": {
+      "date": "2026-04-16",
+      "title": "OpenAI Agents SDK",
+      "source": "producthunt"
+    },
+    "49a70b7898ac3b1d": {
+      "date": "2026-04-16",
+      "title": "X-Pilot",
+      "source": "producthunt"
+    },
+    "5638f958c9f92f97": {
+      "date": "2026-04-16",
+      "title": "Claude Code Desktop App Redesigned",
+      "source": "producthunt"
+    },
+    "b5232cfaacf20d61": {
+      "date": "2026-04-16",
+      "title": "Claude Opus 4.7",
+      "source": "hackernews"
+    },
+    "5ae05e10c3c41993": {
+      "date": "2026-04-16",
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "source": "hackernews"
+    },
+    "a7409edcbdb40bb8": {
+      "date": "2026-04-16",
+      "title": "Codex for almost everything",
+      "source": "hackernews"
+    },
+    "ce502ccf224ef292": {
+      "date": "2026-04-16",
+      "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+      "source": "hackernews"
+    },
+    "7aafa2568573de59": {
+      "date": "2026-04-16",
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "source": "hackernews"
+    },
+    "d6ab7ec989e888ee": {
+      "date": "2026-04-16",
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "source": "hackernews"
+    },
+    "6380fa70156dfd55": {
+      "date": "2026-04-16",
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "source": "hackernews"
+    },
+    "3734a360ed18a41d": {
+      "date": "2026-04-16",
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "source": "hackernews"
+    },
+    "5d5fc51994d5f463": {
+      "date": "2026-04-16",
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "source": "hackernews"
+    },
+    "7b9a481c4b711e8e": {
+      "date": "2026-04-16",
+      "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
+      "source": "hackernews"
+    },
+    "591a8628ec37158b": {
+      "date": "2026-04-16",
+      "title": "steipete / wacli",
+      "source": "github"
+    },
+    "194bbbbcb050ad73": {
+      "date": "2026-04-16",
+      "title": "topoteretes / cognee",
+      "source": "github"
+    },
+    "e1cbef59f20dc074": {
+      "date": "2026-04-16",
+      "title": "z-lab / dflash",
+      "source": "github"
+    },
+    "e0a3b207794efa0b": {
+      "date": "2026-04-16",
+      "title": "openai / openai-agents-python",
+      "source": "github"
+    },
+    "bdfd7dcc4ed98e9a": {
+      "date": "2026-04-16",
+      "title": "EvoMap / evolver",
+      "source": "github"
+    },
+    "08fa724eec73d917": {
+      "date": "2026-04-16",
+      "title": "SimoneAvogadro / android-reverse-engineering-skill",
+      "source": "github"
+    },
+    "6c931e814462e2e5": {
+      "date": "2026-04-16",
+      "title": "BasedHardware / omi",
+      "source": "github"
+    },
+    "714e90644d823277": {
+      "date": "2026-04-16",
+      "title": "Join the OpenClaw Challenge: $1,200 Prize Pool!",
+      "source": "devto"
+    },
+    "f1882df88e1e59a6": {
+      "date": "2026-04-16",
+      "title": "Turning the Raspberry Pi Zero into a Hacking Gadget",
+      "source": "devto"
+    },
+    "788d22b72b29ef23": {
+      "date": "2026-04-16",
+      "title": "Most Apps Are Slower Than They Need to Be — Here’s Why (Live Demo🛸)",
+      "source": "devto"
+    },
+    "4b3c8560ed26da05": {
+      "date": "2026-04-16",
+      "title": "Build a voice-enabled Telegram Bot with the Gemini Interactions API",
+      "source": "devto"
+    },
+    "bb28a9cf70c4328c": {
+      "date": "2026-04-16",
+      "title": "What brings you by a conference booth?",
+      "source": "devto"
+    },
+    "421165e70dc1aa9e": {
+      "date": "2026-04-16",
+      "title": "AI Doesn't Fix Weak Engineering. It Just Speeds It Up.",
+      "source": "devto"
+    },
+    "a13e9efdcb55111b": {
+      "date": "2026-04-16",
+      "title": "Architecture Documentation as a First-Class Engineering Asset",
+      "source": "devto"
+    },
+    "4356d977968ddad9": {
+      "date": "2026-04-16",
+      "title": "MiniClaw: A Tiny LLM Agent for Mini Micro",
+      "source": "devto"
+    },
+    "2af65e2fc940e6ec": {
+      "date": "2026-04-16",
+      "title": "Congrats to the 2026 WeCoded Challenge Winners!",
+      "source": "devto"
+    },
+    "c727515cfb947d77": {
+      "date": "2026-04-16",
+      "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
+      "source": "devto"
     }
   }
 }
