@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-16T23:24:25.169186",
+  "last_updated": "2026-04-17T23:23:02.183346",
   "sent_items": {
-    "e6a6d6406902db6f": {
-      "date": "2026-03-17",
-      "title": "My Computer by Manus AI",
-      "source": "producthunt"
-    },
-    "99077f32467b113b": {
-      "date": "2026-03-17",
-      "title": "Ocean Orchestrator",
-      "source": "producthunt"
-    },
-    "5c062f9367917dbc": {
-      "date": "2026-03-17",
-      "title": "ClickSay",
-      "source": "producthunt"
-    },
-    "dea7cf1babe44050": {
-      "date": "2026-03-17",
-      "title": "Usercall Triggers",
-      "source": "producthunt"
-    },
-    "f443bcf8160233f3": {
-      "date": "2026-03-17",
-      "title": "dropadoo",
-      "source": "producthunt"
-    },
-    "5afd9337fb911711": {
-      "date": "2026-03-17",
-      "title": "Easy App Reports",
-      "source": "producthunt"
-    },
-    "afa66b7aba3c7f8b": {
-      "date": "2026-03-17",
-      "title": "Parallax",
-      "source": "producthunt"
-    },
-    "1b2741540c367424": {
-      "date": "2026-03-17",
-      "title": "Sokosumi",
-      "source": "producthunt"
-    },
-    "071cb1061c640916": {
-      "date": "2026-03-17",
-      "title": "Kagi Small Web",
-      "source": "hackernews"
-    },
-    "62b73f28c165479e": {
-      "date": "2026-03-17",
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "source": "hackernews"
-    },
-    "8c35518926d39f39": {
-      "date": "2026-03-17",
-      "title": "A Decade of Slug",
-      "source": "hackernews"
-    },
-    "06d0f0474e9011cf": {
-      "date": "2026-03-17",
-      "title": "Node.js needs a virtual file system",
-      "source": "hackernews"
-    },
-    "643ec61927b00c29": {
-      "date": "2026-03-17",
-      "title": "Python 3.15's JIT is now back on track",
-      "source": "hackernews"
-    },
-    "1f9183a2e2b1a960": {
-      "date": "2026-03-17",
-      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-      "source": "hackernews"
-    },
-    "a11903446ac1842e": {
-      "date": "2026-03-17",
-      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-      "source": "hackernews"
-    },
-    "48eae2c1b45dbbd2": {
-      "date": "2026-03-17",
-      "title": "Unsloth Studio",
-      "source": "hackernews"
-    },
-    "05cdb8ab0970449b": {
-      "date": "2026-03-17",
-      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
-      "source": "hackernews"
-    },
-    "b1bb2da00630e1d1": {
-      "date": "2026-03-17",
-      "title": "Warranty Void If Regenerated",
-      "source": "hackernews"
-    },
-    "bcfb7e936799fa98": {
-      "date": "2026-03-17",
-      "title": "codecrafters-io / build-your-own-x",
-      "source": "github"
-    },
-    "c10bc61691ebb8eb": {
-      "date": "2026-03-17",
-      "title": "jarrodwatts / claude-hud",
-      "source": "github"
-    },
-    "fa0dec50322b8cae": {
-      "date": "2026-03-17",
-      "title": "cloudflare / workerd",
-      "source": "github"
-    },
-    "ef3b2c0d7882d473": {
-      "date": "2026-03-17",
-      "title": "Path of Discovery",
-      "source": "devto"
-    },
-    "81b1647c09bf7a18": {
-      "date": "2026-03-17",
-      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
-      "source": "devto"
-    },
-    "aa426055711d4c61": {
-      "date": "2026-03-17",
-      "title": "Drop Your Challenge Submission Here",
-      "source": "devto"
-    },
-    "a4917d9d3a1958be": {
-      "date": "2026-03-17",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "52b8ef0a7aa57593": {
-      "date": "2026-03-17",
-      "title": "Full Circle: Giving My AI's Knowledge Graph a Notion Interface using MCP",
-      "source": "devto"
-    },
-    "1c0c63599d67caf9": {
-      "date": "2026-03-17",
-      "title": "What's in your headphones when you code? 🎧",
-      "source": "devto"
-    },
-    "9c33ec3ad182a4ee": {
-      "date": "2026-03-17",
-      "title": "I built a cognitive layer for AI agents that learns without LLM calls",
-      "source": "devto"
-    },
-    "2dbf2312d40fcace": {
-      "date": "2026-03-17",
-      "title": "I Built a Skill That Writes Your Specs For You",
-      "source": "devto"
-    },
-    "e127d0a6945644d9": {
-      "date": "2026-03-17",
-      "title": "Setting Up CocoIndex with Docker and pgvector - A Practical Guide",
-      "source": "devto"
-    },
-    "1aaf9f4fc5f55177": {
-      "date": "2026-03-17",
-      "title": "The Secret Life of Go: Generics",
-      "source": "devto"
-    },
     "391a1e7b46346903": {
       "date": "2026-03-18",
       "title": "Rob Pike’s Rules of Programming (1989)",
@@ -4816,6 +4661,161 @@
       "date": "2026-04-16",
       "title": "Our SwiftUI snapshot tests passed locally but failed on CI. Here's the actual fix.",
       "source": "devto"
+    },
+    "0573c40907ecbc96": {
+      "date": "2026-04-17",
+      "title": "Claude Design",
+      "source": "hackernews"
+    },
+    "ea8a57381063a9e5": {
+      "date": "2026-04-17",
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "source": "hackernews"
+    },
+    "86d87fd8dc683093": {
+      "date": "2026-04-17",
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "source": "hackernews"
+    },
+    "fa276306dc0ede94": {
+      "date": "2026-04-17",
+      "title": "NASA Force",
+      "source": "hackernews"
+    },
+    "83efa03668426240": {
+      "date": "2026-04-17",
+      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
+      "source": "hackernews"
+    },
+    "e1efe98033ccad51": {
+      "date": "2026-04-17",
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "source": "hackernews"
+    },
+    "c838535f416b10de": {
+      "date": "2026-04-17",
+      "title": "I'm spending 3 months coding the old way",
+      "source": "hackernews"
+    },
+    "8cf3446774a4e21f": {
+      "date": "2026-04-17",
+      "title": "A simplified model of Fil-C",
+      "source": "hackernews"
+    },
+    "9dd1fa7d8d267bc7": {
+      "date": "2026-04-17",
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "source": "hackernews"
+    },
+    "549c3ba85a25caf3": {
+      "date": "2026-04-17",
+      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
+      "source": "hackernews"
+    },
+    "b927fd5f234e9203": {
+      "date": "2026-04-17",
+      "title": "E.Y.E. by Expert Chase",
+      "source": "producthunt"
+    },
+    "a301cbc5fb0fa995": {
+      "date": "2026-04-17",
+      "title": "Prio",
+      "source": "producthunt"
+    },
+    "d2f8bf6801d79756": {
+      "date": "2026-04-17",
+      "title": "Athena",
+      "source": "producthunt"
+    },
+    "6db9bad2a2655009": {
+      "date": "2026-04-17",
+      "title": "AI Mode in Chrome",
+      "source": "producthunt"
+    },
+    "f1b289c8a21a057f": {
+      "date": "2026-04-17",
+      "title": "Geekflare Scraping API v2",
+      "source": "producthunt"
+    },
+    "f345b9319582f7e3": {
+      "date": "2026-04-17",
+      "title": "Proxima",
+      "source": "producthunt"
+    },
+    "f5edaea82ec98366": {
+      "date": "2026-04-17",
+      "title": "The Factory Desktop App",
+      "source": "producthunt"
+    },
+    "dcf51e267613b1a7": {
+      "date": "2026-04-17",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "cb8271681b0f080c": {
+      "date": "2026-04-17",
+      "title": "Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:",
+      "source": "devto"
+    },
+    "0931a5d24e333b1a": {
+      "date": "2026-04-17",
+      "title": "Congrats to the Notion MCP Challenge Winners!",
+      "source": "devto"
+    },
+    "1aa25f71bbd4de05": {
+      "date": "2026-04-17",
+      "title": "100 Daily Challenges to Learn Web3 and Solana",
+      "source": "devto"
+    },
+    "929cc72dad79c520": {
+      "date": "2026-04-17",
+      "title": "EasyPollVote [Dev Log #2]",
+      "source": "devto"
+    },
+    "c264998a4c4fb2e2": {
+      "date": "2026-04-17",
+      "title": "How We Built Our Own DNS Server",
+      "source": "devto"
+    },
+    "b1bc08f058d7d6c6": {
+      "date": "2026-04-17",
+      "title": "Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud",
+      "source": "devto"
+    },
+    "3c60cbe7dc4143bf": {
+      "date": "2026-04-17",
+      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
+      "source": "devto"
+    },
+    "b1dd50bca2b9b781": {
+      "date": "2026-04-17",
+      "title": "Embarrassment is cheap. Token spend isn't.",
+      "source": "devto"
+    },
+    "4d09e7379dd66434": {
+      "date": "2026-04-17",
+      "title": "Kiwi-chan Progress Report: Steady Mining!",
+      "source": "devto"
+    },
+    "75fac29b01381718": {
+      "date": "2026-04-17",
+      "title": "lukilabs / craft-agents-oss",
+      "source": "github"
+    },
+    "aae07142a68b2769": {
+      "date": "2026-04-17",
+      "title": "Tracer-Cloud / opensre",
+      "source": "github"
+    },
+    "d2e7f6acabc603da": {
+      "date": "2026-04-17",
+      "title": "pingdotgg / t3code",
+      "source": "github"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-04-17",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "source": "github"
     }
   }
 }
