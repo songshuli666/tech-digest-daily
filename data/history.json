@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-17T23:23:02.183346",
+  "last_updated": "2026-04-18T23:07:39.974496",
   "sent_items": {
-    "391a1e7b46346903": {
-      "date": "2026-03-18",
-      "title": "Rob Pike’s Rules of Programming (1989)",
-      "source": "hackernews"
-    },
-    "e92612fecffe9724": {
-      "date": "2026-03-18",
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "source": "hackernews"
-    },
-    "b35cedeffe53d156": {
-      "date": "2026-03-18",
-      "title": "OpenRocket",
-      "source": "hackernews"
-    },
-    "5a64136209e83236": {
-      "date": "2026-03-18",
-      "title": "Nvidia NemoClaw",
-      "source": "hackernews"
-    },
-    "54fc024717aaea63": {
-      "date": "2026-03-18",
-      "title": "Wander – A tiny, decentralised tool to explore the small web",
-      "source": "hackernews"
-    },
-    "fae48cc5e8023e0a": {
-      "date": "2026-03-18",
-      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-      "source": "hackernews"
-    },
-    "9df6d93989c48ad8": {
-      "date": "2026-03-18",
-      "title": "2025 Turing award given for quantum information science",
-      "source": "hackernews"
-    },
-    "21b0cc10ff5e5f70": {
-      "date": "2026-03-18",
-      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "source": "hackernews"
-    },
-    "444339a5b0c36e50": {
-      "date": "2026-03-18",
-      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "source": "hackernews"
-    },
-    "8750c879551674f9": {
-      "date": "2026-03-18",
-      "title": "MS AUTO CAPTIONS",
-      "source": "producthunt"
-    },
-    "f34186fce063888f": {
-      "date": "2026-03-18",
-      "title": "Permit.io MCP Gateway",
-      "source": "producthunt"
-    },
-    "1920dafe5f1c5c1f": {
-      "date": "2026-03-18",
-      "title": "Lore",
-      "source": "producthunt"
-    },
-    "fd5bc6fe80bbdf86": {
-      "date": "2026-03-18",
-      "title": "Bookshelf for NotebookLM",
-      "source": "producthunt"
-    },
-    "88ee6f4ed1c65ab9": {
-      "date": "2026-03-18",
-      "title": "ClipLedger",
-      "source": "producthunt"
-    },
-    "cc862dbdb267d5ab": {
-      "date": "2026-03-18",
-      "title": "MetricMap",
-      "source": "producthunt"
-    },
-    "86e16d9f1e5ba6e8": {
-      "date": "2026-03-18",
-      "title": "Fantastical MCP for Mac",
-      "source": "producthunt"
-    },
-    "4242e51e337ac7d2": {
-      "date": "2026-03-18",
-      "title": "unslothai / unsloth",
-      "source": "github"
-    },
-    "4a53340cdd41203b": {
-      "date": "2026-03-18",
-      "title": "newton-physics / newton",
-      "source": "github"
-    },
-    "26052f5a5c610540": {
-      "date": "2026-03-18",
-      "title": "shadps4-emu / shadPS4",
-      "source": "github"
-    },
-    "822936022f0efbbf": {
-      "date": "2026-03-18",
-      "title": "langchain-ai / open-swe",
-      "source": "github"
-    },
-    "281d97c590c7ec66": {
-      "date": "2026-03-18",
-      "title": "The Email That Nearly Stopped Me From Becoming a Developer",
-      "source": "devto"
-    },
-    "e27b37ce389c9be4": {
-      "date": "2026-03-18",
-      "title": "Golden Handcuffs Don't Feel Like Handcuffs",
-      "source": "devto"
-    },
-    "cfac25b729637bf9": {
-      "date": "2026-03-18",
-      "title": "AI Is Creating a New Kind of Tech Debt — And Nobody Is Talking About It",
-      "source": "devto"
-    },
-    "6d1adab9b4677bad": {
-      "date": "2026-03-18",
-      "title": "How to Stop Babysitting Your AI Agents",
-      "source": "devto"
-    },
-    "bdc9771a518500d3": {
-      "date": "2026-03-18",
-      "title": "When Projects Fail: Why Companies Should Treat Open Source as Infrastructure",
-      "source": "devto"
-    },
-    "0178b4a1b4178da5": {
-      "date": "2026-03-18",
-      "title": "The Secret Life of Claude Code — The Language You Don't Know",
-      "source": "devto"
-    },
-    "1b0ea13ce8437d7b": {
-      "date": "2026-03-18",
-      "title": "The AI Industry Has an E-Waste Problem. We're Mining Crypto on PowerBook G4s to Fix It.",
-      "source": "devto"
-    },
-    "8efde77086fbebca": {
-      "date": "2026-03-18",
-      "title": "I Bought a Domain at 15. Now It Powers 400,000+ Users.",
-      "source": "devto"
-    },
-    "3c6688607e0b5416": {
-      "date": "2026-03-18",
-      "title": "I built a free, open-source alternative to LocalStack — CloudDev",
-      "source": "devto"
-    },
-    "69c193928d9020d9": {
-      "date": "2026-03-18",
-      "title": "I Built a Free Accessibility Auditor That Actually Passes Its Own Audit",
-      "source": "devto"
-    },
     "8ebb7ed8af73f979": {
       "date": "2026-03-19",
       "title": "Billy.sh",
@@ -4816,6 +4666,151 @@
       "date": "2026-04-17",
       "title": "ChromeDevTools / chrome-devtools-mcp",
       "source": "github"
+    },
+    "0ba86f234d96ba86": {
+      "date": "2026-04-18",
+      "title": "Is Your Site Agent-Ready? by Cloudflare",
+      "source": "producthunt"
+    },
+    "50ca4c3a5665371a": {
+      "date": "2026-04-18",
+      "title": "Vercel Flags",
+      "source": "producthunt"
+    },
+    "dd4327e1d2986e16": {
+      "date": "2026-04-18",
+      "title": "CapyPlan",
+      "source": "producthunt"
+    },
+    "abeb8a4e8ad55d3f": {
+      "date": "2026-04-18",
+      "title": ".MD This Page",
+      "source": "producthunt"
+    },
+    "ae3e2e39282a4f73": {
+      "date": "2026-04-18",
+      "title": "Lounge",
+      "source": "producthunt"
+    },
+    "8558c9a45522f182": {
+      "date": "2026-04-18",
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "source": "hackernews"
+    },
+    "1627fcc5af9dbb2b": {
+      "date": "2026-04-18",
+      "title": "State of Kdenlive",
+      "source": "hackernews"
+    },
+    "8a3fc0ddbf58d3f5": {
+      "date": "2026-04-18",
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "source": "hackernews"
+    },
+    "301fe83f2c613631": {
+      "date": "2026-04-18",
+      "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
+      "source": "hackernews"
+    },
+    "e06a667d2cbe22a2": {
+      "date": "2026-04-18",
+      "title": "Thoughts and feelings around Claude Design",
+      "source": "hackernews"
+    },
+    "513edbc29c72466a": {
+      "date": "2026-04-18",
+      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+      "source": "hackernews"
+    },
+    "3662ef8b88a30198": {
+      "date": "2026-04-18",
+      "title": "Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers",
+      "source": "hackernews"
+    },
+    "d868a9e9e04badbd": {
+      "date": "2026-04-18",
+      "title": "Modern Common Lisp with FSET",
+      "source": "hackernews"
+    },
+    "a39548fe64a0c455": {
+      "date": "2026-04-18",
+      "title": "Optimizing Ruby Path Methods",
+      "source": "hackernews"
+    },
+    "ff0f8b324bc9b543": {
+      "date": "2026-04-18",
+      "title": "Dad brains: How fatherhood rewires the male mind",
+      "source": "hackernews"
+    },
+    "5db976c84efb412d": {
+      "date": "2026-04-18",
+      "title": "thunderbird / thunderbolt",
+      "source": "github"
+    },
+    "30d8214c97f5f5b2": {
+      "date": "2026-04-18",
+      "title": "deepseek-ai / DeepGEMM",
+      "source": "github"
+    },
+    "d746177295f1258a": {
+      "date": "2026-04-18",
+      "title": "aaddrick / claude-desktop-debian",
+      "source": "github"
+    },
+    "8cb1f496a7fbc670": {
+      "date": "2026-04-18",
+      "title": "rustdesk / rustdesk",
+      "source": "github"
+    },
+    "5072b0cad7291f0a": {
+      "date": "2026-04-18",
+      "title": "tractorjuice / arc-kit",
+      "source": "github"
+    },
+    "92a1ee14ea6771f0": {
+      "date": "2026-04-18",
+      "title": "the only 12 git commands you’ll EVER NEED (forget the rest)",
+      "source": "devto"
+    },
+    "d8ccefb5b695ddb9": {
+      "date": "2026-04-18",
+      "title": "I got tired of wiring the same caching stack every project, so I built LayerCache",
+      "source": "devto"
+    },
+    "96a0dbb56897507d": {
+      "date": "2026-04-18",
+      "title": "Why I built a lossless alternative to AI memory summarization",
+      "source": "devto"
+    },
+    "c5028aa7160ffe71": {
+      "date": "2026-04-18",
+      "title": "I built a terminal screensaver in Go — constellations, rain, braille waves, and full shell integrati",
+      "source": "devto"
+    },
+    "90cd88f20fbe3768": {
+      "date": "2026-04-18",
+      "title": "Shipping Global Keyboard Shortcuts on macOS Sandbox: The Part Apple Doesn't Document",
+      "source": "devto"
+    },
+    "db482ffc2c20ff32": {
+      "date": "2026-04-18",
+      "title": "AI Agents Generate Code That Passes Your Tests. That Is the Problem.",
+      "source": "devto"
+    },
+    "23e6bcc1efcab6b0": {
+      "date": "2026-04-18",
+      "title": "ServiceKit V2 — The Async Service Locator for Unity",
+      "source": "devto"
+    },
+    "b18bdbc4121d7800": {
+      "date": "2026-04-18",
+      "title": "Earth’s Breath: An Interactive Journey from Seed to Restoration",
+      "source": "devto"
+    },
+    "cfb38202575a1052": {
+      "date": "2026-04-18",
+      "title": "Building a 4-Tier AI Cost Auto-Router with Deno Edge Functions",
+      "source": "devto"
     }
   }
 }
