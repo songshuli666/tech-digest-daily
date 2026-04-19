@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-18T23:07:39.974496",
+  "last_updated": "2026-04-19T23:08:40.099254",
   "sent_items": {
-    "8ebb7ed8af73f979": {
-      "date": "2026-03-19",
-      "title": "Billy.sh",
-      "source": "producthunt"
-    },
-    "74b8a7d92c27247c": {
-      "date": "2026-03-19",
-      "title": "Offload",
-      "source": "producthunt"
-    },
-    "6b3114297c7d19c2": {
-      "date": "2026-03-19",
-      "title": "PixelClaw",
-      "source": "producthunt"
-    },
-    "8f34c87d49022cb1": {
-      "date": "2026-03-19",
-      "title": "Scouts for iOS",
-      "source": "producthunt"
-    },
-    "537d43899d610f92": {
-      "date": "2026-03-19",
-      "title": "Netlify.new",
-      "source": "producthunt"
-    },
-    "0262242758b7a25e": {
-      "date": "2026-03-19",
-      "title": "MiniMax-M2.7",
-      "source": "producthunt"
-    },
-    "4539b84876446de6": {
-      "date": "2026-03-19",
-      "title": "Journey",
-      "source": "producthunt"
-    },
-    "e8abfa3a6db1230f": {
-      "date": "2026-03-19",
-      "title": "Cimanote",
-      "source": "producthunt"
-    },
-    "75bba1581a010ec0": {
-      "date": "2026-03-19",
-      "title": "Astral to Join OpenAI",
-      "source": "hackernews"
-    },
-    "7c897903bb733844": {
-      "date": "2026-03-19",
-      "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "source": "hackernews"
-    },
-    "f76af7c9a5ad17d0": {
-      "date": "2026-03-19",
-      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "source": "hackernews"
-    },
-    "05c726260db7a73b": {
-      "date": "2026-03-19",
-      "title": "Waymo Safety Impact",
-      "source": "hackernews"
-    },
-    "ebbbe7d441a05939": {
-      "date": "2026-03-19",
-      "title": "Noq: n0's new QUIC implementation in Rust",
-      "source": "hackernews"
-    },
-    "3bee6e98a4fa9f48": {
-      "date": "2026-03-19",
-      "title": "Cockpit is a web-based graphical interface for servers",
-      "source": "hackernews"
-    },
-    "1e5b37fdee07c7a6": {
-      "date": "2026-03-19",
-      "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
-      "source": "hackernews"
-    },
-    "653bfe135a4c848e": {
-      "date": "2026-03-19",
-      "title": "Clockwise acquired by Salesforce and shutting down next week",
-      "source": "hackernews"
-    },
-    "679bc619ef0b38a4": {
-      "date": "2026-03-19",
-      "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
-      "source": "hackernews"
-    },
-    "36937fe439316286": {
-      "date": "2026-03-19",
-      "title": "Be intentional about how AI changes your codebase",
-      "source": "hackernews"
-    },
-    "965fc61ede103703": {
-      "date": "2026-03-19",
-      "title": "opendataloader-project / opendataloader-pdf",
-      "source": "github"
-    },
-    "93eebb012ae4f832": {
-      "date": "2026-03-19",
-      "title": "mobile-dev-inc / Maestro",
-      "source": "github"
-    },
-    "7674f16f0663c9cb": {
-      "date": "2026-03-19",
-      "title": "louis-e / arnis",
-      "source": "github"
-    },
-    "4cafaa1aeecb93d4": {
-      "date": "2026-03-19",
-      "title": "We've Seen This Movie Before",
-      "source": "devto"
-    },
-    "3597ea896c9d4c34": {
-      "date": "2026-03-19",
-      "title": "Congrats to the Winners of Our First DEV Weekend Challenge!",
-      "source": "devto"
-    },
-    "18515df6f5f4495c": {
-      "date": "2026-03-19",
-      "title": "Congrats to the \"Built with Google Gemini: Writing Challenge\" Winners!",
-      "source": "devto"
-    },
-    "89ea53450b7df54a": {
-      "date": "2026-03-19",
-      "title": "Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps",
-      "source": "devto"
-    },
-    "af855de562ae4ca2": {
-      "date": "2026-03-19",
-      "title": "How to Stop My Agent from Getting Me Fired",
-      "source": "devto"
-    },
-    "e9b963d3d56fbb69": {
-      "date": "2026-03-19",
-      "title": "Why Your MCP Setup Keeps Timing Out in 60 Seconds (And How I Fixed It on Windows)",
-      "source": "devto"
-    },
-    "a5fee89a41f4c7dc": {
-      "date": "2026-03-19",
-      "title": "Should RubyGems/Bundler Have a Cooldown Feature?",
-      "source": "devto"
-    },
-    "469de48fbed3177d": {
-      "date": "2026-03-19",
-      "title": "Anki On My Wrist",
-      "source": "devto"
-    },
-    "000bb480c9a2e1cb": {
-      "date": "2026-03-19",
-      "title": "AI Vocab 101",
-      "source": "devto"
-    },
-    "c23667b3952c9622": {
-      "date": "2026-03-19",
-      "title": "Introducing Backlit: Lit SSR for Drupal, Hold the Node",
-      "source": "devto"
-    },
     "f04d58344be156c9": {
       "date": "2026-03-20",
       "title": "Telea",
@@ -4810,6 +4655,151 @@
     "cfb38202575a1052": {
       "date": "2026-04-18",
       "title": "Building a 4-Tier AI Cost Auto-Router with Deno Edge Functions",
+      "source": "devto"
+    },
+    "364168b684060cd8": {
+      "date": "2026-04-19",
+      "title": "Nibbo",
+      "source": "producthunt"
+    },
+    "9addcdbb1ffd68b0": {
+      "date": "2026-04-19",
+      "title": "Fixa.dev",
+      "source": "producthunt"
+    },
+    "cd3f90121be40bcf": {
+      "date": "2026-04-19",
+      "title": "Perplexity Personal Computer",
+      "source": "producthunt"
+    },
+    "c3401d096554ba72": {
+      "date": "2026-04-19",
+      "title": "Avina",
+      "source": "producthunt"
+    },
+    "273002a1fa5f0852": {
+      "date": "2026-04-19",
+      "title": "Verdent 2.0",
+      "source": "producthunt"
+    },
+    "025f71fd9750c95f": {
+      "date": "2026-04-19",
+      "title": "AGG Loop",
+      "source": "producthunt"
+    },
+    "c8efdd1c96b6d60a": {
+      "date": "2026-04-19",
+      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
+      "source": "hackernews"
+    },
+    "31daa99e829c7034": {
+      "date": "2026-04-19",
+      "title": "Vercel April 2026 security incident",
+      "source": "hackernews"
+    },
+    "b8540f8bcf431a5a": {
+      "date": "2026-04-19",
+      "title": "Game devs explain the tricks involved with letting you pause a game",
+      "source": "hackernews"
+    },
+    "8eca7ca9f2c44d75": {
+      "date": "2026-04-19",
+      "title": "The seven programming ur-languages (2022)",
+      "source": "hackernews"
+    },
+    "e639964d06b7c9ea": {
+      "date": "2026-04-19",
+      "title": "Swiss authorities want to reduce dependency on Microsoft",
+      "source": "hackernews"
+    },
+    "4ae539cbbe4d1e22": {
+      "date": "2026-04-19",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "source": "hackernews"
+    },
+    "66efe5fa125426e8": {
+      "date": "2026-04-19",
+      "title": "The Bromine Chokepoint",
+      "source": "hackernews"
+    },
+    "2c083d433e4a1fc5": {
+      "date": "2026-04-19",
+      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+      "source": "hackernews"
+    },
+    "62ea20c470ddbe8c": {
+      "date": "2026-04-19",
+      "title": "I wrote a CHIP-8 emulator in my own programming language",
+      "source": "hackernews"
+    },
+    "dd7d25f6b6fd8c8e": {
+      "date": "2026-04-19",
+      "title": "Prove You Are a Robot: CAPTCHAs for Agents",
+      "source": "hackernews"
+    },
+    "b78ae651a933fd23": {
+      "date": "2026-04-19",
+      "title": "Fincept-Corporation / FinceptTerminal",
+      "source": "github"
+    },
+    "9da20606e54ba5ed": {
+      "date": "2026-04-19",
+      "title": "paperless-ngx / paperless-ngx",
+      "source": "github"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-04-19",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "3f2411db1d89b118": {
+      "date": "2026-04-19",
+      "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
+      "source": "devto"
+    },
+    "a653396d705320ad": {
+      "date": "2026-04-19",
+      "title": "I Asked AI to Show Me My Life in 2050 — It Was Terrifying",
+      "source": "devto"
+    },
+    "846966d563224b10": {
+      "date": "2026-04-19",
+      "title": "I Had No Weekend Plans… So I Let Earth Tell Its Story 🌍",
+      "source": "devto"
+    },
+    "67fd5c8e0e3e99b8": {
+      "date": "2026-04-19",
+      "title": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini",
+      "source": "devto"
+    },
+    "0f798501bc783163": {
+      "date": "2026-04-19",
+      "title": "EM Operating System: Your Brain Is a Terrible Database",
+      "source": "devto"
+    },
+    "5e66d9411ad8d9ea": {
+      "date": "2026-04-19",
+      "title": "The Mental Framework for Unlocking Agentic Workflows",
+      "source": "devto"
+    },
+    "00c493afd1601bef": {
+      "date": "2026-04-19",
+      "title": "Rebuilding TLS, Part 3 — Building Our First Handshake",
+      "source": "devto"
+    },
+    "0ca92264c4e7e8e8": {
+      "date": "2026-04-19",
+      "title": "Una vez más una persona crea un sistema operativo sola.",
+      "source": "devto"
+    },
+    "e81c77465ca7281c": {
+      "date": "2026-04-19",
+      "title": "I thought I had a bug",
+      "source": "devto"
+    },
+    "8d044a15944543ab": {
+      "date": "2026-04-19",
+      "title": "I built a closed-loop WhatsApp advisor for 100M+ Indian farmers — fully serverless on AWS",
       "source": "devto"
     }
   }
