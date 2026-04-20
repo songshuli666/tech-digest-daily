@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-19T23:08:40.099254",
+  "last_updated": "2026-04-20T23:25:54.389901",
   "sent_items": {
-    "f04d58344be156c9": {
-      "date": "2026-03-20",
-      "title": "Telea",
-      "source": "producthunt"
-    },
-    "a75fd3f34350f8c2": {
-      "date": "2026-03-20",
-      "title": "AI Skills Manager",
-      "source": "producthunt"
-    },
-    "2632d7223eb8e218": {
-      "date": "2026-03-20",
-      "title": "Cacheless",
-      "source": "producthunt"
-    },
-    "79dfc44f5f035cc0": {
-      "date": "2026-03-20",
-      "title": "MusicLib",
-      "source": "producthunt"
-    },
-    "44417858c639d695": {
-      "date": "2026-03-20",
-      "title": "Gately",
-      "source": "producthunt"
-    },
-    "57922f1d3c85e4a1": {
-      "date": "2026-03-20",
-      "title": "Looq: Preview Files",
-      "source": "producthunt"
-    },
-    "f15c86d3d93c9aec": {
-      "date": "2026-03-20",
-      "title": "GentleLimit",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-03-20",
-      "title": "Composer 2 by Cursor",
-      "source": "producthunt"
-    },
-    "8694c95087d5e4c0": {
-      "date": "2026-03-20",
-      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "source": "hackernews"
-    },
-    "4c76e4c0e2eef946": {
-      "date": "2026-03-20",
-      "title": "Our commitment to Windows quality",
-      "source": "hackernews"
-    },
-    "88e025489d10a77c": {
-      "date": "2026-03-20",
-      "title": "The Los Angeles Aqueduct Is Wild",
-      "source": "hackernews"
-    },
-    "5369019597131f20": {
-      "date": "2026-03-20",
-      "title": "OpenCode – The open source AI coding agent",
-      "source": "hackernews"
-    },
-    "7325197e681e613b": {
-      "date": "2026-03-20",
-      "title": "Attention Residuals",
-      "source": "hackernews"
-    },
-    "7c5db2fbf3b5dbda": {
-      "date": "2026-03-20",
-      "title": "Show HN: I made an email app inspired by Arc browser",
-      "source": "hackernews"
-    },
-    "ccb4cf5db5c44a35": {
-      "date": "2026-03-20",
-      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
-      "source": "hackernews"
-    },
-    "cb2079a70d2963cc": {
-      "date": "2026-03-20",
-      "title": "Heart Attack and Stroke Risk Jumps When People Stop Taking GLP-1s",
-      "source": "hackernews"
-    },
-    "793015ac5f8c9312": {
-      "date": "2026-03-20",
-      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
-      "source": "hackernews"
-    },
-    "8b6873f91a99261f": {
-      "date": "2026-03-20",
-      "title": "I love my dumb watches",
-      "source": "hackernews"
-    },
-    "6f389e26c2c17b0a": {
-      "date": "2026-03-20",
-      "title": "vas3k / TaxHacker",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-03-20",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "5f1cf1f46723a758": {
-      "date": "2026-03-20",
-      "title": "openrocket / openrocket",
-      "source": "github"
-    },
-    "5d03c370a0e5f9d8": {
-      "date": "2026-03-20",
-      "title": "Vandalizing My Own Wikipedia Experience: A 90s Cyberpunk GeoCities Makeover",
-      "source": "devto"
-    },
-    "a572934252c22153": {
-      "date": "2026-03-20",
-      "title": "What was your win this week??",
-      "source": "devto"
-    },
-    "b11bd7abf75c70f5": {
-      "date": "2026-03-20",
-      "title": "Get Started on Dev.to! A Beginners Guide to Engage with the Community!",
-      "source": "devto"
-    },
-    "c4daa44aa6d29d7b": {
-      "date": "2026-03-20",
-      "title": "Unlocking Gemini CLI with Skills, Hooks & Plan Mode",
-      "source": "devto"
-    },
-    "0c86335fef075dd6": {
-      "date": "2026-03-20",
-      "title": "My First Experience Creating Antigravity Skills",
-      "source": "devto"
-    },
-    "0ee8399c767a0acc": {
-      "date": "2026-03-20",
-      "title": "My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mist",
-      "source": "devto"
-    },
-    "1bbd5de8543d716c": {
-      "date": "2026-03-20",
-      "title": "A 1-hour experiment: vibe-coding an app to break the ice at a networking event",
-      "source": "devto"
-    },
-    "b9546fa7992e0c8a": {
-      "date": "2026-03-20",
-      "title": "Resume Tailor",
-      "source": "devto"
-    },
-    "48a791b72cdd46b4": {
-      "date": "2026-03-20",
-      "title": "I Asked OpenClaw to Summarize a File. It Tried to Steal My Credentials Instead.",
-      "source": "devto"
-    },
-    "b647b3079f75ad86": {
-      "date": "2026-03-20",
-      "title": "I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2",
-      "source": "devto"
-    },
     "9c1a57e32af06f50": {
       "date": "2026-03-21",
       "title": "murmur",
@@ -4800,6 +4645,161 @@
     "8d044a15944543ab": {
       "date": "2026-04-19",
       "title": "I built a closed-loop WhatsApp advisor for 100M+ Indian farmers — fully serverless on AWS",
+      "source": "devto"
+    },
+    "36d85427dfea7ac4": {
+      "date": "2026-04-20",
+      "title": "John Ternus to become Apple CEO",
+      "source": "hackernews"
+    },
+    "bdca22eb1bafeb89": {
+      "date": "2026-04-20",
+      "title": "GitHub's fake star economy",
+      "source": "hackernews"
+    },
+    "7da2f127df767dc4": {
+      "date": "2026-04-20",
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "source": "hackernews"
+    },
+    "99591e84c7f617fc": {
+      "date": "2026-04-20",
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "source": "hackernews"
+    },
+    "fbab458f074f5808": {
+      "date": "2026-04-20",
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "source": "hackernews"
+    },
+    "92d8c0ad82726a16": {
+      "date": "2026-04-20",
+      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
+      "source": "hackernews"
+    },
+    "104b2882a606ca87": {
+      "date": "2026-04-20",
+      "title": "Jujutsu megamerges for fun and profit",
+      "source": "hackernews"
+    },
+    "5c93ac9ec6051f84": {
+      "date": "2026-04-20",
+      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
+      "source": "hackernews"
+    },
+    "eacc1d5557fc70f5": {
+      "date": "2026-04-20",
+      "title": "Monero Community Crowdfunding System",
+      "source": "hackernews"
+    },
+    "3691bafc18f84b57": {
+      "date": "2026-04-20",
+      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
+      "source": "hackernews"
+    },
+    "280ab98280f1ac0c": {
+      "date": "2026-04-20",
+      "title": "Co-Tasker",
+      "source": "producthunt"
+    },
+    "740d1c860d48d83b": {
+      "date": "2026-04-20",
+      "title": "CONA",
+      "source": "producthunt"
+    },
+    "90ee8d2427a1b1cd": {
+      "date": "2026-04-20",
+      "title": "Silex",
+      "source": "producthunt"
+    },
+    "fabc04358532ff08": {
+      "date": "2026-04-20",
+      "title": "Tetractys",
+      "source": "producthunt"
+    },
+    "eb37b51848dac48b": {
+      "date": "2026-04-20",
+      "title": "Auxilius.ai",
+      "source": "producthunt"
+    },
+    "397f37b544217475": {
+      "date": "2026-04-20",
+      "title": "Getpin",
+      "source": "producthunt"
+    },
+    "3ebcd81b659e0a95": {
+      "date": "2026-04-20",
+      "title": "Telagri",
+      "source": "producthunt"
+    },
+    "fd6fcd34b938d62c": {
+      "date": "2026-04-20",
+      "title": "Sirputis",
+      "source": "producthunt"
+    },
+    "56d33226bf40d769": {
+      "date": "2026-04-20",
+      "title": "koala73 / worldmonitor",
+      "source": "github"
+    },
+    "aec960f29efcb4e8": {
+      "date": "2026-04-20",
+      "title": "pi-hole / pi-hole",
+      "source": "github"
+    },
+    "aa33855075492a60": {
+      "date": "2026-04-20",
+      "title": "XTLS / Xray-core",
+      "source": "github"
+    },
+    "09fa2d434f8fccd4": {
+      "date": "2026-04-20",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "b231d43cacbd235f": {
+      "date": "2026-04-20",
+      "title": "Unearthed—The Coal Mine Behind Every Light Switch",
+      "source": "devto"
+    },
+    "817def793986e054": {
+      "date": "2026-04-20",
+      "title": "Why Do I Keep Killing My Side Projects?",
+      "source": "devto"
+    },
+    "9163f77df60cef50": {
+      "date": "2026-04-20",
+      "title": "Eco-Web Auditor",
+      "source": "devto"
+    },
+    "993d2a3cfc9c40f1": {
+      "date": "2026-04-20",
+      "title": "What are your goals for the week? #175",
+      "source": "devto"
+    },
+    "189f0700549b0fea": {
+      "date": "2026-04-20",
+      "title": "I Built a Claude Code Sub-Agent That Processes 2,000 Invoices a Day — Here's the Exact Setup",
+      "source": "devto"
+    },
+    "5b49dfc24117c742": {
+      "date": "2026-04-20",
+      "title": "Arara Watch: a serverless global disaster monitor, developed with technology from Google Gemini, AWS",
+      "source": "devto"
+    },
+    "c6a1be4126d4dca5": {
+      "date": "2026-04-20",
+      "title": "Da Autoria à Exegese: O Código como Ato de Linguagem na Era da IA",
+      "source": "devto"
+    },
+    "d2b78a364fc9ae73": {
+      "date": "2026-04-20",
+      "title": "Building SIEMForge: A Portable SIEM Detection Toolkit with Sigma, Sysmon, and MITRE ATT&CK",
+      "source": "devto"
+    },
+    "d21bc83f5f374339": {
+      "date": "2026-04-20",
+      "title": "Active Inference — The Learn Arc, Part 50: Series capstone",
       "source": "devto"
     }
   }
