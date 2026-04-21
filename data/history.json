@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-20T23:25:54.389901",
+  "last_updated": "2026-04-21T23:12:15.779853",
   "sent_items": {
-    "9c1a57e32af06f50": {
-      "date": "2026-03-21",
-      "title": "murmur",
-      "source": "producthunt"
-    },
-    "3e30a4316f644030": {
-      "date": "2026-03-21",
-      "title": "Contral",
-      "source": "producthunt"
-    },
-    "a8dd46597afbab46": {
-      "date": "2026-03-21",
-      "title": "Claude Cowork Projects",
-      "source": "producthunt"
-    },
-    "40cae0d5153552de": {
-      "date": "2026-03-21",
-      "title": "Sanota",
-      "source": "producthunt"
-    },
-    "1ded79bf9ffb03fe": {
-      "date": "2026-03-21",
-      "title": "Caplo",
-      "source": "producthunt"
-    },
-    "cb2ed8a5888dc1c6": {
-      "date": "2026-03-21",
-      "title": "Everest AI",
-      "source": "producthunt"
-    },
-    "968ded0cd2363b96": {
-      "date": "2026-03-21",
-      "title": "optimo",
-      "source": "producthunt"
-    },
-    "c3849279988de60f": {
-      "date": "2026-03-21",
-      "title": "Educato App",
-      "source": "producthunt"
-    },
-    "2f94084252983be8": {
-      "date": "2026-03-21",
-      "title": "Some things just take time",
-      "source": "hackernews"
-    },
-    "be10e0d15831a264": {
-      "date": "2026-03-21",
-      "title": "Do Not Turn Child Protection into Internet Access Control",
-      "source": "hackernews"
-    },
-    "2e2907b1fd16cacf": {
-      "date": "2026-03-21",
-      "title": "Tinybox- offline AI device 120B parameters",
-      "source": "hackernews"
-    },
-    "d00b623dd2d89b08": {
-      "date": "2026-03-21",
-      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
-      "source": "hackernews"
-    },
-    "7f08b24041b0154e": {
-      "date": "2026-03-21",
-      "title": "How Invisalign became the biggest user of 3D printers",
-      "source": "hackernews"
-    },
-    "b2fc80c458d2041c": {
-      "date": "2026-03-21",
-      "title": "The seven hour explosion nobody could explain",
-      "source": "hackernews"
-    },
-    "d81cb064b8e3c715": {
-      "date": "2026-03-21",
-      "title": "Show HN: Termcraft – terminal-first 2D sandbox survival in Rust",
-      "source": "hackernews"
-    },
-    "76fd594c303269a9": {
-      "date": "2026-03-21",
-      "title": "Electronics for Kids, 2nd Edition",
-      "source": "hackernews"
-    },
-    "b0a85820affa2a6a": {
-      "date": "2026-03-21",
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "source": "hackernews"
-    },
-    "045a61813b1aff1e": {
-      "date": "2026-03-21",
-      "title": "No Semicolons Needed",
-      "source": "hackernews"
-    },
-    "ccd80bf8ca428d1c": {
-      "date": "2026-03-21",
-      "title": "How I Made fzf Feel Snappy Again in Large Repositories",
-      "source": "devto"
-    },
-    "7ec175f50b10ef30": {
-      "date": "2026-03-21",
-      "title": "I built a 1.7kb VDOM-less framework, it went \"viral\", and Reddit banned me 🤣",
-      "source": "devto"
-    },
-    "a4c3c836741b1ad9": {
-      "date": "2026-03-21",
-      "title": "Adding Stripe Checkout to a Solo SaaS: Lessons from PatentLLM's $1K/mo Plan",
-      "source": "devto"
-    },
-    "1a61eeb45c12de3b": {
-      "date": "2026-03-21",
-      "title": "Tailscale Deep Dive: Why Developers Are Ditching Traditional VPNs",
-      "source": "devto"
-    },
-    "40ee0cf291478416": {
-      "date": "2026-03-21",
-      "title": "I Modernized BitchX — The Legendary 90s IRC Client Now Has AI Built In",
-      "source": "devto"
-    },
-    "e5d1710aaa0221cf": {
-      "date": "2026-03-21",
-      "title": "Downgrading to macOS Catalina: A Sermon on Obsolescence",
-      "source": "devto"
-    },
-    "e71a7cc424928fb6": {
-      "date": "2026-03-21",
-      "title": "I Built a Personalized AI Life Coach with Obsidian + Claude — Here's the Exact Setup",
-      "source": "devto"
-    },
-    "4495c4fd8f7c7dc4": {
-      "date": "2026-03-21",
-      "title": "Optimizing for Zero: Building a High-Performance Browser Runner with No Budget",
-      "source": "devto"
-    },
-    "e48d0fe6bbf786b4": {
-      "date": "2026-03-21",
-      "title": "The Agent Memory Problem (And How I Solved It Without a Database)",
-      "source": "devto"
-    },
-    "933fede767c3938e": {
-      "date": "2026-03-21",
-      "title": "I Built a Tool That Turns TODO Comments Into Actual Documentation",
-      "source": "devto"
-    },
-    "19277cf46013e4f0": {
-      "date": "2026-03-21",
-      "title": "systemd / systemd",
-      "source": "github"
-    },
-    "7fdb3d2f4950e680": {
-      "date": "2026-03-21",
-      "title": "aquasecurity / trivy",
-      "source": "github"
-    },
-    "89a665d7fafbfdc7": {
-      "date": "2026-03-21",
-      "title": "protocolbuffers / protobuf",
-      "source": "github"
-    },
-    "c8b564d136536934": {
-      "date": "2026-03-21",
-      "title": "vllm-project / vllm-omni",
-      "source": "github"
-    },
     "a73f8d45977aeb76": {
       "date": "2026-03-22",
       "title": "Context.dev",
@@ -4800,6 +4640,166 @@
     "d21bc83f5f374339": {
       "date": "2026-04-20",
       "title": "Active Inference — The Learn Arc, Part 50: Series capstone",
+      "source": "devto"
+    },
+    "570a42e3f7a60930": {
+      "date": "2026-04-21",
+      "title": "Laws of Software Engineering",
+      "source": "hackernews"
+    },
+    "61d55b7a6e820ef0": {
+      "date": "2026-04-21",
+      "title": "Framework Laptop 13 Pro",
+      "source": "hackernews"
+    },
+    "6dcee5651dfce934": {
+      "date": "2026-04-21",
+      "title": "Edit store price tags using Flipper Zero",
+      "source": "hackernews"
+    },
+    "4dfe596476fc3565": {
+      "date": "2026-04-21",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "source": "hackernews"
+    },
+    "e53fd54bdec21b46": {
+      "date": "2026-04-21",
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "source": "hackernews"
+    },
+    "08ccbc17ddeecb31": {
+      "date": "2026-04-21",
+      "title": "ChatGPT Images 2.0",
+      "source": "hackernews"
+    },
+    "3e3e5ffb00788e3e": {
+      "date": "2026-04-21",
+      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "source": "hackernews"
+    },
+    "c1d9acc533ccebba": {
+      "date": "2026-04-21",
+      "title": "A Periodic Map of Cheese",
+      "source": "hackernews"
+    },
+    "9633922bdd52f826": {
+      "date": "2026-04-21",
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "source": "hackernews"
+    },
+    "55dc980735d8aafa": {
+      "date": "2026-04-21",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "source": "hackernews"
+    },
+    "4883a2450c59b634": {
+      "date": "2026-04-21",
+      "title": "Magic Lane",
+      "source": "producthunt"
+    },
+    "b98a185a68c4737c": {
+      "date": "2026-04-21",
+      "title": "KingCoding",
+      "source": "producthunt"
+    },
+    "2978d576313d4b84": {
+      "date": "2026-04-21",
+      "title": "MAXIA Oracle",
+      "source": "producthunt"
+    },
+    "be1f4845534ced3e": {
+      "date": "2026-04-21",
+      "title": "Pagecorder",
+      "source": "producthunt"
+    },
+    "5001ae9e953e87ec": {
+      "date": "2026-04-21",
+      "title": "delegare",
+      "source": "producthunt"
+    },
+    "29ba26e0adb53992": {
+      "date": "2026-04-21",
+      "title": "Cosmic Agent Marketplace",
+      "source": "producthunt"
+    },
+    "0bb5393e03931fc7": {
+      "date": "2026-04-21",
+      "title": "RapidNative",
+      "source": "producthunt"
+    },
+    "0ed14472d03084c0": {
+      "date": "2026-04-21",
+      "title": "zilliztech / claude-context",
+      "source": "github"
+    },
+    "94985b3bfb1fca26": {
+      "date": "2026-04-21",
+      "title": "microsoft / ai-agents-for-beginners",
+      "source": "github"
+    },
+    "f1875d3f5ab1c3cc": {
+      "date": "2026-04-21",
+      "title": "dayanch96 / YTLite",
+      "source": "github"
+    },
+    "321739261d10b1a0": {
+      "date": "2026-04-21",
+      "title": "HKUDS / RAG-Anything",
+      "source": "github"
+    },
+    "1b97a84ce8f020fc": {
+      "date": "2026-04-21",
+      "title": "sansan0 / TrendRadar",
+      "source": "github"
+    },
+    "f5a972841f43730f": {
+      "date": "2026-04-21",
+      "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
+      "source": "devto"
+    },
+    "c41fa41c4ccd93af": {
+      "date": "2026-04-21",
+      "title": "Built a 5k usd MRR app with AI but still needed a developer",
+      "source": "devto"
+    },
+    "e823d3c54399bc61": {
+      "date": "2026-04-21",
+      "title": "Claude! Stop Burning Tokens on Your Agent's Tool Output!",
+      "source": "devto"
+    },
+    "b52a779ea2d3fc8e": {
+      "date": "2026-04-21",
+      "title": "The State of AI Instruction Quality",
+      "source": "devto"
+    },
+    "ca8c941d8453a8f8": {
+      "date": "2026-04-21",
+      "title": "I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel",
+      "source": "devto"
+    },
+    "35b1b3c3ace66c11": {
+      "date": "2026-04-21",
+      "title": "We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community",
+      "source": "devto"
+    },
+    "fae1e62579ef341e": {
+      "date": "2026-04-21",
+      "title": "Vibe Coding, Fundamentals, and the New Job Market Reality",
+      "source": "devto"
+    },
+    "40c442946486b039": {
+      "date": "2026-04-21",
+      "title": "I Built the Missing Claude AI SDK for .NET 8 — And It's Now on NuGet",
+      "source": "devto"
+    },
+    "d27382b5b6a3e9e6": {
+      "date": "2026-04-21",
+      "title": "I got tired of messy TypeScript migrations in Node.js, so I built fast-ts-integrator",
+      "source": "devto"
+    },
+    "3eda22be31f4a569": {
+      "date": "2026-04-21",
+      "title": "The 57th Attempt: When Your \"Meta-Promotion\" Strategy Becomes the Main Product",
       "source": "devto"
     }
   }
