@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-21T23:12:15.779853",
+  "last_updated": "2026-04-22T23:30:48.763728",
   "sent_items": {
-    "a73f8d45977aeb76": {
-      "date": "2026-03-22",
-      "title": "Context.dev",
-      "source": "producthunt"
-    },
-    "0179535a49fcd8b3": {
-      "date": "2026-03-22",
-      "title": "Edgee Claude Code Compression",
-      "source": "producthunt"
-    },
-    "086ae3ab7c30b006": {
-      "date": "2026-03-22",
-      "title": "Vite+",
-      "source": "producthunt"
-    },
-    "d8b45e06f5a1dab7": {
-      "date": "2026-03-22",
-      "title": "The future of version control",
-      "source": "hackernews"
-    },
-    "a7b3665a8d2153de": {
-      "date": "2026-03-22",
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "source": "hackernews"
-    },
-    "4d133f1fc9b9065a": {
-      "date": "2026-03-22",
-      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
-      "source": "hackernews"
-    },
-    "e691085e0ea96a06": {
-      "date": "2026-03-22",
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "source": "hackernews"
-    },
-    "104888e5676df28f": {
-      "date": "2026-03-22",
-      "title": "Reports of code's death are greatly exaggerated",
-      "source": "hackernews"
-    },
-    "61266b2a5f0e5ee1": {
-      "date": "2026-03-22",
-      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "source": "hackernews"
-    },
-    "bcd41570cc4d4b5a": {
-      "date": "2026-03-22",
-      "title": "Five Years of Running a Systems Reading Group at Microsoft",
-      "source": "hackernews"
-    },
-    "668a3e4a234e7619": {
-      "date": "2026-03-22",
-      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-      "source": "hackernews"
-    },
-    "37cca2182e9fc4dc": {
-      "date": "2026-03-22",
-      "title": "LLMs Predict My Coffee",
-      "source": "hackernews"
-    },
-    "628a26de1b772b34": {
-      "date": "2026-03-22",
-      "title": "Rust Project Perspectives on AI",
-      "source": "hackernews"
-    },
-    "cdf687dd83441dc4": {
-      "date": "2026-03-22",
-      "title": "OpenTelemetry just standardized LLM tracing. Here's what it actually looks like in code.",
-      "source": "devto"
-    },
-    "3881c87e31fd5c3c": {
-      "date": "2026-03-22",
-      "title": "I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, N",
-      "source": "devto"
-    },
-    "3565c1fdb3d6c96a": {
-      "date": "2026-03-22",
-      "title": "Raw Developer Stories: The Side Nobody Shows",
-      "source": "devto"
-    },
-    "f455ad2e57940e7c": {
-      "date": "2026-03-22",
-      "title": "Built a CLI that gives your codebase a memory",
-      "source": "devto"
-    },
-    "62c9d65c98e6917d": {
-      "date": "2026-03-22",
-      "title": "I spent several months building an AI safety app for my elderly parent — here is what I learned",
-      "source": "devto"
-    },
-    "e4226ee1304be1c7": {
-      "date": "2026-03-22",
-      "title": "Flash-KMeans Dropped and It Makes sklearn Look Slow",
-      "source": "devto"
-    },
-    "8acc26e097a8de91": {
-      "date": "2026-03-22",
-      "title": "I Built a UK Business Intelligence MCP Server — Here's How",
-      "source": "devto"
-    },
-    "8ebcf0c84fcdc764": {
-      "date": "2026-03-22",
-      "title": "Your Multi-Agent System Is a Black Box You Built Yourself",
-      "source": "devto"
-    },
-    "b16ea9a78d60b0f9": {
-      "date": "2026-03-22",
-      "title": "When nothing seems to stick",
-      "source": "devto"
-    },
-    "1fdb2b44c65587de": {
-      "date": "2026-03-22",
-      "title": "Building Multi-Language SEO for Video Aggregation Sites",
-      "source": "devto"
-    },
-    "e7969addf9dd898b": {
-      "date": "2026-03-22",
-      "title": "jamwithai / production-agentic-rag-course",
-      "source": "github"
-    },
-    "b2b81d4907c6a390": {
-      "date": "2026-03-22",
-      "title": "affaan-m / everything-claude-code",
-      "source": "github"
-    },
-    "2f48be63fe82be5d": {
-      "date": "2026-03-22",
-      "title": "browser-use / browser-use",
-      "source": "github"
-    },
-    "cc1f6ac7ca5fd31f": {
-      "date": "2026-03-22",
-      "title": "HKUDS / LightRAG",
-      "source": "github"
-    },
-    "75a944068045ae29": {
-      "date": "2026-03-22",
-      "title": "hsliuping / TradingAgents-CN",
-      "source": "github"
-    },
-    "7c09473f1ffc3548": {
-      "date": "2026-03-22",
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "source": "github"
-    },
     "16842075c63b1378": {
       "date": "2026-03-23",
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
@@ -4800,6 +4655,171 @@
     "3eda22be31f4a569": {
       "date": "2026-04-21",
       "title": "The 57th Attempt: When Your \"Meta-Promotion\" Strategy Becomes the Main Product",
+      "source": "devto"
+    },
+    "e695889078ee32dc": {
+      "date": "2026-04-22",
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "source": "hackernews"
+    },
+    "2f3ba9daee727948": {
+      "date": "2026-04-22",
+      "title": "Windows 9x Subsystem for Linux",
+      "source": "hackernews"
+    },
+    "8574a4ffb5d285af": {
+      "date": "2026-04-22",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "source": "hackernews"
+    },
+    "3a2892c494d1edfe": {
+      "date": "2026-04-22",
+      "title": "5x5 Pixel font for tiny screens",
+      "source": "hackernews"
+    },
+    "b04411813ee5300c": {
+      "date": "2026-04-22",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "source": "hackernews"
+    },
+    "5fb0ca82af7eb67c": {
+      "date": "2026-04-22",
+      "title": "Over-editing refers to a model modifying code beyond what is necessary",
+      "source": "hackernews"
+    },
+    "c5daa3056c8d9a82": {
+      "date": "2026-04-22",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "source": "hackernews"
+    },
+    "94b62129035b68b7": {
+      "date": "2026-04-22",
+      "title": "Website streamed live directly from a model",
+      "source": "hackernews"
+    },
+    "3dad188ba0d840cf": {
+      "date": "2026-04-22",
+      "title": "Ping-pong robot beats top-level human players",
+      "source": "hackernews"
+    },
+    "6a80ab42476bdb55": {
+      "date": "2026-04-22",
+      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+      "source": "hackernews"
+    },
+    "28f312d1db449af2": {
+      "date": "2026-04-22",
+      "title": "Seeknal",
+      "source": "producthunt"
+    },
+    "9e739b6099f2cb4c": {
+      "date": "2026-04-22",
+      "title": "Cavalry Studio",
+      "source": "producthunt"
+    },
+    "f055b8e8ef39efa1": {
+      "date": "2026-04-22",
+      "title": "Iris Studio",
+      "source": "producthunt"
+    },
+    "3f7bb8001c30fd85": {
+      "date": "2026-04-22",
+      "title": "Wrangle",
+      "source": "producthunt"
+    },
+    "d3ad237de0a4b3b3": {
+      "date": "2026-04-22",
+      "title": "Kyohansha",
+      "source": "producthunt"
+    },
+    "f6aef0006e6cc059": {
+      "date": "2026-04-22",
+      "title": "ConsoleMini",
+      "source": "producthunt"
+    },
+    "569a19a146127ce0": {
+      "date": "2026-04-22",
+      "title": "OneGlanse",
+      "source": "producthunt"
+    },
+    "d91515752191c891": {
+      "date": "2026-04-22",
+      "title": "kimiflare",
+      "source": "producthunt"
+    },
+    "87f34b8efe1f4858": {
+      "date": "2026-04-22",
+      "title": "langfuse / langfuse",
+      "source": "github"
+    },
+    "5357f2f6bac7c709": {
+      "date": "2026-04-22",
+      "title": "open-metadata / OpenMetadata",
+      "source": "github"
+    },
+    "36688f7d6dbbd267": {
+      "date": "2026-04-22",
+      "title": "AIDC-AI / Pixelle-Video",
+      "source": "github"
+    },
+    "9e0939dc4009d73f": {
+      "date": "2026-04-22",
+      "title": "Z4nzu / hackingtool",
+      "source": "github"
+    },
+    "7634ab012b3dcc8f": {
+      "date": "2026-04-22",
+      "title": "vercel-labs / skills",
+      "source": "github"
+    },
+    "aac5c5fd4caccf1e": {
+      "date": "2026-04-22",
+      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
+      "source": "devto"
+    },
+    "b777993152b581ba": {
+      "date": "2026-04-22",
+      "title": "If AI Existed in 2011, Would We Still Have the Modern Web?",
+      "source": "devto"
+    },
+    "951c4ec8048abde5": {
+      "date": "2026-04-22",
+      "title": "Unpopular Opinion: Do not use OpenClaw...not yet.",
+      "source": "devto"
+    },
+    "fc3b0bafd9a125ec": {
+      "date": "2026-04-22",
+      "title": "Anthropic's Most Dangerous Model Just Got Accessed by People Who Weren't Supposed to Have It",
+      "source": "devto"
+    },
+    "f38ec8c79a0bb881": {
+      "date": "2026-04-22",
+      "title": "I built my own event bus for a sustainability app — here's what I learned about agent automation usi",
+      "source": "devto"
+    },
+    "70cc7a1b6b5e2865": {
+      "date": "2026-04-22",
+      "title": "AI made devs feel 20% faster but measured 19% slower. Nobody's ready for that conversation.",
+      "source": "devto"
+    },
+    "bdfa80fff0c9c687": {
+      "date": "2026-04-22",
+      "title": "I lost a few thousand to an impersonation scam. So I built the tool I wished existed.",
+      "source": "devto"
+    },
+    "7f706c01d1438d5d": {
+      "date": "2026-04-22",
+      "title": "My First Foray into Harness Engineers",
+      "source": "devto"
+    },
+    "a10afb8f9acc95b8": {
+      "date": "2026-04-22",
+      "title": "Announcing ObjeX | We Built Our Own S3",
+      "source": "devto"
+    },
+    "61dc4a854befcb2f": {
+      "date": "2026-04-22",
+      "title": "Lovable Just Proved Everything We Found in Our 600K Line Audit",
       "source": "devto"
     }
   }
