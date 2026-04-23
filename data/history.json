@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-22T23:30:48.763728",
+  "last_updated": "2026-04-23T23:29:35.947576",
   "sent_items": {
-    "16842075c63b1378": {
-      "date": "2026-03-23",
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "source": "hackernews"
-    },
-    "c08826cc2e79e1b5": {
-      "date": "2026-03-23",
-      "title": "Two pilots dead after plane and ground vehicle collide at LaGuardia",
-      "source": "hackernews"
-    },
-    "6a2f37359fc3b82d": {
-      "date": "2026-03-23",
-      "title": "Autoresearch on an old research idea",
-      "source": "hackernews"
-    },
-    "bbae3878f6e50b61": {
-      "date": "2026-03-23",
-      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "source": "hackernews"
-    },
-    "ff3b5448aebbea6d": {
-      "date": "2026-03-23",
-      "title": "Finding all regex matches has always been O(n²)",
-      "source": "hackernews"
-    },
-    "86f309f05dce6861": {
-      "date": "2026-03-23",
-      "title": "Local Stack Archived their GitHub repo and requires an account to run",
-      "source": "hackernews"
-    },
-    "05b31e694e6ce14e": {
-      "date": "2026-03-23",
-      "title": "How I'm Productive with Claude Code",
-      "source": "hackernews"
-    },
-    "07995d0b897c76d6": {
-      "date": "2026-03-23",
-      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
-      "source": "hackernews"
-    },
-    "8e5cf7d246e99dc4": {
-      "date": "2026-03-23",
-      "title": "Printable Claude Code Cheat Sheet (auto-updated daily)",
-      "source": "hackernews"
-    },
-    "550fc89b3c98fb57": {
-      "date": "2026-03-23",
-      "title": "Hacker Mints $80M USD Worth of USR Stablecoins",
-      "source": "hackernews"
-    },
-    "957070100b19e58c": {
-      "date": "2026-03-23",
-      "title": "Claude Usage Tracker",
-      "source": "producthunt"
-    },
-    "19df4ded2f5810a7": {
-      "date": "2026-03-23",
-      "title": "Tobira.ai",
-      "source": "producthunt"
-    },
-    "27d45aeff1af9e76": {
-      "date": "2026-03-23",
-      "title": "Iris",
-      "source": "producthunt"
-    },
-    "b94a0a7b7b4df241": {
-      "date": "2026-03-23",
-      "title": "DataSieve 2.0",
-      "source": "producthunt"
-    },
-    "6e4724e6f4505271": {
-      "date": "2026-03-23",
-      "title": "Fastlane",
-      "source": "producthunt"
-    },
-    "132f4ef9707f280c": {
-      "date": "2026-03-23",
-      "title": "AlphaClaw Apex",
-      "source": "producthunt"
-    },
-    "7b362647b9290c63": {
-      "date": "2026-03-23",
-      "title": "WeixinClawBot",
-      "source": "producthunt"
-    },
-    "5b654261636a0ec2": {
-      "date": "2026-03-23",
-      "title": "Engenharia de Prompt: Por Que a Forma Como Você Pergunta Muda Tudo(Um guia introdutório)",
-      "source": "devto"
-    },
-    "79a7bc4b126f74a0": {
-      "date": "2026-03-23",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "e3d03d196617195f": {
-      "date": "2026-03-23",
-      "title": "The Most Painful Career Lesson My Best Job Taught Me",
-      "source": "devto"
-    },
-    "c9164aa8bca3f2c8": {
-      "date": "2026-03-23",
-      "title": "I Talk to AI While I Code. Here's What Works, What Fails, and Where I Stop.",
-      "source": "devto"
-    },
-    "88afaad54b920430": {
-      "date": "2026-03-23",
-      "title": "I Built an MCP Server to Automate Dropshipping Product Imports",
-      "source": "devto"
-    },
-    "2ca7b05842e55dac": {
-      "date": "2026-03-23",
-      "title": "Building a Weather Station Using an Old Raspberry Pi",
-      "source": "devto"
-    },
-    "81ad5bc517f3ce66": {
-      "date": "2026-03-23",
-      "title": "My Portfolio's AI Chatbot Hates Its Job. It's the Best Career Decision I've Made.",
-      "source": "devto"
-    },
-    "7f9d2a55019018d1": {
-      "date": "2026-03-23",
-      "title": "I built an open-source \\\"limbic system\\\" for AI agents — emotion, bias, and memory as MCP servers",
-      "source": "devto"
-    },
-    "c140b0b3eb35485d": {
-      "date": "2026-03-23",
-      "title": "The Illusion of the Human Touch",
-      "source": "devto"
-    },
-    "ef040ab441ecfa56": {
-      "date": "2026-03-23",
-      "title": "Designing an AI That Remembers: How We Built a Coding Mentor with a \"Human\" Memory",
-      "source": "devto"
-    },
-    "26bcca7d7b544736": {
-      "date": "2026-03-23",
-      "title": "tinygrad / tinygrad",
-      "source": "github"
-    },
-    "73c10ecbf681fc5a": {
-      "date": "2026-03-23",
-      "title": "jingyaogong / minimind",
-      "source": "github"
-    },
-    "333ac7fd8f02fc43": {
-      "date": "2026-03-23",
-      "title": "kepano / obsidian-skills",
-      "source": "github"
-    },
-    "6441a71a96a5c444": {
-      "date": "2026-03-23",
-      "title": "czlonkowski / n8n-mcp",
-      "source": "github"
-    },
-    "b11d32bac2710243": {
-      "date": "2026-03-23",
-      "title": "iptv-org / iptv",
-      "source": "github"
-    },
-    "ec2b5bfa19731be2": {
-      "date": "2026-03-23",
-      "title": "hesreallyhim / awesome-claude-code",
-      "source": "github"
-    },
     "6eae6031a4140bbd": {
       "date": "2026-03-24",
       "title": "Flux",
@@ -4821,6 +4656,181 @@
       "date": "2026-04-22",
       "title": "Lovable Just Proved Everything We Found in Our 600K Line Audit",
       "source": "devto"
+    },
+    "acf8a1da6e8885ed": {
+      "date": "2026-04-23",
+      "title": "FocuSee 2.0",
+      "source": "producthunt"
+    },
+    "0fe8fdb3e6c23a53": {
+      "date": "2026-04-23",
+      "title": "Skill Inspector",
+      "source": "producthunt"
+    },
+    "29ef5b8e7ef3bd5e": {
+      "date": "2026-04-23",
+      "title": "Blink AI CFO",
+      "source": "producthunt"
+    },
+    "8952bf68752ddde2": {
+      "date": "2026-04-23",
+      "title": "Design.MD",
+      "source": "producthunt"
+    },
+    "87c916d66e6e855a": {
+      "date": "2026-04-23",
+      "title": "MiMo-V2.5 & Pro",
+      "source": "producthunt"
+    },
+    "38fe4918d680ebad": {
+      "date": "2026-04-23",
+      "title": "Reloop Animation Studio",
+      "source": "producthunt"
+    },
+    "37e83bea55c5716e": {
+      "date": "2026-04-23",
+      "title": "PopTask v2.0",
+      "source": "producthunt"
+    },
+    "67eef0dd333bbe37": {
+      "date": "2026-04-23",
+      "title": "GPT-5.5",
+      "source": "hackernews"
+    },
+    "cba7fe466ecc2a8d": {
+      "date": "2026-04-23",
+      "title": "I am building a cloud",
+      "source": "hackernews"
+    },
+    "0112a39aaa86630c": {
+      "date": "2026-04-23",
+      "title": "Palantir employees are starting to wonder if they're the bad guys",
+      "source": "hackernews"
+    },
+    "3a0991210d2d0ec9": {
+      "date": "2026-04-23",
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "source": "hackernews"
+    },
+    "2ab8741a98421d57": {
+      "date": "2026-04-23",
+      "title": "An update on recent Claude Code quality reports",
+      "source": "hackernews"
+    },
+    "f3c84dd524d1e3ac": {
+      "date": "2026-04-23",
+      "title": "Incident with multple GitHub services",
+      "source": "hackernews"
+    },
+    "5086395d06053cd5": {
+      "date": "2026-04-23",
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "source": "hackernews"
+    },
+    "32d299c8b6f62eac": {
+      "date": "2026-04-23",
+      "title": "My phone replaced a brass plug",
+      "source": "hackernews"
+    },
+    "09b1882141b9cb9a": {
+      "date": "2026-04-23",
+      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+      "source": "hackernews"
+    },
+    "b6c3444b6d06ce65": {
+      "date": "2026-04-23",
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "source": "hackernews"
+    },
+    "945895a34042ad8e": {
+      "date": "2026-04-23",
+      "title": "So, what am I doing after 22 years in tech?",
+      "source": "devto"
+    },
+    "5d418b9082606615": {
+      "date": "2026-04-23",
+      "title": "Congrats to the April Fools Challenge Winners!!",
+      "source": "devto"
+    },
+    "388d05caf646c3f0": {
+      "date": "2026-04-23",
+      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
+      "source": "devto"
+    },
+    "dde992a23789d32e": {
+      "date": "2026-04-23",
+      "title": "I Built a Local AI VRAM Calculator & GPU Planner (Beta)",
+      "source": "devto"
+    },
+    "ba66f479e72a9022": {
+      "date": "2026-04-23",
+      "title": "Making illegal state unrepresentable",
+      "source": "devto"
+    },
+    "5d6d43b4aa355f03": {
+      "date": "2026-04-23",
+      "title": "I let a kosher lobster run my Shabbat automations",
+      "source": "devto"
+    },
+    "b1286be51c08dc29": {
+      "date": "2026-04-23",
+      "title": "Why I spent years trying to make CSS states predictable",
+      "source": "devto"
+    },
+    "8320c182d658b229": {
+      "date": "2026-04-23",
+      "title": "The Sweet Lure of Prediction Arb: How I Tried to Speedrun a Rust Monitor (and Fried My Brain)",
+      "source": "devto"
+    },
+    "5314cf07620f54db": {
+      "date": "2026-04-23",
+      "title": "FOMO as a Developer: You're Not Behind, You're Just Human",
+      "source": "devto"
+    },
+    "56e984b283dcc9ae": {
+      "date": "2026-04-23",
+      "title": "huggingface / ml-intern",
+      "source": "github"
+    },
+    "f2f7e303ad9af8e4": {
+      "date": "2026-04-23",
+      "title": "Anil-matcha / Open-Generative-AI",
+      "source": "github"
+    },
+    "8e0001db8f8344fb": {
+      "date": "2026-04-23",
+      "title": "Alishahryar1 / free-claude-code",
+      "source": "github"
+    },
+    "948e14202b264559": {
+      "date": "2026-04-23",
+      "title": "PowerShell / PowerShell",
+      "source": "github"
+    },
+    "dd96a3f3f4b9af84": {
+      "date": "2026-04-23",
+      "title": "cline / cline",
+      "source": "github"
+    },
+    "90f64c9a0e96180e": {
+      "date": "2026-04-23",
+      "title": "microsoft / onnxruntime",
+      "source": "github"
+    },
+    "1bcf0237559db521": {
+      "date": "2026-04-23",
+      "title": "mksglu / context-mode",
+      "source": "github"
+    },
+    "7344796a1c663646": {
+      "date": "2026-04-23",
+      "title": "coreyhaines31 / marketingskills",
+      "source": "github"
+    },
+    "acd1f028b71176ba": {
+      "date": "2026-04-23",
+      "title": "chiphuyen / aie-book",
+      "source": "github"
     }
   }
 }
