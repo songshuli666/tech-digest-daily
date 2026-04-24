@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-23T23:29:35.947576",
+  "last_updated": "2026-04-24T23:23:29.891226",
   "sent_items": {
-    "6eae6031a4140bbd": {
-      "date": "2026-03-24",
-      "title": "Flux",
-      "source": "producthunt"
-    },
-    "1601998fdfebaa7a": {
-      "date": "2026-03-24",
-      "title": "What The Duck!",
-      "source": "producthunt"
-    },
-    "d35143ead8ff880d": {
-      "date": "2026-03-24",
-      "title": "Navox Network",
-      "source": "producthunt"
-    },
-    "81ee6caf9a9778f7": {
-      "date": "2026-03-24",
-      "title": "LelaAI",
-      "source": "producthunt"
-    },
-    "0b122e50ae4c61bf": {
-      "date": "2026-03-24",
-      "title": "TypeScript 6.0",
-      "source": "producthunt"
-    },
-    "eca863eb653dad16": {
-      "date": "2026-03-24",
-      "title": "imgcmd",
-      "source": "producthunt"
-    },
-    "a32f17700868e1ec": {
-      "date": "2026-03-24",
-      "title": "Drift",
-      "source": "producthunt"
-    },
-    "6b9751c30690b678": {
-      "date": "2026-03-24",
-      "title": "Cekura",
-      "source": "producthunt"
-    },
-    "409812603e568aea": {
-      "date": "2026-03-24",
-      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-      "source": "hackernews"
-    },
-    "388c33cda9b563ef": {
-      "date": "2026-03-24",
-      "title": "Apple Business",
-      "source": "hackernews"
-    },
-    "4cb3a132db311572": {
-      "date": "2026-03-24",
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "source": "hackernews"
-    },
-    "54e1a81b32edfae4": {
-      "date": "2026-03-24",
-      "title": "Arm AGI CPU",
-      "source": "hackernews"
-    },
-    "378648c23452a1e4": {
-      "date": "2026-03-24",
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "source": "hackernews"
-    },
-    "f4b3ff08e1294e09": {
-      "date": "2026-03-24",
-      "title": "Hypothesis, Antithesis, synthesis",
-      "source": "hackernews"
-    },
-    "985455d52654e6f2": {
-      "date": "2026-03-24",
-      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "source": "hackernews"
-    },
-    "0fe599934ce7271a": {
-      "date": "2026-03-24",
-      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
-      "source": "hackernews"
-    },
-    "9326329d42304cfe": {
-      "date": "2026-03-24",
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "source": "hackernews"
-    },
-    "af10af4ccc2d020b": {
-      "date": "2026-03-24",
-      "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "source": "hackernews"
-    },
-    "f3ea32c160be052c": {
-      "date": "2026-03-24",
-      "title": "pascalorg / editor",
-      "source": "github"
-    },
-    "c48c82e47f720318": {
-      "date": "2026-03-24",
-      "title": "supermemoryai / supermemory",
-      "source": "github"
-    },
-    "cb3eddfe11b539d1": {
-      "date": "2026-03-24",
-      "title": "mvanhorn / last30days-skill",
-      "source": "github"
-    },
-    "bd3bf3d1dd983ec0": {
-      "date": "2026-03-24",
-      "title": "The Ultimate Job Finding-Management Tool",
-      "source": "devto"
-    },
-    "bd0583108f22bdee": {
-      "date": "2026-03-24",
-      "title": "Check Up with Each Other",
-      "source": "devto"
-    },
-    "cdd919fdbaa46a2d": {
-      "date": "2026-03-24",
-      "title": "AI Writes Code. You Own Quality.",
-      "source": "devto"
-    },
-    "26c5733b7371343b": {
-      "date": "2026-03-24",
-      "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-      "source": "devto"
-    },
-    "456a23c90883a184": {
-      "date": "2026-03-24",
-      "title": "Implementing a RAG system: Crawl",
-      "source": "devto"
-    },
-    "f02d7b402098a2c6": {
-      "date": "2026-03-24",
-      "title": "Construí um gerador de playlists no Spotify com Claude",
-      "source": "devto"
-    },
-    "83570676fc227ee0": {
-      "date": "2026-03-24",
-      "title": "Deploying AG-UI Agents to Production with Amazon Bedrock AgentCore",
-      "source": "devto"
-    },
-    "dca7ea36b09c9947": {
-      "date": "2026-03-24",
-      "title": "From Engineering Floor to App Store: What 10 Years as a Manufacturing Engineer Taught Me About Build",
-      "source": "devto"
-    },
-    "eca975f17b121c8b": {
-      "date": "2026-03-24",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "3f642d00e5c76fd3": {
-      "date": "2026-03-24",
-      "title": "Why Purging Nginx Cache Is Only Half the Job (And How I Built the Other Half)",
-      "source": "devto"
-    },
     "8c6e1536e32043bd": {
       "date": "2026-03-25",
       "title": "My astrophotography in the movie Project Hail Mary",
@@ -4830,6 +4675,176 @@
     "acd1f028b71176ba": {
       "date": "2026-04-23",
       "title": "chiphuyen / aie-book",
+      "source": "github"
+    },
+    "f150efc88db11783": {
+      "date": "2026-04-24",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "source": "hackernews"
+    },
+    "0a76a3c545cda962": {
+      "date": "2026-04-24",
+      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "source": "hackernews"
+    },
+    "8fa0ef48ec61a83a": {
+      "date": "2026-04-24",
+      "title": "Google Plans to Invest Up to $40B in Anthropic",
+      "source": "hackernews"
+    },
+    "4430dcd23dc9fb0c": {
+      "date": "2026-04-24",
+      "title": "The Classic American Diner",
+      "source": "hackernews"
+    },
+    "7df92c1c003fedbb": {
+      "date": "2026-04-24",
+      "title": "My audio interface has SSH enabled by default",
+      "source": "hackernews"
+    },
+    "5a3ec0272fff7ac4": {
+      "date": "2026-04-24",
+      "title": "Email could have been X.400 times better",
+      "source": "hackernews"
+    },
+    "bf3da348fb36fb84": {
+      "date": "2026-04-24",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "source": "hackernews"
+    },
+    "82db1db44570ab35": {
+      "date": "2026-04-24",
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "source": "hackernews"
+    },
+    "df40e0e4eaf8fcc9": {
+      "date": "2026-04-24",
+      "title": "Google Flow Music",
+      "source": "hackernews"
+    },
+    "03c5f103d962749e": {
+      "date": "2026-04-24",
+      "title": "Show HN: I've built a nice home server OS",
+      "source": "hackernews"
+    },
+    "74ca9d7a473cb1c3": {
+      "date": "2026-04-24",
+      "title": "Mozart Studio 1.0",
+      "source": "producthunt"
+    },
+    "17f5c30755b003b6": {
+      "date": "2026-04-24",
+      "title": "Spira AI",
+      "source": "producthunt"
+    },
+    "8aa4b6a98bfe54b3": {
+      "date": "2026-04-24",
+      "title": "NotchNest AI",
+      "source": "producthunt"
+    },
+    "3c62938acbf7e3b5": {
+      "date": "2026-04-24",
+      "title": "Ask Product Hunt AI",
+      "source": "producthunt"
+    },
+    "ddde8478eede37b4": {
+      "date": "2026-04-24",
+      "title": "DeepSeek-V4",
+      "source": "producthunt"
+    },
+    "6f18a8b632f8c0b5": {
+      "date": "2026-04-24",
+      "title": "Nordcraft 2.0",
+      "source": "producthunt"
+    },
+    "1684347fc5d54a59": {
+      "date": "2026-04-24",
+      "title": "Codex 3.0 by OpenAI",
+      "source": "producthunt"
+    },
+    "a2f6b65664fa70a5": {
+      "date": "2026-04-24",
+      "title": "Your Name in Landsat 🛰️",
+      "source": "producthunt"
+    },
+    "b49fb8e41d880c27": {
+      "date": "2026-04-24",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "3d924b7d71a39cb7": {
+      "date": "2026-04-24",
+      "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announc",
+      "source": "devto"
+    },
+    "541c2a6435bf918d": {
+      "date": "2026-04-24",
+      "title": "I Used to Love Coding. Now I Just Prompt.",
+      "source": "devto"
+    },
+    "1f383c8e4087206b": {
+      "date": "2026-04-24",
+      "title": "EasyPollVote [Dev Log #3]",
+      "source": "devto"
+    },
+    "54ff723566b63a07": {
+      "date": "2026-04-24",
+      "title": "A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions",
+      "source": "devto"
+    },
+    "f2002d0a30679247": {
+      "date": "2026-04-24",
+      "title": "How I learn in the age of Ai coding",
+      "source": "devto"
+    },
+    "fa6ca3e1d2b40c53": {
+      "date": "2026-04-24",
+      "title": "Correlation-Aware Memory Search: How I Taught OpenClaw to Remember What Matters",
+      "source": "devto"
+    },
+    "18335fd4c8964967": {
+      "date": "2026-04-24",
+      "title": "ClawSec: Turn OpenClaw Into an Offensive Recon Assistant via Telegram",
+      "source": "devto"
+    },
+    "d1371217c69ca170": {
+      "date": "2026-04-24",
+      "title": "I'm 17, Built a Devtool Solo, and Here's Everything That Almost Killed It",
+      "source": "devto"
+    },
+    "9f6b3c80f7c94d1e": {
+      "date": "2026-04-24",
+      "title": "A Stitch at a time",
+      "source": "devto"
+    },
+    "6920173d65fd847a": {
+      "date": "2026-04-24",
+      "title": "google / osv-scanner",
+      "source": "github"
+    },
+    "6fb08428e288194e": {
+      "date": "2026-04-24",
+      "title": "PostHog / posthog",
+      "source": "github"
+    },
+    "494d19bddf316eb5": {
+      "date": "2026-04-24",
+      "title": "dani-garcia / vaultwarden",
+      "source": "github"
+    },
+    "bcfb7e936799fa98": {
+      "date": "2026-04-24",
+      "title": "codecrafters-io / build-your-own-x",
+      "source": "github"
+    },
+    "2bf7c3562fa2aa94": {
+      "date": "2026-04-24",
+      "title": "deepseek-ai / DeepEP",
+      "source": "github"
+    },
+    "2a66032edb30be4e": {
+      "date": "2026-04-24",
+      "title": "microsoft / typescript-go",
       "source": "github"
     }
   }
