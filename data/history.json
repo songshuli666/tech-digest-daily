@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-24T23:23:29.891226",
+  "last_updated": "2026-04-25T23:10:22.772626",
   "sent_items": {
-    "8c6e1536e32043bd": {
-      "date": "2026-03-25",
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "source": "hackernews"
-    },
-    "fd40b72e2a29edba": {
-      "date": "2026-03-25",
-      "title": "The EU still wants to scan  your private messages and photos",
-      "source": "hackernews"
-    },
-    "fb42f84165c9b340": {
-      "date": "2026-03-25",
-      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
-      "source": "hackernews"
-    },
-    "0898a31dce5a987d": {
-      "date": "2026-03-25",
-      "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-      "source": "hackernews"
-    },
-    "b8ccf1d0a47ec968": {
-      "date": "2026-03-25",
-      "title": "ARC-AGI-3",
-      "source": "hackernews"
-    },
-    "ac1a06a44a910ba6": {
-      "date": "2026-03-25",
-      "title": "Quantization from the Ground Up",
-      "source": "hackernews"
-    },
-    "3b414c87822711af": {
-      "date": "2026-03-25",
-      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "source": "hackernews"
-    },
-    "e9c9f3acab4a41ad": {
-      "date": "2026-03-25",
-      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-      "source": "hackernews"
-    },
-    "64d7a7514c8eb5f6": {
-      "date": "2026-03-25",
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "source": "hackernews"
-    },
-    "46f277e05bfd1cce": {
-      "date": "2026-03-25",
-      "title": "My DIY FPGA board can run Quake II",
-      "source": "hackernews"
-    },
-    "c1e07b347c33f152": {
-      "date": "2026-03-25",
-      "title": "CronBox",
-      "source": "producthunt"
-    },
-    "145e005ec8012361": {
-      "date": "2026-03-25",
-      "title": "Uni-1 by Luma",
-      "source": "producthunt"
-    },
-    "f788458cd1c6dafa": {
-      "date": "2026-03-25",
-      "title": "Magine",
-      "source": "producthunt"
-    },
-    "29663c10143b47e3": {
-      "date": "2026-03-25",
-      "title": "Descent",
-      "source": "producthunt"
-    },
-    "c704940f4b984839": {
-      "date": "2026-03-25",
-      "title": "agumbe.dev",
-      "source": "producthunt"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-03-25",
-      "title": "Basedash Insights",
-      "source": "producthunt"
-    },
-    "badc4c54c91f8f56": {
-      "date": "2026-03-25",
-      "title": "Axra",
-      "source": "producthunt"
-    },
-    "84bed60e783adb35": {
-      "date": "2026-03-25",
-      "title": "Pendium",
-      "source": "producthunt"
-    },
-    "6964616d3db41fdb": {
-      "date": "2026-03-25",
-      "title": "your agent can think. it can't remember.",
-      "source": "devto"
-    },
-    "149c1fec08ae0d5a": {
-      "date": "2026-03-25",
-      "title": "Why hiring junior developers pays off more than you think (I’ve lived it firsthand)",
-      "source": "devto"
-    },
-    "9f88a4c3b7fb0347": {
-      "date": "2026-03-25",
-      "title": "NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠",
-      "source": "devto"
-    },
-    "3963a290bcb29638": {
-      "date": "2026-03-25",
-      "title": "I Built a Clipboard Manager for Kali Linux — And Learned Way More Than Expected",
-      "source": "devto"
-    },
-    "f6e74712a6fce5aa": {
-      "date": "2026-03-25",
-      "title": "Vim + Markdown = Writer's Heaven",
-      "source": "devto"
-    },
-    "67b6e2e1a0a081b9": {
-      "date": "2026-03-25",
-      "title": "Run Away From Work — Stopped Using React for the Game Loop",
-      "source": "devto"
-    },
-    "518ee64dab6e755d": {
-      "date": "2026-03-25",
-      "title": "Free LocalStack Alternative — 20 AWS Services and counting",
-      "source": "devto"
-    },
-    "c36bdd419c00481e": {
-      "date": "2026-03-25",
-      "title": "Integrating Vuetify v4 with TailwindCSS v4 in a Vite project",
-      "source": "devto"
-    },
-    "b982ec1617820785": {
-      "date": "2026-03-25",
-      "title": "Zero-copy protobuf and ConnectRPC for Rust",
-      "source": "devto"
-    },
-    "4c8254f46aa5da2a": {
-      "date": "2026-03-25",
-      "title": "When to Use Multi-Agent Systems (And When Not To)",
-      "source": "devto"
-    },
-    "04c2ea756fd7e571": {
-      "date": "2026-03-25",
-      "title": "BerriAI / litellm",
-      "source": "github"
-    },
-    "5262a644f99afae7": {
-      "date": "2026-03-25",
-      "title": "letta-ai / claude-subconscious",
-      "source": "github"
-    },
-    "11576ef07d08cff8": {
-      "date": "2026-03-25",
-      "title": "usestrix / strix",
-      "source": "github"
-    },
     "021a2eee014273dc": {
       "date": "2026-03-26",
       "title": "Moving from GitHub to Codeberg, for lazy people",
@@ -4845,6 +4690,166 @@
     "2a66032edb30be4e": {
       "date": "2026-04-24",
       "title": "microsoft / typescript-go",
+      "source": "github"
+    },
+    "64efac56d0e7f28d": {
+      "date": "2026-04-25",
+      "title": "Inrō AI",
+      "source": "producthunt"
+    },
+    "7b11b8cc43dcb4ac": {
+      "date": "2026-04-25",
+      "title": "Grok Voice Think Fast 1.0",
+      "source": "producthunt"
+    },
+    "9bef234e54c2b464": {
+      "date": "2026-04-25",
+      "title": "Clawdi",
+      "source": "producthunt"
+    },
+    "6ea4688f97690891": {
+      "date": "2026-04-25",
+      "title": "MiMo-V2.5 Voice",
+      "source": "producthunt"
+    },
+    "5a606d0df7df2217": {
+      "date": "2026-04-25",
+      "title": "Euphony",
+      "source": "producthunt"
+    },
+    "8f34c87d49022cb1": {
+      "date": "2026-04-25",
+      "title": "Yutori Delegate",
+      "source": "producthunt"
+    },
+    "72a709e7446e7026": {
+      "date": "2026-04-25",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "source": "hackernews"
+    },
+    "63a34d0b5503fa4d": {
+      "date": "2026-04-25",
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "source": "hackernews"
+    },
+    "37258a3ea5db49b8": {
+      "date": "2026-04-25",
+      "title": "The Free Universal Construction Kit",
+      "source": "hackernews"
+    },
+    "df661b1a7a023882": {
+      "date": "2026-04-25",
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "source": "hackernews"
+    },
+    "f4e2f952a4f40d47": {
+      "date": "2026-04-25",
+      "title": "What async promised and what it delivered",
+      "source": "hackernews"
+    },
+    "acbebbc3f28604fe": {
+      "date": "2026-04-25",
+      "title": "Desmond Morris has died",
+      "source": "hackernews"
+    },
+    "675061097227a1cc": {
+      "date": "2026-04-25",
+      "title": "Simulacrum of Knowledge Work",
+      "source": "hackernews"
+    },
+    "5557f6d2136b5f5a": {
+      "date": "2026-04-25",
+      "title": "Trump fires all 24 members of the U.S. National Science Foundation",
+      "source": "hackernews"
+    },
+    "87ac0e05e07b7e70": {
+      "date": "2026-04-25",
+      "title": "Mine, an IDE for Coalton and Common Lisp",
+      "source": "hackernews"
+    },
+    "1057793b6728568b": {
+      "date": "2026-04-25",
+      "title": "How Hard Is It to Open a File?",
+      "source": "hackernews"
+    },
+    "478e3bebb8810722": {
+      "date": "2026-04-25",
+      "title": "I Don’t Make Slides Anymore. My Agent and Entire Do It for Me.",
+      "source": "devto"
+    },
+    "9b7e5297399500e7": {
+      "date": "2026-04-25",
+      "title": "Google Cloud NEXT '26: A FULL STACK Developer’s Take on Cloud Run & AI",
+      "source": "devto"
+    },
+    "4013dfa38b4ef21a": {
+      "date": "2026-04-25",
+      "title": "I Document Like a Professional at Work. My Side Projects Are a Disaster.",
+      "source": "devto"
+    },
+    "795fb9524fbacd66": {
+      "date": "2026-04-25",
+      "title": "Introducing Excaliclaw: A Skill for OpenClaw to Generate Excalidraw Diagrams",
+      "source": "devto"
+    },
+    "b7b8453d9062715d": {
+      "date": "2026-04-25",
+      "title": "Building a Universal Drafts System in a VS Code Extension — Part 1: Types & Storage",
+      "source": "devto"
+    },
+    "cae031586d21b275": {
+      "date": "2026-04-25",
+      "title": "Scaling WebSockets to 100k Connections: Lessons from a Real-Time Cricket App",
+      "source": "devto"
+    },
+    "147f1f15bc7e4f3e": {
+      "date": "2026-04-25",
+      "title": "Learn Kubernetes the Manga Way",
+      "source": "devto"
+    },
+    "c71164718b85a750": {
+      "date": "2026-04-25",
+      "title": "Cost-engineering an \"AI Generate\" button in a freemium product (from $0.08 to $0.029 per click)",
+      "source": "devto"
+    },
+    "9d6e6aac2d01ee1b": {
+      "date": "2026-04-25",
+      "title": "A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score",
+      "source": "devto"
+    },
+    "160587029b7b1689": {
+      "date": "2026-04-25",
+      "title": "OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free",
+      "source": "devto"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-04-25",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "95ae7120d6074efd": {
+      "date": "2026-04-25",
+      "title": "davila7 / claude-code-templates",
+      "source": "github"
+    },
+    "009edd14a798285c": {
+      "date": "2026-04-25",
+      "title": "RooCodeInc / Roo-Code",
+      "source": "github"
+    },
+    "a1b5c1ac45929c1b": {
+      "date": "2026-04-25",
+      "title": "CJackHwang / ds2api",
+      "source": "github"
+    },
+    "df0f3a90ffa47273": {
+      "date": "2026-04-25",
+      "title": "Universal-Commerce-Protocol / ucp",
+      "source": "github"
+    },
+    "bac93a48d87ead7c": {
+      "date": "2026-04-25",
+      "title": "ComposioHQ / awesome-codex-skills",
       "source": "github"
     }
   }
