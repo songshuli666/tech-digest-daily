@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-25T23:10:22.772626",
+  "last_updated": "2026-04-26T23:23:20.408342",
   "sent_items": {
-    "021a2eee014273dc": {
-      "date": "2026-03-26",
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "source": "hackernews"
-    },
-    "a868609eddd20d67": {
-      "date": "2026-03-26",
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "source": "hackernews"
-    },
-    "f197b20ec5971aaf": {
-      "date": "2026-03-26",
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "source": "hackernews"
-    },
-    "07890c00fed434ba": {
-      "date": "2026-03-26",
-      "title": "DOOM Over DNS",
-      "source": "hackernews"
-    },
-    "a3a304d3103a55ca": {
-      "date": "2026-03-26",
-      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-      "source": "hackernews"
-    },
-    "7777e8c321414356": {
-      "date": "2026-03-26",
-      "title": "CERN to host a new phase of Open Research Europe",
-      "source": "hackernews"
-    },
-    "ac0286305141eec7": {
-      "date": "2026-03-26",
-      "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
-      "source": "hackernews"
-    },
-    "d268652acc8d89da": {
-      "date": "2026-03-26",
-      "title": "Deploytarot.com – tarot card reading for deployments",
-      "source": "hackernews"
-    },
-    "f34a9bde0fbf2e3a": {
-      "date": "2026-03-26",
-      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
-      "source": "hackernews"
-    },
-    "da90e989755a54bf": {
-      "date": "2026-03-26",
-      "title": "Using FireWire on a Raspberry Pi",
-      "source": "hackernews"
-    },
-    "98f039a27d7b34ee": {
-      "date": "2026-03-26",
-      "title": "Appoval",
-      "source": "producthunt"
-    },
-    "1e06dd329e70f608": {
-      "date": "2026-03-26",
-      "title": "Zeus",
-      "source": "producthunt"
-    },
-    "5d47211db84d9262": {
-      "date": "2026-03-26",
-      "title": "Trivia by Typito AI",
-      "source": "producthunt"
-    },
-    "8e5f71284335ea58": {
-      "date": "2026-03-26",
-      "title": "Anvil",
-      "source": "producthunt"
-    },
-    "e62d8633f69865ba": {
-      "date": "2026-03-26",
-      "title": "Jentic Mini",
-      "source": "producthunt"
-    },
-    "b719cfa4c77869f0": {
-      "date": "2026-03-26",
-      "title": "PIO",
-      "source": "producthunt"
-    },
-    "3ccf0fb4584706f4": {
-      "date": "2026-03-26",
-      "title": "Luzo",
-      "source": "producthunt"
-    },
-    "8b119ab7154c93ec": {
-      "date": "2026-03-26",
-      "title": "Eron",
-      "source": "producthunt"
-    },
-    "ff81ab010fda3cfc": {
-      "date": "2026-03-26",
-      "title": "Yeachan-Heo / oh-my-claudecode",
-      "source": "github"
-    },
-    "1556da33724cda2d": {
-      "date": "2026-03-26",
-      "title": "virattt / dexter",
-      "source": "github"
-    },
-    "ec0d04fb3c57da92": {
-      "date": "2026-03-26",
-      "title": "Vaibhavs10 / insanely-fast-whisper",
-      "source": "github"
-    },
-    "4e4265489a81fda2": {
-      "date": "2026-03-26",
-      "title": "twentyhq / twenty",
-      "source": "github"
-    },
-    "0bc7a4fbd261375a": {
-      "date": "2026-03-26",
-      "title": "datalab-to / chandra",
-      "source": "github"
-    },
-    "4c59754b01cc7993": {
-      "date": "2026-03-26",
-      "title": "How I Almost Burned Out Doing Everything “Right”",
-      "source": "devto"
-    },
-    "f92f8fb64359ac11": {
-      "date": "2026-03-26",
-      "title": "The Small Details That Make a Website Feel Finished (And Quietly Improve Accessibility, Performance,",
-      "source": "devto"
-    },
-    "74e5945ef81d2959": {
-      "date": "2026-03-26",
-      "title": "The data engineer's Cortex Code cheat sheet",
-      "source": "devto"
-    },
-    "e4213bca44aaf308": {
-      "date": "2026-03-26",
-      "title": "Speed vs smarts for coding agents?",
-      "source": "devto"
-    },
-    "8780e002598b68ee": {
-      "date": "2026-03-26",
-      "title": "I built a file transfer tool that can’t spy on you even if it wanted to",
-      "source": "devto"
-    },
-    "c99e6971de6065cf": {
-      "date": "2026-03-26",
-      "title": "I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy",
-      "source": "devto"
-    },
-    "2d4931834a57ae57": {
-      "date": "2026-03-26",
-      "title": "The Future of Coding is Communication, Not Just Code",
-      "source": "devto"
-    },
-    "8f1623a27e949aee": {
-      "date": "2026-03-26",
-      "title": "The Hackers Who Tracked My Sleep Cycle",
-      "source": "devto"
-    },
-    "584bf496281edb6a": {
-      "date": "2026-03-26",
-      "title": "The Software Architect Elevator",
-      "source": "devto"
-    },
-    "948519f270b523e7": {
-      "date": "2026-03-26",
-      "title": "The Backyard Quarry, Part 2: Designing a Schema for Physical Objects",
-      "source": "devto"
-    },
     "47b19dc2f23a85bd": {
       "date": "2026-03-27",
       "title": "Anatomy of the .claude/ folder",
@@ -4851,6 +4686,151 @@
       "date": "2026-04-25",
       "title": "ComposioHQ / awesome-codex-skills",
       "source": "github"
+    },
+    "18d64ced60e50aea": {
+      "date": "2026-04-26",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "source": "hackernews"
+    },
+    "8b3cee7d36dd7e77": {
+      "date": "2026-04-26",
+      "title": "AI should elevate your thinking, not replace it",
+      "source": "hackernews"
+    },
+    "0c79a4c23213366f": {
+      "date": "2026-04-26",
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "source": "hackernews"
+    },
+    "04230962860b2238": {
+      "date": "2026-04-26",
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "source": "hackernews"
+    },
+    "95c3f56b9513deef": {
+      "date": "2026-04-26",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "source": "hackernews"
+    },
+    "6a9a631ec8c6b98e": {
+      "date": "2026-04-26",
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "source": "hackernews"
+    },
+    "c378b4fc13c7da03": {
+      "date": "2026-04-26",
+      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+      "source": "hackernews"
+    },
+    "e56c45faf4ba978f": {
+      "date": "2026-04-26",
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "source": "hackernews"
+    },
+    "2ef9867e79bf89be": {
+      "date": "2026-04-26",
+      "title": "MoQ Boy",
+      "source": "hackernews"
+    },
+    "c6c35b52043ff7d2": {
+      "date": "2026-04-26",
+      "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
+      "source": "hackernews"
+    },
+    "0179535a49fcd8b3": {
+      "date": "2026-04-26",
+      "title": "Edgee Team",
+      "source": "producthunt"
+    },
+    "bd1f114961a7f921": {
+      "date": "2026-04-26",
+      "title": "QuickCompare by Trismik",
+      "source": "producthunt"
+    },
+    "dc358f611f426d8a": {
+      "date": "2026-04-26",
+      "title": "Claude Connectors",
+      "source": "producthunt"
+    },
+    "19eb48bacc26b336": {
+      "date": "2026-04-26",
+      "title": "Pica",
+      "source": "producthunt"
+    },
+    "d44331a1971df5c9": {
+      "date": "2026-04-26",
+      "title": "trycua / cua",
+      "source": "github"
+    },
+    "c77ce24ce71f68a5": {
+      "date": "2026-04-26",
+      "title": "gastownhall / beads",
+      "source": "github"
+    },
+    "bf53335606249c5e": {
+      "date": "2026-04-26",
+      "title": "curl / curl",
+      "source": "github"
+    },
+    "33cf411d1b08b0fd": {
+      "date": "2026-04-26",
+      "title": "home-assistant / core",
+      "source": "github"
+    },
+    "0bd21c2cf11fc945": {
+      "date": "2026-04-26",
+      "title": "openclaw / openclaw",
+      "source": "github"
+    },
+    "2ae37e7dcc70b9a3": {
+      "date": "2026-04-26",
+      "title": "Tech Debt Didn't Start with AI",
+      "source": "devto"
+    },
+    "19461e859a1d58a5": {
+      "date": "2026-04-26",
+      "title": "Writing Testable Code: Common Anti-Patterns and How to Fix Them",
+      "source": "devto"
+    },
+    "a8e5aad6c4d94873": {
+      "date": "2026-04-26",
+      "title": "From CLI to AI: The Evolution of How Humans Talk to Software",
+      "source": "devto"
+    },
+    "4a4e1a1764dc2795": {
+      "date": "2026-04-26",
+      "title": "The Spot Instance That Killed Our Payments Service (And Why It Took Us 47 Minutes to Find It)",
+      "source": "devto"
+    },
+    "ae2028dfc55d53a6": {
+      "date": "2026-04-26",
+      "title": "How to Create an EventBridge Scheduler with ActionAfterCompletion in CloudFormation",
+      "source": "devto"
+    },
+    "1d291f3d744b9101": {
+      "date": "2026-04-26",
+      "title": "Building a 21-Layer Memory Stack for an AI That Forgets Every 5 Minutes",
+      "source": "devto"
+    },
+    "a36f3ffadd58da14": {
+      "date": "2026-04-26",
+      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
+      "source": "devto"
+    },
+    "e05bc51d470d1579": {
+      "date": "2026-04-26",
+      "title": "Hermes agent: Introduction",
+      "source": "devto"
+    },
+    "af01125cc58bc2ec": {
+      "date": "2026-04-26",
+      "title": "I Tried Building a Money Earning App — Here’s What Actually Happened (No BS)",
+      "source": "devto"
+    },
+    "c69c2f96ffb21c6a": {
+      "date": "2026-04-26",
+      "title": "Cx Dev Log — 2026-04-25",
+      "source": "devto"
     }
   }
 }
