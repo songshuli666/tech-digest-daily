@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-27T23:32:42.306878",
+  "last_updated": "2026-04-28T23:32:48.289782",
   "sent_items": {
-    "2ca49411bd50a9b6": {
-      "date": "2026-03-28",
-      "title": "WordPress Studio CLI",
-      "source": "producthunt"
-    },
-    "dc96485549927085": {
-      "date": "2026-03-28",
-      "title": "Bulk Exporter for Sora",
-      "source": "producthunt"
-    },
-    "30649c28bbd2b2c7": {
-      "date": "2026-03-28",
-      "title": "Glance",
-      "source": "producthunt"
-    },
-    "3f45ff7697a9aa43": {
-      "date": "2026-03-28",
-      "title": "Domscribe",
-      "source": "producthunt"
-    },
-    "ed13a5c76a937c5b": {
-      "date": "2026-03-28",
-      "title": "Lexaclaw",
-      "source": "producthunt"
-    },
-    "ec7ddcc42237bffd": {
-      "date": "2026-03-28",
-      "title": "CrabTalk",
-      "source": "producthunt"
-    },
-    "d72e1176734fcd37": {
-      "date": "2026-03-28",
-      "title": "Aera Browser",
-      "source": "producthunt"
-    },
-    "f6d075d58ad88875": {
-      "date": "2026-03-28",
-      "title": "RepoLens",
-      "source": "producthunt"
-    },
-    "9eada22cf394957c": {
-      "date": "2026-03-28",
-      "title": "Founder of GitLab battles cancer by founding companies",
-      "source": "hackernews"
-    },
-    "6dcb4aa9b9bed7bc": {
-      "date": "2026-03-28",
-      "title": "AI overly affirms users asking for personal advice",
-      "source": "hackernews"
-    },
-    "96bba54b13e6643e": {
-      "date": "2026-03-28",
-      "title": "I decompiled the White House's new app",
-      "source": "hackernews"
-    },
-    "2a3c167b95f8798a": {
-      "date": "2026-03-28",
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "source": "hackernews"
-    },
-    "782dcd099d110bae": {
-      "date": "2026-03-28",
-      "title": "Linux is an interpreter",
-      "source": "hackernews"
-    },
-    "5fbfc651eee63d69": {
-      "date": "2026-03-28",
-      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-      "source": "hackernews"
-    },
-    "9125101bd9963401": {
-      "date": "2026-03-28",
-      "title": "CSS is DOOMed",
-      "source": "hackernews"
-    },
-    "2396aeb519c52631": {
-      "date": "2026-03-28",
-      "title": "The first 40 months of the AI era",
-      "source": "hackernews"
-    },
-    "2fd34db23b534004": {
-      "date": "2026-03-28",
-      "title": "OpenCiv1 – open-source rewrite of Civ1",
-      "source": "hackernews"
-    },
-    "9fc7cac873f2672e": {
-      "date": "2026-03-28",
-      "title": "1929: Inside the Greatest Crash in Wall Street History",
-      "source": "hackernews"
-    },
-    "b582fe704736db1a": {
-      "date": "2026-03-28",
-      "title": "How to use Timberborn 🦫 (yes, the beaver city-building game) as a database 💾",
-      "source": "devto"
-    },
-    "4d50402b22d1d9df": {
-      "date": "2026-03-28",
-      "title": "I Built a Netflix-Style AI App to Study AWS (And It Actually Works)",
-      "source": "devto"
-    },
-    "3f9504ef98d7764c": {
-      "date": "2026-03-28",
-      "title": "I Built an MCP That Publishes Your Blog to Every Platform With One Sentence to Claude",
-      "source": "devto"
-    },
-    "477a19fa07e93565": {
-      "date": "2026-03-28",
-      "title": "Learn the Hard Way First: Why New Developers Should Build Skills Before Leaning on AI",
-      "source": "devto"
-    },
-    "47b82ca1dac27c60": {
-      "date": "2026-03-28",
-      "title": "Will AI Replace Software Developers?",
-      "source": "devto"
-    },
-    "384d4c8dfd6214e8": {
-      "date": "2026-03-28",
-      "title": "Why You Should Start Blogging (Even If Nobody Will Read It)",
-      "source": "devto"
-    },
-    "d5202b17e0ea417b": {
-      "date": "2026-03-28",
-      "title": "You inherited a .NET codebase with zero tests. Now what?",
-      "source": "devto"
-    },
-    "a9808d4957c51971": {
-      "date": "2026-03-28",
-      "title": "I Run 6 AI Agents as My Dev Team — Here's the Architecture That Actually Works",
-      "source": "devto"
-    },
-    "80bf7624b224f160": {
-      "date": "2026-03-28",
-      "title": "How AI workloads changed the queue I was already building",
-      "source": "devto"
-    },
-    "fbbb6b042a2ae65b": {
-      "date": "2026-03-28",
-      "title": "Taming the Glucose Spike: Predicting Postprandial Peaks with Transformers and PyTorch",
-      "source": "devto"
-    },
-    "39fd78f02e666b3c": {
-      "date": "2026-03-28",
-      "title": "apache / superset",
-      "source": "github"
-    },
     "27ada779b4ff4a2d": {
       "date": "2026-03-29",
       "title": "Pensieve",
@@ -4821,6 +4676,171 @@
       "date": "2026-04-27",
       "title": "The Context Window Lie: Why Your LLM Remembers Nothing",
       "source": "devto"
+    },
+    "d3c2115eb12bf841": {
+      "date": "2026-04-28",
+      "title": "Kinhub",
+      "source": "producthunt"
+    },
+    "2d3b1f28d574aa69": {
+      "date": "2026-04-28",
+      "title": "Flitch",
+      "source": "producthunt"
+    },
+    "fded6f1cc78259c3": {
+      "date": "2026-04-28",
+      "title": "OrcaSheets AI Reports",
+      "source": "producthunt"
+    },
+    "2efbd17cbb96702c": {
+      "date": "2026-04-28",
+      "title": "Lovable mobile app",
+      "source": "producthunt"
+    },
+    "73d4e24c5aa4bfb5": {
+      "date": "2026-04-28",
+      "title": "Devin for Terminal",
+      "source": "producthunt"
+    },
+    "74b8a7d92c27247c": {
+      "date": "2026-04-28",
+      "title": "Blueprint",
+      "source": "producthunt"
+    },
+    "6be0d351d8416918": {
+      "date": "2026-04-28",
+      "title": "Curflow",
+      "source": "producthunt"
+    },
+    "da79dba0665da59f": {
+      "date": "2026-04-28",
+      "title": "SimCam",
+      "source": "producthunt"
+    },
+    "89eae6eebb45b8a1": {
+      "date": "2026-04-28",
+      "title": "Ghostty is leaving GitHub",
+      "source": "hackernews"
+    },
+    "d0dbba84b6a1dfd4": {
+      "date": "2026-04-28",
+      "title": "Warp is now Open-Source",
+      "source": "hackernews"
+    },
+    "e435084241412a02": {
+      "date": "2026-04-28",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "source": "hackernews"
+    },
+    "bdde8eb0d4c4f359": {
+      "date": "2026-04-28",
+      "title": "Before GitHub",
+      "source": "hackernews"
+    },
+    "37e09e62858164d4": {
+      "date": "2026-04-28",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "source": "hackernews"
+    },
+    "045deb17ed3f9fef": {
+      "date": "2026-04-28",
+      "title": "Intel Arc Pro B70 Review",
+      "source": "hackernews"
+    },
+    "e92d46567488dd25": {
+      "date": "2026-04-28",
+      "title": "CJIT: C, Just in Time",
+      "source": "hackernews"
+    },
+    "ef03c896e6c422a2": {
+      "date": "2026-04-28",
+      "title": "I won a championship that doesn't exist",
+      "source": "hackernews"
+    },
+    "149ccd7bb36757a0": {
+      "date": "2026-04-28",
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "source": "hackernews"
+    },
+    "a3aa9d1a49118f1c": {
+      "date": "2026-04-28",
+      "title": "Carrot Disclosure: Forgejo",
+      "source": "hackernews"
+    },
+    "77a89bd7a868e2d4": {
+      "date": "2026-04-28",
+      "title": "Are We Using AI at the Wrong Scale?",
+      "source": "devto"
+    },
+    "88f898e10292002b": {
+      "date": "2026-04-28",
+      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
+      "source": "devto"
+    },
+    "57f7dca6094d6ff9": {
+      "date": "2026-04-28",
+      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
+      "source": "devto"
+    },
+    "0032175cb8c1f978": {
+      "date": "2026-04-28",
+      "title": "Weekly Dev Log 2026-W03",
+      "source": "devto"
+    },
+    "7811951f763c704e": {
+      "date": "2026-04-28",
+      "title": "🗓️ Monthly Dev Report: April 2026",
+      "source": "devto"
+    },
+    "0b604e59e5bba292": {
+      "date": "2026-04-28",
+      "title": "Founder Patterns That Kill a Launch – And What AI Has To Do With It",
+      "source": "devto"
+    },
+    "7fcb22f2a8052e04": {
+      "date": "2026-04-28",
+      "title": "I built an open-source MCP server that lints a CV against 5 real ATS parsers",
+      "source": "devto"
+    },
+    "957e9f117693105f": {
+      "date": "2026-04-28",
+      "title": "I Stopped Fighting WordPress… So I Rebuilt How I Use It",
+      "source": "devto"
+    },
+    "5a566dc8d1fe842e": {
+      "date": "2026-04-28",
+      "title": "How I Built Inline Disable Comments for a Go Markdown Linter",
+      "source": "devto"
+    },
+    "93bbb6b8229734be": {
+      "date": "2026-04-28",
+      "title": "SHIFT: The Third Time I Tried Convergence",
+      "source": "devto"
+    },
+    "104b57e9a4316877": {
+      "date": "2026-04-28",
+      "title": "microsoft / VibeVoice",
+      "source": "github"
+    },
+    "313f5b1e67ddc488": {
+      "date": "2026-04-28",
+      "title": "HunxByts / GhostTrack",
+      "source": "github"
+    },
+    "a88d93bba138f9f3": {
+      "date": "2026-04-28",
+      "title": "fspecii / ace-step-ui",
+      "source": "github"
+    },
+    "3e2033fc37ad3f11": {
+      "date": "2026-04-28",
+      "title": "EbookFoundation / free-programming-books",
+      "source": "github"
+    },
+    "f8a83a183835a788": {
+      "date": "2026-04-28",
+      "title": "iamgio / quarkdown",
+      "source": "github"
     }
   }
 }
