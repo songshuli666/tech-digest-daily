@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-29T23:32:37.234553",
+  "last_updated": "2026-04-30T23:31:52.743761",
   "sent_items": {
-    "959c7b48ff3a8fd3": {
-      "date": "2026-03-30",
-      "title": "Bluor AI",
-      "source": "producthunt"
-    },
-    "58912b4276df8ccc": {
-      "date": "2026-03-30",
-      "title": "Invoke",
-      "source": "producthunt"
-    },
-    "2b09e93a8eb00ac5": {
-      "date": "2026-03-30",
-      "title": "Git Blog",
-      "source": "producthunt"
-    },
-    "96818286a84540c5": {
-      "date": "2026-03-30",
-      "title": "dictate.",
-      "source": "producthunt"
-    },
-    "e9f752df0ffb3371": {
-      "date": "2026-03-30",
-      "title": "PopTask",
-      "source": "producthunt"
-    },
-    "be437db9f3765eac": {
-      "date": "2026-03-30",
-      "title": "Diploi",
-      "source": "producthunt"
-    },
-    "471e0c33311161b1": {
-      "date": "2026-03-30",
-      "title": "Blood Sugar Journal",
-      "source": "producthunt"
-    },
-    "31592de3022b48a9": {
-      "date": "2026-03-30",
-      "title": "How to turn anything into a router",
-      "source": "hackernews"
-    },
-    "f1129ed29a9a5d5b": {
-      "date": "2026-03-30",
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "source": "hackernews"
-    },
-    "a187d5aa07e422dd": {
-      "date": "2026-03-30",
-      "title": "Do your own writing",
-      "source": "hackernews"
-    },
-    "1fa6ad496d1a4ca0": {
-      "date": "2026-03-30",
-      "title": "Bird brains (2023)",
-      "source": "hackernews"
-    },
-    "587771ef014d937e": {
-      "date": "2026-03-30",
-      "title": "Cherri – programming language that compiles to an Apple Shortuct",
-      "source": "hackernews"
-    },
-    "c314922ceeef9f26": {
-      "date": "2026-03-30",
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "source": "hackernews"
-    },
-    "aaf976c3041f3f04": {
-      "date": "2026-03-30",
-      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
-      "source": "hackernews"
-    },
-    "9675d983f4140508": {
-      "date": "2026-03-30",
-      "title": "Learn Claude Code by doing, not reading",
-      "source": "hackernews"
-    },
-    "94e669a25a097f0e": {
-      "date": "2026-03-30",
-      "title": "Agents of Chaos",
-      "source": "hackernews"
-    },
-    "c6ab5b9d90c24cfa": {
-      "date": "2026-03-30",
-      "title": "The stealthy startup that pitched brainless human clones",
-      "source": "hackernews"
-    },
-    "e417cda618d2425e": {
-      "date": "2026-03-30",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "16034daf1f011ba5": {
-      "date": "2026-03-30",
-      "title": "What are your goals for the week? #172",
-      "source": "devto"
-    },
-    "2219bef88d6f196a": {
-      "date": "2026-03-30",
-      "title": "CodePen TV secrets",
-      "source": "devto"
-    },
-    "d18477e03206db54": {
-      "date": "2026-03-30",
-      "title": "I Built a Local AI Agent That Audits My Own Articles. It Flagged Every Single One.",
-      "source": "devto"
-    },
-    "d600a6bdde855fe4": {
-      "date": "2026-03-30",
-      "title": "When Debugging Became Belonging: What Nearly 15 Years of Helping Developers Taught Me",
-      "source": "devto"
-    },
-    "38fa62306cc69a9a": {
-      "date": "2026-03-30",
-      "title": "I Built a Piano Trainer That Measures Stability, Not Just Speed",
-      "source": "devto"
-    },
-    "f81d400baaa61d99": {
-      "date": "2026-03-30",
-      "title": "Agents Don't Just Do Unauthorized Things. They Cause Humans to Do Unauthorized Things.",
-      "source": "devto"
-    },
-    "5d9c59001552274b": {
-      "date": "2026-03-30",
-      "title": "NexusTriage: Turning Notion into an Autonomous, Self-Healing System 🧠",
-      "source": "devto"
-    },
-    "40c37259975d86e3": {
-      "date": "2026-03-30",
-      "title": "Keep_AS — The System That Refuses to Let You Miss Opportunities",
-      "source": "devto"
-    },
-    "e10221e97c886566": {
-      "date": "2026-03-30",
-      "title": "Reflective — AI journaling companion built with Notion MCP and Claude",
-      "source": "devto"
-    },
-    "52e5d1d72c1088d2": {
-      "date": "2026-03-30",
-      "title": "freeCodeCamp / freeCodeCamp",
-      "source": "github"
-    },
-    "be490188feb3a8f7": {
-      "date": "2026-03-30",
-      "title": "sherlock-project / sherlock",
-      "source": "github"
-    },
     "e11f5cfd132985cc": {
       "date": "2026-03-31",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
@@ -4845,6 +4700,156 @@
     "a2d25686a0935728": {
       "date": "2026-04-29",
       "title": "Lost-in-the-Middle Is Still Real in 2026 (Even on 1M-Token Models)",
+      "source": "devto"
+    },
+    "d816c844c3a3ce55": {
+      "date": "2026-04-30",
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "source": "hackernews"
+    },
+    "72f6e1d820c597df": {
+      "date": "2026-04-30",
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "source": "hackernews"
+    },
+    "1cfca1f3458065b1": {
+      "date": "2026-04-30",
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "source": "hackernews"
+    },
+    "2fc322e899d50413": {
+      "date": "2026-04-30",
+      "title": "Rivian allows you to disable all internet connectivity",
+      "source": "hackernews"
+    },
+    "ddb1048db9410eac": {
+      "date": "2026-04-30",
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "source": "hackernews"
+    },
+    "e4cdcf5db76ea824": {
+      "date": "2026-04-30",
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "source": "hackernews"
+    },
+    "900ec02ddaac897d": {
+      "date": "2026-04-30",
+      "title": "How an oil refinery works",
+      "source": "hackernews"
+    },
+    "b3ebf3ba58d09596": {
+      "date": "2026-04-30",
+      "title": "I built a Game Boy emulator in F#",
+      "source": "hackernews"
+    },
+    "1ccb0b0aa572bf17": {
+      "date": "2026-04-30",
+      "title": "Opus 4.7 knows the real Kelsey",
+      "source": "hackernews"
+    },
+    "efcd4a4922a842ea": {
+      "date": "2026-04-30",
+      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+      "source": "hackernews"
+    },
+    "f6102647bfb5443b": {
+      "date": "2026-04-30",
+      "title": "KushoAI for Playwright",
+      "source": "producthunt"
+    },
+    "11875ef2863c60fd": {
+      "date": "2026-04-30",
+      "title": "ElevenLabs Agent Templates",
+      "source": "producthunt"
+    },
+    "de0e6d11b04cd2e2": {
+      "date": "2026-04-30",
+      "title": "Crin AI",
+      "source": "producthunt"
+    },
+    "a9bb36c88e355f18": {
+      "date": "2026-04-30",
+      "title": "ElevenMusic",
+      "source": "producthunt"
+    },
+    "c7de720e765ce8e3": {
+      "date": "2026-04-30",
+      "title": "AstroGrid - Universe Engine",
+      "source": "producthunt"
+    },
+    "471b1d2a851d302e": {
+      "date": "2026-04-30",
+      "title": "Wonder",
+      "source": "producthunt"
+    },
+    "cdea4e05756917ed": {
+      "date": "2026-04-30",
+      "title": "Hera Launch",
+      "source": "producthunt"
+    },
+    "4fd1eff88caf3d36": {
+      "date": "2026-04-30",
+      "title": "ghostty-org / ghostty",
+      "source": "github"
+    },
+    "2c2fb0222883697d": {
+      "date": "2026-04-30",
+      "title": "ForrestKnight / open-source-cs",
+      "source": "github"
+    },
+    "4c71ac8bf4b51149": {
+      "date": "2026-04-30",
+      "title": "browserbase / skills",
+      "source": "github"
+    },
+    "e25f93f3d9ac15b2": {
+      "date": "2026-04-30",
+      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
+      "source": "devto"
+    },
+    "68860cd1d5289f7f": {
+      "date": "2026-04-30",
+      "title": "Is Software Development Just a Side Quest? A Jira Story",
+      "source": "devto"
+    },
+    "191e4d8245275231": {
+      "date": "2026-04-30",
+      "title": "Stop Using Your Clipboard to Share Context",
+      "source": "devto"
+    },
+    "3f90167997acc229": {
+      "date": "2026-04-30",
+      "title": "More Accessible Focus Indicators with Compose",
+      "source": "devto"
+    },
+    "2b4b025d485e88fc": {
+      "date": "2026-04-30",
+      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
+      "source": "devto"
+    },
+    "09022eb45f4f9afd": {
+      "date": "2026-04-30",
+      "title": "Terminal Art",
+      "source": "devto"
+    },
+    "913cbf7200501954": {
+      "date": "2026-04-30",
+      "title": "Three Mastodon issues because of Cloudflare Bot protection",
+      "source": "devto"
+    },
+    "839d0cadfb8c3bbd": {
+      "date": "2026-04-30",
+      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
+      "source": "devto"
+    },
+    "bd3ac58a22c3fdd4": {
+      "date": "2026-04-30",
+      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
+      "source": "devto"
+    },
+    "485835d8f1680d58": {
+      "date": "2026-04-30",
+      "title": "I returned to Gamedev, but I started hating net tech, even before I created a multiplayer game.",
       "source": "devto"
     }
   }
