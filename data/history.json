@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-04-30T23:31:52.743761",
+  "last_updated": "2026-05-01T23:32:53.553032",
   "sent_items": {
-    "e11f5cfd132985cc": {
-      "date": "2026-03-31",
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "source": "hackernews"
-    },
-    "9ff3618669fd217a": {
-      "date": "2026-03-31",
-      "title": "Open source CAD in the browser (Solvespace)",
-      "source": "hackernews"
-    },
-    "60b6b374768b1494": {
-      "date": "2026-03-31",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "source": "hackernews"
-    },
-    "8768936771293379": {
-      "date": "2026-03-31",
-      "title": "Slop is not necessarily the future",
-      "source": "hackernews"
-    },
-    "e7d2b1f4fba23ad8": {
-      "date": "2026-03-31",
-      "title": "Cohere Transcribe: Speech Recognition",
-      "source": "hackernews"
-    },
-    "5ca1b9911f5f2161": {
-      "date": "2026-03-31",
-      "title": "4D Doom",
-      "source": "hackernews"
-    },
-    "9add3a638ae50ed4": {
-      "date": "2026-03-31",
-      "title": "Ministack (Replacement for LocalStack)",
-      "source": "hackernews"
-    },
-    "794d188bd78c8b41": {
-      "date": "2026-03-31",
-      "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-      "source": "hackernews"
-    },
-    "55c8788f07b20e01": {
-      "date": "2026-03-31",
-      "title": "A dot a day keeps the clutter away",
-      "source": "hackernews"
-    },
-    "604984affea69a47": {
-      "date": "2026-03-31",
-      "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
-      "source": "hackernews"
-    },
-    "cde7836916265279": {
-      "date": "2026-03-31",
-      "title": "Autoclaw",
-      "source": "producthunt"
-    },
-    "2f6bc3420d395f0a": {
-      "date": "2026-03-31",
-      "title": "MacMonitor",
-      "source": "producthunt"
-    },
-    "eb5874180c92a401": {
-      "date": "2026-03-31",
-      "title": "FireAPI",
-      "source": "producthunt"
-    },
-    "110ef61328464a68": {
-      "date": "2026-03-31",
-      "title": "IndieEvent",
-      "source": "producthunt"
-    },
-    "1363d3e07208eb2c": {
-      "date": "2026-03-31",
-      "title": "Dictura",
-      "source": "producthunt"
-    },
-    "c11f3abe1698bf4c": {
-      "date": "2026-03-31",
-      "title": "Codync",
-      "source": "producthunt"
-    },
-    "0f779bc236545d9c": {
-      "date": "2026-03-31",
-      "title": "microsoft / agent-lightning",
-      "source": "github"
-    },
-    "68c57e7779dc4696": {
-      "date": "2026-03-31",
-      "title": "PaddlePaddle / PaddleOCR",
-      "source": "github"
-    },
-    "4df7bcfe19df504a": {
-      "date": "2026-03-31",
-      "title": "Dimillian / Skills",
-      "source": "github"
-    },
-    "11fc259c0de8242a": {
-      "date": "2026-03-31",
-      "title": "neovim / neovim",
-      "source": "github"
-    },
-    "650662eced1761ea": {
-      "date": "2026-03-31",
-      "title": "OpenBMB / ChatDev",
-      "source": "github"
-    },
-    "7d9f29e1c13843dd": {
-      "date": "2026-03-31",
-      "title": "jwasham / coding-interview-university",
-      "source": "github"
-    },
-    "606d2345bcbaf994": {
-      "date": "2026-03-31",
-      "title": "A Year of Change and Persistence",
-      "source": "devto"
-    },
-    "8d28bc2f06aa7310": {
-      "date": "2026-03-31",
-      "title": "Surviving as a Human in the Age of AI",
-      "source": "devto"
-    },
-    "e4094fdc7cd9b505": {
-      "date": "2026-03-31",
-      "title": "How I Search 10,000+ AWS GitHub Repos in 10 Seconds",
-      "source": "devto"
-    },
-    "543e7b4baca12b81": {
-      "date": "2026-03-31",
-      "title": "How a Payment Problem Unexpectedly Changed My Career Path in Tech",
-      "source": "devto"
-    },
-    "61b8a6d569e9fd63": {
-      "date": "2026-03-31",
-      "title": "I'm such a slow typer",
-      "source": "devto"
-    },
-    "495a6c04acd90769": {
-      "date": "2026-03-31",
-      "title": "Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂",
-      "source": "devto"
-    },
-    "9c3bed6f89c735c5": {
-      "date": "2026-03-31",
-      "title": "Reflecting on \"dead\" communities, engagement, and AI",
-      "source": "devto"
-    },
-    "f5303c5b9b471b97": {
-      "date": "2026-03-31",
-      "title": "AI agents shouldn't control your apps; they should be the app",
-      "source": "devto"
-    },
-    "05d819a6b5779884": {
-      "date": "2026-03-31",
-      "title": "Product Mindset Is the Skill Vibe Coding Can't Replace",
-      "source": "devto"
-    },
-    "d45adf07cebda09c": {
-      "date": "2026-03-31",
-      "title": "The Seven Deadly Sins of MCP: Operational Sins",
-      "source": "devto"
-    },
     "3dec5c19604c7276": {
       "date": "2026-04-01",
       "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
@@ -4850,6 +4690,156 @@
     "485835d8f1680d58": {
       "date": "2026-04-30",
       "title": "I returned to Gamedev, but I started hating net tech, even before I created a multiplayer game.",
+      "source": "devto"
+    },
+    "c6f8a62cebd26aed": {
+      "date": "2026-05-01",
+      "title": "Postiz",
+      "source": "producthunt"
+    },
+    "820823a68e26b136": {
+      "date": "2026-05-01",
+      "title": "ScreenVeil",
+      "source": "producthunt"
+    },
+    "d4a3239f51bd310f": {
+      "date": "2026-05-01",
+      "title": "nudge",
+      "source": "producthunt"
+    },
+    "9aa3dab4b932c077": {
+      "date": "2026-05-01",
+      "title": "PeekFocus",
+      "source": "producthunt"
+    },
+    "8091f57dd7d5ceab": {
+      "date": "2026-05-01",
+      "title": "Buda",
+      "source": "producthunt"
+    },
+    "99f95466fd292838": {
+      "date": "2026-05-01",
+      "title": "Marx Finance",
+      "source": "producthunt"
+    },
+    "628c3315565d9014": {
+      "date": "2026-05-01",
+      "title": "Montage",
+      "source": "producthunt"
+    },
+    "d1390f3c0b9569d5": {
+      "date": "2026-05-01",
+      "title": "Bitgrain",
+      "source": "producthunt"
+    },
+    "6d72172c13c7c24f": {
+      "date": "2026-05-01",
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "source": "hackernews"
+    },
+    "b6b66f860c2fdbd4": {
+      "date": "2026-05-01",
+      "title": "Ti-84 Evo",
+      "source": "hackernews"
+    },
+    "7b26908287186783": {
+      "date": "2026-05-01",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "source": "hackernews"
+    },
+    "3743cf8a978d7571": {
+      "date": "2026-05-01",
+      "title": "Credit cards are vulnerable to brute force kind attacks",
+      "source": "hackernews"
+    },
+    "976796edb0d64bfa": {
+      "date": "2026-05-01",
+      "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+      "source": "hackernews"
+    },
+    "3f6b5ac8659fb349": {
+      "date": "2026-05-01",
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "source": "hackernews"
+    },
+    "b82551817bebf522": {
+      "date": "2026-05-01",
+      "title": "Show HN: AI CAD Harness",
+      "source": "hackernews"
+    },
+    "6f3a7bebf91a3a72": {
+      "date": "2026-05-01",
+      "title": "Whimsical Animations Course Open House",
+      "source": "hackernews"
+    },
+    "a2f224ac65266848": {
+      "date": "2026-05-01",
+      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
+      "source": "hackernews"
+    },
+    "9a921c6546e3892f": {
+      "date": "2026-05-01",
+      "title": "SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",
+      "source": "hackernews"
+    },
+    "e0d0d399bd6a3f2b": {
+      "date": "2026-05-01",
+      "title": "simstudioai / sim",
+      "source": "github"
+    },
+    "f84e917e416c7dca": {
+      "date": "2026-05-01",
+      "title": "Flowseal / zapret-discord-youtube",
+      "source": "github"
+    },
+    "c879bec4966d0ea1": {
+      "date": "2026-05-01",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "d34985a154f69144": {
+      "date": "2026-05-01",
+      "title": "I Don't Like Tailwind. Sorry Not Sorry",
+      "source": "devto"
+    },
+    "12f9c8797f41f4df": {
+      "date": "2026-05-01",
+      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
+      "source": "devto"
+    },
+    "b158c14132c17048": {
+      "date": "2026-05-01",
+      "title": "The Emotional Lifecycle of Every Side Project (A Map)",
+      "source": "devto"
+    },
+    "3e25cd416c0bed1a": {
+      "date": "2026-05-01",
+      "title": "EasyPollVote [Dev Log #4]",
+      "source": "devto"
+    },
+    "fe2dfee5fd568e73": {
+      "date": "2026-05-01",
+      "title": "My LLM assistant's new buzzword is starting responses with \"be completely candid\". Very grating.",
+      "source": "devto"
+    },
+    "5c71f7068bbddf32": {
+      "date": "2026-05-01",
+      "title": "Gaffa @ Major League Hacking's Global Hack Week",
+      "source": "devto"
+    },
+    "093a65e21625df13": {
+      "date": "2026-05-01",
+      "title": "I Am Starting Over in Public",
+      "source": "devto"
+    },
+    "2fba66f29778ecff": {
+      "date": "2026-05-01",
+      "title": "Skills Without Evals Are Just Markdown and Hope",
+      "source": "devto"
+    },
+    "e2e9b18a82d39726": {
+      "date": "2026-05-01",
+      "title": "We Blamed Stack Overflow for a Decade. Now It's AI.",
       "source": "devto"
     }
   }
