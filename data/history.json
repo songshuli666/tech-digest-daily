@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-01T23:32:53.553032",
+  "last_updated": "2026-05-02T23:25:36.729549",
   "sent_items": {
-    "3dec5c19604c7276": {
-      "date": "2026-04-01",
-      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
-      "source": "hackernews"
-    },
-    "d82e57f044b97832": {
-      "date": "2026-04-01",
-      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
-      "source": "hackernews"
-    },
-    "e82f991fb16c8fb1": {
-      "date": "2026-04-01",
-      "title": "DRAM pricing is killing the hobbyist SBC market",
-      "source": "hackernews"
-    },
-    "1543bfcfb54fa54c": {
-      "date": "2026-04-01",
-      "title": "Artemis II lifts off: four astronauts begin 10-day lunar mission",
-      "source": "hackernews"
-    },
-    "b65dc590fd5d3893": {
-      "date": "2026-04-01",
-      "title": "The revenge of the data scientist",
-      "source": "hackernews"
-    },
-    "4c79dfed69e71449": {
-      "date": "2026-04-01",
-      "title": "Signing data structures the wrong way",
-      "source": "hackernews"
-    },
-    "759260bea1f18c2c": {
-      "date": "2026-04-01",
-      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
-      "source": "hackernews"
-    },
-    "f3220cd097393c18": {
-      "date": "2026-04-01",
-      "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
-      "source": "hackernews"
-    },
-    "e1387f1dd2287cc6": {
-      "date": "2026-04-01",
-      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
-      "source": "hackernews"
-    },
-    "bfe54facf30d217b": {
-      "date": "2026-04-01",
-      "title": "Fast and Gorgeous Erosion Filter",
-      "source": "hackernews"
-    },
-    "80c8ff2a5824cef4": {
-      "date": "2026-04-01",
-      "title": "flock",
-      "source": "producthunt"
-    },
-    "d6feab73b5795127": {
-      "date": "2026-04-01",
-      "title": "Ray-Ban Meta G2 Blayzer & Scriber Optics",
-      "source": "producthunt"
-    },
-    "29c550c8453d9bf2": {
-      "date": "2026-04-01",
-      "title": "Snapstick",
-      "source": "producthunt"
-    },
-    "deba90b051cd1b04": {
-      "date": "2026-04-01",
-      "title": "Elephant Folio",
-      "source": "producthunt"
-    },
-    "d4bbb193c4087f38": {
-      "date": "2026-04-01",
-      "title": "Noiz Easter Voice",
-      "source": "producthunt"
-    },
-    "397f722592e2596b": {
-      "date": "2026-04-01",
-      "title": "CapyCursor",
-      "source": "producthunt"
-    },
-    "22c554b858a5c177": {
-      "date": "2026-04-01",
-      "title": "Claudoscope",
-      "source": "producthunt"
-    },
-    "434ef1c8cd1209ce": {
-      "date": "2026-04-01",
-      "title": "Prospecting by Clarify",
-      "source": "producthunt"
-    },
-    "1e61851c7eb0065b": {
-      "date": "2026-04-01",
-      "title": "anthropics / claude-code",
-      "source": "github"
-    },
-    "17a133fee8f3ef38": {
-      "date": "2026-04-01",
-      "title": "google-research / timesfm",
-      "source": "github"
-    },
-    "8f344fe4707096c9": {
-      "date": "2026-04-01",
-      "title": "axios / axios",
-      "source": "github"
-    },
-    "1a57528ba5a4a035": {
-      "date": "2026-04-01",
-      "title": "openai / codex",
-      "source": "github"
-    },
-    "f4dc7845d5a0da45": {
-      "date": "2026-04-01",
-      "title": "f / prompts.chat",
-      "source": "github"
-    },
-    "b524542e3fed2223": {
-      "date": "2026-04-01",
-      "title": "Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!",
-      "source": "devto"
-    },
-    "1ad262087807497d": {
-      "date": "2026-04-01",
-      "title": "The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?",
-      "source": "devto"
-    },
-    "663cc105ea8ebb9d": {
-      "date": "2026-04-01",
-      "title": "Trading My Body for Logic: The Physical Decay We Ignore",
-      "source": "devto"
-    },
-    "29546a9721356f3f": {
-      "date": "2026-04-01",
-      "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
-      "source": "devto"
-    },
-    "93e03daa55313aac": {
-      "date": "2026-04-01",
-      "title": "I've been building software for 40 years. But I want *you* to tell me about dev in 1986...",
-      "source": "devto"
-    },
-    "97d5777e0532b0a9": {
-      "date": "2026-04-01",
-      "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer’s Field Notes",
-      "source": "devto"
-    },
-    "5bb431b3ca4cbf90": {
-      "date": "2026-04-01",
-      "title": "The Curated, Automated Open Source Portfolio: How It’s Going",
-      "source": "devto"
-    },
-    "6eba1a6655d6789e": {
-      "date": "2026-04-01",
-      "title": "I Die Every 30 Minutes",
-      "source": "devto"
-    },
-    "8fce959daf77d397": {
-      "date": "2026-04-01",
-      "title": "When Chrome Ate My RAM: Designing a Pressure-Aware Tab Orchestrator with Rust",
-      "source": "devto"
-    },
-    "5673b480c6869e28": {
-      "date": "2026-04-01",
-      "title": "BrewOps: I built a production-grade HTCPCP server because nobody else would",
-      "source": "devto"
-    },
     "c83781c09424956d": {
       "date": "2026-04-02",
       "title": "WP Copilot",
@@ -4840,6 +4675,151 @@
     "e2e9b18a82d39726": {
       "date": "2026-05-01",
       "title": "We Blamed Stack Overflow for a Decade. Now It's AI.",
+      "source": "devto"
+    },
+    "1e2fb6a87ea6e746": {
+      "date": "2026-05-02",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "source": "hackernews"
+    },
+    "bdbbb546f42fc6f8": {
+      "date": "2026-05-02",
+      "title": "Dav2d",
+      "source": "hackernews"
+    },
+    "a21f7307c5436cb0": {
+      "date": "2026-05-02",
+      "title": "Do_not_track",
+      "source": "hackernews"
+    },
+    "3720b99fd1322c5f": {
+      "date": "2026-05-02",
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "source": "hackernews"
+    },
+    "d7ffb30e8e538a47": {
+      "date": "2026-05-02",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "source": "hackernews"
+    },
+    "bfde6c94a3be7c12": {
+      "date": "2026-05-02",
+      "title": "This Month in Ladybird - April 2026",
+      "source": "hackernews"
+    },
+    "54022c7a224cf828": {
+      "date": "2026-05-02",
+      "title": "Little Magazines Are Back",
+      "source": "hackernews"
+    },
+    "630e08d5655ff951": {
+      "date": "2026-05-02",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
+      "source": "hackernews"
+    },
+    "30998a404fc0b2fa": {
+      "date": "2026-05-02",
+      "title": "The agent harness belongs outside the sandbox",
+      "source": "hackernews"
+    },
+    "c92a17cdddb32684": {
+      "date": "2026-05-02",
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "source": "hackernews"
+    },
+    "243963ef1a992ef2": {
+      "date": "2026-05-02",
+      "title": "Filect",
+      "source": "producthunt"
+    },
+    "c3dba039492409a7": {
+      "date": "2026-05-02",
+      "title": "Ara",
+      "source": "producthunt"
+    },
+    "fbc54e7dc5ad2e18": {
+      "date": "2026-05-02",
+      "title": "Breaks",
+      "source": "producthunt"
+    },
+    "e6a6d6406902db6f": {
+      "date": "2026-05-02",
+      "title": "Cloud Computer by Manus",
+      "source": "producthunt"
+    },
+    "2da3561a2b14e315": {
+      "date": "2026-05-02",
+      "title": "Feather",
+      "source": "producthunt"
+    },
+    "fb4324ceda254471": {
+      "date": "2026-05-02",
+      "title": "Zed 1.0",
+      "source": "producthunt"
+    },
+    "9a16f8b0667e86a0": {
+      "date": "2026-05-02",
+      "title": "ruvnet / ruflo",
+      "source": "github"
+    },
+    "6fdaea5c26dbb585": {
+      "date": "2026-05-02",
+      "title": "ShareX / ShareX",
+      "source": "github"
+    },
+    "7d9f29e1c13843dd": {
+      "date": "2026-05-02",
+      "title": "jwasham / coding-interview-university",
+      "source": "github"
+    },
+    "89655ca6d1928006": {
+      "date": "2026-05-02",
+      "title": "The AI Harness: why your AI coding agent is only as smart as the repo you put it in",
+      "source": "devto"
+    },
+    "6cc49e4740547ecb": {
+      "date": "2026-05-02",
+      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
+      "source": "devto"
+    },
+    "79592ef5852cb37c": {
+      "date": "2026-05-02",
+      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
+      "source": "devto"
+    },
+    "c1284bcf7f93b4d8": {
+      "date": "2026-05-02",
+      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
+      "source": "devto"
+    },
+    "f5cd67d6766df86c": {
+      "date": "2026-05-02",
+      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
+      "source": "devto"
+    },
+    "ad366f661ee4e978": {
+      "date": "2026-05-02",
+      "title": "5 TypeScript Defaults That Quietly Changed in 2026 (And Why Your Build Is Now Broken)",
+      "source": "devto"
+    },
+    "6ad4d04e8634f07e": {
+      "date": "2026-05-02",
+      "title": "Porting Libraries to Crystal with AI",
+      "source": "devto"
+    },
+    "d9a16f653b348ff1": {
+      "date": "2026-05-02",
+      "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Sign",
+      "source": "devto"
+    },
+    "ac873a428c410b94": {
+      "date": "2026-05-02",
+      "title": "I Threw Away My ILIKE Queries and My Search Bar Finally Works - MeiliSearch",
+      "source": "devto"
+    },
+    "345c238f24f13952": {
+      "date": "2026-05-02",
+      "title": "How I replaced hours of manual work with a self-hosted AI agent",
       "source": "devto"
     }
   }
