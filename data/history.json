@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-02T23:25:36.729549",
+  "last_updated": "2026-05-03T23:26:25.591855",
   "sent_items": {
-    "c83781c09424956d": {
-      "date": "2026-04-02",
-      "title": "WP Copilot",
-      "source": "producthunt"
-    },
-    "5f62883fa97da772": {
-      "date": "2026-04-02",
-      "title": "Nitro by Rocketlane",
-      "source": "producthunt"
-    },
-    "88a04fcbdc9d5043": {
-      "date": "2026-04-02",
-      "title": "GitCity",
-      "source": "producthunt"
-    },
-    "2bc3868ecec23ed6": {
-      "date": "2026-04-02",
-      "title": "Atomic",
-      "source": "producthunt"
-    },
-    "2392d25922dab808": {
-      "date": "2026-04-02",
-      "title": "tama96",
-      "source": "producthunt"
-    },
-    "a7cd7bf3c12b5738": {
-      "date": "2026-04-02",
-      "title": "Mac Pet",
-      "source": "producthunt"
-    },
-    "4890bfe000f600bb": {
-      "date": "2026-04-02",
-      "title": "Protocol: Survival",
-      "source": "producthunt"
-    },
-    "74d4e8b631acfde2": {
-      "date": "2026-04-02",
-      "title": "siddharthvaddem / openscreen",
-      "source": "github"
-    },
-    "7fe51fd9097f76e3": {
-      "date": "2026-04-02",
-      "title": "Yeachan-Heo / oh-my-codex",
-      "source": "github"
-    },
-    "3675b0176088850f": {
-      "date": "2026-04-02",
-      "title": "asgeirtj / system_prompts_leaks",
-      "source": "github"
-    },
-    "e467e77f15aac972": {
-      "date": "2026-04-02",
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "source": "hackernews"
-    },
-    "1258bb9a359e8a0b": {
-      "date": "2026-04-02",
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "source": "hackernews"
-    },
-    "f9da1e8ecd78f49e": {
-      "date": "2026-04-02",
-      "title": "Cursor 3",
-      "source": "hackernews"
-    },
-    "233a498d6a8da62b": {
-      "date": "2026-04-02",
-      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "source": "hackernews"
-    },
-    "26a54ec58f999d06": {
-      "date": "2026-04-02",
-      "title": "OpenAI Acquires TBPN",
-      "source": "hackernews"
-    },
-    "48d8aa4d81c20c87": {
-      "date": "2026-04-02",
-      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "source": "hackernews"
-    },
-    "b40066ebb3c8ceaf": {
-      "date": "2026-04-02",
-      "title": "George Goble has died",
-      "source": "hackernews"
-    },
-    "b0f83087cd2323d9": {
-      "date": "2026-04-02",
-      "title": "Artemis II's toilet is a moon mission milestone",
-      "source": "hackernews"
-    },
-    "016a8a9a6a82a4cf": {
-      "date": "2026-04-02",
-      "title": "The Australian government has announced gambling advertising reforms",
-      "source": "hackernews"
-    },
-    "261c9d678ef5948a": {
-      "date": "2026-04-02",
-      "title": "Significant progress made on Xbox 360 recompilation",
-      "source": "hackernews"
-    },
-    "9e5aa9f10c7bfdc9": {
-      "date": "2026-04-02",
-      "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
-      "source": "devto"
-    },
-    "0a07b26cbbbccc66": {
-      "date": "2026-04-02",
-      "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is l",
-      "source": "devto"
-    },
-    "b380e549622fdf14": {
-      "date": "2026-04-02",
-      "title": "I Built an AI Assistant for the Most Legendary Car in the Balkans",
-      "source": "devto"
-    },
-    "2dbb5fec78790231": {
-      "date": "2026-04-02",
-      "title": "One tip for successful OpenTelemetry projects",
-      "source": "devto"
-    },
-    "c4126eaf99cf2fc2": {
-      "date": "2026-04-02",
-      "title": "ContextCore: AI Agents conversations to an MCP-queryable memory layer",
-      "source": "devto"
-    },
-    "bd2e514a6e182421": {
-      "date": "2026-04-02",
-      "title": "GEO Optimizer v4.0.0 is Stable — What We Fixed, What We Built, What's Next",
-      "source": "devto"
-    },
-    "04335bb57be123ef": {
-      "date": "2026-04-02",
-      "title": "You're spending money on Claude Code and have no idea how much",
-      "source": "devto"
-    },
-    "4fc973fe7ab806d6": {
-      "date": "2026-04-02",
-      "title": "The Sentient Refusal: A Premium HTCPCP/1.1 Client",
-      "source": "devto"
-    },
-    "bb00875a6543b969": {
-      "date": "2026-04-02",
-      "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-      "source": "devto"
-    },
-    "180e9d7d859b4b6a": {
-      "date": "2026-04-02",
-      "title": "Time Spender v1",
-      "source": "devto"
-    },
     "fbd80249c8669b21": {
       "date": "2026-04-03",
       "title": "MAI-Transcribe-1",
@@ -4821,6 +4671,131 @@
       "date": "2026-05-02",
       "title": "How I replaced hours of manual work with a self-hosted AI agent",
       "source": "devto"
+    },
+    "53df03651f0d856c": {
+      "date": "2026-05-03",
+      "title": "PandaProbe",
+      "source": "producthunt"
+    },
+    "85f1cec2df420274": {
+      "date": "2026-05-03",
+      "title": "Aximote In-Car App",
+      "source": "producthunt"
+    },
+    "daedd44d9c8f0e3c": {
+      "date": "2026-05-03",
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "source": "hackernews"
+    },
+    "0219dc984d294117": {
+      "date": "2026-05-03",
+      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "source": "hackernews"
+    },
+    "33d649e2c8c3c809": {
+      "date": "2026-05-03",
+      "title": "Why TUIs Are Back",
+      "source": "hackernews"
+    },
+    "7eea96c5c90de6b0": {
+      "date": "2026-05-03",
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "source": "hackernews"
+    },
+    "f2cd1468301afc09": {
+      "date": "2026-05-03",
+      "title": "A desktop made for one",
+      "source": "hackernews"
+    },
+    "4855f35c2b2aa421": {
+      "date": "2026-05-03",
+      "title": "Southwest Headquarters Tour",
+      "source": "hackernews"
+    },
+    "668da3cdcd9fd90b": {
+      "date": "2026-05-03",
+      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
+      "source": "hackernews"
+    },
+    "4e023a4cf4d2b8a2": {
+      "date": "2026-05-03",
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "source": "hackernews"
+    },
+    "bb69a241f370afb9": {
+      "date": "2026-05-03",
+      "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
+      "source": "hackernews"
+    },
+    "d17182547cc5edde": {
+      "date": "2026-05-03",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "source": "hackernews"
+    },
+    "21bbf9731969aa13": {
+      "date": "2026-05-03",
+      "title": "GitHub Broke Git: The Merge Queue Bug That Silently Deleted Your Code",
+      "source": "devto"
+    },
+    "9f3c495f5b6f4b86": {
+      "date": "2026-05-03",
+      "title": "Every developer deserves end credits",
+      "source": "devto"
+    },
+    "34938af25fd08c82": {
+      "date": "2026-05-03",
+      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
+      "source": "devto"
+    },
+    "b99be0deb400b63e": {
+      "date": "2026-05-03",
+      "title": "AI Deleted My Tests and Said 'All Tests Pass' — A Horror Story from Porting 'typia' from TypeScript ",
+      "source": "devto"
+    },
+    "bb2aa28181ee3701": {
+      "date": "2026-05-03",
+      "title": "How I Built an Offline AI Assistant in Python - No OpenAI, No LangChain, No Dependencies",
+      "source": "devto"
+    },
+    "1162cb5bfaf2997c": {
+      "date": "2026-05-03",
+      "title": "How to Win a Hackathon",
+      "source": "devto"
+    },
+    "7283a2346a6ad438": {
+      "date": "2026-05-03",
+      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
+      "source": "devto"
+    },
+    "246d6fd0afebdfe9": {
+      "date": "2026-05-03",
+      "title": "I Built a Tool That Detects SEO Poisoning Across Multiple Search Engines",
+      "source": "devto"
+    },
+    "3b4cde843d38ec83": {
+      "date": "2026-05-03",
+      "title": "I Built a Mood Ring for the Internet in 24 Hours",
+      "source": "devto"
+    },
+    "c4a2a123af995166": {
+      "date": "2026-05-03",
+      "title": "I always worried my READMEs disagreed with my own repos. So I built README Clew.",
+      "source": "devto"
+    },
+    "a8489cdb447ed082": {
+      "date": "2026-05-03",
+      "title": "Hmbown / DeepSeek-TUI",
+      "source": "github"
+    },
+    "6441a71a96a5c444": {
+      "date": "2026-05-03",
+      "title": "czlonkowski / n8n-mcp",
+      "source": "github"
+    },
+    "c60883ab2c4d3c50": {
+      "date": "2026-05-03",
+      "title": "openwrt / openwrt",
+      "source": "github"
     }
   }
 }
