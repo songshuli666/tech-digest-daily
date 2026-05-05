@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-04T23:31:45.079106",
+  "last_updated": "2026-05-05T23:29:31.101719",
   "sent_items": {
-    "db0e76466dc21fce": {
-      "date": "2026-04-04",
-      "title": "Google Vids 2.0",
-      "source": "producthunt"
-    },
-    "b439b5bbf52dc8e4": {
-      "date": "2026-04-04",
-      "title": "Open Claude in Chrome",
-      "source": "producthunt"
-    },
-    "f8464ee12814ea2f": {
-      "date": "2026-04-04",
-      "title": "Surf Social Websites",
-      "source": "producthunt"
-    },
-    "6a88855095c0f174": {
-      "date": "2026-04-04",
-      "title": "OpenGyver",
-      "source": "producthunt"
-    },
-    "6f93e6853dcf13c6": {
-      "date": "2026-04-04",
-      "title": "Vista",
-      "source": "producthunt"
-    },
-    "8033ef29df6b8320": {
-      "date": "2026-04-04",
-      "title": "Sleek Analytics",
-      "source": "producthunt"
-    },
-    "7cdce6380a15689a": {
-      "date": "2026-04-04",
-      "title": "APImage",
-      "source": "producthunt"
-    },
-    "eb18fd572eafc7aa": {
-      "date": "2026-04-04",
-      "title": "Fluently",
-      "source": "producthunt"
-    },
-    "107576af511103e8": {
-      "date": "2026-04-04",
-      "title": "Embarrassingly simple self-distillation improves code generation",
-      "source": "hackernews"
-    },
-    "f3a45fc949d4f5f0": {
-      "date": "2026-04-04",
-      "title": "Show HN: A game where you build a GPU",
-      "source": "hackernews"
-    },
-    "0ef6ebe36967e66b": {
-      "date": "2026-04-04",
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "source": "hackernews"
-    },
-    "dc498db67d8e33c8": {
-      "date": "2026-04-04",
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "source": "hackernews"
-    },
-    "9025f0fa948654d9": {
-      "date": "2026-04-04",
-      "title": "Components of a Coding Agent",
-      "source": "hackernews"
-    },
-    "a8078d3648377364": {
-      "date": "2026-04-04",
-      "title": "Emotion concepts and their function in a large language model",
-      "source": "hackernews"
-    },
-    "72e0e22899cd337c": {
-      "date": "2026-04-04",
-      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-      "source": "hackernews"
-    },
-    "e3c26a3a2be8592f": {
-      "date": "2026-04-04",
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "source": "hackernews"
-    },
-    "40ea04316eb54e9e": {
-      "date": "2026-04-04",
-      "title": "The Indie Internet Index – submit your favorite sites",
-      "source": "hackernews"
-    },
-    "ae04df1bcc6d439d": {
-      "date": "2026-04-04",
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "source": "hackernews"
-    },
-    "ad7e72a85a18f86c": {
-      "date": "2026-04-04",
-      "title": "Blaizzy / mlx-vlm",
-      "source": "github"
-    },
-    "1692c6ee2eb0c690": {
-      "date": "2026-04-04",
-      "title": "telegramdesktop / tdesktop",
-      "source": "github"
-    },
-    "72fa17aeb2856515": {
-      "date": "2026-04-04",
-      "title": "block / goose",
-      "source": "github"
-    },
-    "459bb0a1f9e395c5": {
-      "date": "2026-04-04",
-      "title": "microsoft / agent-framework",
-      "source": "github"
-    },
-    "2fdb981e9e93a638": {
-      "date": "2026-04-04",
-      "title": "Deploy Gemma 4 on Cloud Run: Pay Only When You Actually Use It",
-      "source": "devto"
-    },
-    "eb584094877af2e7": {
-      "date": "2026-04-04",
-      "title": "How to Supervise AI Coding Agents Without Losing Your Mind",
-      "source": "devto"
-    },
-    "06dd8c804a95bb39": {
-      "date": "2026-04-04",
-      "title": "I built a database in France because the Cloud Act makes EU data sovereignty impossible",
-      "source": "devto"
-    },
-    "387c1556c1a3c47c": {
-      "date": "2026-04-04",
-      "title": "I Read a 1999 Book About How Geniuses Think. Then I Built an AI Framework With a Real Nervous System",
-      "source": "devto"
-    },
-    "d0843eeb3f5d15a5": {
-      "date": "2026-04-04",
-      "title": "I built a GUI-powered Userscript manager for faster userscript creation!",
-      "source": "devto"
-    },
-    "e33a329b9c8345fe": {
-      "date": "2026-04-04",
-      "title": "Same Model, Different Environment, Different Results",
-      "source": "devto"
-    },
-    "b8a8ce439d66a42a": {
-      "date": "2026-04-04",
-      "title": "Why SSH Key Management Is Broken and How Certificates Fix It",
-      "source": "devto"
-    },
-    "9d83f5ab31b8508a": {
-      "date": "2026-04-04",
-      "title": "The Agent Orchestration Problem Nobody Talks About",
-      "source": "devto"
-    },
-    "3015bfab4a350598": {
-      "date": "2026-04-04",
-      "title": "The Case for Markdown as Your Agent's Task Format",
-      "source": "devto"
-    },
-    "807d0aff36eacd4f": {
-      "date": "2026-04-04",
-      "title": "7 Reasons Your Demo Video Feels Longer Than It Is",
-      "source": "devto"
-    },
     "021dcfb5e16a50cf": {
       "date": "2026-04-05",
       "title": "Caveman: Why use many token when few token do trick",
@@ -4816,6 +4656,166 @@
       "date": "2026-05-04",
       "title": "docusealco / docuseal",
       "source": "github"
+    },
+    "c5eab5ba0df89f26": {
+      "date": "2026-05-05",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "source": "hackernews"
+    },
+    "8bef14aaa380f335": {
+      "date": "2026-05-05",
+      "title": ".de TLD offline due to DNSSEC?",
+      "source": "hackernews"
+    },
+    "d5ba33cbb98e36fd": {
+      "date": "2026-05-05",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "source": "hackernews"
+    },
+    "9e4a3d4b16dd5428": {
+      "date": "2026-05-05",
+      "title": "Three Inverse Laws of AI",
+      "source": "hackernews"
+    },
+    "b2e0d6576ecf2982": {
+      "date": "2026-05-05",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "source": "hackernews"
+    },
+    "59f8bce6bb7997ab": {
+      "date": "2026-05-05",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "source": "hackernews"
+    },
+    "6d6fa37b55d2bd16": {
+      "date": "2026-05-05",
+      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "source": "hackernews"
+    },
+    "18f2de7ebbeb839c": {
+      "date": "2026-05-05",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "source": "hackernews"
+    },
+    "571538eebfaebe44": {
+      "date": "2026-05-05",
+      "title": "Write some software, give it away for free",
+      "source": "hackernews"
+    },
+    "3e5f0a504ccaea5c": {
+      "date": "2026-05-05",
+      "title": "Why most product tours get skipped",
+      "source": "hackernews"
+    },
+    "e1ad930c71542f2b": {
+      "date": "2026-05-05",
+      "title": "Intuned Agent",
+      "source": "producthunt"
+    },
+    "08edebae15e9fed2": {
+      "date": "2026-05-05",
+      "title": "Breathwrk",
+      "source": "producthunt"
+    },
+    "5547371b8457191e": {
+      "date": "2026-05-05",
+      "title": "Steam Controller",
+      "source": "producthunt"
+    },
+    "c506cb4c8f4fa79c": {
+      "date": "2026-05-05",
+      "title": "Dina",
+      "source": "producthunt"
+    },
+    "cf514d5fb973acd1": {
+      "date": "2026-05-05",
+      "title": "PaceBar",
+      "source": "producthunt"
+    },
+    "62f721425251cd93": {
+      "date": "2026-05-05",
+      "title": "Blaze",
+      "source": "producthunt"
+    },
+    "063023784582ceca": {
+      "date": "2026-05-05",
+      "title": "Unity AI",
+      "source": "producthunt"
+    },
+    "896c8dba208c9412": {
+      "date": "2026-05-05",
+      "title": "Agentic API Grader by SaaStr.ai",
+      "source": "producthunt"
+    },
+    "43f9ed7cbd9e6d64": {
+      "date": "2026-05-05",
+      "title": "bwya77 / vscode-dark-islands",
+      "source": "github"
+    },
+    "7530bd8bb92bc27b": {
+      "date": "2026-05-05",
+      "title": "Arindam200 / awesome-ai-apps",
+      "source": "github"
+    },
+    "7573b3014cf6371c": {
+      "date": "2026-05-05",
+      "title": "LearningCircuit / local-deep-research",
+      "source": "github"
+    },
+    "7f4681947a6cc317": {
+      "date": "2026-05-05",
+      "title": "PriorLabs / TabPFN",
+      "source": "github"
+    },
+    "7a5e41156aae08d4": {
+      "date": "2026-05-05",
+      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
+      "source": "devto"
+    },
+    "d3534fe2ca10aa0c": {
+      "date": "2026-05-05",
+      "title": "Am I a Developer or Just a Prompt Engineer?",
+      "source": "devto"
+    },
+    "a1c47535df388da9": {
+      "date": "2026-05-05",
+      "title": "The Next Casualty of the GenAI Revolution",
+      "source": "devto"
+    },
+    "a9fa6792b4ef1f88": {
+      "date": "2026-05-05",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "818e7b8f5d5c78de": {
+      "date": "2026-05-05",
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
+      "source": "devto"
+    },
+    "d6f159a333052db3": {
+      "date": "2026-05-05",
+      "title": "Kimi K2.6 vs. Claude Opus 4.7 in a Weird Game Coding Test ✅",
+      "source": "devto"
+    },
+    "27c838deee3bb850": {
+      "date": "2026-05-05",
+      "title": "Copilot Squad",
+      "source": "devto"
+    },
+    "0d3b099d899b799a": {
+      "date": "2026-05-05",
+      "title": "Blue Ridge Ruby 2026: A Conference About the Long Game",
+      "source": "devto"
+    },
+    "0115f4cac734dfe4": {
+      "date": "2026-05-05",
+      "title": "From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software",
+      "source": "devto"
+    },
+    "85ed12e22d6f19a4": {
+      "date": "2026-05-05",
+      "title": "I Built a Minecraft Mod Where Every Sword is an AWS Service — Here's How We Coded It with AI",
+      "source": "devto"
     }
   }
 }
