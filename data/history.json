@@ -1,147 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-05T23:29:31.101719",
+  "last_updated": "2026-05-06T23:32:48.332591",
   "sent_items": {
-    "021dcfb5e16a50cf": {
-      "date": "2026-04-05",
-      "title": "Caveman: Why use many token when few token do trick",
-      "source": "hackernews"
-    },
-    "7b5e5a6e4118c68d": {
-      "date": "2026-04-05",
-      "title": "Eight years of wanting, three months of building with AI",
-      "source": "hackernews"
-    },
-    "2b3692d618d3efbc": {
-      "date": "2026-04-05",
-      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "source": "hackernews"
-    },
-    "35269162cd5fae02": {
-      "date": "2026-04-05",
-      "title": "Gemma 4 on iPhone",
-      "source": "hackernews"
-    },
-    "ab25a5b2bea9921f": {
-      "date": "2026-04-05",
-      "title": "LÖVE: 2D Game Framework for Lua",
-      "source": "hackernews"
-    },
-    "8e7d779058419848": {
-      "date": "2026-04-05",
-      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-      "source": "hackernews"
-    },
-    "67c028a84349eef0": {
-      "date": "2026-04-05",
-      "title": "A tail-call interpreter in (nightly) Rust",
-      "source": "hackernews"
-    },
-    "5cbcf58b1b278b99": {
-      "date": "2026-04-05",
-      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "source": "hackernews"
-    },
-    "6b699e26da0aafce": {
-      "date": "2026-04-05",
-      "title": "UK intelligence censored report on global warming and homeland security",
-      "source": "hackernews"
-    },
-    "395afa6d459c08c1": {
-      "date": "2026-04-05",
-      "title": "Music for Programming",
-      "source": "hackernews"
-    },
-    "c769540fdaf49b92": {
-      "date": "2026-04-05",
-      "title": "Tiny Aya",
-      "source": "producthunt"
-    },
-    "119f619afd0a2a49": {
-      "date": "2026-04-05",
-      "title": "Ember",
-      "source": "producthunt"
-    },
-    "135380016a271429": {
-      "date": "2026-04-05",
-      "title": "Influcio",
-      "source": "producthunt"
-    },
-    "aff4f8e7f3ee84a7": {
-      "date": "2026-04-05",
-      "title": "Handle Extension",
-      "source": "producthunt"
-    },
-    "84df26d6bf2a0bc6": {
-      "date": "2026-04-05",
-      "title": "Faahh",
-      "source": "producthunt"
-    },
-    "29093b3e32ca9035": {
-      "date": "2026-04-05",
-      "title": "google-ai-edge / gallery",
-      "source": "github"
-    },
-    "11320934555e9771": {
-      "date": "2026-04-05",
-      "title": "badlogic / pi-mono",
-      "source": "github"
-    },
-    "56bdfc6f48d8e52c": {
-      "date": "2026-04-05",
-      "title": "google-ai-edge / LiteRT-LM",
-      "source": "github"
-    },
-    "bc21f3c6e4abf2b1": {
-      "date": "2026-04-05",
-      "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
-      "source": "devto"
-    },
-    "d127ad4f2f28d6a9": {
-      "date": "2026-04-05",
-      "title": "Fourbidden: A Serious AI Solution to 2+2, With Maximum Ceremony and No Resolution",
-      "source": "devto"
-    },
-    "53ea81b799e91e8c": {
-      "date": "2026-04-05",
-      "title": "Building a Decentralized Mesh Network in Rust — Lessons from the Global South",
-      "source": "devto"
-    },
-    "ed8786657c112b78": {
-      "date": "2026-04-05",
-      "title": "What I Learned Supervising 5 AI Agents on a Real Project",
-      "source": "devto"
-    },
-    "a4024a7dae0256cc": {
-      "date": "2026-04-05",
-      "title": "I Built a Chess Engine with 5 AI Agents — Here's What Surprised Me",
-      "source": "devto"
-    },
-    "eeb0eb6b8c254981": {
-      "date": "2026-04-05",
-      "title": "The Stack Nobody Recommended",
-      "source": "devto"
-    },
-    "906b372b207bd86a": {
-      "date": "2026-04-05",
-      "title": "Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator",
-      "source": "devto"
-    },
-    "b8cebd3e2752f86d": {
-      "date": "2026-04-05",
-      "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
-      "source": "devto"
-    },
-    "ed3effb730ffa53a": {
-      "date": "2026-04-05",
-      "title": "I Built a Voice AI with Sub-500ms Latency. Here's the Echo Cancellation Problem Nobody Talks About",
-      "source": "devto"
-    },
-    "7de1f79643031261": {
-      "date": "2026-04-05",
-      "title": "Why a Markdown File Beats a Message Bus",
-      "source": "devto"
-    },
     "a2e06d582adbf383": {
       "date": "2026-04-06",
       "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
@@ -4816,6 +4676,181 @@
       "date": "2026-05-05",
       "title": "I Built a Minecraft Mod Where Every Sword is an AWS Service — Here's How We Coded It with AI",
       "source": "devto"
+    },
+    "68c530c85a5a967f": {
+      "date": "2026-05-06",
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "source": "hackernews"
+    },
+    "dd6530fd31572d70": {
+      "date": "2026-05-06",
+      "title": "Appearing productive in the workplace",
+      "source": "hackernews"
+    },
+    "53c9dadab91c691e": {
+      "date": "2026-05-06",
+      "title": "The bottleneck was never the code",
+      "source": "hackernews"
+    },
+    "590ef2d9d36de400": {
+      "date": "2026-05-06",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "source": "hackernews"
+    },
+    "4075d8524a4a66ec": {
+      "date": "2026-05-06",
+      "title": "From Supabase to Clerk to Better Auth",
+      "source": "hackernews"
+    },
+    "e0ba2f2e38fe212f": {
+      "date": "2026-05-06",
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "source": "hackernews"
+    },
+    "8d25540fc888cdd7": {
+      "date": "2026-05-06",
+      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+      "source": "hackernews"
+    },
+    "fcb698629d0c8fb2": {
+      "date": "2026-05-06",
+      "title": "Learning the Integral of a Diffusion Model",
+      "source": "hackernews"
+    },
+    "49614414efb43747": {
+      "date": "2026-05-06",
+      "title": "David Sacks crashed and burned in the White House",
+      "source": "hackernews"
+    },
+    "d0c298a68f774699": {
+      "date": "2026-05-06",
+      "title": "UK businesses brace for jet fuel rationing",
+      "source": "hackernews"
+    },
+    "2dcdef5784f22c21": {
+      "date": "2026-05-06",
+      "title": "Open Finance MCP",
+      "source": "producthunt"
+    },
+    "07e0f276901dd087": {
+      "date": "2026-05-06",
+      "title": "moar",
+      "source": "producthunt"
+    },
+    "f799a3fac3bb3393": {
+      "date": "2026-05-06",
+      "title": "Gas City 1.0",
+      "source": "producthunt"
+    },
+    "c7d8c9a43198949d": {
+      "date": "2026-05-06",
+      "title": "Shadow 2.0",
+      "source": "producthunt"
+    },
+    "e7a653905521aaa8": {
+      "date": "2026-05-06",
+      "title": "damnlines.com",
+      "source": "producthunt"
+    },
+    "07857e96f78f8bc9": {
+      "date": "2026-05-06",
+      "title": "Ads in ChatGPT",
+      "source": "producthunt"
+    },
+    "cba75cdee48ffe1c": {
+      "date": "2026-05-06",
+      "title": "Kanwas",
+      "source": "producthunt"
+    },
+    "0ffdd30290dcaa69": {
+      "date": "2026-05-06",
+      "title": "DevAlly",
+      "source": "producthunt"
+    },
+    "e9d578d5463e2138": {
+      "date": "2026-05-06",
+      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
+      "source": "devto"
+    },
+    "521bec564b46635f": {
+      "date": "2026-05-06",
+      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
+      "source": "devto"
+    },
+    "e24e00803efaddcd": {
+      "date": "2026-05-06",
+      "title": "I Programmed an AI in 6502 Assembly - It Worked",
+      "source": "devto"
+    },
+    "c586df46f7229f61": {
+      "date": "2026-05-06",
+      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
+      "source": "devto"
+    },
+    "224565043caf7b53": {
+      "date": "2026-05-06",
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "source": "devto"
+    },
+    "5287db3dd773c8a3": {
+      "date": "2026-05-06",
+      "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Exten",
+      "source": "devto"
+    },
+    "5906e8ae8f693c4c": {
+      "date": "2026-05-06",
+      "title": "Not Open Source Not Interested",
+      "source": "devto"
+    },
+    "c9da400a98eec16f": {
+      "date": "2026-05-06",
+      "title": "A much faster mgsub",
+      "source": "devto"
+    },
+    "87e14164d68d1992": {
+      "date": "2026-05-06",
+      "title": "MerMark Editor v0.2.0 - Markdown/Mermaid editor with built-in Claude/Codex",
+      "source": "devto"
+    },
+    "240a93e8905d9970": {
+      "date": "2026-05-06",
+      "title": "Lighthouse Said It Was Fast. My Users Kept Clicking the Same Button.",
+      "source": "devto"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-05-06",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "b4c1f3891d0e98fc": {
+      "date": "2026-05-06",
+      "title": "LadybirdBrowser / ladybird",
+      "source": "github"
+    },
+    "d9229b5716bee102": {
+      "date": "2026-05-06",
+      "title": "InsForge / InsForge",
+      "source": "github"
+    },
+    "bf36d171e6670874": {
+      "date": "2026-05-06",
+      "title": "anthropics / financial-services",
+      "source": "github"
+    },
+    "8b3ac28cee2a333a": {
+      "date": "2026-05-06",
+      "title": "cheahjs / free-llm-api-resources",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-05-06",
+      "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "76a267c59bdc6676": {
+      "date": "2026-05-06",
+      "title": "D4Vinci / Scrapling",
+      "source": "github"
     }
   }
 }
