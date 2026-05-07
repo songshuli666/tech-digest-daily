@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-06T23:32:48.332591",
+  "last_updated": "2026-05-07T23:31:28.607146",
   "sent_items": {
-    "a2e06d582adbf383": {
-      "date": "2026-04-06",
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "source": "hackernews"
-    },
-    "690112f6441b6727": {
-      "date": "2026-04-06",
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "source": "hackernews"
-    },
-    "858927836bc24b3f": {
-      "date": "2026-04-06",
-      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
-      "source": "hackernews"
-    },
-    "08a75abd2cd9d135": {
-      "date": "2026-04-06",
-      "title": "What being ripped off taught me",
-      "source": "hackernews"
-    },
-    "c856815d392cdadd": {
-      "date": "2026-04-06",
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "source": "hackernews"
-    },
-    "dc201ebceab0e56e": {
-      "date": "2026-04-06",
-      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "source": "hackernews"
-    },
-    "4bf8ed051fa7c4b5": {
-      "date": "2026-04-06",
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "source": "hackernews"
-    },
-    "ac76cc742729fd44": {
-      "date": "2026-04-06",
-      "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "source": "hackernews"
-    },
-    "b24ecf804d20a03f": {
-      "date": "2026-04-06",
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "source": "hackernews"
-    },
-    "55a0d6e6984a2522": {
-      "date": "2026-04-06",
-      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-      "source": "hackernews"
-    },
-    "eb85bb0c70b6cee6": {
-      "date": "2026-04-06",
-      "title": "PixVerse V6",
-      "source": "producthunt"
-    },
-    "ca57dc8f56f1c0e1": {
-      "date": "2026-04-06",
-      "title": "Epismo Context Pack",
-      "source": "producthunt"
-    },
-    "18784cbc43d880bc": {
-      "date": "2026-04-06",
-      "title": "Glassbrain",
-      "source": "producthunt"
-    },
-    "80ac689c4a0ee37f": {
-      "date": "2026-04-06",
-      "title": "Ogoron",
-      "source": "producthunt"
-    },
-    "3b1d3ccba7250122": {
-      "date": "2026-04-06",
-      "title": "AgentPulse by Rectify",
-      "source": "producthunt"
-    },
-    "4e8fb3055437f963": {
-      "date": "2026-04-06",
-      "title": "Moonshot",
-      "source": "producthunt"
-    },
-    "df91d239e9089139": {
-      "date": "2026-04-06",
-      "title": "HyperCap",
-      "source": "producthunt"
-    },
-    "1380f70781b72251": {
-      "date": "2026-04-06",
-      "title": "Mailero",
-      "source": "producthunt"
-    },
-    "f94e4f668da89cb2": {
-      "date": "2026-04-06",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "e4a980077fb0387a": {
-      "date": "2026-04-06",
-      "title": "Move over, Vibe-Coding: I built an AI editor for STRESS-CODING",
-      "source": "devto"
-    },
-    "069a020c920ed5f7": {
-      "date": "2026-04-06",
-      "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
-      "source": "devto"
-    },
-    "c8f4049f29c5f5f6": {
-      "date": "2026-04-06",
-      "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
-      "source": "devto"
-    },
-    "1a192f9d377d1bbd": {
-      "date": "2026-04-06",
-      "title": "What are your goals for the week? #173",
-      "source": "devto"
-    },
-    "524f4d51328c461b": {
-      "date": "2026-04-06",
-      "title": "Building a Production-Ready Composable AI Agent System with CopilotKit and LangGraph",
-      "source": "devto"
-    },
-    "89cb92ee8d1c6fb5": {
-      "date": "2026-04-06",
-      "title": "ARIA Labels Are Probably Making Your Site Less Accessible. Here's When to Use Them (And When to Dele",
-      "source": "devto"
-    },
-    "e1541f12257a15df": {
-      "date": "2026-04-06",
-      "title": "I built a linter that proves 74% of your AGENTS.md is wasting your AI agent's time",
-      "source": "devto"
-    },
-    "c3c9f0f91d535b73": {
-      "date": "2026-04-06",
-      "title": "Why I Built TracerKit",
-      "source": "devto"
-    },
-    "17b33e71df60b5ca": {
-      "date": "2026-04-06",
-      "title": "Stop Prompting; Use the Design-Log Method to Build Predictable Tools",
-      "source": "devto"
-    },
-    "46e24096af5aa5e6": {
-      "date": "2026-04-06",
-      "title": "abhigyanpatwari / GitNexus",
-      "source": "github"
-    },
-    "f6d44bafc3780456": {
-      "date": "2026-04-06",
-      "title": "immich-app / immich",
-      "source": "github"
-    },
-    "8578f89662f6e7d9": {
-      "date": "2026-04-06",
-      "title": "KeygraphHQ / shannon",
-      "source": "github"
-    },
-    "978e35c607178533": {
-      "date": "2026-04-06",
-      "title": "NousResearch / hermes-agent",
-      "source": "github"
-    },
-    "e388694ac33bd216": {
-      "date": "2026-04-06",
-      "title": "tobi / qmd",
-      "source": "github"
-    },
-    "811ad685109906f3": {
-      "date": "2026-04-06",
-      "title": "TelegramMessenger / Telegram-iOS",
-      "source": "github"
-    },
-    "6eec8646764a2da4": {
-      "date": "2026-04-06",
-      "title": "ollama / ollama",
-      "source": "github"
-    },
-    "087dae28b6e341d1": {
-      "date": "2026-04-06",
-      "title": "ggml-org / llama.cpp",
-      "source": "github"
-    },
-    "22e8f3650109b115": {
-      "date": "2026-04-06",
-      "title": "NVIDIA / personaplex",
-      "source": "github"
-    },
     "3eade88d874fb788": {
       "date": "2026-04-07",
       "title": "Project Glasswing: Securing critical software for the AI era",
@@ -4850,6 +4665,166 @@
     "76a267c59bdc6676": {
       "date": "2026-05-06",
       "title": "D4Vinci / Scrapling",
+      "source": "github"
+    },
+    "b0277d2e413b79b8": {
+      "date": "2026-05-07",
+      "title": "The Burning Man MOOP Map",
+      "source": "hackernews"
+    },
+    "e5ce7757e4d60a5a": {
+      "date": "2026-05-07",
+      "title": "AI slop is killing online communities",
+      "source": "hackernews"
+    },
+    "f330dd508d2c2bbb": {
+      "date": "2026-05-07",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "source": "hackernews"
+    },
+    "69d1768404a5413e": {
+      "date": "2026-05-07",
+      "title": "Agents need control flow, not more prompts",
+      "source": "hackernews"
+    },
+    "016bf4c0be9de95f": {
+      "date": "2026-05-07",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "source": "hackernews"
+    },
+    "c122dcde12a09056": {
+      "date": "2026-05-07",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "source": "hackernews"
+    },
+    "722f29405f4e9dbd": {
+      "date": "2026-05-07",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "source": "hackernews"
+    },
+    "6f612bb7dec37696": {
+      "date": "2026-05-07",
+      "title": "Draw Marc Andreessen on an Egg",
+      "source": "hackernews"
+    },
+    "28296e015cc21f27": {
+      "date": "2026-05-07",
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "source": "hackernews"
+    },
+    "a6da451a70659f52": {
+      "date": "2026-05-07",
+      "title": "OpenClaw Had a Rough Week",
+      "source": "hackernews"
+    },
+    "26d9d84b4a18ae85": {
+      "date": "2026-05-07",
+      "title": "DevPass by LLM Gateway",
+      "source": "producthunt"
+    },
+    "3f9567c4603aa87a": {
+      "date": "2026-05-07",
+      "title": "Phrony",
+      "source": "producthunt"
+    },
+    "58521bdc059f204d": {
+      "date": "2026-05-07",
+      "title": "FlowMarket",
+      "source": "producthunt"
+    },
+    "8e05d01800f84b2e": {
+      "date": "2026-05-07",
+      "title": "Neo by Amp",
+      "source": "producthunt"
+    },
+    "79a0543aa012a68e": {
+      "date": "2026-05-07",
+      "title": "Askmeety",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-05-07",
+      "title": "Basedash MCP server",
+      "source": "producthunt"
+    },
+    "145e005ec8012361": {
+      "date": "2026-05-07",
+      "title": "Luma Uni 1.1 API",
+      "source": "producthunt"
+    },
+    "afaf60c34e4a69ee": {
+      "date": "2026-05-07",
+      "title": "reMarkable Paper Pure",
+      "source": "producthunt"
+    },
+    "b6fec567ec1515c0": {
+      "date": "2026-05-07",
+      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
+      "source": "devto"
+    },
+    "a3ecbce43304b57e": {
+      "date": "2026-05-07",
+      "title": "Congrats to the OpenClaw Challenge Winners!",
+      "source": "devto"
+    },
+    "7d6df81d62e2699a": {
+      "date": "2026-05-07",
+      "title": "Designing a team of agents",
+      "source": "devto"
+    },
+    "788a6cb0e19f04d1": {
+      "date": "2026-05-07",
+      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini",
+      "source": "devto"
+    },
+    "54e9a62e4a497bf6": {
+      "date": "2026-05-07",
+      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
+      "source": "devto"
+    },
+    "47bccce6a5baac99": {
+      "date": "2026-05-07",
+      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
+      "source": "devto"
+    },
+    "5caa0ad9b76f6da7": {
+      "date": "2026-05-07",
+      "title": "I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper",
+      "source": "devto"
+    },
+    "2cd51075d955be48": {
+      "date": "2026-05-07",
+      "title": "I tested the same self-monitoring role doc on Claude and Gemma 4. Here's what survived.",
+      "source": "devto"
+    },
+    "ca693880fa9207c1": {
+      "date": "2026-05-07",
+      "title": "How I Built a Whiteboard App with 3 Dependencies",
+      "source": "devto"
+    },
+    "cb83a6df2b4258bb": {
+      "date": "2026-05-07",
+      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
+      "source": "devto"
+    },
+    "9fea7d3b8ac2c89f": {
+      "date": "2026-05-07",
+      "title": "VectifyAI / PageIndex",
+      "source": "github"
+    },
+    "1dd6e674a7f46a1b": {
+      "date": "2026-05-07",
+      "title": "decolua / 9router",
+      "source": "github"
+    },
+    "dbf05bf5bd2df348": {
+      "date": "2026-05-07",
+      "title": "aaif-goose / goose",
+      "source": "github"
+    },
+    "dcf59463883835d8": {
+      "date": "2026-05-07",
+      "title": "Augani / openreel-video",
       "source": "github"
     }
   }
