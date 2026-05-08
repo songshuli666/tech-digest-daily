@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-07T23:31:28.607146",
+  "last_updated": "2026-05-08T23:33:39.167151",
   "sent_items": {
-    "3eade88d874fb788": {
-      "date": "2026-04-07",
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "source": "hackernews"
-    },
-    "82a631a7d5b7a35c": {
-      "date": "2026-04-07",
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "source": "hackernews"
-    },
-    "7761d89b31848191": {
-      "date": "2026-04-07",
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "source": "hackernews"
-    },
-    "5be52ef9b1bf5ec8": {
-      "date": "2026-04-07",
-      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
-      "source": "hackernews"
-    },
-    "702eb452184c3093": {
-      "date": "2026-04-07",
-      "title": "A truck driver spent 20 years making a scale model of every building in NYC",
-      "source": "hackernews"
-    },
-    "35d81c76a86a9717": {
-      "date": "2026-04-07",
-      "title": "Lunar Flyby",
-      "source": "hackernews"
-    },
-    "5a0b30ec1f21dad0": {
-      "date": "2026-04-07",
-      "title": "S3 Files",
-      "source": "hackernews"
-    },
-    "837a66a43257bfe1": {
-      "date": "2026-04-07",
-      "title": "How to get better at guitar",
-      "source": "hackernews"
-    },
-    "5b70a31ac5d7f5f2": {
-      "date": "2026-04-07",
-      "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
-      "source": "hackernews"
-    },
-    "1aac672437728f6b": {
-      "date": "2026-04-07",
-      "title": "Bitcoin and quantum computing",
-      "source": "hackernews"
-    },
-    "6ba6ed0a0a5e409d": {
-      "date": "2026-04-07",
-      "title": "MacYaps",
-      "source": "producthunt"
-    },
-    "ac49e37ba7beb70b": {
-      "date": "2026-04-07",
-      "title": "MBCompass",
-      "source": "producthunt"
-    },
-    "0085fecd87a992f8": {
-      "date": "2026-04-07",
-      "title": "sync-3",
-      "source": "producthunt"
-    },
-    "a0be80b1a5f242f2": {
-      "date": "2026-04-07",
-      "title": "Gaia",
-      "source": "producthunt"
-    },
-    "52bc91a4537c54b8": {
-      "date": "2026-04-07",
-      "title": "ChatGPT Ads by Gauge",
-      "source": "producthunt"
-    },
-    "85d424b8b84f3911": {
-      "date": "2026-04-07",
-      "title": "Couch",
-      "source": "producthunt"
-    },
-    "0adc46425b1935ba": {
-      "date": "2026-04-07",
-      "title": "VoxTori",
-      "source": "producthunt"
-    },
-    "098f2d324ee05c0d": {
-      "date": "2026-04-07",
-      "title": "forrestchang / andrej-karpathy-skills",
-      "source": "github"
-    },
-    "134275397b64b129": {
-      "date": "2026-04-07",
-      "title": "elebumm / RedditVideoMakerBot",
-      "source": "github"
-    },
-    "bca7775ac9caec94": {
-      "date": "2026-04-07",
-      "title": "HKUDS / DeepTutor",
-      "source": "github"
-    },
-    "398facd358d56db3": {
-      "date": "2026-04-07",
-      "title": "TheCraigHewitt / seomachine",
-      "source": "github"
-    },
-    "c9a4e87bd8ff5465": {
-      "date": "2026-04-07",
-      "title": "Component-based CSS",
-      "source": "devto"
-    },
-    "262ea9de0f6db503": {
-      "date": "2026-04-07",
-      "title": "Forem (Dev.to) is slow, so I del...optimized it.",
-      "source": "devto"
-    },
-    "079afda0c303aa9f": {
-      "date": "2026-04-07",
-      "title": "Sharing CodePen 2.0 demos on DEV",
-      "source": "devto"
-    },
-    "e00dde67d345ba8d": {
-      "date": "2026-04-07",
-      "title": "Momentum vs. Alignment Tax - Hidden Costs in Your LLM Session",
-      "source": "devto"
-    },
-    "3f06108743e3a399": {
-      "date": "2026-04-07",
-      "title": "Tired of boring AI assistants? I built a \"Desktop Pet\" Copilot that wanders around your screen and w",
-      "source": "devto"
-    },
-    "4236ff7bf7f9c735": {
-      "date": "2026-04-07",
-      "title": "I Built a \"Blame Finder\" for AI Agents – So You Never Have to Guess Who Broke Production",
-      "source": "devto"
-    },
-    "02335fbfd979a379": {
-      "date": "2026-04-07",
-      "title": "Building a YouTube-to-Podcast Pipeline with yt-dlp, ffmpeg, and Backblaze B2",
-      "source": "devto"
-    },
-    "b7660004b4039f86": {
-      "date": "2026-04-07",
-      "title": "#26 The Ledger of Flames",
-      "source": "devto"
-    },
-    "a23c7884fd534a52": {
-      "date": "2026-04-07",
-      "title": "Why I Built a 4,000-Line Agent Skill Instead of Another npm Package",
-      "source": "devto"
-    },
-    "482d0c34b4031afd": {
-      "date": "2026-04-07",
-      "title": "How I Built LoopSignal: Public Feedback Boards, GitHub Sync, and Changelogs for Indie Developers",
-      "source": "devto"
-    },
     "914fd727524b98e0": {
       "date": "2026-04-08",
       "title": "Git commands I run before reading any code",
@@ -4826,6 +4671,171 @@
       "date": "2026-05-07",
       "title": "Augani / openreel-video",
       "source": "github"
+    },
+    "6690fa79123b4bdf": {
+      "date": "2026-05-08",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "source": "hackernews"
+    },
+    "9c386bd08149672f": {
+      "date": "2026-05-08",
+      "title": "David Attenborough's 100th Birthday",
+      "source": "hackernews"
+    },
+    "6e7318ff133abd6c": {
+      "date": "2026-05-08",
+      "title": "Cartoon Network Flash Games",
+      "source": "hackernews"
+    },
+    "45f425d42eabd972": {
+      "date": "2026-05-08",
+      "title": "AI is breaking two vulnerability cultures",
+      "source": "hackernews"
+    },
+    "fde5801ac015a674": {
+      "date": "2026-05-08",
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "source": "hackernews"
+    },
+    "f0d58f8cfe1e3d06": {
+      "date": "2026-05-08",
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "source": "hackernews"
+    },
+    "649c462dc131a162": {
+      "date": "2026-05-08",
+      "title": "AWS says data center overheating in North Virginia disrupts services",
+      "source": "hackernews"
+    },
+    "15a75f8d4991606f": {
+      "date": "2026-05-08",
+      "title": "Looking at the data behind prediction markets",
+      "source": "hackernews"
+    },
+    "91d8290b98f6f39f": {
+      "date": "2026-05-08",
+      "title": "Non-determinism is an issue with patching CVEs",
+      "source": "hackernews"
+    },
+    "be4d71c77ee3722a": {
+      "date": "2026-05-08",
+      "title": "AWS data center outage hits trading on Fanduel, Coinbase",
+      "source": "hackernews"
+    },
+    "420cc8cb25fc8a9a": {
+      "date": "2026-05-08",
+      "title": "Sendly",
+      "source": "producthunt"
+    },
+    "aee8dccc785d45a1": {
+      "date": "2026-05-08",
+      "title": "KodHau",
+      "source": "producthunt"
+    },
+    "1a85af4aafd8c461": {
+      "date": "2026-05-08",
+      "title": "Photobomb",
+      "source": "producthunt"
+    },
+    "b06e4a4cd053f471": {
+      "date": "2026-05-08",
+      "title": "MarkUp",
+      "source": "producthunt"
+    },
+    "c30d7d6968d91c4f": {
+      "date": "2026-05-08",
+      "title": "Sound Warden",
+      "source": "producthunt"
+    },
+    "5cbcc50f7dc00931": {
+      "date": "2026-05-08",
+      "title": "Maia Executives",
+      "source": "producthunt"
+    },
+    "388987a6e29b7e8b": {
+      "date": "2026-05-08",
+      "title": "GlowIsland",
+      "source": "producthunt"
+    },
+    "624089c5de6b3534": {
+      "date": "2026-05-08",
+      "title": "CloakHQ / CloakBrowser",
+      "source": "github"
+    },
+    "f6847520dd02cb48": {
+      "date": "2026-05-08",
+      "title": "awslabs / aidlc-workflows",
+      "source": "github"
+    },
+    "41c48f470a425e07": {
+      "date": "2026-05-08",
+      "title": "HKUDS / AI-Trader",
+      "source": "github"
+    },
+    "82164af40f45157f": {
+      "date": "2026-05-08",
+      "title": "lobehub / lobehub",
+      "source": "github"
+    },
+    "150ed4f8b5463679": {
+      "date": "2026-05-08",
+      "title": "datawhalechina / hello-agents",
+      "source": "github"
+    },
+    "c120ebd1e1931347": {
+      "date": "2026-05-08",
+      "title": "flutter / skills",
+      "source": "github"
+    },
+    "fdc284a8fdb431c8": {
+      "date": "2026-05-08",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "34563e52be51e13d": {
+      "date": "2026-05-08",
+      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
+      "source": "devto"
+    },
+    "ed046f8a08267438": {
+      "date": "2026-05-08",
+      "title": "5 types of engineers I met as a Technical Writer",
+      "source": "devto"
+    },
+    "8a8580a90330d97c": {
+      "date": "2026-05-08",
+      "title": "I Built My Mom an AI Recipe Helper for Mother's Day",
+      "source": "devto"
+    },
+    "f6f913c441690d30": {
+      "date": "2026-05-08",
+      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
+      "source": "devto"
+    },
+    "6717a636c4288768": {
+      "date": "2026-05-08",
+      "title": "Using Claude Code with Docker Model Runner",
+      "source": "devto"
+    },
+    "09408dc1dec506c5": {
+      "date": "2026-05-08",
+      "title": "Error Handling in Go: Stop Panicking, Start Wrapping",
+      "source": "devto"
+    },
+    "9569ffca758448a5": {
+      "date": "2026-05-08",
+      "title": "Build your own daily notification bot on AWS Free Tier",
+      "source": "devto"
+    },
+    "7acf8a991301830c": {
+      "date": "2026-05-08",
+      "title": "SVG animations with Friction",
+      "source": "devto"
+    },
+    "d7e085822e8563c0": {
+      "date": "2026-05-08",
+      "title": "Gemma 4 Has Four Models. Here's Which One You Actually Need",
+      "source": "devto"
     }
   }
 }
