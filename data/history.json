@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-08T23:33:39.167151",
+  "last_updated": "2026-05-09T23:29:28.531311",
   "sent_items": {
-    "914fd727524b98e0": {
-      "date": "2026-04-08",
-      "title": "Git commands I run before reading any code",
-      "source": "hackernews"
-    },
-    "724b531c2f075b3d": {
-      "date": "2026-04-08",
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "source": "hackernews"
-    },
-    "1b1ba5aa4155f696": {
-      "date": "2026-04-08",
-      "title": "Veracrypt project update",
-      "source": "hackernews"
-    },
-    "71a9e3d97bf8c60f": {
-      "date": "2026-04-08",
-      "title": "They're made out of meat (1991)",
-      "source": "hackernews"
-    },
-    "c19ca13d9ab6e11c": {
-      "date": "2026-04-08",
-      "title": "ML promises to be profoundly weird",
-      "source": "hackernews"
-    },
-    "02bd7f7d647b545e": {
-      "date": "2026-04-08",
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "source": "hackernews"
-    },
-    "1669948d7e6ed2ae": {
-      "date": "2026-04-08",
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "source": "hackernews"
-    },
-    "8360ea2da1c164a1": {
-      "date": "2026-04-08",
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "source": "hackernews"
-    },
-    "4f5d03f1e0e4ec8a": {
-      "date": "2026-04-08",
-      "title": "Expanding Swift's IDE Support",
-      "source": "hackernews"
-    },
-    "97e693c7711ac6b7": {
-      "date": "2026-04-08",
-      "title": "Pgit: I Imported the Linux Kernel into PostgreSQL",
-      "source": "hackernews"
-    },
-    "aa1e9a5879bb44ba": {
-      "date": "2026-04-08",
-      "title": "MindsDB Anton",
-      "source": "producthunt"
-    },
-    "0930ba5d609b2a5d": {
-      "date": "2026-04-08",
-      "title": "Hire Roger",
-      "source": "producthunt"
-    },
-    "b49aaf92fa0d2a2c": {
-      "date": "2026-04-08",
-      "title": "Keeby",
-      "source": "producthunt"
-    },
-    "ba3eac388614990e": {
-      "date": "2026-04-08",
-      "title": "Marble 1.1",
-      "source": "producthunt"
-    },
-    "2afbea291ce7b116": {
-      "date": "2026-04-08",
-      "title": "FeatDrop",
-      "source": "producthunt"
-    },
-    "72cff960655c4d1b": {
-      "date": "2026-04-08",
-      "title": "Zoho Projects Infinity.ai",
-      "source": "producthunt"
-    },
-    "afc7aa4dbc7f31cb": {
-      "date": "2026-04-08",
-      "title": "RoomieU",
-      "source": "producthunt"
-    },
-    "d17dea0042e97d95": {
-      "date": "2026-04-08",
-      "title": "Velo",
-      "source": "producthunt"
-    },
-    "86aa53f1b07692ef": {
-      "date": "2026-04-08",
-      "title": "virattt / ai-hedge-fund",
-      "source": "github"
-    },
-    "2844fb5f4495aa40": {
-      "date": "2026-04-08",
-      "title": "goharbor / harbor",
-      "source": "github"
-    },
-    "95a6aed46e7e1280": {
-      "date": "2026-04-08",
-      "title": "Converting old home movie DVDs into a private streaming site",
-      "source": "devto"
-    },
-    "6982813acd7f0ac6": {
-      "date": "2026-04-08",
-      "title": "AS’ HTCPCP AI Butler™ — The AI That Brews Chaos, Not Coffee 418% Chaos: Your Useless AI Butler",
-      "source": "devto"
-    },
-    "0462b4ef0727a610": {
-      "date": "2026-04-08",
-      "title": "I Built a Website Whose Only Feature Is Explaining How It Builds Itself",
-      "source": "devto"
-    },
-    "2f4f587cf7379659": {
-      "date": "2026-04-08",
-      "title": "Clawshier OpenClaw Skill",
-      "source": "devto"
-    },
-    "55f46d6520fdd22c": {
-      "date": "2026-04-08",
-      "title": "Who's Al and Where's Webfont Legibility?",
-      "source": "devto"
-    },
-    "445ad68f501d7170": {
-      "date": "2026-04-08",
-      "title": "AIMock: One Mock Server For Your Entire AI Stack",
-      "source": "devto"
-    },
-    "74262b70b7fba1ae": {
-      "date": "2026-04-08",
-      "title": "I Built an Agent to Run Live Event Raffles (then tried to rig it)",
-      "source": "devto"
-    },
-    "04811ea77907bbdf": {
-      "date": "2026-04-08",
-      "title": "Semver in Retrograde",
-      "source": "devto"
-    },
-    "bd8e28ea26ffd6d5": {
-      "date": "2026-04-08",
-      "title": "I Built an Open-Source Visual Kubernetes Orchestration Platform — No YAML Required",
-      "source": "devto"
-    },
-    "7668b4f021eee9e5": {
-      "date": "2026-04-08",
-      "title": "Dafuq did I just installed?",
-      "source": "devto"
-    },
     "62a9f1c6ae76a0b3": {
       "date": "2026-04-09",
       "title": "Smuggl",
@@ -4835,6 +4685,166 @@
     "d7e085822e8563c0": {
       "date": "2026-05-08",
       "title": "Gemma 4 Has Four Models. Here's Which One You Actually Need",
+      "source": "devto"
+    },
+    "8849fbb96472b2ad": {
+      "date": "2026-05-09",
+      "title": "How AI-pilled are you?",
+      "source": "producthunt"
+    },
+    "d59b5207dc6f86e8": {
+      "date": "2026-05-09",
+      "title": "Glowix",
+      "source": "producthunt"
+    },
+    "ca24bcb2c5aeba83": {
+      "date": "2026-05-09",
+      "title": "MolmoAct 2",
+      "source": "producthunt"
+    },
+    "851203cdad75200a": {
+      "date": "2026-05-09",
+      "title": "nocal 4",
+      "source": "producthunt"
+    },
+    "3a256946d8cc3731": {
+      "date": "2026-05-09",
+      "title": "Prism",
+      "source": "producthunt"
+    },
+    "f74d472bd7377ea0": {
+      "date": "2026-05-09",
+      "title": "Omi A11Y",
+      "source": "producthunt"
+    },
+    "0babea3bf6c26e3a": {
+      "date": "2026-05-09",
+      "title": "Ghost",
+      "source": "producthunt"
+    },
+    "99a63a59b2d50ac6": {
+      "date": "2026-05-09",
+      "title": "Staff.rip",
+      "source": "producthunt"
+    },
+    "79683e444d491e18": {
+      "date": "2026-05-09",
+      "title": "Internet Archive Switzerland",
+      "source": "hackernews"
+    },
+    "edf29cf444b8e57c": {
+      "date": "2026-05-09",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "source": "hackernews"
+    },
+    "dfc4a7c06394571a": {
+      "date": "2026-05-09",
+      "title": "LLMs corrupt your documents when you delegate",
+      "source": "hackernews"
+    },
+    "19ecd877067f078a": {
+      "date": "2026-05-09",
+      "title": "I’ve banned query strings",
+      "source": "hackernews"
+    },
+    "9612e2ac6e6e027e": {
+      "date": "2026-05-09",
+      "title": "Zed Editor Theme-Builder",
+      "source": "hackernews"
+    },
+    "86b87cdcd02ac045": {
+      "date": "2026-05-09",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "source": "hackernews"
+    },
+    "b54d50c429abf232": {
+      "date": "2026-05-09",
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "source": "hackernews"
+    },
+    "2aef9bf8ac0386e5": {
+      "date": "2026-05-09",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "source": "hackernews"
+    },
+    "6be3cd0904d42596": {
+      "date": "2026-05-09",
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "source": "hackernews"
+    },
+    "290864bea4ed979d": {
+      "date": "2026-05-09",
+      "title": "Rust but Lisp",
+      "source": "hackernews"
+    },
+    "ce85014ef213744d": {
+      "date": "2026-05-09",
+      "title": "bytedance / UI-TARS-desktop",
+      "source": "github"
+    },
+    "e6a501142310f90b": {
+      "date": "2026-05-09",
+      "title": "rohitg00 / agentmemory",
+      "source": "github"
+    },
+    "9bbb4928ed12d22a": {
+      "date": "2026-05-09",
+      "title": "datawhalechina / easy-vibe",
+      "source": "github"
+    },
+    "b25b9c85d3f57ef9": {
+      "date": "2026-05-09",
+      "title": "masterking32 / MasterDnsVPN",
+      "source": "github"
+    },
+    "a16b8c21c865ee7c": {
+      "date": "2026-05-09",
+      "title": "playcanvas / supersplat",
+      "source": "github"
+    },
+    "ffb4833fff036c28": {
+      "date": "2026-05-09",
+      "title": "oracle-devrel / oracle-ai-developer-hub",
+      "source": "github"
+    },
+    "736fb3fa87fea271": {
+      "date": "2026-05-09",
+      "title": "Why does AI lie? Hallucinations explained simply",
+      "source": "devto"
+    },
+    "cabbe01c97595ff6": {
+      "date": "2026-05-09",
+      "title": "Initiating the DEVengers org. Check out our Introduction!",
+      "source": "devto"
+    },
+    "8e71ee8d2593428a": {
+      "date": "2026-05-09",
+      "title": "AI-Powered ERP System with Gemma 26B MoE",
+      "source": "devto"
+    },
+    "1884e9aa3a7124a9": {
+      "date": "2026-05-09",
+      "title": "Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 & TurboQuant on Raspberry Pi 4B",
+      "source": "devto"
+    },
+    "f8e2f8d1051ac2ca": {
+      "date": "2026-05-09",
+      "title": "Go forth and `git rm -f` 🚀",
+      "source": "devto"
+    },
+    "e1a77f6de3fb3ff3": {
+      "date": "2026-05-09",
+      "title": "Deploying Cookiecutter Django on DigitalOcean (Ubuntu 24.04 (LTS) x64)",
+      "source": "devto"
+    },
+    "a3f6227c9abe1c73": {
+      "date": "2026-05-09",
+      "title": "Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código",
+      "source": "devto"
+    },
+    "73b0495061e26474": {
+      "date": "2026-05-09",
+      "title": "An afternoon of iOS perf work, with Claude in the loop",
       "source": "devto"
     }
   }
