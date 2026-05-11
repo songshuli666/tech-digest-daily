@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-10T23:33:31.330070",
+  "last_updated": "2026-05-11T23:35:29.659692",
   "sent_items": {
-    "6fc28ff0e06e848c": {
-      "date": "2026-04-10",
-      "title": "1D Chess",
-      "source": "hackernews"
-    },
-    "4b0ff9599ecf14aa": {
-      "date": "2026-04-10",
-      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-      "source": "hackernews"
-    },
-    "964c67956e2f095d": {
-      "date": "2026-04-10",
-      "title": "Industrial design files for Keychron keyboards and mice",
-      "source": "hackernews"
-    },
-    "d6c4833566827b91": {
-      "date": "2026-04-10",
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "source": "hackernews"
-    },
-    "23b682d48a4be7a8": {
-      "date": "2026-04-10",
-      "title": "JSON Formatter Chrome Plugin Now Closed and Injecting Adware",
-      "source": "hackernews"
-    },
-    "cb051ed2718de20f": {
-      "date": "2026-04-10",
-      "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
-      "source": "hackernews"
-    },
-    "3f55a54fddf7090d": {
-      "date": "2026-04-10",
-      "title": "Filing the Corners Off MacBooks",
-      "source": "hackernews"
-    },
-    "634ead7a80032847": {
-      "date": "2026-04-10",
-      "title": "Nowhere Is Safe",
-      "source": "hackernews"
-    },
-    "30e157307caea719": {
-      "date": "2026-04-10",
-      "title": "Watgo – A WebAssembly Toolkit for Go",
-      "source": "hackernews"
-    },
-    "d3e35cdb4df8b5cc": {
-      "date": "2026-04-10",
-      "title": "Installing Every* Firefox Extension",
-      "source": "hackernews"
-    },
-    "084069e49f52c8fe": {
-      "date": "2026-04-10",
-      "title": "Buddi",
-      "source": "producthunt"
-    },
-    "612288d51628dae1": {
-      "date": "2026-04-10",
-      "title": "Complexity Indicator",
-      "source": "producthunt"
-    },
-    "06da8dcd61d0e0bc": {
-      "date": "2026-04-10",
-      "title": "Codentis",
-      "source": "producthunt"
-    },
-    "12600f8dd156f74e": {
-      "date": "2026-04-10",
-      "title": "Inbox Autopilot by Dimension",
-      "source": "producthunt"
-    },
-    "05527f8370de571f": {
-      "date": "2026-04-10",
-      "title": "SoulLink",
-      "source": "producthunt"
-    },
-    "63c4735ffd888924": {
-      "date": "2026-04-10",
-      "title": "Orbit Money",
-      "source": "producthunt"
-    },
-    "92b2d3b69408338e": {
-      "date": "2026-04-10",
-      "title": "Matcha",
-      "source": "producthunt"
-    },
-    "34473dd3c0827e17": {
-      "date": "2026-04-10",
-      "title": "PromptEditor",
-      "source": "producthunt"
-    },
-    "33054ecb8bf0f855": {
-      "date": "2026-04-10",
-      "title": "microsoft / markitdown",
-      "source": "github"
-    },
-    "5bfdb1381234aa52": {
-      "date": "2026-04-10",
-      "title": "rowboatlabs / rowboat",
-      "source": "github"
-    },
-    "c4933f0e2181e2eb": {
-      "date": "2026-04-10",
-      "title": "multica-ai / multica",
-      "source": "github"
-    },
-    "3ca65329ff3ba689": {
-      "date": "2026-04-10",
-      "title": "jqlang / jq",
-      "source": "github"
-    },
-    "8a4bbaa8cd7aa1e2": {
-      "date": "2026-04-10",
-      "title": "I tried to make DevFest Ireland accessible - and ended up building a SaaS",
-      "source": "devto"
-    },
-    "201fef4ec4655d34": {
-      "date": "2026-04-10",
-      "title": "What was your win this week??",
-      "source": "devto"
-    },
-    "f05ffb8b45850ec2": {
-      "date": "2026-04-10",
-      "title": "I'm a bit lost.",
-      "source": "devto"
-    },
-    "b8c8fbf6e1fb5eee": {
-      "date": "2026-04-10",
-      "title": "The Formula Was Exact. The Assumption Was Wrong. That's Not an AI Problem.",
-      "source": "devto"
-    },
-    "633b3bf9010105ef": {
-      "date": "2026-04-10",
-      "title": "EasyPollVote [Dev Log #1]",
-      "source": "devto"
-    },
-    "52bbba7f0ce7f328": {
-      "date": "2026-04-10",
-      "title": "A simple React hook for running local LLMs via WebGPU",
-      "source": "devto"
-    },
-    "014ecb67bd1f2bce": {
-      "date": "2026-04-10",
-      "title": "I Crashed My Mac 5 Times So You Don't Have To: Mounting S3 Files on macOS",
-      "source": "devto"
-    },
-    "9423cb591d6a2635": {
-      "date": "2026-04-10",
-      "title": "Why Prompt-Only Moderation Failed in My AI Generation App",
-      "source": "devto"
-    },
-    "49f29d4ece4804b2": {
-      "date": "2026-04-10",
-      "title": "I built a secure runtime for AI agents with Rust and Linux kernel features",
-      "source": "devto"
-    },
-    "f4e298273b618b31": {
-      "date": "2026-04-10",
-      "title": "I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs",
-      "source": "devto"
-    },
     "dcb73030ff8cbfba": {
       "date": "2026-04-11",
       "title": "Small models also found the vulnerabilities that Mythos found",
@@ -4825,6 +4665,176 @@
     "b2b81d4907c6a390": {
       "date": "2026-05-10",
       "title": "affaan-m / everything-claude-code",
+      "source": "github"
+    },
+    "c279b7bef73d5d78": {
+      "date": "2026-05-11",
+      "title": "Ratty – A terminal emulator with inline 3D graphics",
+      "source": "hackernews"
+    },
+    "889800f0d3cc9e0e": {
+      "date": "2026-05-11",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "source": "hackernews"
+    },
+    "37d6a67043ab3cba": {
+      "date": "2026-05-11",
+      "title": "TanStack NPM Packages Compromised",
+      "source": "hackernews"
+    },
+    "751bd60205d58c24": {
+      "date": "2026-05-11",
+      "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
+      "source": "hackernews"
+    },
+    "05195c2be5b3142b": {
+      "date": "2026-05-11",
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "source": "hackernews"
+    },
+    "ae5124e9901c84cc": {
+      "date": "2026-05-11",
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "source": "hackernews"
+    },
+    "28da985bd59fccbc": {
+      "date": "2026-05-11",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "source": "hackernews"
+    },
+    "5bc96530718a392c": {
+      "date": "2026-05-11",
+      "title": "Library for fast mapping of Java records to native memory",
+      "source": "hackernews"
+    },
+    "802705492b5b7cd8": {
+      "date": "2026-05-11",
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "source": "hackernews"
+    },
+    "a8631e4927d204ed": {
+      "date": "2026-05-11",
+      "title": "Griffin PowerMate driver for modern macOS",
+      "source": "hackernews"
+    },
+    "1b1f3bc3fd4ed11b": {
+      "date": "2026-05-11",
+      "title": "MiroMiro v2",
+      "source": "producthunt"
+    },
+    "0a68252a24503f41": {
+      "date": "2026-05-11",
+      "title": "Suprbox",
+      "source": "producthunt"
+    },
+    "34b8e3845c8da550": {
+      "date": "2026-05-11",
+      "title": "ChatGPT for Google Sheets",
+      "source": "producthunt"
+    },
+    "7313bff7c12fd9ca": {
+      "date": "2026-05-11",
+      "title": "Warp Open-Source",
+      "source": "producthunt"
+    },
+    "5020d229ca512ec8": {
+      "date": "2026-05-11",
+      "title": "Grok Connectors",
+      "source": "producthunt"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-05-11",
+      "title": "Snapseed 4.0",
+      "source": "producthunt"
+    },
+    "d5dbddd9bd3ecc02": {
+      "date": "2026-05-11",
+      "title": "Web Speed",
+      "source": "producthunt"
+    },
+    "4d932a1776026087": {
+      "date": "2026-05-11",
+      "title": "RPCForge",
+      "source": "producthunt"
+    },
+    "7f7c96e0aec05819": {
+      "date": "2026-05-11",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "d036bf5d5daf00f4": {
+      "date": "2026-05-11",
+      "title": "What are your goals for the week? #178",
+      "source": "devto"
+    },
+    "eff6d29ced1c96ba": {
+      "date": "2026-05-11",
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "source": "devto"
+    },
+    "a51d27894fe95a7d": {
+      "date": "2026-05-11",
+      "title": "My fully offline AI-assisted Linux development machine",
+      "source": "devto"
+    },
+    "88efe2f214b05c7a": {
+      "date": "2026-05-11",
+      "title": "The missing layer in prompt engineering: thinking quality",
+      "source": "devto"
+    },
+    "1bdb3d3e969ffa0f": {
+      "date": "2026-05-11",
+      "title": "How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project",
+      "source": "devto"
+    },
+    "5e579e51b27a68b6": {
+      "date": "2026-05-11",
+      "title": "Tracking my cardio with OpenClaw and Gemma 4",
+      "source": "devto"
+    },
+    "ac907b85d66be124": {
+      "date": "2026-05-11",
+      "title": "Arc 3 Catch-Up: Solana Transactions Explained for Web2 Developers",
+      "source": "devto"
+    },
+    "59bc3a1daa9fdac7": {
+      "date": "2026-05-11",
+      "title": "⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran",
+      "source": "devto"
+    },
+    "c97d4b360c2fad7d": {
+      "date": "2026-05-11",
+      "title": "How to Secure AI Agents in Production: What MCP Gets Right (and What It Doesn’t)",
+      "source": "devto"
+    },
+    "98e3e9af21c88e9f": {
+      "date": "2026-05-11",
+      "title": "yikart / AiToEarn",
+      "source": "github"
+    },
+    "e5348c5ff3f91788": {
+      "date": "2026-05-11",
+      "title": "tinyhumansai / openhuman",
+      "source": "github"
+    },
+    "864a120eccc90319": {
+      "date": "2026-05-11",
+      "title": "millionco / react-doctor",
+      "source": "github"
+    },
+    "212d7171cf46bef1": {
+      "date": "2026-05-11",
+      "title": "AUTOMATIC1111 / stable-diffusion-webui",
+      "source": "github"
+    },
+    "5746f3ae58d27b8c": {
+      "date": "2026-05-11",
+      "title": "rasbt / LLMs-from-scratch",
+      "source": "github"
+    },
+    "978e35c607178533": {
+      "date": "2026-05-11",
+      "title": "NousResearch / hermes-agent",
       "source": "github"
     }
   }
