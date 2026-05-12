@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-11T23:35:29.659692",
+  "last_updated": "2026-05-12T23:40:54.172888",
   "sent_items": {
-    "dcb73030ff8cbfba": {
-      "date": "2026-04-11",
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "source": "hackernews"
-    },
-    "ed85e4314942650a": {
-      "date": "2026-04-11",
-      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "source": "hackernews"
-    },
-    "b3d3a83e59314f2d": {
-      "date": "2026-04-11",
-      "title": "Cirrus Labs to join OpenAI",
-      "source": "hackernews"
-    },
-    "cd2990c5b30081b9": {
-      "date": "2026-04-11",
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "source": "hackernews"
-    },
-    "8221e7c8d1c35b12": {
-      "date": "2026-04-11",
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "source": "hackernews"
-    },
-    "1824bbfae25cf3e2": {
-      "date": "2026-04-11",
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "source": "hackernews"
-    },
-    "f7f1f9f1c548f820": {
-      "date": "2026-04-11",
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "source": "hackernews"
-    },
-    "1806b6c8b67c4d11": {
-      "date": "2026-04-11",
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "source": "hackernews"
-    },
-    "39b1b44c1aa7d796": {
-      "date": "2026-04-11",
-      "title": "Dark Castle",
-      "source": "hackernews"
-    },
-    "40311c00dfe128fa": {
-      "date": "2026-04-11",
-      "title": "How to build a `Git diff` driver",
-      "source": "hackernews"
-    },
-    "1b630a4528e975fa": {
-      "date": "2026-04-11",
-      "title": "Claude for Word",
-      "source": "producthunt"
-    },
-    "327d8c8577ec2a09": {
-      "date": "2026-04-11",
-      "title": "Tech Marketing Framework",
-      "source": "producthunt"
-    },
-    "d17c9a0aad076ded": {
-      "date": "2026-04-11",
-      "title": "uTerminal",
-      "source": "producthunt"
-    },
-    "5c74e3dad303fcce": {
-      "date": "2026-04-11",
-      "title": "LinkShell",
-      "source": "producthunt"
-    },
-    "a06aaa3e3f7235e8": {
-      "date": "2026-04-11",
-      "title": "SummAgent",
-      "source": "producthunt"
-    },
-    "c9934a650c5fa473": {
-      "date": "2026-04-11",
-      "title": "Buildermark",
-      "source": "producthunt"
-    },
-    "36262680480d7e33": {
-      "date": "2026-04-11",
-      "title": "Capso",
-      "source": "producthunt"
-    },
-    "9d1f741fa93338b7": {
-      "date": "2026-04-11",
-      "title": "Claude Code ultraplan",
-      "source": "producthunt"
-    },
-    "8c8dcce64883a97a": {
-      "date": "2026-04-11",
-      "title": "The Final 1% of Every GitHub Project: Sealing It Properly",
-      "source": "devto"
-    },
-    "d3d39a746a8264e6": {
-      "date": "2026-04-11",
-      "title": "Title: The Overthinking Machine — I Built an AI That Turns \"Tea or Coffee?\" Into an Existential Cris",
-      "source": "devto"
-    },
-    "c66f8ae9872ece81": {
-      "date": "2026-04-11",
-      "title": "Build a Desktop File Organizer in 35 Lines of Python — Weekend Project",
-      "source": "devto"
-    },
-    "92c5d2db73fbed06": {
-      "date": "2026-04-11",
-      "title": "The Feature Creep",
-      "source": "devto"
-    },
-    "66ebda3b021cd3dc": {
-      "date": "2026-04-11",
-      "title": "I Couldn’t Afford Earth, So I Built Something Better",
-      "source": "devto"
-    },
-    "42ab01aabaf16586": {
-      "date": "2026-04-11",
-      "title": "Writing a TypeScript Type Inference Engine in 300 Lines of Vanilla JS",
-      "source": "devto"
-    },
-    "75ddeab4ca520b00": {
-      "date": "2026-04-11",
-      "title": "I code-reviewed 3 \"vibe-coded\" PRs last week. Every one had hardcoded API keys. So I built a grader.",
-      "source": "devto"
-    },
-    "2ebb899d6b48d78b": {
-      "date": "2026-04-11",
-      "title": "I got mass-flagged by GPTZero for my own writing. So I built an open-source alternative in pure Pyth",
-      "source": "devto"
-    },
-    "1ca9ee8351918cbe": {
-      "date": "2026-04-11",
-      "title": "I built a local screen reader that reads your screen aloud — no cloud, no API keys",
-      "source": "devto"
-    },
-    "f2f60f263a389e95": {
-      "date": "2026-04-11",
-      "title": "I got tired of using 10 different dev tools, so I built my own",
-      "source": "devto"
-    },
-    "7bd0775c5ce4ee5c": {
-      "date": "2026-04-11",
-      "title": "TapXWorld / ChinaTextbook",
-      "source": "github"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-04-11",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "69e4bf61ae703959": {
-      "date": "2026-04-11",
-      "title": "alexpate / awesome-design-systems",
-      "source": "github"
-    },
     "29ae514ec9114997": {
       "date": "2026-04-12",
       "title": "Bring Back Idiomatic Design",
@@ -4835,6 +4680,156 @@
     "978e35c607178533": {
       "date": "2026-05-11",
       "title": "NousResearch / hermes-agent",
+      "source": "github"
+    },
+    "27d2bc1afde64157": {
+      "date": "2026-05-12",
+      "title": "Googlebook",
+      "source": "hackernews"
+    },
+    "3dc81be175bd0700": {
+      "date": "2026-05-12",
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "source": "hackernews"
+    },
+    "c5dbdf21191d63d7": {
+      "date": "2026-05-12",
+      "title": "Why senior developers fail to communicate their expertise",
+      "source": "hackernews"
+    },
+    "75caae35574e62c4": {
+      "date": "2026-05-12",
+      "title": "The Future of Obsidian Plugins",
+      "source": "hackernews"
+    },
+    "88adb36d994a0627": {
+      "date": "2026-05-12",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "source": "hackernews"
+    },
+    "ca5971853d3d4430": {
+      "date": "2026-05-12",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "source": "hackernews"
+    },
+    "b0afebb1d56d094c": {
+      "date": "2026-05-12",
+      "title": "How to make your text look futuristic (2016)",
+      "source": "hackernews"
+    },
+    "e8edd27eb79b99e9": {
+      "date": "2026-05-12",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "source": "hackernews"
+    },
+    "c63a26c0e756a63e": {
+      "date": "2026-05-12",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "source": "hackernews"
+    },
+    "16909e8cbe72df2d": {
+      "date": "2026-05-12",
+      "title": "Kraftwerk's radical 1976 track",
+      "source": "hackernews"
+    },
+    "c97d7a21f595b62a": {
+      "date": "2026-05-12",
+      "title": "Hyperswitch Prism",
+      "source": "producthunt"
+    },
+    "e044fa9f08923f6e": {
+      "date": "2026-05-12",
+      "title": "knooth",
+      "source": "producthunt"
+    },
+    "d01e0c04f0db8239": {
+      "date": "2026-05-12",
+      "title": "MY AI Agent",
+      "source": "producthunt"
+    },
+    "350a38bcec7ca101": {
+      "date": "2026-05-12",
+      "title": "Whisper Island by Coddo",
+      "source": "producthunt"
+    },
+    "d514201ec401ad6c": {
+      "date": "2026-05-12",
+      "title": "Jotform Claude App",
+      "source": "producthunt"
+    },
+    "e0aecf203a24ca9c": {
+      "date": "2026-05-12",
+      "title": "HeyNews",
+      "source": "producthunt"
+    },
+    "2a52244ab9abf8c4": {
+      "date": "2026-05-12",
+      "title": "Hopper",
+      "source": "producthunt"
+    },
+    "b5005402d69c945e": {
+      "date": "2026-05-12",
+      "title": "Pixcode",
+      "source": "producthunt"
+    },
+    "d9683ff09958c9d2": {
+      "date": "2026-05-12",
+      "title": "It's live. Tollere is on the App Store.",
+      "source": "devto"
+    },
+    "064200d42303e968": {
+      "date": "2026-05-12",
+      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
+      "source": "devto"
+    },
+    "a2db2191850d01cb": {
+      "date": "2026-05-12",
+      "title": "Open Vibe -- Ship your SaaS with AI. Without getting stuck.",
+      "source": "devto"
+    },
+    "f317c5da13adcb8f": {
+      "date": "2026-05-12",
+      "title": "The Language Wars Are Over. The Ground Shifted Without You.",
+      "source": "devto"
+    },
+    "6598ae4f52a4bba7": {
+      "date": "2026-05-12",
+      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
+      "source": "devto"
+    },
+    "7d8219f8dff0d84c": {
+      "date": "2026-05-12",
+      "title": "Run Claude Code Locally for Free with Docker Model Runner",
+      "source": "devto"
+    },
+    "6735ae1bddc285c7": {
+      "date": "2026-05-12",
+      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LIN",
+      "source": "devto"
+    },
+    "093dbda89366d59b": {
+      "date": "2026-05-12",
+      "title": "I Stopped Fighting React Server Components — Here's What Finally Made It",
+      "source": "devto"
+    },
+    "96431c78810b73f6": {
+      "date": "2026-05-12",
+      "title": "Teaching an AI Agent to Talk to a Light Bulb (and Why I Had to Get Up From My Desk)",
+      "source": "devto"
+    },
+    "e78dd84d83999039": {
+      "date": "2026-05-12",
+      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
+      "source": "devto"
+    },
+    "a2e9897ae5407c5c": {
+      "date": "2026-05-12",
+      "title": "apernet / hysteria",
+      "source": "github"
+    },
+    "226bdadc09085783": {
+      "date": "2026-05-12",
+      "title": "anonfaded / FadCam",
       "source": "github"
     }
   }
