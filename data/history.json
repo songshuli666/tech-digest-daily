@@ -1,142 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-12T23:40:54.172888",
+  "last_updated": "2026-05-13T23:40:50.088397",
   "sent_items": {
-    "29ae514ec9114997": {
-      "date": "2026-04-12",
-      "title": "Bring Back Idiomatic Design",
-      "source": "hackernews"
-    },
-    "017a35782a81d06c": {
-      "date": "2026-04-12",
-      "title": "The peril of laziness lost",
-      "source": "hackernews"
-    },
-    "8cfeaa6ca26e27a3": {
-      "date": "2026-04-12",
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "source": "hackernews"
-    },
-    "2b5b00c6b94472b1": {
-      "date": "2026-04-12",
-      "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-      "source": "hackernews"
-    },
-    "27d04aa47151bbdc": {
-      "date": "2026-04-12",
-      "title": "Most people can't juggle one ball",
-      "source": "hackernews"
-    },
-    "b064b1c80fa19409": {
-      "date": "2026-04-12",
-      "title": "I gave every train in New York an instrument",
-      "source": "hackernews"
-    },
-    "589df95768dd3f33": {
-      "date": "2026-04-12",
-      "title": "DIY Soft Drinks",
-      "source": "hackernews"
-    },
-    "db576c7c0b5c1ee5": {
-      "date": "2026-04-12",
-      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "source": "hackernews"
-    },
-    "4bd74d5a5551e38c": {
-      "date": "2026-04-12",
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "source": "hackernews"
-    },
-    "35b86bc5223380b6": {
-      "date": "2026-04-12",
-      "title": "Tech valuations are back to pre-AI boom levels",
-      "source": "hackernews"
-    },
-    "fb9efc649e8c9e4c": {
-      "date": "2026-04-12",
-      "title": "Layered",
-      "source": "producthunt"
-    },
-    "79b55452e1c87c49": {
-      "date": "2026-04-12",
-      "title": "Ray",
-      "source": "producthunt"
-    },
-    "e470a75734b9907f": {
-      "date": "2026-04-12",
-      "title": "Interactive Simulations in Gemini",
-      "source": "producthunt"
-    },
-    "02c89eb173e164a1": {
-      "date": "2026-04-12",
-      "title": "Nicelydone MCP",
-      "source": "producthunt"
-    },
-    "64d5b026bc27238b": {
-      "date": "2026-04-12",
-      "title": "Building a Football Analytics Pipeline: Patterns, Tradeoffs, and What Production Would Look Like",
-      "source": "devto"
-    },
-    "5d1f7816300e4328": {
-      "date": "2026-04-12",
-      "title": "How to Programmatically Install Firefox Extensions (And Why It Breaks)",
-      "source": "devto"
-    },
-    "684c7d92d032afc9": {
-      "date": "2026-04-12",
-      "title": "How We Ran Two Portals on the Same Domain During a React Migration (Without Users Noticing)",
-      "source": "devto"
-    },
-    "f342437c2bce3b30": {
-      "date": "2026-04-12",
-      "title": "Health Checks in ASP.NET Core: Beyond the Basic /health Endpoint",
-      "source": "devto"
-    },
-    "17023344ba5989d3": {
-      "date": "2026-04-12",
-      "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-      "source": "devto"
-    },
-    "246e9a55acf925ba": {
-      "date": "2026-04-12",
-      "title": "DualClip - Update_2026.04.12.",
-      "source": "devto"
-    },
-    "6bd79c7d6ed1d2e9": {
-      "date": "2026-04-12",
-      "title": "Sentinel Diary #2: the day the dashboard lied (and other honest bugs)",
-      "source": "devto"
-    },
-    "d8a4416fc7b53e7f": {
-      "date": "2026-04-12",
-      "title": "I built a pixel-perfect, printer-independent report designer with Avalonia UI",
-      "source": "devto"
-    },
-    "ff280d263ea6dce3": {
-      "date": "2026-04-12",
-      "title": "I built a Telegram bot that reads 70 arXiv papers a day so I don't have to",
-      "source": "devto"
-    },
-    "409259fc1039a056": {
-      "date": "2026-04-12",
-      "title": "GitHub Actions Supabase で技術記事投稿を自動化した話 — 1日に21本をQiita/dev.toへ",
-      "source": "devto"
-    },
-    "6539c7615faa828b": {
-      "date": "2026-04-12",
-      "title": "ahujasid / blender-mcp",
-      "source": "github"
-    },
-    "7e0cdf3f57bc56a3": {
-      "date": "2026-04-12",
-      "title": "rustfs / rustfs",
-      "source": "github"
-    },
-    "6ba295e36e4d8f6f": {
-      "date": "2026-04-12",
-      "title": "snarktank / ralph",
-      "source": "github"
-    },
     "364d6c0924ae49f8": {
       "date": "2026-04-13",
       "title": "REasy",
@@ -4830,6 +4695,186 @@
     "226bdadc09085783": {
       "date": "2026-05-12",
       "title": "anonfaded / FadCam",
+      "source": "github"
+    },
+    "f21f56b2edeca3e7": {
+      "date": "2026-05-13",
+      "title": "Googlebook",
+      "source": "producthunt"
+    },
+    "ed167095570bb435": {
+      "date": "2026-05-13",
+      "title": "Mycelis",
+      "source": "producthunt"
+    },
+    "8fa8117cff770cc3": {
+      "date": "2026-05-13",
+      "title": "Mi",
+      "source": "producthunt"
+    },
+    "0964a943208c70d8": {
+      "date": "2026-05-13",
+      "title": "Termux Lite",
+      "source": "producthunt"
+    },
+    "d6bcda7b5be86096": {
+      "date": "2026-05-13",
+      "title": "SideNotes",
+      "source": "producthunt"
+    },
+    "6575eaf50c7df9c9": {
+      "date": "2026-05-13",
+      "title": "PitchDrop.ai",
+      "source": "producthunt"
+    },
+    "60fa5e1ebd4ea40a": {
+      "date": "2026-05-13",
+      "title": "xyOps",
+      "source": "producthunt"
+    },
+    "93ed78930fd3cc68": {
+      "date": "2026-05-13",
+      "title": "IndexedAI",
+      "source": "producthunt"
+    },
+    "667a2a482f0dc715": {
+      "date": "2026-05-13",
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "source": "hackernews"
+    },
+    "1ca095dff411e0f3": {
+      "date": "2026-05-13",
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "source": "hackernews"
+    },
+    "58124c2f604a593a": {
+      "date": "2026-05-13",
+      "title": "A History of IDEs at Google",
+      "source": "hackernews"
+    },
+    "aab9bbeb44ac634e": {
+      "date": "2026-05-13",
+      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+      "source": "hackernews"
+    },
+    "194cea362cf4747b": {
+      "date": "2026-05-13",
+      "title": "The Emacsification of Software",
+      "source": "hackernews"
+    },
+    "a36a2054506f48f8": {
+      "date": "2026-05-13",
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "source": "hackernews"
+    },
+    "51fbc72011373fbd": {
+      "date": "2026-05-13",
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "source": "hackernews"
+    },
+    "aa8b1d3502d1253e": {
+      "date": "2026-05-13",
+      "title": "S-100 Virtual Workbench",
+      "source": "hackernews"
+    },
+    "080548aed53b88cb": {
+      "date": "2026-05-13",
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "source": "hackernews"
+    },
+    "17180054bc45d497": {
+      "date": "2026-05-13",
+      "title": "Chess puzzle I found in my dad's old book",
+      "source": "hackernews"
+    },
+    "8279dc75f463d2b8": {
+      "date": "2026-05-13",
+      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
+      "source": "devto"
+    },
+    "01da57bde860a58f": {
+      "date": "2026-05-13",
+      "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
+      "source": "devto"
+    },
+    "0ede5ef318da3a9f": {
+      "date": "2026-05-13",
+      "title": "What Burnout Actually Feels Like (Not What Instagram Tells You)",
+      "source": "devto"
+    },
+    "43e28e41370d2ee7": {
+      "date": "2026-05-13",
+      "title": "From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Change",
+      "source": "devto"
+    },
+    "ae40be28f5af9e6a": {
+      "date": "2026-05-13",
+      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
+      "source": "devto"
+    },
+    "9e898ce165382025": {
+      "date": "2026-05-13",
+      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
+      "source": "devto"
+    },
+    "68945bc96e99f6eb": {
+      "date": "2026-05-13",
+      "title": "Day 99 of #100DaysOfCode — DevCollab: Deploying Next.js and Going Live",
+      "source": "devto"
+    },
+    "ad9467dc3bf207fd": {
+      "date": "2026-05-13",
+      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
+      "source": "devto"
+    },
+    "4139f369bfe0ee1e": {
+      "date": "2026-05-13",
+      "title": "I Got Tired of AI Black Boxes So I Built One You Can Break Into",
+      "source": "devto"
+    },
+    "bc5a8fa4eaf83c2a": {
+      "date": "2026-05-13",
+      "title": "onclick is great, actually",
+      "source": "devto"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-05-13",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "2565b832f4bf6403": {
+      "date": "2026-05-13",
+      "title": "influxdata / telegraf",
+      "source": "github"
+    },
+    "bf559441b24d3589": {
+      "date": "2026-05-13",
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "source": "github"
+    },
+    "7904af429ad536aa": {
+      "date": "2026-05-13",
+      "title": "danielmiessler / Personal_AI_Infrastructure",
+      "source": "github"
+    },
+    "344599a590f4eb39": {
+      "date": "2026-05-13",
+      "title": "supertone-inc / supertonic",
+      "source": "github"
+    },
+    "497185c0f85ecca1": {
+      "date": "2026-05-13",
+      "title": "Greedeks / GTweak",
+      "source": "github"
+    },
+    "a5010e1e56158eea": {
+      "date": "2026-05-13",
+      "title": "ArthurBrussee / brush",
+      "source": "github"
+    },
+    "32d078cecf55571e": {
+      "date": "2026-05-13",
+      "title": "imthenachoman / How-To-Secure-A-Linux-Server",
       "source": "github"
     }
   }
