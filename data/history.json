@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-13T23:40:50.088397",
+  "last_updated": "2026-05-14T23:33:39.856046",
   "sent_items": {
-    "364d6c0924ae49f8": {
-      "date": "2026-04-13",
-      "title": "REasy",
-      "source": "producthunt"
-    },
-    "8886edb3efbc5800": {
-      "date": "2026-04-13",
-      "title": "Vekta",
-      "source": "producthunt"
-    },
-    "2a8e2d4d91e4610d": {
-      "date": "2026-04-13",
-      "title": "Legitify",
-      "source": "producthunt"
-    },
-    "b2982ed9033a87ad": {
-      "date": "2026-04-13",
-      "title": "ContextPool",
-      "source": "producthunt"
-    },
-    "f62cf4c0e6c86447": {
-      "date": "2026-04-13",
-      "title": "showmd",
-      "source": "producthunt"
-    },
-    "fc0d48457972137a": {
-      "date": "2026-04-13",
-      "title": "GhostDesk",
-      "source": "producthunt"
-    },
-    "2a07106529e1987c": {
-      "date": "2026-04-13",
-      "title": "Open Comet",
-      "source": "producthunt"
-    },
-    "78803f96b8c46264": {
-      "date": "2026-04-13",
-      "title": "SigmaMind MCP",
-      "source": "producthunt"
-    },
-    "f62d3829fbb33427": {
-      "date": "2026-04-13",
-      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-      "source": "hackernews"
-    },
-    "fa4911febe9fb380": {
-      "date": "2026-04-13",
-      "title": "Servo is now available on crates.io",
-      "source": "hackernews"
-    },
-    "6db14a462d1731b3": {
-      "date": "2026-04-13",
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "source": "hackernews"
-    },
-    "9b20605de4e9e79c": {
-      "date": "2026-04-13",
-      "title": "GitHub Stacked PRs",
-      "source": "hackernews"
-    },
-    "d1cb113d6520b941": {
-      "date": "2026-04-13",
-      "title": "Building a CLI for All of Cloudflare",
-      "source": "hackernews"
-    },
-    "7b1b2eeb7cf235e4": {
-      "date": "2026-04-13",
-      "title": "How to make Firefox builds 17% faster",
-      "source": "hackernews"
-    },
-    "64e7d8573592c1da": {
-      "date": "2026-04-13",
-      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-      "source": "hackernews"
-    },
-    "8d59befe4ebf4b4e": {
-      "date": "2026-04-13",
-      "title": "(AMD) Build AI Agents That Run Locally",
-      "source": "hackernews"
-    },
-    "3d3ad27ebcc1ca32": {
-      "date": "2026-04-13",
-      "title": "The tech jobs bust is real. Don't blame AI (yet)",
-      "source": "hackernews"
-    },
-    "e1b22d84cbc7da3d": {
-      "date": "2026-04-13",
-      "title": "What We Learned Building a Rust Runtime for TypeScript",
-      "source": "hackernews"
-    },
-    "55ad460b8b1072b3": {
-      "date": "2026-04-13",
-      "title": "Meet Hotfix—The Dragon Your Legacy Code Deserves",
-      "source": "devto"
-    },
-    "81dc40af8aaa5f14": {
-      "date": "2026-04-13",
-      "title": "I Ran 500 More Agent Memory Experiments. The Real Problem Wasn’t Recall. It Was Binding.",
-      "source": "devto"
-    },
-    "b8ef58480cc08a08": {
-      "date": "2026-04-13",
-      "title": "Build a Talking Robot with Gemini Live and Reachy Mini",
-      "source": "devto"
-    },
-    "3698fd7b3ec468d3": {
-      "date": "2026-04-13",
-      "title": "The Emotional Terror of Closing a Browser Tab",
-      "source": "devto"
-    },
-    "6884224a81fbb57a": {
-      "date": "2026-04-13",
-      "title": "Adding Persistent Memory to Claude Code with claude-mem — Plus a DIY Lightweight Alternative",
-      "source": "devto"
-    },
-    "4e316f705cc31686": {
-      "date": "2026-04-13",
-      "title": "I Built a Platformer That Gaslights You — Coins Steal, Spikes Heal, and The Exit Door Kills You 🫖",
-      "source": "devto"
-    },
-    "d3494484e52a4bcf": {
-      "date": "2026-04-13",
-      "title": "Gemini Thinking: How \"Brainy\" Models Unexpectedly Blew My Budget",
-      "source": "devto"
-    },
-    "58d009d444394a2c": {
-      "date": "2026-04-13",
-      "title": "🎤 Music Player - Scream to Skip Ads (But You Can’t)",
-      "source": "devto"
-    },
-    "0457d2235bba8eff": {
-      "date": "2026-04-13",
-      "title": "The Open Sourcerer of Forem: Beyond the UI",
-      "source": "devto"
-    },
-    "0fb1cec99349761e": {
-      "date": "2026-04-13",
-      "title": "The Developer's Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don't Nee",
-      "source": "devto"
-    },
-    "3f87148fc02bbcf5": {
-      "date": "2026-04-13",
-      "title": "anthropics / claude-cookbooks",
-      "source": "github"
-    },
-    "bfeff07f7d8682f0": {
-      "date": "2026-04-13",
-      "title": "jamiepine / voicebox",
-      "source": "github"
-    },
     "be743e9b42f42e82": {
       "date": "2026-04-14",
       "title": "Rare concert recordings are landing on the Internet Archive",
@@ -4875,6 +4725,176 @@
     "32d078cecf55571e": {
       "date": "2026-05-13",
       "title": "imthenachoman / How-To-Secure-A-Linux-Server",
+      "source": "github"
+    },
+    "34ff731aa3ec89be": {
+      "date": "2026-05-14",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "source": "hackernews"
+    },
+    "6c952e55d1e30759": {
+      "date": "2026-05-14",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "source": "hackernews"
+    },
+    "bcf55a71de455c04": {
+      "date": "2026-05-14",
+      "title": "New Nginx Exploit",
+      "source": "hackernews"
+    },
+    "8fd5d832fdd1c471": {
+      "date": "2026-05-14",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "source": "hackernews"
+    },
+    "3480e3504471e48f": {
+      "date": "2026-05-14",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "source": "hackernews"
+    },
+    "4252a8b7c152ffef": {
+      "date": "2026-05-14",
+      "title": "Amazonbot is finally respecting robots.txt",
+      "source": "hackernews"
+    },
+    "fdd684c677df0d55": {
+      "date": "2026-05-14",
+      "title": "A few words on DS4",
+      "source": "hackernews"
+    },
+    "61b6bc0d51d337d4": {
+      "date": "2026-05-14",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "source": "hackernews"
+    },
+    "8107c03f397ac1ab": {
+      "date": "2026-05-14",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "source": "hackernews"
+    },
+    "aed7e8515d3ca1ce": {
+      "date": "2026-05-14",
+      "title": "More than half of U.S. faces worst drought in decades",
+      "source": "hackernews"
+    },
+    "a0bcab744de3a0d2": {
+      "date": "2026-05-14",
+      "title": "DesignMD",
+      "source": "producthunt"
+    },
+    "9ba1401b41082fb5": {
+      "date": "2026-05-14",
+      "title": "Open Browser Use",
+      "source": "producthunt"
+    },
+    "cef8dc9576107c25": {
+      "date": "2026-05-14",
+      "title": "Open Computer Use",
+      "source": "producthunt"
+    },
+    "17b6602a6284324c": {
+      "date": "2026-05-14",
+      "title": "Enjo Help Center",
+      "source": "producthunt"
+    },
+    "aef17cdd726b0137": {
+      "date": "2026-05-14",
+      "title": "Asteroid",
+      "source": "producthunt"
+    },
+    "0c80c530d0e39645": {
+      "date": "2026-05-14",
+      "title": "Raindrop Workshop",
+      "source": "producthunt"
+    },
+    "88103d0b63570725": {
+      "date": "2026-05-14",
+      "title": "Indigo",
+      "source": "producthunt"
+    },
+    "d5312f2ca254a9f5": {
+      "date": "2026-05-14",
+      "title": "Edit Mind",
+      "source": "producthunt"
+    },
+    "4b6f13fe3c3bf827": {
+      "date": "2026-05-14",
+      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
+      "source": "devto"
+    },
+    "183bacdf643669d9": {
+      "date": "2026-05-14",
+      "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
+      "source": "devto"
+    },
+    "38044db9e13700e1": {
+      "date": "2026-05-14",
+      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
+      "source": "devto"
+    },
+    "9f677364af19961b": {
+      "date": "2026-05-14",
+      "title": "PHP vs Node.js & Next.js vs Angular: What to Learn",
+      "source": "devto"
+    },
+    "332ea133a81d7a42": {
+      "date": "2026-05-14",
+      "title": "Tokensparsamkeit for coding assistants",
+      "source": "devto"
+    },
+    "cc8d31a9d3252a28": {
+      "date": "2026-05-14",
+      "title": "OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.",
+      "source": "devto"
+    },
+    "b5c9ceaebaf629bb": {
+      "date": "2026-05-14",
+      "title": "Building a custom launcher for ChromeOS",
+      "source": "devto"
+    },
+    "8db4356df6ea0568": {
+      "date": "2026-05-14",
+      "title": "The new Agent Toolkit for AWS includes 20+ agent skills, but your agent might never load them withou",
+      "source": "devto"
+    },
+    "e581fadb30dba220": {
+      "date": "2026-05-14",
+      "title": "Vibe Coding, Demystified",
+      "source": "devto"
+    },
+    "f949cf8448c83386": {
+      "date": "2026-05-14",
+      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
+      "source": "devto"
+    },
+    "c175a33fc9954c9b": {
+      "date": "2026-05-14",
+      "title": "shiyu-coder / Kronos",
+      "source": "github"
+    },
+    "b8b2afae293a234e": {
+      "date": "2026-05-14",
+      "title": "roboflow / supervision",
+      "source": "github"
+    },
+    "70c47826bd1499e6": {
+      "date": "2026-05-14",
+      "title": "Genymobile / scrcpy",
+      "source": "github"
+    },
+    "fe577d59e6521fe0": {
+      "date": "2026-05-14",
+      "title": "NVIDIA-AI-Blueprints / video-search-and-summarization",
+      "source": "github"
+    },
+    "8a080a19e7684f78": {
+      "date": "2026-05-14",
+      "title": "github / spec-kit",
+      "source": "github"
+    },
+    "8ed11f9c07a08ee3": {
+      "date": "2026-05-14",
+      "title": "garrytan / gstack",
       "source": "github"
     }
   }
