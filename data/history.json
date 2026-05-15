@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-14T23:33:39.856046",
+  "last_updated": "2026-05-15T23:33:34.381937",
   "sent_items": {
-    "be743e9b42f42e82": {
-      "date": "2026-04-14",
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "source": "hackernews"
-    },
-    "8ae9647725db9f25": {
-      "date": "2026-04-14",
-      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-      "source": "hackernews"
-    },
-    "327ef7b3ca9aafb7": {
-      "date": "2026-04-14",
-      "title": "Claude Code Routines",
-      "source": "hackernews"
-    },
-    "5976ac98db2d6eab": {
-      "date": "2026-04-14",
-      "title": "5NF and Database Design",
-      "source": "hackernews"
-    },
-    "d360c349680dfca8": {
-      "date": "2026-04-14",
-      "title": "Let's talk space toilets",
-      "source": "hackernews"
-    },
-    "e015096a93a229bb": {
-      "date": "2026-04-14",
-      "title": "The Orange Pi 6 Plus",
-      "source": "hackernews"
-    },
-    "a7d9897422054ab0": {
-      "date": "2026-04-14",
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "source": "hackernews"
-    },
-    "b7111513b6d0915a": {
-      "date": "2026-04-14",
-      "title": "H.R.8250 – To require operating system providers to verify the age of any user",
-      "source": "hackernews"
-    },
-    "ae14c299e481e075": {
-      "date": "2026-04-14",
-      "title": "Trusted access for the next era of cyber defense",
-      "source": "hackernews"
-    },
-    "2646ecbf6cfc6164": {
-      "date": "2026-04-14",
-      "title": "Fuck the cloud (2009)",
-      "source": "hackernews"
-    },
-    "352272a760f9be06": {
-      "date": "2026-04-14",
-      "title": "CatDoes v4",
-      "source": "producthunt"
-    },
-    "f2ac114bcfb3b9d3": {
-      "date": "2026-04-14",
-      "title": "MarketRecon",
-      "source": "producthunt"
-    },
-    "a7e83d96322f2002": {
-      "date": "2026-04-14",
-      "title": "Cascode",
-      "source": "producthunt"
-    },
-    "e95f73598e3c52a0": {
-      "date": "2026-04-14",
-      "title": "HeyGen CLI",
-      "source": "producthunt"
-    },
-    "c0b8caecf032de63": {
-      "date": "2026-04-14",
-      "title": "Ovren",
-      "source": "producthunt"
-    },
-    "6fad77a674aa7f9f": {
-      "date": "2026-04-14",
-      "title": "Caveman",
-      "source": "producthunt"
-    },
-    "db5956c7e2402297": {
-      "date": "2026-04-14",
-      "title": "Softr AI Co-Builder",
-      "source": "producthunt"
-    },
-    "08d65ddf610faca1": {
-      "date": "2026-04-14",
-      "title": "Renderr",
-      "source": "producthunt"
-    },
-    "2cf863253d48b33c": {
-      "date": "2026-04-14",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "585652e4e9a3b4e5": {
-      "date": "2026-04-14",
-      "title": "Your Job Isn't Going Away. But Someone's Fundraise Depends on You Thinking It Is.",
-      "source": "devto"
-    },
-    "aae82ec29e40ec5b": {
-      "date": "2026-04-14",
-      "title": "TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform",
-      "source": "devto"
-    },
-    "a1527cf00c34b9eb": {
-      "date": "2026-04-14",
-      "title": "Building a Privacy-First Voice-Controlled AI Agent with Local LLMs 🎙️->🤖",
-      "source": "devto"
-    },
-    "fd5b8bdd3fee76ef": {
-      "date": "2026-04-14",
-      "title": "We Had 6 Hours, a Dying API, and I'm Ran rm -rf. We Still Won. 🏆",
-      "source": "devto"
-    },
-    "8011f184e9eff718": {
-      "date": "2026-04-14",
-      "title": "From Software Engineer to Developer Advocate: The Silent Transition I've Been Making for Years Witho",
-      "source": "devto"
-    },
-    "7afff8688193605b": {
-      "date": "2026-04-14",
-      "title": "VoxMind: A Secure, Local-First Voice AI Agent on the Edge",
-      "source": "devto"
-    },
-    "9d0ff76442883d22": {
-      "date": "2026-04-14",
-      "title": "The Backyard Quarry, Part 5: Digital Twins for Physical Objects",
-      "source": "devto"
-    },
-    "df479511969d222b": {
-      "date": "2026-04-14",
-      "title": "Revisiting Idris in 2026: Is It Ready for Real Work?",
-      "source": "devto"
-    },
-    "20de6ed4665edd9b": {
-      "date": "2026-04-14",
-      "title": "Why I Built tat: A Tiny API Test Tool for Real Integration Work and fits With AI Workflows",
-      "source": "devto"
-    },
-    "44fef4354ab3fc2f": {
-      "date": "2026-04-14",
-      "title": "chrislgarry / Apollo-11",
-      "source": "github"
-    },
-    "e5c17dd649f0e4a4": {
-      "date": "2026-04-14",
-      "title": "tw93 / Mole",
-      "source": "github"
-    },
     "f5b9b3472b5f4037": {
       "date": "2026-04-15",
       "title": "Google broke its promise to me – now ICE has my data",
@@ -4895,6 +4745,156 @@
     "8ed11f9c07a08ee3": {
       "date": "2026-05-14",
       "title": "garrytan / gstack",
+      "source": "github"
+    },
+    "6e47c98b585aa857": {
+      "date": "2026-05-15",
+      "title": "Project Gutenberg – keeps getting better",
+      "source": "hackernews"
+    },
+    "0fa3fe1131736ad6": {
+      "date": "2026-05-15",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "source": "hackernews"
+    },
+    "592e1a5d040137b7": {
+      "date": "2026-05-15",
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "source": "hackernews"
+    },
+    "6829a4b13e4b1c7a": {
+      "date": "2026-05-15",
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "source": "hackernews"
+    },
+    "838c6602c4af24c1": {
+      "date": "2026-05-15",
+      "title": "California bill would require patches or refunds when online games shut down",
+      "source": "hackernews"
+    },
+    "134c40e3de6a43e0": {
+      "date": "2026-05-15",
+      "title": "The Zulip Foundation",
+      "source": "hackernews"
+    },
+    "dffb9b54ba3023ba": {
+      "date": "2026-05-15",
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "source": "hackernews"
+    },
+    "ed98e6f1b3d607d3": {
+      "date": "2026-05-15",
+      "title": "The sigmoids won't save you",
+      "source": "hackernews"
+    },
+    "8eec0be72313c593": {
+      "date": "2026-05-15",
+      "title": "WinCE64 – Windows CE 2.11 for N64",
+      "source": "hackernews"
+    },
+    "516f21667aa22e67": {
+      "date": "2026-05-15",
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "source": "hackernews"
+    },
+    "39ca155385542caa": {
+      "date": "2026-05-15",
+      "title": "PHBench",
+      "source": "producthunt"
+    },
+    "8033ef29df6b8320": {
+      "date": "2026-05-15",
+      "title": "Sleek Analytics v3",
+      "source": "producthunt"
+    },
+    "48940da03ca1e76b": {
+      "date": "2026-05-15",
+      "title": "Nimbus",
+      "source": "producthunt"
+    },
+    "4e0dd976b3f3bfd1": {
+      "date": "2026-05-15",
+      "title": "Lensmor",
+      "source": "producthunt"
+    },
+    "9a0086f38136f47f": {
+      "date": "2026-05-15",
+      "title": "Agentic Website Builder 2.0 by Lokuma",
+      "source": "producthunt"
+    },
+    "d060ef6d6ef47c37": {
+      "date": "2026-05-15",
+      "title": "Atter AI",
+      "source": "producthunt"
+    },
+    "c438d3da28eecc64": {
+      "date": "2026-05-15",
+      "title": "Gradient Bang",
+      "source": "producthunt"
+    },
+    "6a675e5ebba62405": {
+      "date": "2026-05-15",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "ae346f555e07fdf7": {
+      "date": "2026-05-15",
+      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
+      "source": "devto"
+    },
+    "0077cc44a4b777b1": {
+      "date": "2026-05-15",
+      "title": "You don't 3D print a house. You print your tools.",
+      "source": "devto"
+    },
+    "e57c1aa551b6486a": {
+      "date": "2026-05-15",
+      "title": "Circuits: Bit-Banging, SPI, and CPLD",
+      "source": "devto"
+    },
+    "b44261fe1b9186d4": {
+      "date": "2026-05-15",
+      "title": "Day 100 of #100DaysOfCode — What I Built, What I Learned, and What's Next",
+      "source": "devto"
+    },
+    "d6919cf6ccf34c0c": {
+      "date": "2026-05-15",
+      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
+      "source": "devto"
+    },
+    "f681c593cc1a68c6": {
+      "date": "2026-05-15",
+      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
+      "source": "devto"
+    },
+    "2663dd4aa41183c7": {
+      "date": "2026-05-15",
+      "title": "Bypassing User Isolation on Android with a Screen Reader",
+      "source": "devto"
+    },
+    "1aac0a56d316af7b": {
+      "date": "2026-05-15",
+      "title": "I Built a Multi-Agent AI Tribunal with Gemma 4",
+      "source": "devto"
+    },
+    "69ddb9d4e13a7a65": {
+      "date": "2026-05-15",
+      "title": "Say Goodbye to Context Amnesia: Meet Git-Chacha 🧠",
+      "source": "devto"
+    },
+    "ea97e2f9b3078078": {
+      "date": "2026-05-15",
+      "title": "anthropics / skills",
+      "source": "github"
+    },
+    "d0e94d130828eeee": {
+      "date": "2026-05-15",
+      "title": "oven-sh / bun",
+      "source": "github"
+    },
+    "2ef161ca72bdb0e7": {
+      "date": "2026-05-15",
+      "title": "joeseesun / qiaomu-anything-to-notebooklm",
       "source": "github"
     }
   }
