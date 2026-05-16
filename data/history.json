@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-15T23:33:34.381937",
+  "last_updated": "2026-05-16T23:33:23.235568",
   "sent_items": {
-    "f5b9b3472b5f4037": {
-      "date": "2026-04-15",
-      "title": "Google broke its promise to me – now ICE has my data",
-      "source": "hackernews"
-    },
-    "14022ccef1403f7b": {
-      "date": "2026-04-15",
-      "title": "God sleeps in the minerals",
-      "source": "hackernews"
-    },
-    "07697f11677afc9d": {
-      "date": "2026-04-15",
-      "title": "Live Nation illegally monopolized ticketing market, jury finds",
-      "source": "hackernews"
-    },
-    "12ac0310f51d2968": {
-      "date": "2026-04-15",
-      "title": "Cal.com is going closed source",
-      "source": "hackernews"
-    },
-    "6483c73125492dfe": {
-      "date": "2026-04-15",
-      "title": "Cybersecurity looks like proof of work now",
-      "source": "hackernews"
-    },
-    "45632120f0b22e5e": {
-      "date": "2026-04-15",
-      "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-      "source": "hackernews"
-    },
-    "7939ebd8626fd226": {
-      "date": "2026-04-15",
-      "title": "ChatGPT for Excel",
-      "source": "hackernews"
-    },
-    "5df2eb78cbf0648f": {
-      "date": "2026-04-15",
-      "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-      "source": "hackernews"
-    },
-    "81ff0dfab20a95bd": {
-      "date": "2026-04-15",
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling",
-      "source": "hackernews"
-    },
-    "0a4e7ce66d613d97": {
-      "date": "2026-04-15",
-      "title": "I made a terminal pager",
-      "source": "hackernews"
-    },
-    "bed356e1d5f83f04": {
-      "date": "2026-04-15",
-      "title": "SnapEdit",
-      "source": "producthunt"
-    },
-    "ee9d142a0bc70430": {
-      "date": "2026-04-15",
-      "title": "Crazzy",
-      "source": "producthunt"
-    },
-    "ab7024d0873cd39d": {
-      "date": "2026-04-15",
-      "title": "Google app for desktop",
-      "source": "producthunt"
-    },
-    "d7097dd0052c1785": {
-      "date": "2026-04-15",
-      "title": "DataGrout",
-      "source": "producthunt"
-    },
-    "011409dedfcf5c9a": {
-      "date": "2026-04-15",
-      "title": "Cenote",
-      "source": "producthunt"
-    },
-    "73a040771506d362": {
-      "date": "2026-04-15",
-      "title": "Playbook Intelligence",
-      "source": "producthunt"
-    },
-    "618b1bf41184c3f7": {
-      "date": "2026-04-15",
-      "title": "How to prompt Gemini 3.1's new text to speech model",
-      "source": "devto"
-    },
-    "d7ea42ebc296e435": {
-      "date": "2026-04-15",
-      "title": "How I'm using ASTs and Gemini to solve the \"Codebase Onboarding\" problem 🧠",
-      "source": "devto"
-    },
-    "c7d98c1f4b603f42": {
-      "date": "2026-04-15",
-      "title": "Lost in the AI Hype, I Started Small",
-      "source": "devto"
-    },
-    "efa3c3424cff8084": {
-      "date": "2026-04-15",
-      "title": "Local AI Will Save Us All (The Math Says So, Trust Me)",
-      "source": "devto"
-    },
-    "879d0d1a97fbd81d": {
-      "date": "2026-04-15",
-      "title": "Why I Picked Rust for a Production-Ready Micro SaaS",
-      "source": "devto"
-    },
-    "6ce63ef19efe3c71": {
-      "date": "2026-04-15",
-      "title": "How I Ran a Live Production Upgrade in 24 Minutes Without Taking the Site Down",
-      "source": "devto"
-    },
-    "08e101784e54629b": {
-      "date": "2026-04-15",
-      "title": "Senior Developers Collect Mistakes. Junior Developers Erase Them.",
-      "source": "devto"
-    },
-    "07ebb2aad66f9c99": {
-      "date": "2026-04-15",
-      "title": "What's actually in a modern favicon set (and why everyone gets it wrong)",
-      "source": "devto"
-    },
-    "42cf686610ccf0fa": {
-      "date": "2026-04-15",
-      "title": "Your AI Memory System Can't Tell a River Bank from a Savings Account",
-      "source": "devto"
-    },
-    "0b3511f72531fdde": {
-      "date": "2026-04-15",
-      "title": "Garbage collecting OpenCode's 2.4 GB session database",
-      "source": "devto"
-    },
-    "1fc186e3e23d6cbb": {
-      "date": "2026-04-15",
-      "title": "Lordog / dive-into-llms",
-      "source": "github"
-    },
-    "a55c819fccc2bf0d": {
-      "date": "2026-04-15",
-      "title": "public-apis / public-apis",
-      "source": "github"
-    },
-    "5b7717888e6ce91c": {
-      "date": "2026-04-15",
-      "title": "vercel-labs / open-agents",
-      "source": "github"
-    },
-    "c2a426889a1afcfb": {
-      "date": "2026-04-15",
-      "title": "lsdefine / GenericAgent",
-      "source": "github"
-    },
-    "38e81cc957755f9c": {
-      "date": "2026-04-15",
-      "title": "google / magika",
-      "source": "github"
-    },
-    "92509c4f30bfa957": {
-      "date": "2026-04-15",
-      "title": "Donchitos / Claude-Code-Game-Studios",
-      "source": "github"
-    },
     "f138857a7c8bdd06": {
       "date": "2026-04-16",
       "title": "Google Chrome Skills",
@@ -4896,6 +4736,146 @@
       "date": "2026-05-15",
       "title": "joeseesun / qiaomu-anything-to-notebooklm",
       "source": "github"
+    },
+    "31e7a0c680b80f7c": {
+      "date": "2026-05-16",
+      "title": "Loova Agents",
+      "source": "producthunt"
+    },
+    "8fd8d0418eccd0ab": {
+      "date": "2026-05-16",
+      "title": "Gemini 3.1 Flash-Lite",
+      "source": "producthunt"
+    },
+    "5967f762ad718e3b": {
+      "date": "2026-05-16",
+      "title": "Agentmemory",
+      "source": "producthunt"
+    },
+    "a4f423995c4a88e3": {
+      "date": "2026-05-16",
+      "title": "Wring",
+      "source": "producthunt"
+    },
+    "e90e81715a0c9b3f": {
+      "date": "2026-05-16",
+      "title": "M5Stack PaperColor",
+      "source": "producthunt"
+    },
+    "42732129e22c59e7": {
+      "date": "2026-05-16",
+      "title": "Raybeam",
+      "source": "producthunt"
+    },
+    "ad7d7a7b915f938c": {
+      "date": "2026-05-16",
+      "title": "Standboy",
+      "source": "producthunt"
+    },
+    "071ba7bf1560bdcb": {
+      "date": "2026-05-16",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "source": "hackernews"
+    },
+    "2647bd3e0a2ad0dc": {
+      "date": "2026-05-16",
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "source": "hackernews"
+    },
+    "f2ae554d6d69eec7": {
+      "date": "2026-05-16",
+      "title": "Accelerando (2005)",
+      "source": "hackernews"
+    },
+    "fdfc434c05b82d9c": {
+      "date": "2026-05-16",
+      "title": "Windows 9x Subsystem for Linux",
+      "source": "hackernews"
+    },
+    "927aa10b051502b0": {
+      "date": "2026-05-16",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "source": "hackernews"
+    },
+    "84d618770d3182ac": {
+      "date": "2026-05-16",
+      "title": "Halt and Catch Fire",
+      "source": "hackernews"
+    },
+    "9cbe2363eee406c8": {
+      "date": "2026-05-16",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "source": "hackernews"
+    },
+    "57d1a52f8b886503": {
+      "date": "2026-05-16",
+      "title": "A molecule with half-Möbius topology",
+      "source": "hackernews"
+    },
+    "1e15594fce98063d": {
+      "date": "2026-05-16",
+      "title": "MCP Hello Page",
+      "source": "hackernews"
+    },
+    "16d2ffd3d49a6976": {
+      "date": "2026-05-16",
+      "title": "I tried to make Claude make me money on open-source bounties",
+      "source": "hackernews"
+    },
+    "94ec5d23f75fd96a": {
+      "date": "2026-05-16",
+      "title": "colbymchenry / codegraph",
+      "source": "github"
+    },
+    "9696d606666eb070": {
+      "date": "2026-05-16",
+      "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
+      "source": "devto"
+    },
+    "cd43b1586a579111": {
+      "date": "2026-05-16",
+      "title": "I Gave Hermes Agent 5 Impossible Tasks",
+      "source": "devto"
+    },
+    "3776481663fb97a9": {
+      "date": "2026-05-16",
+      "title": "I Ran Hermes Agent on the Same Task for 7 Days. The Skill File on Day 7 Looked Nothing Like Day 1.",
+      "source": "devto"
+    },
+    "1c5c86827e5a1f1f": {
+      "date": "2026-05-16",
+      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
+      "source": "devto"
+    },
+    "96a7ced2548cd0d4": {
+      "date": "2026-05-16",
+      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
+      "source": "devto"
+    },
+    "d85581c401ab304f": {
+      "date": "2026-05-16",
+      "title": "Self-Hosting Gemma 4 for Production Automation Revealed Two Ollama Bugs",
+      "source": "devto"
+    },
+    "21fb9d7f13276029": {
+      "date": "2026-05-16",
+      "title": "🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣",
+      "source": "devto"
+    },
+    "17a219c58b91ed92": {
+      "date": "2026-05-16",
+      "title": "I Built an Enterprise Workflow Engine Like a Game Engine — And It Was the Right Call",
+      "source": "devto"
+    },
+    "bdf1c5a66060b92c": {
+      "date": "2026-05-16",
+      "title": "Prisma vs JDBC: the benchmark that almost made me blame the wrong ORM",
+      "source": "devto"
+    },
+    "9aa86c2efdb3674a": {
+      "date": "2026-05-16",
+      "title": "Why every Claude Code-built site looks the same — and the image layer that breaks it",
+      "source": "devto"
     }
   }
 }
