@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-17T23:37:11.348027",
+  "last_updated": "2026-05-18T23:42:06.543832",
   "sent_items": {
-    "0573c40907ecbc96": {
-      "date": "2026-04-17",
-      "title": "Claude Design",
-      "source": "hackernews"
-    },
-    "ea8a57381063a9e5": {
-      "date": "2026-04-17",
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "source": "hackernews"
-    },
-    "86d87fd8dc683093": {
-      "date": "2026-04-17",
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "source": "hackernews"
-    },
-    "fa276306dc0ede94": {
-      "date": "2026-04-17",
-      "title": "NASA Force",
-      "source": "hackernews"
-    },
-    "83efa03668426240": {
-      "date": "2026-04-17",
-      "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-      "source": "hackernews"
-    },
-    "e1efe98033ccad51": {
-      "date": "2026-04-17",
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "source": "hackernews"
-    },
-    "c838535f416b10de": {
-      "date": "2026-04-17",
-      "title": "I'm spending 3 months coding the old way",
-      "source": "hackernews"
-    },
-    "8cf3446774a4e21f": {
-      "date": "2026-04-17",
-      "title": "A simplified model of Fil-C",
-      "source": "hackernews"
-    },
-    "9dd1fa7d8d267bc7": {
-      "date": "2026-04-17",
-      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
-      "source": "hackernews"
-    },
-    "549c3ba85a25caf3": {
-      "date": "2026-04-17",
-      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
-      "source": "hackernews"
-    },
-    "b927fd5f234e9203": {
-      "date": "2026-04-17",
-      "title": "E.Y.E. by Expert Chase",
-      "source": "producthunt"
-    },
-    "a301cbc5fb0fa995": {
-      "date": "2026-04-17",
-      "title": "Prio",
-      "source": "producthunt"
-    },
-    "d2f8bf6801d79756": {
-      "date": "2026-04-17",
-      "title": "Athena",
-      "source": "producthunt"
-    },
-    "6db9bad2a2655009": {
-      "date": "2026-04-17",
-      "title": "AI Mode in Chrome",
-      "source": "producthunt"
-    },
-    "f1b289c8a21a057f": {
-      "date": "2026-04-17",
-      "title": "Geekflare Scraping API v2",
-      "source": "producthunt"
-    },
-    "f345b9319582f7e3": {
-      "date": "2026-04-17",
-      "title": "Proxima",
-      "source": "producthunt"
-    },
-    "f5edaea82ec98366": {
-      "date": "2026-04-17",
-      "title": "The Factory Desktop App",
-      "source": "producthunt"
-    },
-    "dcf51e267613b1a7": {
-      "date": "2026-04-17",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "cb8271681b0f080c": {
-      "date": "2026-04-17",
-      "title": "Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:",
-      "source": "devto"
-    },
-    "0931a5d24e333b1a": {
-      "date": "2026-04-17",
-      "title": "Congrats to the Notion MCP Challenge Winners!",
-      "source": "devto"
-    },
-    "1aa25f71bbd4de05": {
-      "date": "2026-04-17",
-      "title": "100 Daily Challenges to Learn Web3 and Solana",
-      "source": "devto"
-    },
-    "929cc72dad79c520": {
-      "date": "2026-04-17",
-      "title": "EasyPollVote [Dev Log #2]",
-      "source": "devto"
-    },
-    "c264998a4c4fb2e2": {
-      "date": "2026-04-17",
-      "title": "How We Built Our Own DNS Server",
-      "source": "devto"
-    },
-    "b1bc08f058d7d6c6": {
-      "date": "2026-04-17",
-      "title": "Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud",
-      "source": "devto"
-    },
-    "3c60cbe7dc4143bf": {
-      "date": "2026-04-17",
-      "title": "GheiaGrid: Reimagining Decentralized Urban Farming & Carbon Mining",
-      "source": "devto"
-    },
-    "b1dd50bca2b9b781": {
-      "date": "2026-04-17",
-      "title": "Embarrassment is cheap. Token spend isn't.",
-      "source": "devto"
-    },
-    "4d09e7379dd66434": {
-      "date": "2026-04-17",
-      "title": "Kiwi-chan Progress Report: Steady Mining!",
-      "source": "devto"
-    },
-    "75fac29b01381718": {
-      "date": "2026-04-17",
-      "title": "lukilabs / craft-agents-oss",
-      "source": "github"
-    },
-    "aae07142a68b2769": {
-      "date": "2026-04-17",
-      "title": "Tracer-Cloud / opensre",
-      "source": "github"
-    },
-    "d2e7f6acabc603da": {
-      "date": "2026-04-17",
-      "title": "pingdotgg / t3code",
-      "source": "github"
-    },
-    "b4212d4b4d442e7e": {
-      "date": "2026-04-17",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "source": "github"
-    },
     "0ba86f234d96ba86": {
       "date": "2026-04-18",
       "title": "Is Your Site Agent-Ready? by Cloudflare",
@@ -4871,6 +4716,166 @@
       "date": "2026-05-17",
       "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
       "source": "devto"
+    },
+    "0f87aaa2564a37e6": {
+      "date": "2026-05-18",
+      "title": "Searchad.ai",
+      "source": "producthunt"
+    },
+    "456cb41369ff1ef9": {
+      "date": "2026-05-18",
+      "title": "LobeHub",
+      "source": "producthunt"
+    },
+    "af358ed2848a2ced": {
+      "date": "2026-05-18",
+      "title": "AnyFrame",
+      "source": "producthunt"
+    },
+    "545e2e5ebae516b3": {
+      "date": "2026-05-18",
+      "title": "Voiser AI",
+      "source": "producthunt"
+    },
+    "4476f0a77c9d5a14": {
+      "date": "2026-05-18",
+      "title": "QuickRight",
+      "source": "producthunt"
+    },
+    "3f44c4b9ebf2a1fc": {
+      "date": "2026-05-18",
+      "title": "Agentspan",
+      "source": "producthunt"
+    },
+    "6e27d6439080e1a1": {
+      "date": "2026-05-18",
+      "title": "pixserp",
+      "source": "producthunt"
+    },
+    "f568df07558fd44a": {
+      "date": "2026-05-18",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "source": "hackernews"
+    },
+    "adec4ae5403c90fb": {
+      "date": "2026-05-18",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "source": "hackernews"
+    },
+    "2712f407c8086c5a": {
+      "date": "2026-05-18",
+      "title": "The Quiet Renovation at Bitwarden",
+      "source": "hackernews"
+    },
+    "e2c8ab9ad08db3e7": {
+      "date": "2026-05-18",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "source": "hackernews"
+    },
+    "81beda6aea68725a": {
+      "date": "2026-05-18",
+      "title": "Anthropic acquires Stainless",
+      "source": "hackernews"
+    },
+    "a1061118ae98375c": {
+      "date": "2026-05-18",
+      "title": "We let AIs run radio stations",
+      "source": "hackernews"
+    },
+    "cb5914692fbdb219": {
+      "date": "2026-05-18",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "source": "hackernews"
+    },
+    "a835146d2db2843d": {
+      "date": "2026-05-18",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "source": "hackernews"
+    },
+    "5560ebecee3e513b": {
+      "date": "2026-05-18",
+      "title": "Click",
+      "source": "hackernews"
+    },
+    "7b24add68b708228": {
+      "date": "2026-05-18",
+      "title": "The Futility of Lava Lamps: What Random Means",
+      "source": "hackernews"
+    },
+    "be0d3a4488559a69": {
+      "date": "2026-05-18",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "88e11386cd0070ac": {
+      "date": "2026-05-18",
+      "title": "What are your goals this week? #139",
+      "source": "devto"
+    },
+    "860d3d35a447b62e": {
+      "date": "2026-05-18",
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "source": "devto"
+    },
+    "eee00f181cfb9cd0": {
+      "date": "2026-05-18",
+      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
+      "source": "devto"
+    },
+    "3c7f6c4840531ec7": {
+      "date": "2026-05-18",
+      "title": "Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?",
+      "source": "devto"
+    },
+    "c87f75387d6c5949": {
+      "date": "2026-05-18",
+      "title": "I gave Claude six months of our retros. It found three things I'd missed.",
+      "source": "devto"
+    },
+    "43314d9d9de96344": {
+      "date": "2026-05-18",
+      "title": "Bidet AI — on-device Gemma 4 turns a messy brain-dump into clean writing",
+      "source": "devto"
+    },
+    "495e0bdfe2e87e1b": {
+      "date": "2026-05-18",
+      "title": "Rediscovering Domain-Driven Design, one MCP server at a time",
+      "source": "devto"
+    },
+    "54050f2233b539ee": {
+      "date": "2026-05-18",
+      "title": "🚀 Democratizing Frontier AI for Bharat: Gemma 4’s Edge Capabilities in Low-Resource Environments",
+      "source": "devto"
+    },
+    "6995b3474eb9d777": {
+      "date": "2026-05-18",
+      "title": "Everyone's Talking About Bigger AI Models. I Built a Gemma 4 Farm Doctor That Works When the Interne",
+      "source": "devto"
+    },
+    "ec80d71bb50f6b19": {
+      "date": "2026-05-18",
+      "title": "Imbad0202 / academic-research-skills",
+      "source": "github"
+    },
+    "087dae28b6e341d1": {
+      "date": "2026-05-18",
+      "title": "ggml-org / llama.cpp",
+      "source": "github"
+    },
+    "b0ceebb601f9c7ff": {
+      "date": "2026-05-18",
+      "title": "humanlayer / 12-factor-agents",
+      "source": "github"
+    },
+    "c9a33a6f7c4bc928": {
+      "date": "2026-05-18",
+      "title": "NVlabs / Sana",
+      "source": "github"
+    },
+    "f67656219aced14d": {
+      "date": "2026-05-18",
+      "title": "plausible / analytics",
+      "source": "github"
     }
   }
 }
