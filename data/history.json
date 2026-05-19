@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-18T23:42:06.543832",
+  "last_updated": "2026-05-19T23:44:54.057208",
   "sent_items": {
-    "0ba86f234d96ba86": {
-      "date": "2026-04-18",
-      "title": "Is Your Site Agent-Ready? by Cloudflare",
-      "source": "producthunt"
-    },
-    "50ca4c3a5665371a": {
-      "date": "2026-04-18",
-      "title": "Vercel Flags",
-      "source": "producthunt"
-    },
-    "dd4327e1d2986e16": {
-      "date": "2026-04-18",
-      "title": "CapyPlan",
-      "source": "producthunt"
-    },
-    "abeb8a4e8ad55d3f": {
-      "date": "2026-04-18",
-      "title": ".MD This Page",
-      "source": "producthunt"
-    },
-    "ae3e2e39282a4f73": {
-      "date": "2026-04-18",
-      "title": "Lounge",
-      "source": "producthunt"
-    },
-    "8558c9a45522f182": {
-      "date": "2026-04-18",
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "source": "hackernews"
-    },
-    "1627fcc5af9dbb2b": {
-      "date": "2026-04-18",
-      "title": "State of Kdenlive",
-      "source": "hackernews"
-    },
-    "8a3fc0ddbf58d3f5": {
-      "date": "2026-04-18",
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "source": "hackernews"
-    },
-    "301fe83f2c613631": {
-      "date": "2026-04-18",
-      "title": "Traders placed over $1B in perfectly timed bets on the Iran war",
-      "source": "hackernews"
-    },
-    "e06a667d2cbe22a2": {
-      "date": "2026-04-18",
-      "title": "Thoughts and feelings around Claude Design",
-      "source": "hackernews"
-    },
-    "513edbc29c72466a": {
-      "date": "2026-04-18",
-      "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
-      "source": "hackernews"
-    },
-    "3662ef8b88a30198": {
-      "date": "2026-04-18",
-      "title": "Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers",
-      "source": "hackernews"
-    },
-    "d868a9e9e04badbd": {
-      "date": "2026-04-18",
-      "title": "Modern Common Lisp with FSET",
-      "source": "hackernews"
-    },
-    "a39548fe64a0c455": {
-      "date": "2026-04-18",
-      "title": "Optimizing Ruby Path Methods",
-      "source": "hackernews"
-    },
-    "ff0f8b324bc9b543": {
-      "date": "2026-04-18",
-      "title": "Dad brains: How fatherhood rewires the male mind",
-      "source": "hackernews"
-    },
-    "5db976c84efb412d": {
-      "date": "2026-04-18",
-      "title": "thunderbird / thunderbolt",
-      "source": "github"
-    },
-    "30d8214c97f5f5b2": {
-      "date": "2026-04-18",
-      "title": "deepseek-ai / DeepGEMM",
-      "source": "github"
-    },
-    "d746177295f1258a": {
-      "date": "2026-04-18",
-      "title": "aaddrick / claude-desktop-debian",
-      "source": "github"
-    },
-    "8cb1f496a7fbc670": {
-      "date": "2026-04-18",
-      "title": "rustdesk / rustdesk",
-      "source": "github"
-    },
-    "5072b0cad7291f0a": {
-      "date": "2026-04-18",
-      "title": "tractorjuice / arc-kit",
-      "source": "github"
-    },
-    "92a1ee14ea6771f0": {
-      "date": "2026-04-18",
-      "title": "the only 12 git commands you’ll EVER NEED (forget the rest)",
-      "source": "devto"
-    },
-    "d8ccefb5b695ddb9": {
-      "date": "2026-04-18",
-      "title": "I got tired of wiring the same caching stack every project, so I built LayerCache",
-      "source": "devto"
-    },
-    "96a0dbb56897507d": {
-      "date": "2026-04-18",
-      "title": "Why I built a lossless alternative to AI memory summarization",
-      "source": "devto"
-    },
-    "c5028aa7160ffe71": {
-      "date": "2026-04-18",
-      "title": "I built a terminal screensaver in Go — constellations, rain, braille waves, and full shell integrati",
-      "source": "devto"
-    },
-    "90cd88f20fbe3768": {
-      "date": "2026-04-18",
-      "title": "Shipping Global Keyboard Shortcuts on macOS Sandbox: The Part Apple Doesn't Document",
-      "source": "devto"
-    },
-    "db482ffc2c20ff32": {
-      "date": "2026-04-18",
-      "title": "AI Agents Generate Code That Passes Your Tests. That Is the Problem.",
-      "source": "devto"
-    },
-    "23e6bcc1efcab6b0": {
-      "date": "2026-04-18",
-      "title": "ServiceKit V2 — The Async Service Locator for Unity",
-      "source": "devto"
-    },
-    "b18bdbc4121d7800": {
-      "date": "2026-04-18",
-      "title": "Earth’s Breath: An Interactive Journey from Seed to Restoration",
-      "source": "devto"
-    },
-    "cfb38202575a1052": {
-      "date": "2026-04-18",
-      "title": "Building a 4-Tier AI Cost Auto-Router with Deno Edge Functions",
-      "source": "devto"
-    },
     "364168b684060cd8": {
       "date": "2026-04-19",
       "title": "Nibbo",
@@ -4875,6 +4730,161 @@
     "f67656219aced14d": {
       "date": "2026-05-18",
       "title": "plausible / analytics",
+      "source": "github"
+    },
+    "e4c758d56130132f": {
+      "date": "2026-05-19",
+      "title": "Apple unveils new accessibility features",
+      "source": "hackernews"
+    },
+    "2db665e3a8723821": {
+      "date": "2026-05-19",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "source": "hackernews"
+    },
+    "388f97def8c6038a": {
+      "date": "2026-05-19",
+      "title": "Gemini 3.5 Flash",
+      "source": "hackernews"
+    },
+    "579589bab68cc3a5": {
+      "date": "2026-05-19",
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "source": "hackernews"
+    },
+    "6cad7b8bd2472102": {
+      "date": "2026-05-19",
+      "title": "Google changes its search box",
+      "source": "hackernews"
+    },
+    "8ed713f2da7b8682": {
+      "date": "2026-05-19",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "source": "hackernews"
+    },
+    "35c14990f6ea5c5f": {
+      "date": "2026-05-19",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "source": "hackernews"
+    },
+    "0979e8feac6214e6": {
+      "date": "2026-05-19",
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "source": "hackernews"
+    },
+    "ae21fa3da171d897": {
+      "date": "2026-05-19",
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "source": "hackernews"
+    },
+    "ba99e7c4939c97f0": {
+      "date": "2026-05-19",
+      "title": "Remove AI Watermarks",
+      "source": "hackernews"
+    },
+    "45610f41854864a6": {
+      "date": "2026-05-19",
+      "title": "CLI Market",
+      "source": "producthunt"
+    },
+    "be40d2eeddccb07c": {
+      "date": "2026-05-19",
+      "title": "Trainer",
+      "source": "producthunt"
+    },
+    "fb97fb5f8ddd7e12": {
+      "date": "2026-05-19",
+      "title": "CtrlOps",
+      "source": "producthunt"
+    },
+    "307583aa45f7b247": {
+      "date": "2026-05-19",
+      "title": "Drizz",
+      "source": "producthunt"
+    },
+    "74bbfda82f0674f5": {
+      "date": "2026-05-19",
+      "title": "Composer 2.5",
+      "source": "producthunt"
+    },
+    "e97db58a83ad6cd5": {
+      "date": "2026-05-19",
+      "title": "Thinnest AI",
+      "source": "producthunt"
+    },
+    "4c7da09b1623d92a": {
+      "date": "2026-05-19",
+      "title": "Demystifying AI Agents with Turtle & Gemma",
+      "source": "devto"
+    },
+    "c8c66f593c506fb8": {
+      "date": "2026-05-19",
+      "title": "Great Little Software: Rackula",
+      "source": "devto"
+    },
+    "63cbf24c905d00d6": {
+      "date": "2026-05-19",
+      "title": "What If Every Phone in the Room Was a Game Controller — in the Age of AI?",
+      "source": "devto"
+    },
+    "b2e7f57f392d6275": {
+      "date": "2026-05-19",
+      "title": "Cloudflare Deprecated My Production Model. The Recommended Upgrade Costs $4/M Tokens. Gemma 4 MoE Do",
+      "source": "devto"
+    },
+    "d99312f03a553e9b": {
+      "date": "2026-05-19",
+      "title": "What Happens When You Run `npm run dev`",
+      "source": "devto"
+    },
+    "c05fc1d83f96510e": {
+      "date": "2026-05-19",
+      "title": "The portfolio math. When 30 small apps beat 1 big one.",
+      "source": "devto"
+    },
+    "354aea0669ea28f6": {
+      "date": "2026-05-19",
+      "title": "Hermes Just Killed OpenClaw (Here's Why)",
+      "source": "devto"
+    },
+    "63e43ff401e6b030": {
+      "date": "2026-05-19",
+      "title": "How one bad prompt burned $40 of my Claude budget in 18 minutes",
+      "source": "devto"
+    },
+    "d66a1e1b494396c0": {
+      "date": "2026-05-19",
+      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
+      "source": "devto"
+    },
+    "7858bffd6b2a1b45": {
+      "date": "2026-05-19",
+      "title": "Gemma-San — A Teacher in Every Pocket.",
+      "source": "devto"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-05-19",
+      "title": "anthropics / claude-plugins-official",
+      "source": "github"
+    },
+    "357d6524906760e8": {
+      "date": "2026-05-19",
+      "title": "rtk-ai / rtk",
+      "source": "github"
+    },
+    "39ec5846ae4b9617": {
+      "date": "2026-05-19",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "source": "github"
+    },
+    "2a226d56135ff239": {
+      "date": "2026-05-19",
+      "title": "Diolinux / PhotoGIMP",
+      "source": "github"
+    },
+    "f3ea32c160be052c": {
+      "date": "2026-05-19",
+      "title": "pascalorg / editor",
       "source": "github"
     }
   }
