@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-19T23:44:54.057208",
+  "last_updated": "2026-05-20T23:52:58.855201",
   "sent_items": {
-    "364168b684060cd8": {
-      "date": "2026-04-19",
-      "title": "Nibbo",
-      "source": "producthunt"
-    },
-    "9addcdbb1ffd68b0": {
-      "date": "2026-04-19",
-      "title": "Fixa.dev",
-      "source": "producthunt"
-    },
-    "cd3f90121be40bcf": {
-      "date": "2026-04-19",
-      "title": "Perplexity Personal Computer",
-      "source": "producthunt"
-    },
-    "c3401d096554ba72": {
-      "date": "2026-04-19",
-      "title": "Avina",
-      "source": "producthunt"
-    },
-    "273002a1fa5f0852": {
-      "date": "2026-04-19",
-      "title": "Verdent 2.0",
-      "source": "producthunt"
-    },
-    "025f71fd9750c95f": {
-      "date": "2026-04-19",
-      "title": "AGG Loop",
-      "source": "producthunt"
-    },
-    "c8efdd1c96b6d60a": {
-      "date": "2026-04-19",
-      "title": "Archive of BYTE magazine, starting with issue #1 in 1975",
-      "source": "hackernews"
-    },
-    "31daa99e829c7034": {
-      "date": "2026-04-19",
-      "title": "Vercel April 2026 security incident",
-      "source": "hackernews"
-    },
-    "b8540f8bcf431a5a": {
-      "date": "2026-04-19",
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "source": "hackernews"
-    },
-    "8eca7ca9f2c44d75": {
-      "date": "2026-04-19",
-      "title": "The seven programming ur-languages (2022)",
-      "source": "hackernews"
-    },
-    "e639964d06b7c9ea": {
-      "date": "2026-04-19",
-      "title": "Swiss authorities want to reduce dependency on Microsoft",
-      "source": "hackernews"
-    },
-    "4ae539cbbe4d1e22": {
-      "date": "2026-04-19",
-      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-      "source": "hackernews"
-    },
-    "66efe5fa125426e8": {
-      "date": "2026-04-19",
-      "title": "The Bromine Chokepoint",
-      "source": "hackernews"
-    },
-    "2c083d433e4a1fc5": {
-      "date": "2026-04-19",
-      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
-      "source": "hackernews"
-    },
-    "62ea20c470ddbe8c": {
-      "date": "2026-04-19",
-      "title": "I wrote a CHIP-8 emulator in my own programming language",
-      "source": "hackernews"
-    },
-    "dd7d25f6b6fd8c8e": {
-      "date": "2026-04-19",
-      "title": "Prove You Are a Robot: CAPTCHAs for Agents",
-      "source": "hackernews"
-    },
-    "b78ae651a933fd23": {
-      "date": "2026-04-19",
-      "title": "Fincept-Corporation / FinceptTerminal",
-      "source": "github"
-    },
-    "9da20606e54ba5ed": {
-      "date": "2026-04-19",
-      "title": "paperless-ngx / paperless-ngx",
-      "source": "github"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-04-19",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "3f2411db1d89b118": {
-      "date": "2026-04-19",
-      "title": "Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]",
-      "source": "devto"
-    },
-    "a653396d705320ad": {
-      "date": "2026-04-19",
-      "title": "I Asked AI to Show Me My Life in 2050 — It Was Terrifying",
-      "source": "devto"
-    },
-    "846966d563224b10": {
-      "date": "2026-04-19",
-      "title": "I Had No Weekend Plans… So I Let Earth Tell Its Story 🌍",
-      "source": "devto"
-    },
-    "67fd5c8e0e3e99b8": {
-      "date": "2026-04-19",
-      "title": "Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini",
-      "source": "devto"
-    },
-    "0f798501bc783163": {
-      "date": "2026-04-19",
-      "title": "EM Operating System: Your Brain Is a Terrible Database",
-      "source": "devto"
-    },
-    "5e66d9411ad8d9ea": {
-      "date": "2026-04-19",
-      "title": "The Mental Framework for Unlocking Agentic Workflows",
-      "source": "devto"
-    },
-    "00c493afd1601bef": {
-      "date": "2026-04-19",
-      "title": "Rebuilding TLS, Part 3 — Building Our First Handshake",
-      "source": "devto"
-    },
-    "0ca92264c4e7e8e8": {
-      "date": "2026-04-19",
-      "title": "Una vez más una persona crea un sistema operativo sola.",
-      "source": "devto"
-    },
-    "e81c77465ca7281c": {
-      "date": "2026-04-19",
-      "title": "I thought I had a bug",
-      "source": "devto"
-    },
-    "8d044a15944543ab": {
-      "date": "2026-04-19",
-      "title": "I built a closed-loop WhatsApp advisor for 100M+ Indian farmers — fully serverless on AWS",
-      "source": "devto"
-    },
     "36d85427dfea7ac4": {
       "date": "2026-04-20",
       "title": "John Ternus to become Apple CEO",
@@ -4885,6 +4740,166 @@
     "f3ea32c160be052c": {
       "date": "2026-05-19",
       "title": "pascalorg / editor",
+      "source": "github"
+    },
+    "a563cf46230521ac": {
+      "date": "2026-05-20",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "source": "hackernews"
+    },
+    "4d18fc43ae6196ed": {
+      "date": "2026-05-20",
+      "title": "How fast is N tokens per second really?",
+      "source": "hackernews"
+    },
+    "3c5066a31fffac5b": {
+      "date": "2026-05-20",
+      "title": "Google Declaring War on the Web",
+      "source": "hackernews"
+    },
+    "737a39080d7ef5fa": {
+      "date": "2026-05-20",
+      "title": "Flipper One Tech Specs",
+      "source": "hackernews"
+    },
+    "13871fa6d70c48c5": {
+      "date": "2026-05-20",
+      "title": "Why is Inkwell stuck in review",
+      "source": "hackernews"
+    },
+    "6c4b3e1f663eb6b4": {
+      "date": "2026-05-20",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "source": "hackernews"
+    },
+    "53eed4ab17b71cd3": {
+      "date": "2026-05-20",
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "source": "hackernews"
+    },
+    "67d6d0b7939451d1": {
+      "date": "2026-05-20",
+      "title": "DOS Zone",
+      "source": "hackernews"
+    },
+    "f094925177fc1204": {
+      "date": "2026-05-20",
+      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
+      "source": "hackernews"
+    },
+    "e0eeee29c6f9ca5f": {
+      "date": "2026-05-20",
+      "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+      "source": "hackernews"
+    },
+    "a2275a41ec085c35": {
+      "date": "2026-05-20",
+      "title": "Viberia",
+      "source": "producthunt"
+    },
+    "129c3f36ed58c9e9": {
+      "date": "2026-05-20",
+      "title": "Runtime",
+      "source": "producthunt"
+    },
+    "b5fae5dc8670619e": {
+      "date": "2026-05-20",
+      "title": "Retina",
+      "source": "producthunt"
+    },
+    "8add99e465379bee": {
+      "date": "2026-05-20",
+      "title": "Re_gent",
+      "source": "producthunt"
+    },
+    "54f40b7fbd171913": {
+      "date": "2026-05-20",
+      "title": "GhostSnap",
+      "source": "producthunt"
+    },
+    "bebae48e101e46db": {
+      "date": "2026-05-20",
+      "title": "Emdash",
+      "source": "producthunt"
+    },
+    "3ade497109f5ed9b": {
+      "date": "2026-05-20",
+      "title": "LayerProof Kraft",
+      "source": "producthunt"
+    },
+    "e63901537f3f908f": {
+      "date": "2026-05-20",
+      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
+      "source": "devto"
+    },
+    "28399ceec4c45c76": {
+      "date": "2026-05-20",
+      "title": "Working With Japanese Clients Humbled Me Faster Than I Expected",
+      "source": "devto"
+    },
+    "66de56cd0514fa95": {
+      "date": "2026-05-20",
+      "title": "MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does",
+      "source": "devto"
+    },
+    "75c159a38283a6db": {
+      "date": "2026-05-20",
+      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
+      "source": "devto"
+    },
+    "f711dcd7e4a02ace": {
+      "date": "2026-05-20",
+      "title": "Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture",
+      "source": "devto"
+    },
+    "25645a92a4bc321c": {
+      "date": "2026-05-20",
+      "title": "Book Review: Operational AI with Docker",
+      "source": "devto"
+    },
+    "021c9fb4252c7575": {
+      "date": "2026-05-20",
+      "title": "The Mid-Dev Paradox: Why Juniors Are Chill and Mid-Levels Will Reorganize Your Code at 3 AM",
+      "source": "devto"
+    },
+    "bd9a457f58c8c68d": {
+      "date": "2026-05-20",
+      "title": "Care Compass: Pairing Gemma 4 With Signed Policy Evidence for Healthcare Navigation",
+      "source": "devto"
+    },
+    "66786af3b05d9d38": {
+      "date": "2026-05-20",
+      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
+      "source": "devto"
+    },
+    "fdd97241832549b7": {
+      "date": "2026-05-20",
+      "title": "Google I/O Just Made MCP Inevitable",
+      "source": "devto"
+    },
+    "4d8e922de101f720": {
+      "date": "2026-05-20",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "source": "github"
+    },
+    "5486dec8b59ab192": {
+      "date": "2026-05-20",
+      "title": "can1357 / oh-my-pi",
+      "source": "github"
+    },
+    "7a316c2020cf1bb3": {
+      "date": "2026-05-20",
+      "title": "rmyndharis / OpenWA",
+      "source": "github"
+    },
+    "0f8d1af67ba3e667": {
+      "date": "2026-05-20",
+      "title": "truelockmc / streambert",
+      "source": "github"
+    },
+    "e728c868e24d753b": {
+      "date": "2026-05-20",
+      "title": "opentoonz / opentoonz",
       "source": "github"
     }
   }
