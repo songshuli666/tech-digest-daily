@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-20T23:52:58.855201",
+  "last_updated": "2026-05-21T23:38:26.643430",
   "sent_items": {
-    "36d85427dfea7ac4": {
-      "date": "2026-04-20",
-      "title": "John Ternus to become Apple CEO",
-      "source": "hackernews"
-    },
-    "bdca22eb1bafeb89": {
-      "date": "2026-04-20",
-      "title": "GitHub's fake star economy",
-      "source": "hackernews"
-    },
-    "7da2f127df767dc4": {
-      "date": "2026-04-20",
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "source": "hackernews"
-    },
-    "99591e84c7f617fc": {
-      "date": "2026-04-20",
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "source": "hackernews"
-    },
-    "fbab458f074f5808": {
-      "date": "2026-04-20",
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "source": "hackernews"
-    },
-    "92d8c0ad82726a16": {
-      "date": "2026-04-20",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on \"prompt relevance\"",
-      "source": "hackernews"
-    },
-    "104b2882a606ca87": {
-      "date": "2026-04-20",
-      "title": "Jujutsu megamerges for fun and profit",
-      "source": "hackernews"
-    },
-    "5c93ac9ec6051f84": {
-      "date": "2026-04-20",
-      "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-      "source": "hackernews"
-    },
-    "eacc1d5557fc70f5": {
-      "date": "2026-04-20",
-      "title": "Monero Community Crowdfunding System",
-      "source": "hackernews"
-    },
-    "3691bafc18f84b57": {
-      "date": "2026-04-20",
-      "title": "Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes",
-      "source": "hackernews"
-    },
-    "280ab98280f1ac0c": {
-      "date": "2026-04-20",
-      "title": "Co-Tasker",
-      "source": "producthunt"
-    },
-    "740d1c860d48d83b": {
-      "date": "2026-04-20",
-      "title": "CONA",
-      "source": "producthunt"
-    },
-    "90ee8d2427a1b1cd": {
-      "date": "2026-04-20",
-      "title": "Silex",
-      "source": "producthunt"
-    },
-    "fabc04358532ff08": {
-      "date": "2026-04-20",
-      "title": "Tetractys",
-      "source": "producthunt"
-    },
-    "eb37b51848dac48b": {
-      "date": "2026-04-20",
-      "title": "Auxilius.ai",
-      "source": "producthunt"
-    },
-    "397f37b544217475": {
-      "date": "2026-04-20",
-      "title": "Getpin",
-      "source": "producthunt"
-    },
-    "3ebcd81b659e0a95": {
-      "date": "2026-04-20",
-      "title": "Telagri",
-      "source": "producthunt"
-    },
-    "fd6fcd34b938d62c": {
-      "date": "2026-04-20",
-      "title": "Sirputis",
-      "source": "producthunt"
-    },
-    "56d33226bf40d769": {
-      "date": "2026-04-20",
-      "title": "koala73 / worldmonitor",
-      "source": "github"
-    },
-    "aec960f29efcb4e8": {
-      "date": "2026-04-20",
-      "title": "pi-hole / pi-hole",
-      "source": "github"
-    },
-    "aa33855075492a60": {
-      "date": "2026-04-20",
-      "title": "XTLS / Xray-core",
-      "source": "github"
-    },
-    "09fa2d434f8fccd4": {
-      "date": "2026-04-20",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "b231d43cacbd235f": {
-      "date": "2026-04-20",
-      "title": "Unearthed—The Coal Mine Behind Every Light Switch",
-      "source": "devto"
-    },
-    "817def793986e054": {
-      "date": "2026-04-20",
-      "title": "Why Do I Keep Killing My Side Projects?",
-      "source": "devto"
-    },
-    "9163f77df60cef50": {
-      "date": "2026-04-20",
-      "title": "Eco-Web Auditor",
-      "source": "devto"
-    },
-    "993d2a3cfc9c40f1": {
-      "date": "2026-04-20",
-      "title": "What are your goals for the week? #175",
-      "source": "devto"
-    },
-    "189f0700549b0fea": {
-      "date": "2026-04-20",
-      "title": "I Built a Claude Code Sub-Agent That Processes 2,000 Invoices a Day — Here's the Exact Setup",
-      "source": "devto"
-    },
-    "5b49dfc24117c742": {
-      "date": "2026-04-20",
-      "title": "Arara Watch: a serverless global disaster monitor, developed with technology from Google Gemini, AWS",
-      "source": "devto"
-    },
-    "c6a1be4126d4dca5": {
-      "date": "2026-04-20",
-      "title": "Da Autoria à Exegese: O Código como Ato de Linguagem na Era da IA",
-      "source": "devto"
-    },
-    "d2b78a364fc9ae73": {
-      "date": "2026-04-20",
-      "title": "Building SIEMForge: A Portable SIEM Detection Toolkit with Sigma, Sysmon, and MITRE ATT&CK",
-      "source": "devto"
-    },
-    "d21bc83f5f374339": {
-      "date": "2026-04-20",
-      "title": "Active Inference — The Learn Arc, Part 50: Series capstone",
-      "source": "devto"
-    },
     "570a42e3f7a60930": {
       "date": "2026-04-21",
       "title": "Laws of Software Engineering",
@@ -4900,6 +4745,166 @@
     "e728c868e24d753b": {
       "date": "2026-05-20",
       "title": "opentoonz / opentoonz",
+      "source": "github"
+    },
+    "ec78947b847836b0": {
+      "date": "2026-05-21",
+      "title": "AlliHat",
+      "source": "producthunt"
+    },
+    "2d03e000afa0d1c6": {
+      "date": "2026-05-21",
+      "title": "AutoSubtitles 2.0",
+      "source": "producthunt"
+    },
+    "a0544c80335e006b": {
+      "date": "2026-05-21",
+      "title": "Mintlify Workflows",
+      "source": "producthunt"
+    },
+    "f6b0e869532f265c": {
+      "date": "2026-05-21",
+      "title": "Tycoon AI",
+      "source": "producthunt"
+    },
+    "81f72d4a785cff22": {
+      "date": "2026-05-21",
+      "title": "Framed",
+      "source": "producthunt"
+    },
+    "f1dbbff7e0ffed28": {
+      "date": "2026-05-21",
+      "title": "Vivaldi 8.0",
+      "source": "producthunt"
+    },
+    "dbf777184f2f3969": {
+      "date": "2026-05-21",
+      "title": "Mixpanel Headless",
+      "source": "producthunt"
+    },
+    "7144b014c9d73af3": {
+      "date": "2026-05-21",
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "source": "hackernews"
+    },
+    "832d41d937baf964": {
+      "date": "2026-05-21",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "source": "hackernews"
+    },
+    "db09856a17f56f06": {
+      "date": "2026-05-21",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "source": "hackernews"
+    },
+    "2c49ccd7924ce3cc": {
+      "date": "2026-05-21",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "source": "hackernews"
+    },
+    "9dca8a63f4d5b20f": {
+      "date": "2026-05-21",
+      "title": "Was my $48K GPU server worth it?",
+      "source": "hackernews"
+    },
+    "53570bf79c740f52": {
+      "date": "2026-05-21",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "source": "hackernews"
+    },
+    "29706d72a8c78f2a": {
+      "date": "2026-05-21",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "source": "hackernews"
+    },
+    "87c844aa4ed71d34": {
+      "date": "2026-05-21",
+      "title": "Using Kagi Search with Low Vision",
+      "source": "hackernews"
+    },
+    "7ea7b18926058d7e": {
+      "date": "2026-05-21",
+      "title": "Spotify will start reserving concert tickets for fans",
+      "source": "hackernews"
+    },
+    "b6964f51cef74268": {
+      "date": "2026-05-21",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "source": "hackernews"
+    },
+    "732bbe39cb800745": {
+      "date": "2026-05-21",
+      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
+      "source": "devto"
+    },
+    "d134d8611cee3c83": {
+      "date": "2026-05-21",
+      "title": "Every Developer Is Lying About Something — And AI Won’t Fix It",
+      "source": "devto"
+    },
+    "6b3ec45e2cdfc3b6": {
+      "date": "2026-05-21",
+      "title": "From Years to Hours",
+      "source": "devto"
+    },
+    "05c3f5038c079e7d": {
+      "date": "2026-05-21",
+      "title": "Open Source Toolkit for Building AI Agents in 2026",
+      "source": "devto"
+    },
+    "74c50b3ca07b601c": {
+      "date": "2026-05-21",
+      "title": "I Used to Get Excited About New Tools Now I Feel Tired.",
+      "source": "devto"
+    },
+    "82d82f6f2c086ab2": {
+      "date": "2026-05-21",
+      "title": "Recycling made easy: a Polish recycling assistant powered by Gemma 4",
+      "source": "devto"
+    },
+    "04ef14e8b26ff63e": {
+      "date": "2026-05-21",
+      "title": "Building a Database Performance Testing Tool With AI: The Honest Breakdown",
+      "source": "devto"
+    },
+    "1482f8e34c952fa1": {
+      "date": "2026-05-21",
+      "title": "Frameworks Are No Longer Being Designed Only for Humans",
+      "source": "devto"
+    },
+    "5ad7a92decb2d980": {
+      "date": "2026-05-21",
+      "title": "Seasons time-lapse - the foundations",
+      "source": "devto"
+    },
+    "a08046dc3290f958": {
+      "date": "2026-05-21",
+      "title": "Accessibility - This looks like a job for a developer advocate!",
+      "source": "devto"
+    },
+    "5acadd2fc4547853": {
+      "date": "2026-05-21",
+      "title": "dotnet / skills",
+      "source": "github"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-05-21",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "source": "github"
+    },
+    "d1175731313615bc": {
+      "date": "2026-05-21",
+      "title": "teng-lin / notebooklm-py",
+      "source": "github"
+    },
+    "c4933f0e2181e2eb": {
+      "date": "2026-05-21",
+      "title": "multica-ai / multica",
+      "source": "github"
+    },
+    "895071a713eeaa7c": {
+      "date": "2026-05-21",
+      "title": "trimstray / the-book-of-secret-knowledge",
       "source": "github"
     }
   }
