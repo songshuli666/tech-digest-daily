@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T23:38:26.643430",
+  "last_updated": "2026-05-22T23:43:23.484153",
   "sent_items": {
-    "570a42e3f7a60930": {
-      "date": "2026-04-21",
-      "title": "Laws of Software Engineering",
-      "source": "hackernews"
-    },
-    "61d55b7a6e820ef0": {
-      "date": "2026-04-21",
-      "title": "Framework Laptop 13 Pro",
-      "source": "hackernews"
-    },
-    "6dcee5651dfce934": {
-      "date": "2026-04-21",
-      "title": "Edit store price tags using Flipper Zero",
-      "source": "hackernews"
-    },
-    "4dfe596476fc3565": {
-      "date": "2026-04-21",
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "source": "hackernews"
-    },
-    "e53fd54bdec21b46": {
-      "date": "2026-04-21",
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "source": "hackernews"
-    },
-    "08ccbc17ddeecb31": {
-      "date": "2026-04-21",
-      "title": "ChatGPT Images 2.0",
-      "source": "hackernews"
-    },
-    "3e3e5ffb00788e3e": {
-      "date": "2026-04-21",
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "source": "hackernews"
-    },
-    "c1d9acc533ccebba": {
-      "date": "2026-04-21",
-      "title": "A Periodic Map of Cheese",
-      "source": "hackernews"
-    },
-    "9633922bdd52f826": {
-      "date": "2026-04-21",
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "source": "hackernews"
-    },
-    "55dc980735d8aafa": {
-      "date": "2026-04-21",
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "source": "hackernews"
-    },
-    "4883a2450c59b634": {
-      "date": "2026-04-21",
-      "title": "Magic Lane",
-      "source": "producthunt"
-    },
-    "b98a185a68c4737c": {
-      "date": "2026-04-21",
-      "title": "KingCoding",
-      "source": "producthunt"
-    },
-    "2978d576313d4b84": {
-      "date": "2026-04-21",
-      "title": "MAXIA Oracle",
-      "source": "producthunt"
-    },
-    "be1f4845534ced3e": {
-      "date": "2026-04-21",
-      "title": "Pagecorder",
-      "source": "producthunt"
-    },
-    "5001ae9e953e87ec": {
-      "date": "2026-04-21",
-      "title": "delegare",
-      "source": "producthunt"
-    },
-    "29ba26e0adb53992": {
-      "date": "2026-04-21",
-      "title": "Cosmic Agent Marketplace",
-      "source": "producthunt"
-    },
-    "0bb5393e03931fc7": {
-      "date": "2026-04-21",
-      "title": "RapidNative",
-      "source": "producthunt"
-    },
-    "0ed14472d03084c0": {
-      "date": "2026-04-21",
-      "title": "zilliztech / claude-context",
-      "source": "github"
-    },
-    "94985b3bfb1fca26": {
-      "date": "2026-04-21",
-      "title": "microsoft / ai-agents-for-beginners",
-      "source": "github"
-    },
-    "f1875d3f5ab1c3cc": {
-      "date": "2026-04-21",
-      "title": "dayanch96 / YTLite",
-      "source": "github"
-    },
-    "321739261d10b1a0": {
-      "date": "2026-04-21",
-      "title": "HKUDS / RAG-Anything",
-      "source": "github"
-    },
-    "1b97a84ce8f020fc": {
-      "date": "2026-04-21",
-      "title": "sansan0 / TrendRadar",
-      "source": "github"
-    },
-    "f5a972841f43730f": {
-      "date": "2026-04-21",
-      "title": "🦸Let Superheroes Cheer You Up (AI Avatar v6: Chrome Extension + VS Code Extension)",
-      "source": "devto"
-    },
-    "c41fa41c4ccd93af": {
-      "date": "2026-04-21",
-      "title": "Built a 5k usd MRR app with AI but still needed a developer",
-      "source": "devto"
-    },
-    "e823d3c54399bc61": {
-      "date": "2026-04-21",
-      "title": "Claude! Stop Burning Tokens on Your Agent's Tool Output!",
-      "source": "devto"
-    },
-    "b52a779ea2d3fc8e": {
-      "date": "2026-04-21",
-      "title": "The State of AI Instruction Quality",
-      "source": "devto"
-    },
-    "ca8c941d8453a8f8": {
-      "date": "2026-04-21",
-      "title": "I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel",
-      "source": "devto"
-    },
-    "35b1b3c3ace66c11": {
-      "date": "2026-04-21",
-      "title": "We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community",
-      "source": "devto"
-    },
-    "fae1e62579ef341e": {
-      "date": "2026-04-21",
-      "title": "Vibe Coding, Fundamentals, and the New Job Market Reality",
-      "source": "devto"
-    },
-    "40c442946486b039": {
-      "date": "2026-04-21",
-      "title": "I Built the Missing Claude AI SDK for .NET 8 — And It's Now on NuGet",
-      "source": "devto"
-    },
-    "d27382b5b6a3e9e6": {
-      "date": "2026-04-21",
-      "title": "I got tired of messy TypeScript migrations in Node.js, so I built fast-ts-integrator",
-      "source": "devto"
-    },
-    "3eda22be31f4a569": {
-      "date": "2026-04-21",
-      "title": "The 57th Attempt: When Your \"Meta-Promotion\" Strategy Becomes the Main Product",
-      "source": "devto"
-    },
     "e695889078ee32dc": {
       "date": "2026-04-22",
       "title": "Alberta startup sells no-tech tractors for half price",
@@ -4905,6 +4745,181 @@
     "895071a713eeaa7c": {
       "date": "2026-05-21",
       "title": "trimstray / the-book-of-secret-knowledge",
+      "source": "github"
+    },
+    "cc413bff4bccb030": {
+      "date": "2026-05-22",
+      "title": "Why Japanese companies do so many different things",
+      "source": "hackernews"
+    },
+    "67b77a4fe3d633d9": {
+      "date": "2026-05-22",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "source": "hackernews"
+    },
+    "1ed88dc2d1ae7d88": {
+      "date": "2026-05-22",
+      "title": "Deno 2.8",
+      "source": "hackernews"
+    },
+    "a6001065a4017716": {
+      "date": "2026-05-22",
+      "title": "Project Glasswing: An Initial Update",
+      "source": "hackernews"
+    },
+    "156882b53b0df442": {
+      "date": "2026-05-22",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "source": "hackernews"
+    },
+    "8222c28695a4faf2": {
+      "date": "2026-05-22",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "source": "hackernews"
+    },
+    "b7e8bedbaff3786e": {
+      "date": "2026-05-22",
+      "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+      "source": "hackernews"
+    },
+    "f195af4967f0b771": {
+      "date": "2026-05-22",
+      "title": "A Wayland Compositor in Minecraft",
+      "source": "hackernews"
+    },
+    "97601576705bbc0e": {
+      "date": "2026-05-22",
+      "title": "I’m Writing Again",
+      "source": "hackernews"
+    },
+    "400426666e830c43": {
+      "date": "2026-05-22",
+      "title": "Sleep research led to a new sleep apnea drug",
+      "source": "hackernews"
+    },
+    "25210c02a5d9d6e2": {
+      "date": "2026-05-22",
+      "title": "motionvid.ai",
+      "source": "producthunt"
+    },
+    "8449e3e3159fb681": {
+      "date": "2026-05-22",
+      "title": "Smart Miles",
+      "source": "producthunt"
+    },
+    "2cbd1dd359a25def": {
+      "date": "2026-05-22",
+      "title": "Shroomie",
+      "source": "producthunt"
+    },
+    "7e66595c41af610d": {
+      "date": "2026-05-22",
+      "title": "Our Stories",
+      "source": "producthunt"
+    },
+    "6f2635d09df12147": {
+      "date": "2026-05-22",
+      "title": "WordPress 7.0",
+      "source": "producthunt"
+    },
+    "cdf6ca7793ae9b7f": {
+      "date": "2026-05-22",
+      "title": "iPromise",
+      "source": "producthunt"
+    },
+    "b29837dd636e3d4f": {
+      "date": "2026-05-22",
+      "title": "Nugget AI",
+      "source": "producthunt"
+    },
+    "8cc951b988e6b091": {
+      "date": "2026-05-22",
+      "title": "DCP",
+      "source": "producthunt"
+    },
+    "ed0566573dad13e4": {
+      "date": "2026-05-22",
+      "title": "The Most Concerning AI Risk of 2026",
+      "source": "devto"
+    },
+    "d0a73e16897757da": {
+      "date": "2026-05-22",
+      "title": "How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV",
+      "source": "devto"
+    },
+    "ec28be94c56c5a5b": {
+      "date": "2026-05-22",
+      "title": "Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide",
+      "source": "devto"
+    },
+    "5f38e5f3afc10b93": {
+      "date": "2026-05-22",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "5d869138b8dbf224": {
+      "date": "2026-05-22",
+      "title": "Your company won't replace you with good AI. They'll replace you with bad AI.",
+      "source": "devto"
+    },
+    "3c17709911ffbddd": {
+      "date": "2026-05-22",
+      "title": "Should you use Gemma 4 for your Development? A Multiversal Analysis to Determine if Gemma 4 is Right",
+      "source": "devto"
+    },
+    "a503866ac22b90a2": {
+      "date": "2026-05-22",
+      "title": "AI Agent Failure Modes Beyond Hallucination",
+      "source": "devto"
+    },
+    "0dc804e090317dd9": {
+      "date": "2026-05-22",
+      "title": "How to Use Gemma 4 E2B the Smart Way: Family Trip Advisor",
+      "source": "devto"
+    },
+    "f53dc70493859e00": {
+      "date": "2026-05-22",
+      "title": "include-tidy: A Tool to Enforce Include-What-You-Use",
+      "source": "devto"
+    },
+    "0ba5e00f13d16459": {
+      "date": "2026-05-22",
+      "title": "I built a version manager for llama.cpp using nothing but vibe coding.",
+      "source": "devto"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-05-22",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "92df2cb3c1a2a1d7": {
+      "date": "2026-05-22",
+      "title": "Lum1104 / Understand-Anything",
+      "source": "github"
+    },
+    "f89a58b5886b46b6": {
+      "date": "2026-05-22",
+      "title": "odoo / odoo",
+      "source": "github"
+    },
+    "71320280b59152e9": {
+      "date": "2026-05-22",
+      "title": "byJoey / cfnew",
+      "source": "github"
+    },
+    "b78ae651a933fd23": {
+      "date": "2026-05-22",
+      "title": "Fincept-Corporation / FinceptTerminal",
+      "source": "github"
+    },
+    "1d9d6ca6d40c8b5d": {
+      "date": "2026-05-22",
+      "title": "yt-dlp / yt-dlp",
+      "source": "github"
+    },
+    "2895b4c33b45f09e": {
+      "date": "2026-05-22",
+      "title": "karpathy / nn-zero-to-hero",
       "source": "github"
     }
   }
