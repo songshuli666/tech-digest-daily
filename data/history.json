@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-22T23:43:23.484153",
+  "last_updated": "2026-05-23T23:36:29.850631",
   "sent_items": {
-    "e695889078ee32dc": {
-      "date": "2026-04-22",
-      "title": "Alberta startup sells no-tech tractors for half price",
-      "source": "hackernews"
-    },
-    "2f3ba9daee727948": {
-      "date": "2026-04-22",
-      "title": "Windows 9x Subsystem for Linux",
-      "source": "hackernews"
-    },
-    "8574a4ffb5d285af": {
-      "date": "2026-04-22",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "source": "hackernews"
-    },
-    "3a2892c494d1edfe": {
-      "date": "2026-04-22",
-      "title": "5x5 Pixel font for tiny screens",
-      "source": "hackernews"
-    },
-    "b04411813ee5300c": {
-      "date": "2026-04-22",
-      "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "source": "hackernews"
-    },
-    "5fb0ca82af7eb67c": {
-      "date": "2026-04-22",
-      "title": "Over-editing refers to a model modifying code beyond what is necessary",
-      "source": "hackernews"
-    },
-    "c5daa3056c8d9a82": {
-      "date": "2026-04-22",
-      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "source": "hackernews"
-    },
-    "94b62129035b68b7": {
-      "date": "2026-04-22",
-      "title": "Website streamed live directly from a model",
-      "source": "hackernews"
-    },
-    "3dad188ba0d840cf": {
-      "date": "2026-04-22",
-      "title": "Ping-pong robot beats top-level human players",
-      "source": "hackernews"
-    },
-    "6a80ab42476bdb55": {
-      "date": "2026-04-22",
-      "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-      "source": "hackernews"
-    },
-    "28f312d1db449af2": {
-      "date": "2026-04-22",
-      "title": "Seeknal",
-      "source": "producthunt"
-    },
-    "9e739b6099f2cb4c": {
-      "date": "2026-04-22",
-      "title": "Cavalry Studio",
-      "source": "producthunt"
-    },
-    "f055b8e8ef39efa1": {
-      "date": "2026-04-22",
-      "title": "Iris Studio",
-      "source": "producthunt"
-    },
-    "3f7bb8001c30fd85": {
-      "date": "2026-04-22",
-      "title": "Wrangle",
-      "source": "producthunt"
-    },
-    "d3ad237de0a4b3b3": {
-      "date": "2026-04-22",
-      "title": "Kyohansha",
-      "source": "producthunt"
-    },
-    "f6aef0006e6cc059": {
-      "date": "2026-04-22",
-      "title": "ConsoleMini",
-      "source": "producthunt"
-    },
-    "569a19a146127ce0": {
-      "date": "2026-04-22",
-      "title": "OneGlanse",
-      "source": "producthunt"
-    },
-    "d91515752191c891": {
-      "date": "2026-04-22",
-      "title": "kimiflare",
-      "source": "producthunt"
-    },
-    "87f34b8efe1f4858": {
-      "date": "2026-04-22",
-      "title": "langfuse / langfuse",
-      "source": "github"
-    },
-    "5357f2f6bac7c709": {
-      "date": "2026-04-22",
-      "title": "open-metadata / OpenMetadata",
-      "source": "github"
-    },
-    "36688f7d6dbbd267": {
-      "date": "2026-04-22",
-      "title": "AIDC-AI / Pixelle-Video",
-      "source": "github"
-    },
-    "9e0939dc4009d73f": {
-      "date": "2026-04-22",
-      "title": "Z4nzu / hackingtool",
-      "source": "github"
-    },
-    "7634ab012b3dcc8f": {
-      "date": "2026-04-22",
-      "title": "vercel-labs / skills",
-      "source": "github"
-    },
-    "aac5c5fd4caccf1e": {
-      "date": "2026-04-22",
-      "title": "Tune In and Join the Google Cloud NEXT '26 Writing Challenge: $1,000 in Prizes!",
-      "source": "devto"
-    },
-    "b777993152b581ba": {
-      "date": "2026-04-22",
-      "title": "If AI Existed in 2011, Would We Still Have the Modern Web?",
-      "source": "devto"
-    },
-    "951c4ec8048abde5": {
-      "date": "2026-04-22",
-      "title": "Unpopular Opinion: Do not use OpenClaw...not yet.",
-      "source": "devto"
-    },
-    "fc3b0bafd9a125ec": {
-      "date": "2026-04-22",
-      "title": "Anthropic's Most Dangerous Model Just Got Accessed by People Who Weren't Supposed to Have It",
-      "source": "devto"
-    },
-    "f38ec8c79a0bb881": {
-      "date": "2026-04-22",
-      "title": "I built my own event bus for a sustainability app — here's what I learned about agent automation usi",
-      "source": "devto"
-    },
-    "70cc7a1b6b5e2865": {
-      "date": "2026-04-22",
-      "title": "AI made devs feel 20% faster but measured 19% slower. Nobody's ready for that conversation.",
-      "source": "devto"
-    },
-    "bdfa80fff0c9c687": {
-      "date": "2026-04-22",
-      "title": "I lost a few thousand to an impersonation scam. So I built the tool I wished existed.",
-      "source": "devto"
-    },
-    "7f706c01d1438d5d": {
-      "date": "2026-04-22",
-      "title": "My First Foray into Harness Engineers",
-      "source": "devto"
-    },
-    "a10afb8f9acc95b8": {
-      "date": "2026-04-22",
-      "title": "Announcing ObjeX | We Built Our Own S3",
-      "source": "devto"
-    },
-    "61dc4a854befcb2f": {
-      "date": "2026-04-22",
-      "title": "Lovable Just Proved Everything We Found in Our 600K Line Audit",
-      "source": "devto"
-    },
     "acf8a1da6e8885ed": {
       "date": "2026-04-23",
       "title": "FocuSee 2.0",
@@ -4920,6 +4755,156 @@
     "2895b4c33b45f09e": {
       "date": "2026-05-22",
       "title": "karpathy / nn-zero-to-hero",
+      "source": "github"
+    },
+    "8d4e21fad8e4ac8a": {
+      "date": "2026-05-23",
+      "title": "SignalLEMO - Ai Outreach Made Simple",
+      "source": "producthunt"
+    },
+    "c8db85639b9e3857": {
+      "date": "2026-05-23",
+      "title": "Google Antigravity CLI",
+      "source": "producthunt"
+    },
+    "b905f6e0f47cd969": {
+      "date": "2026-05-23",
+      "title": "Spantop",
+      "source": "producthunt"
+    },
+    "cb2b01ea035784e9": {
+      "date": "2026-05-23",
+      "title": "RetroMac",
+      "source": "producthunt"
+    },
+    "c769540fdaf49b92": {
+      "date": "2026-05-23",
+      "title": "Command A+",
+      "source": "producthunt"
+    },
+    "1c7252c2df24b74e": {
+      "date": "2026-05-23",
+      "title": "note.md",
+      "source": "producthunt"
+    },
+    "f68b85e5fc7f4c57": {
+      "date": "2026-05-23",
+      "title": "Vibedock",
+      "source": "producthunt"
+    },
+    "00495b52b37446d1": {
+      "date": "2026-05-23",
+      "title": "Cleo",
+      "source": "producthunt"
+    },
+    "35c2148d40f56eda": {
+      "date": "2026-05-23",
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "source": "hackernews"
+    },
+    "35eb6d0947747f55": {
+      "date": "2026-05-23",
+      "title": "On The <dl> (2021)",
+      "source": "hackernews"
+    },
+    "639cc20b35151e9a": {
+      "date": "2026-05-23",
+      "title": "SpaceX launches Starship v3 rocket",
+      "source": "hackernews"
+    },
+    "68a8e104ebe8a04f": {
+      "date": "2026-05-23",
+      "title": "It's time to talk about my writerdeck",
+      "source": "hackernews"
+    },
+    "c007cfaf839d06e8": {
+      "date": "2026-05-23",
+      "title": "The Art of Money Getting",
+      "source": "hackernews"
+    },
+    "578e4b08de33e744": {
+      "date": "2026-05-23",
+      "title": ".NET (OK, C#) finally gets union types",
+      "source": "hackernews"
+    },
+    "a82fff79a9b67a4c": {
+      "date": "2026-05-23",
+      "title": "Hengefinder: Finding when the sun aligns with your street",
+      "source": "hackernews"
+    },
+    "f03bd4b74a5ad64a": {
+      "date": "2026-05-23",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "source": "hackernews"
+    },
+    "0a17ee53ef3b8a18": {
+      "date": "2026-05-23",
+      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
+      "source": "hackernews"
+    },
+    "346b0b71a5c7f8b3": {
+      "date": "2026-05-23",
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "source": "hackernews"
+    },
+    "cb92c25c4bd7993e": {
+      "date": "2026-05-23",
+      "title": "Running a Full Multi-Stage Intrusion Simulation. Every Detection Fired.",
+      "source": "devto"
+    },
+    "d0d2233c70758609": {
+      "date": "2026-05-23",
+      "title": "From an Abandoned Hackathon Project to an AI Study Workspace 🚀",
+      "source": "devto"
+    },
+    "ec7b41cfd116cf7a": {
+      "date": "2026-05-23",
+      "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
+      "source": "devto"
+    },
+    "86fe47425b8f8c19": {
+      "date": "2026-05-23",
+      "title": "Running Qwen 2.5 Coder 14B Locally in Cursor with Ollama",
+      "source": "devto"
+    },
+    "3e26cb777fc08cbf": {
+      "date": "2026-05-23",
+      "title": "SafeSMS: On-Device Threat Detection with Gemma 4 E4B, no internet required",
+      "source": "devto"
+    },
+    "e7aeb361da85c16f": {
+      "date": "2026-05-23",
+      "title": "A tool to make your GitHub README impossible to ignore 🚀",
+      "source": "devto"
+    },
+    "4de7cc59c9ea7ca6": {
+      "date": "2026-05-23",
+      "title": "How I Caught and Fixed an N+1 Query in My Django REST API",
+      "source": "devto"
+    },
+    "826ec3c0ad94ff85": {
+      "date": "2026-05-23",
+      "title": "Adaptable apps on ChromeOS: a post-mortem",
+      "source": "devto"
+    },
+    "2340ec9dd8652521": {
+      "date": "2026-05-23",
+      "title": "How I Built a Local, Multimodal Gemma 4 Visual Regression & Patch Agent: Closed-Loop Validation, Can",
+      "source": "devto"
+    },
+    "ebc3b4fe22b66c2d": {
+      "date": "2026-05-23",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "source": "github"
+    },
+    "301464475984dc53": {
+      "date": "2026-05-23",
+      "title": "presenton / presenton",
+      "source": "github"
+    },
+    "d60f8ca6784334ee": {
+      "date": "2026-05-23",
+      "title": "NVlabs / LongLive",
       "source": "github"
     }
   }
