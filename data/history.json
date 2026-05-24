@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-23T23:36:29.850631",
+  "last_updated": "2026-05-24T23:40:29.683431",
   "sent_items": {
-    "acf8a1da6e8885ed": {
-      "date": "2026-04-23",
-      "title": "FocuSee 2.0",
-      "source": "producthunt"
-    },
-    "0fe8fdb3e6c23a53": {
-      "date": "2026-04-23",
-      "title": "Skill Inspector",
-      "source": "producthunt"
-    },
-    "29ef5b8e7ef3bd5e": {
-      "date": "2026-04-23",
-      "title": "Blink AI CFO",
-      "source": "producthunt"
-    },
-    "8952bf68752ddde2": {
-      "date": "2026-04-23",
-      "title": "Design.MD",
-      "source": "producthunt"
-    },
-    "87c916d66e6e855a": {
-      "date": "2026-04-23",
-      "title": "MiMo-V2.5 & Pro",
-      "source": "producthunt"
-    },
-    "38fe4918d680ebad": {
-      "date": "2026-04-23",
-      "title": "Reloop Animation Studio",
-      "source": "producthunt"
-    },
-    "37e83bea55c5716e": {
-      "date": "2026-04-23",
-      "title": "PopTask v2.0",
-      "source": "producthunt"
-    },
-    "67eef0dd333bbe37": {
-      "date": "2026-04-23",
-      "title": "GPT-5.5",
-      "source": "hackernews"
-    },
-    "cba7fe466ecc2a8d": {
-      "date": "2026-04-23",
-      "title": "I am building a cloud",
-      "source": "hackernews"
-    },
-    "0112a39aaa86630c": {
-      "date": "2026-04-23",
-      "title": "Palantir employees are starting to wonder if they're the bad guys",
-      "source": "hackernews"
-    },
-    "3a0991210d2d0ec9": {
-      "date": "2026-04-23",
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "source": "hackernews"
-    },
-    "2ab8741a98421d57": {
-      "date": "2026-04-23",
-      "title": "An update on recent Claude Code quality reports",
-      "source": "hackernews"
-    },
-    "f3c84dd524d1e3ac": {
-      "date": "2026-04-23",
-      "title": "Incident with multple GitHub services",
-      "source": "hackernews"
-    },
-    "5086395d06053cd5": {
-      "date": "2026-04-23",
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "source": "hackernews"
-    },
-    "32d299c8b6f62eac": {
-      "date": "2026-04-23",
-      "title": "My phone replaced a brass plug",
-      "source": "hackernews"
-    },
-    "09b1882141b9cb9a": {
-      "date": "2026-04-23",
-      "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-      "source": "hackernews"
-    },
-    "b6c3444b6d06ce65": {
-      "date": "2026-04-23",
-      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
-      "source": "hackernews"
-    },
-    "945895a34042ad8e": {
-      "date": "2026-04-23",
-      "title": "So, what am I doing after 22 years in tech?",
-      "source": "devto"
-    },
-    "5d418b9082606615": {
-      "date": "2026-04-23",
-      "title": "Congrats to the April Fools Challenge Winners!!",
-      "source": "devto"
-    },
-    "388d05caf646c3f0": {
-      "date": "2026-04-23",
-      "title": "How My Coworker Who Didn't Know 'cd' Shipped to Production",
-      "source": "devto"
-    },
-    "dde992a23789d32e": {
-      "date": "2026-04-23",
-      "title": "I Built a Local AI VRAM Calculator & GPU Planner (Beta)",
-      "source": "devto"
-    },
-    "ba66f479e72a9022": {
-      "date": "2026-04-23",
-      "title": "Making illegal state unrepresentable",
-      "source": "devto"
-    },
-    "5d6d43b4aa355f03": {
-      "date": "2026-04-23",
-      "title": "I let a kosher lobster run my Shabbat automations",
-      "source": "devto"
-    },
-    "b1286be51c08dc29": {
-      "date": "2026-04-23",
-      "title": "Why I spent years trying to make CSS states predictable",
-      "source": "devto"
-    },
-    "8320c182d658b229": {
-      "date": "2026-04-23",
-      "title": "The Sweet Lure of Prediction Arb: How I Tried to Speedrun a Rust Monitor (and Fried My Brain)",
-      "source": "devto"
-    },
-    "5314cf07620f54db": {
-      "date": "2026-04-23",
-      "title": "FOMO as a Developer: You're Not Behind, You're Just Human",
-      "source": "devto"
-    },
-    "56e984b283dcc9ae": {
-      "date": "2026-04-23",
-      "title": "huggingface / ml-intern",
-      "source": "github"
-    },
-    "f2f7e303ad9af8e4": {
-      "date": "2026-04-23",
-      "title": "Anil-matcha / Open-Generative-AI",
-      "source": "github"
-    },
-    "8e0001db8f8344fb": {
-      "date": "2026-04-23",
-      "title": "Alishahryar1 / free-claude-code",
-      "source": "github"
-    },
-    "948e14202b264559": {
-      "date": "2026-04-23",
-      "title": "PowerShell / PowerShell",
-      "source": "github"
-    },
-    "dd96a3f3f4b9af84": {
-      "date": "2026-04-23",
-      "title": "cline / cline",
-      "source": "github"
-    },
-    "90f64c9a0e96180e": {
-      "date": "2026-04-23",
-      "title": "microsoft / onnxruntime",
-      "source": "github"
-    },
-    "1bcf0237559db521": {
-      "date": "2026-04-23",
-      "title": "mksglu / context-mode",
-      "source": "github"
-    },
-    "7344796a1c663646": {
-      "date": "2026-04-23",
-      "title": "coreyhaines31 / marketingskills",
-      "source": "github"
-    },
-    "acd1f028b71176ba": {
-      "date": "2026-04-23",
-      "title": "chiphuyen / aie-book",
-      "source": "github"
-    },
     "f150efc88db11783": {
       "date": "2026-04-24",
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
@@ -4906,6 +4731,161 @@
       "date": "2026-05-23",
       "title": "NVlabs / LongLive",
       "source": "github"
+    },
+    "f98daa0cf30d867c": {
+      "date": "2026-05-24",
+      "title": "ModelHub",
+      "source": "producthunt"
+    },
+    "49a598fe1fc9e6e7": {
+      "date": "2026-05-24",
+      "title": "Freu AI",
+      "source": "producthunt"
+    },
+    "b4179c51378e5c84": {
+      "date": "2026-05-24",
+      "title": "DynamicNotch",
+      "source": "producthunt"
+    },
+    "4f8acc75d3892aeb": {
+      "date": "2026-05-24",
+      "title": "DockFlow",
+      "source": "producthunt"
+    },
+    "baadf31096b50f72": {
+      "date": "2026-05-24",
+      "title": "WhatCable",
+      "source": "producthunt"
+    },
+    "e7bf0cf41afc7ff4": {
+      "date": "2026-05-24",
+      "title": "Stitch 3.0 by Google",
+      "source": "producthunt"
+    },
+    "5f7903eb8521056c": {
+      "date": "2026-05-24",
+      "title": "I spent 50 hours drawing a line graph",
+      "source": "hackernews"
+    },
+    "1d1c383a9abd4d8b": {
+      "date": "2026-05-24",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "source": "hackernews"
+    },
+    "9c8e2a8fc51f6f70": {
+      "date": "2026-05-24",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "source": "hackernews"
+    },
+    "ce7dbebbe73d05c2": {
+      "date": "2026-05-24",
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "source": "hackernews"
+    },
+    "7f7af92fbb42db0f": {
+      "date": "2026-05-24",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "source": "hackernews"
+    },
+    "b84703144dfa3f08": {
+      "date": "2026-05-24",
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "source": "hackernews"
+    },
+    "a693b67198eb5bae": {
+      "date": "2026-05-24",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "source": "hackernews"
+    },
+    "d464f2ac48d78ba3": {
+      "date": "2026-05-24",
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "source": "hackernews"
+    },
+    "0f8cb703c6d47f9f": {
+      "date": "2026-05-24",
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "source": "hackernews"
+    },
+    "b0e9fdc381b9d715": {
+      "date": "2026-05-24",
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "source": "hackernews"
+    },
+    "8b104053cac10bb4": {
+      "date": "2026-05-24",
+      "title": "anthropics / knowledge-work-plugins",
+      "source": "github"
+    },
+    "d37649da1014b56f": {
+      "date": "2026-05-24",
+      "title": "earendil-works / pi",
+      "source": "github"
+    },
+    "0483299a7e22039b": {
+      "date": "2026-05-24",
+      "title": "manaflow-ai / cmux",
+      "source": "github"
+    },
+    "5fa324d6510a1f1b": {
+      "date": "2026-05-24",
+      "title": "666ghj / MiroFish",
+      "source": "github"
+    },
+    "c8239fb8d0703c93": {
+      "date": "2026-05-24",
+      "title": "blakeblackshear / frigate",
+      "source": "github"
+    },
+    "8ca7e3ffc0c9e7e2": {
+      "date": "2026-05-24",
+      "title": "NeuralHats: I Put Edward de Bono’s Six Thinking Hats on Local LLMs Using Gemma 4",
+      "source": "devto"
+    },
+    "70b038a0095c99bd": {
+      "date": "2026-05-24",
+      "title": "Gemma 4 challenge inspired me to build my first app!",
+      "source": "devto"
+    },
+    "9b2a1d8d01f1ddae": {
+      "date": "2026-05-24",
+      "title": "I built a local document Q&A tool around Gemma 4 E4B's 128K context — five days, no RAG, no cloud",
+      "source": "devto"
+    },
+    "71f95a2573c4c0b5": {
+      "date": "2026-05-24",
+      "title": "I stress-tested Gemma 4 E4B's 128K context on a laptop GPU — recall is great, prefill is not",
+      "source": "devto"
+    },
+    "8e832013ab1d4e1d": {
+      "date": "2026-05-24",
+      "title": "My Impression of AI in Programming",
+      "source": "devto"
+    },
+    "5559d7e3693b050f": {
+      "date": "2026-05-24",
+      "title": "From Govhack Win to Something That Actually Matters",
+      "source": "devto"
+    },
+    "5bc0879890c1b35e": {
+      "date": "2026-05-24",
+      "title": "Your Inbox Knows Too Much: Parsli for the Privacy Paranoid",
+      "source": "devto"
+    },
+    "9ad8e213c69fa97e": {
+      "date": "2026-05-24",
+      "title": "Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.",
+      "source": "devto"
+    },
+    "a7d29aca79b64b0e": {
+      "date": "2026-05-24",
+      "title": "I Built ResuMate! A 100% Private, Local AI Resume Optimizer with Google Gemma 4",
+      "source": "devto"
+    },
+    "d129c9ae80cfdb4e": {
+      "date": "2026-05-24",
+      "title": "Entrei pra fazer networking, mas não imaginava o que ia encontrar...",
+      "source": "devto"
     }
   }
 }
