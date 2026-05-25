@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-24T23:40:29.683431",
+  "last_updated": "2026-05-25T23:43:14.793092",
   "sent_items": {
-    "f150efc88db11783": {
-      "date": "2026-04-24",
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "source": "hackernews"
-    },
-    "0a76a3c545cda962": {
-      "date": "2026-04-24",
-      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
-      "source": "hackernews"
-    },
-    "8fa0ef48ec61a83a": {
-      "date": "2026-04-24",
-      "title": "Google Plans to Invest Up to $40B in Anthropic",
-      "source": "hackernews"
-    },
-    "4430dcd23dc9fb0c": {
-      "date": "2026-04-24",
-      "title": "The Classic American Diner",
-      "source": "hackernews"
-    },
-    "7df92c1c003fedbb": {
-      "date": "2026-04-24",
-      "title": "My audio interface has SSH enabled by default",
-      "source": "hackernews"
-    },
-    "5a3ec0272fff7ac4": {
-      "date": "2026-04-24",
-      "title": "Email could have been X.400 times better",
-      "source": "hackernews"
-    },
-    "bf3da348fb36fb84": {
-      "date": "2026-04-24",
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "source": "hackernews"
-    },
-    "82db1db44570ab35": {
-      "date": "2026-04-24",
-      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
-      "source": "hackernews"
-    },
-    "df40e0e4eaf8fcc9": {
-      "date": "2026-04-24",
-      "title": "Google Flow Music",
-      "source": "hackernews"
-    },
-    "03c5f103d962749e": {
-      "date": "2026-04-24",
-      "title": "Show HN: I've built a nice home server OS",
-      "source": "hackernews"
-    },
-    "74ca9d7a473cb1c3": {
-      "date": "2026-04-24",
-      "title": "Mozart Studio 1.0",
-      "source": "producthunt"
-    },
-    "17f5c30755b003b6": {
-      "date": "2026-04-24",
-      "title": "Spira AI",
-      "source": "producthunt"
-    },
-    "8aa4b6a98bfe54b3": {
-      "date": "2026-04-24",
-      "title": "NotchNest AI",
-      "source": "producthunt"
-    },
-    "3c62938acbf7e3b5": {
-      "date": "2026-04-24",
-      "title": "Ask Product Hunt AI",
-      "source": "producthunt"
-    },
-    "ddde8478eede37b4": {
-      "date": "2026-04-24",
-      "title": "DeepSeek-V4",
-      "source": "producthunt"
-    },
-    "6f18a8b632f8c0b5": {
-      "date": "2026-04-24",
-      "title": "Nordcraft 2.0",
-      "source": "producthunt"
-    },
-    "1684347fc5d54a59": {
-      "date": "2026-04-24",
-      "title": "Codex 3.0 by OpenAI",
-      "source": "producthunt"
-    },
-    "a2f6b65664fa70a5": {
-      "date": "2026-04-24",
-      "title": "Your Name in Landsat 🛰️",
-      "source": "producthunt"
-    },
-    "b49fb8e41d880c27": {
-      "date": "2026-04-24",
-      "title": "What was your win this week!?",
-      "source": "devto"
-    },
-    "3d924b7d71a39cb7": {
-      "date": "2026-04-24",
-      "title": "I'm Running Gemini as an Autonomous Coding Agent. Here's What It Can't Do and Which NEXT '26 Announc",
-      "source": "devto"
-    },
-    "541c2a6435bf918d": {
-      "date": "2026-04-24",
-      "title": "I Used to Love Coding. Now I Just Prompt.",
-      "source": "devto"
-    },
-    "1f383c8e4087206b": {
-      "date": "2026-04-24",
-      "title": "EasyPollVote [Dev Log #3]",
-      "source": "devto"
-    },
-    "54ff723566b63a07": {
-      "date": "2026-04-24",
-      "title": "A Practical Guide to Flutter Accessibility Part 2: Hiding Noise, Exposing Actions",
-      "source": "devto"
-    },
-    "f2002d0a30679247": {
-      "date": "2026-04-24",
-      "title": "How I learn in the age of Ai coding",
-      "source": "devto"
-    },
-    "fa6ca3e1d2b40c53": {
-      "date": "2026-04-24",
-      "title": "Correlation-Aware Memory Search: How I Taught OpenClaw to Remember What Matters",
-      "source": "devto"
-    },
-    "18335fd4c8964967": {
-      "date": "2026-04-24",
-      "title": "ClawSec: Turn OpenClaw Into an Offensive Recon Assistant via Telegram",
-      "source": "devto"
-    },
-    "d1371217c69ca170": {
-      "date": "2026-04-24",
-      "title": "I'm 17, Built a Devtool Solo, and Here's Everything That Almost Killed It",
-      "source": "devto"
-    },
-    "9f6b3c80f7c94d1e": {
-      "date": "2026-04-24",
-      "title": "A Stitch at a time",
-      "source": "devto"
-    },
-    "6920173d65fd847a": {
-      "date": "2026-04-24",
-      "title": "google / osv-scanner",
-      "source": "github"
-    },
-    "6fb08428e288194e": {
-      "date": "2026-04-24",
-      "title": "PostHog / posthog",
-      "source": "github"
-    },
-    "494d19bddf316eb5": {
-      "date": "2026-04-24",
-      "title": "dani-garcia / vaultwarden",
-      "source": "github"
-    },
-    "bcfb7e936799fa98": {
-      "date": "2026-04-24",
-      "title": "codecrafters-io / build-your-own-x",
-      "source": "github"
-    },
-    "2bf7c3562fa2aa94": {
-      "date": "2026-04-24",
-      "title": "deepseek-ai / DeepEP",
-      "source": "github"
-    },
-    "2a66032edb30be4e": {
-      "date": "2026-04-24",
-      "title": "microsoft / typescript-go",
-      "source": "github"
-    },
     "64efac56d0e7f28d": {
       "date": "2026-04-25",
       "title": "Inrō AI",
@@ -4886,6 +4716,176 @@
       "date": "2026-05-24",
       "title": "Entrei pra fazer networking, mas não imaginava o que ia encontrar...",
       "source": "devto"
+    },
+    "ba72687c65df7c1d": {
+      "date": "2026-05-25",
+      "title": "Magnifica Humanitas",
+      "source": "hackernews"
+    },
+    "bde34891ebab88eb": {
+      "date": "2026-05-25",
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "source": "hackernews"
+    },
+    "aa5225c1f3a481f3": {
+      "date": "2026-05-25",
+      "title": "Exit IP VPN servers mitigation rollout",
+      "source": "hackernews"
+    },
+    "152e6e69b7bcf8b8": {
+      "date": "2026-05-25",
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "source": "hackernews"
+    },
+    "2555fa13492d8e2b": {
+      "date": "2026-05-25",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "source": "hackernews"
+    },
+    "136f495df83f81b0": {
+      "date": "2026-05-25",
+      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
+      "source": "hackernews"
+    },
+    "ab8d3ab1b191c952": {
+      "date": "2026-05-25",
+      "title": "Hacker News front page as a site",
+      "source": "hackernews"
+    },
+    "b6d1babdb4ff7ccb": {
+      "date": "2026-05-25",
+      "title": "Show HN: Write your BPF programs in Go, not C",
+      "source": "hackernews"
+    },
+    "41c1c3275f7b391d": {
+      "date": "2026-05-25",
+      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "source": "hackernews"
+    },
+    "f140c4a58e809930": {
+      "date": "2026-05-25",
+      "title": "Nobody Cracks Open a Programming Book Anymore",
+      "source": "hackernews"
+    },
+    "ef5b70510d48886c": {
+      "date": "2026-05-25",
+      "title": "LLMTest",
+      "source": "producthunt"
+    },
+    "0c5dd2ff376d8089": {
+      "date": "2026-05-25",
+      "title": "Fred",
+      "source": "producthunt"
+    },
+    "2c2dffbbe3a6ea56": {
+      "date": "2026-05-25",
+      "title": "Pi Coding Agent",
+      "source": "producthunt"
+    },
+    "5ad445a77f153fa1": {
+      "date": "2026-05-25",
+      "title": "Yansu",
+      "source": "producthunt"
+    },
+    "5769a6ff6e50d728": {
+      "date": "2026-05-25",
+      "title": "Orchestria",
+      "source": "producthunt"
+    },
+    "4e4d43644fcc10e6": {
+      "date": "2026-05-25",
+      "title": "own.page",
+      "source": "producthunt"
+    },
+    "e5886300fb97361b": {
+      "date": "2026-05-25",
+      "title": "tldx",
+      "source": "producthunt"
+    },
+    "69c7e1d10392884d": {
+      "date": "2026-05-25",
+      "title": "MashuPack",
+      "source": "producthunt"
+    },
+    "ca28d28c43bc8fb5": {
+      "date": "2026-05-25",
+      "title": "Vestige: A Gemma 4 Brain Tracker That Won't Blow Smoke Up Your Ass",
+      "source": "devto"
+    },
+    "17977c5082d3ad67": {
+      "date": "2026-05-25",
+      "title": "Don’t let AI break your collective thinking: a practical guide for engineering teams",
+      "source": "devto"
+    },
+    "e2aa06feb39b46e1": {
+      "date": "2026-05-25",
+      "title": "MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestures, and Controlled Chaos",
+      "source": "devto"
+    },
+    "026c8e420358c6d9": {
+      "date": "2026-05-25",
+      "title": "🛡️ PromptGuard: I Built a Local AI Privacy Firewall That Sanitizes Your Prompts Before They Leave Yo",
+      "source": "devto"
+    },
+    "2e50f076e37ee3bb": {
+      "date": "2026-05-25",
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "source": "devto"
+    },
+    "1989e8237ffaa8b7": {
+      "date": "2026-05-25",
+      "title": "Managing multiple docker hub accounts using docker-use",
+      "source": "devto"
+    },
+    "d372178fc2881529": {
+      "date": "2026-05-25",
+      "title": "Now I See Why Translators Are Panicking Over AI—Should Coders Panic Too?",
+      "source": "devto"
+    },
+    "e86ddf70fe372548": {
+      "date": "2026-05-25",
+      "title": "Why AI-Generated Code Is Always Good Enough — And Never Great",
+      "source": "devto"
+    },
+    "547822997e82da28": {
+      "date": "2026-05-25",
+      "title": "The Code Review Checklist I Actually Use",
+      "source": "devto"
+    },
+    "f8c21b45392ef4a7": {
+      "date": "2026-05-25",
+      "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
+      "source": "devto"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-05-25",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "9da20606e54ba5ed": {
+      "date": "2026-05-25",
+      "title": "paperless-ngx / paperless-ngx",
+      "source": "github"
+    },
+    "3f87148fc02bbcf5": {
+      "date": "2026-05-25",
+      "title": "anthropics / claude-cookbooks",
+      "source": "github"
+    },
+    "36584af2f7390ffc": {
+      "date": "2026-05-25",
+      "title": "Leonxlnx / taste-skill",
+      "source": "github"
+    },
+    "ebe69a8411ca36d3": {
+      "date": "2026-05-25",
+      "title": "moeru-ai / airi",
+      "source": "github"
+    },
+    "e7496fc47c432dbe": {
+      "date": "2026-05-25",
+      "title": "Axorax / awesome-free-apps",
+      "source": "github"
     }
   }
 }
