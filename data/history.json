@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-25T23:43:14.793092",
+  "last_updated": "2026-05-26T23:44:57.960895",
   "sent_items": {
-    "64efac56d0e7f28d": {
-      "date": "2026-04-25",
-      "title": "Inrō AI",
-      "source": "producthunt"
-    },
-    "7b11b8cc43dcb4ac": {
-      "date": "2026-04-25",
-      "title": "Grok Voice Think Fast 1.0",
-      "source": "producthunt"
-    },
-    "9bef234e54c2b464": {
-      "date": "2026-04-25",
-      "title": "Clawdi",
-      "source": "producthunt"
-    },
-    "6ea4688f97690891": {
-      "date": "2026-04-25",
-      "title": "MiMo-V2.5 Voice",
-      "source": "producthunt"
-    },
-    "5a606d0df7df2217": {
-      "date": "2026-04-25",
-      "title": "Euphony",
-      "source": "producthunt"
-    },
-    "8f34c87d49022cb1": {
-      "date": "2026-04-25",
-      "title": "Yutori Delegate",
-      "source": "producthunt"
-    },
-    "72a709e7446e7026": {
-      "date": "2026-04-25",
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "source": "hackernews"
-    },
-    "63a34d0b5503fa4d": {
-      "date": "2026-04-25",
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "source": "hackernews"
-    },
-    "37258a3ea5db49b8": {
-      "date": "2026-04-25",
-      "title": "The Free Universal Construction Kit",
-      "source": "hackernews"
-    },
-    "df661b1a7a023882": {
-      "date": "2026-04-25",
-      "title": "Using coding assistance tools to revive projects you never were going to finish",
-      "source": "hackernews"
-    },
-    "f4e2f952a4f40d47": {
-      "date": "2026-04-25",
-      "title": "What async promised and what it delivered",
-      "source": "hackernews"
-    },
-    "acbebbc3f28604fe": {
-      "date": "2026-04-25",
-      "title": "Desmond Morris has died",
-      "source": "hackernews"
-    },
-    "675061097227a1cc": {
-      "date": "2026-04-25",
-      "title": "Simulacrum of Knowledge Work",
-      "source": "hackernews"
-    },
-    "5557f6d2136b5f5a": {
-      "date": "2026-04-25",
-      "title": "Trump fires all 24 members of the U.S. National Science Foundation",
-      "source": "hackernews"
-    },
-    "87ac0e05e07b7e70": {
-      "date": "2026-04-25",
-      "title": "Mine, an IDE for Coalton and Common Lisp",
-      "source": "hackernews"
-    },
-    "1057793b6728568b": {
-      "date": "2026-04-25",
-      "title": "How Hard Is It to Open a File?",
-      "source": "hackernews"
-    },
-    "478e3bebb8810722": {
-      "date": "2026-04-25",
-      "title": "I Don’t Make Slides Anymore. My Agent and Entire Do It for Me.",
-      "source": "devto"
-    },
-    "9b7e5297399500e7": {
-      "date": "2026-04-25",
-      "title": "Google Cloud NEXT '26: A FULL STACK Developer’s Take on Cloud Run & AI",
-      "source": "devto"
-    },
-    "4013dfa38b4ef21a": {
-      "date": "2026-04-25",
-      "title": "I Document Like a Professional at Work. My Side Projects Are a Disaster.",
-      "source": "devto"
-    },
-    "795fb9524fbacd66": {
-      "date": "2026-04-25",
-      "title": "Introducing Excaliclaw: A Skill for OpenClaw to Generate Excalidraw Diagrams",
-      "source": "devto"
-    },
-    "b7b8453d9062715d": {
-      "date": "2026-04-25",
-      "title": "Building a Universal Drafts System in a VS Code Extension — Part 1: Types & Storage",
-      "source": "devto"
-    },
-    "cae031586d21b275": {
-      "date": "2026-04-25",
-      "title": "Scaling WebSockets to 100k Connections: Lessons from a Real-Time Cricket App",
-      "source": "devto"
-    },
-    "147f1f15bc7e4f3e": {
-      "date": "2026-04-25",
-      "title": "Learn Kubernetes the Manga Way",
-      "source": "devto"
-    },
-    "c71164718b85a750": {
-      "date": "2026-04-25",
-      "title": "Cost-engineering an \"AI Generate\" button in a freemium product (from $0.08 to $0.029 per click)",
-      "source": "devto"
-    },
-    "9d6e6aac2d01ee1b": {
-      "date": "2026-04-25",
-      "title": "A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score",
-      "source": "devto"
-    },
-    "160587029b7b1689": {
-      "date": "2026-04-25",
-      "title": "OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free",
-      "source": "devto"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-04-25",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "95ae7120d6074efd": {
-      "date": "2026-04-25",
-      "title": "davila7 / claude-code-templates",
-      "source": "github"
-    },
-    "009edd14a798285c": {
-      "date": "2026-04-25",
-      "title": "RooCodeInc / Roo-Code",
-      "source": "github"
-    },
-    "a1b5c1ac45929c1b": {
-      "date": "2026-04-25",
-      "title": "CJackHwang / ds2api",
-      "source": "github"
-    },
-    "df0f3a90ffa47273": {
-      "date": "2026-04-25",
-      "title": "Universal-Commerce-Protocol / ucp",
-      "source": "github"
-    },
-    "bac93a48d87ead7c": {
-      "date": "2026-04-25",
-      "title": "ComposioHQ / awesome-codex-skills",
-      "source": "github"
-    },
     "18d64ced60e50aea": {
       "date": "2026-04-26",
       "title": "SWE-bench Verified no longer measures frontier coding capabilities",
@@ -4885,6 +4725,176 @@
     "e7496fc47c432dbe": {
       "date": "2026-05-25",
       "title": "Axorax / awesome-free-apps",
+      "source": "github"
+    },
+    "48dde4cb958e5c74": {
+      "date": "2026-05-26",
+      "title": "QuakPit",
+      "source": "producthunt"
+    },
+    "1bd9cd0e13ad6c32": {
+      "date": "2026-05-26",
+      "title": "Willow Scribe",
+      "source": "producthunt"
+    },
+    "8c1357a16af8e985": {
+      "date": "2026-05-26",
+      "title": "NoteCove",
+      "source": "producthunt"
+    },
+    "399ed874aa097ed3": {
+      "date": "2026-05-26",
+      "title": "Ajar",
+      "source": "producthunt"
+    },
+    "1f4e556bd2915456": {
+      "date": "2026-05-26",
+      "title": "Trace",
+      "source": "producthunt"
+    },
+    "da505e194d0fa466": {
+      "date": "2026-05-26",
+      "title": "blokdots 3.0",
+      "source": "producthunt"
+    },
+    "ad139dbc7ca7b90a": {
+      "date": "2026-05-26",
+      "title": "MiniCPM5-1B",
+      "source": "producthunt"
+    },
+    "47e968f6e79ac62e": {
+      "date": "2026-05-26",
+      "title": "Parsewise API",
+      "source": "producthunt"
+    },
+    "de63ec2014c0c808": {
+      "date": "2026-05-26",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "source": "hackernews"
+    },
+    "35fd15e8db90a316": {
+      "date": "2026-05-26",
+      "title": "A few interesting modern pixel fonts",
+      "source": "hackernews"
+    },
+    "6eb8b5de53f9e8de": {
+      "date": "2026-05-26",
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "source": "hackernews"
+    },
+    "4f936bc9099c56ad": {
+      "date": "2026-05-26",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "source": "hackernews"
+    },
+    "6115616f172b01e8": {
+      "date": "2026-05-26",
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "source": "hackernews"
+    },
+    "61b044f5aeaf8ca0": {
+      "date": "2026-05-26",
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "source": "hackernews"
+    },
+    "201a2ec7ddbd45f9": {
+      "date": "2026-05-26",
+      "title": "The worst job interview I ever had",
+      "source": "hackernews"
+    },
+    "2f3124db69da5ebf": {
+      "date": "2026-05-26",
+      "title": "C array types are weird",
+      "source": "hackernews"
+    },
+    "871213454c371b6e": {
+      "date": "2026-05-26",
+      "title": "The Steinwinter Supercargo",
+      "source": "hackernews"
+    },
+    "fdaabdfbf20c3d91": {
+      "date": "2026-05-26",
+      "title": "A portentous reunion",
+      "source": "hackernews"
+    },
+    "cb82be1fc3500191": {
+      "date": "2026-05-26",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "34f938319bdce44b": {
+      "date": "2026-05-26",
+      "title": "An LLM API call, in 4 GIFs",
+      "source": "devto"
+    },
+    "79a32aaba684df15": {
+      "date": "2026-05-26",
+      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 2)",
+      "source": "devto"
+    },
+    "1977de100ff3a03e": {
+      "date": "2026-05-26",
+      "title": "Minimal Code Doesn’t Mean Stable Code",
+      "source": "devto"
+    },
+    "d02fa41117935d99": {
+      "date": "2026-05-26",
+      "title": "You Don’t Need Microservices (Yet): A Reality Check for Devs",
+      "source": "devto"
+    },
+    "5cdad8ea13902b91": {
+      "date": "2026-05-26",
+      "title": "The Sourdough Manifesto",
+      "source": "devto"
+    },
+    "3acdfaa81aea3cb5": {
+      "date": "2026-05-26",
+      "title": "Vibecoding Our First MCP Server",
+      "source": "devto"
+    },
+    "8701a28bc1f9cf3e": {
+      "date": "2026-05-26",
+      "title": "Cursor 3 ships parallel AI agents. Here is the multi-agent workflow that actually works.",
+      "source": "devto"
+    },
+    "6e2694821a3232bf": {
+      "date": "2026-05-26",
+      "title": "The Cost of Showing Up: What the Productivity Advice Does Not Tell You About Being Visible",
+      "source": "devto"
+    },
+    "6f40230ec06de41f": {
+      "date": "2026-05-26",
+      "title": "Toward a Standard Model for Agent Memory",
+      "source": "devto"
+    },
+    "95f1163f64d0e00f": {
+      "date": "2026-05-26",
+      "title": "hardikpandya / stop-slop",
+      "source": "github"
+    },
+    "a6c0bdd810c337f3": {
+      "date": "2026-05-26",
+      "title": "DigitalPlatDev / FreeDomain",
+      "source": "github"
+    },
+    "4e4265489a81fda2": {
+      "date": "2026-05-26",
+      "title": "twentyhq / twenty",
+      "source": "github"
+    },
+    "84daf5030c295d45": {
+      "date": "2026-05-26",
+      "title": "Open-Dev-Society / OpenStock",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-05-26",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "daed4b884fec9742": {
+      "date": "2026-05-26",
+      "title": "st-tech / ppf-contact-solver",
       "source": "github"
     }
   }
