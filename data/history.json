@@ -1,152 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-26T23:44:57.960895",
+  "last_updated": "2026-05-27T23:48:20.256836",
   "sent_items": {
-    "18d64ced60e50aea": {
-      "date": "2026-04-26",
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "source": "hackernews"
-    },
-    "8b3cee7d36dd7e77": {
-      "date": "2026-04-26",
-      "title": "AI should elevate your thinking, not replace it",
-      "source": "hackernews"
-    },
-    "0c79a4c23213366f": {
-      "date": "2026-04-26",
-      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "source": "hackernews"
-    },
-    "04230962860b2238": {
-      "date": "2026-04-26",
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "source": "hackernews"
-    },
-    "95c3f56b9513deef": {
-      "date": "2026-04-26",
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "source": "hackernews"
-    },
-    "6a9a631ec8c6b98e": {
-      "date": "2026-04-26",
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "source": "hackernews"
-    },
-    "c378b4fc13c7da03": {
-      "date": "2026-04-26",
-      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
-      "source": "hackernews"
-    },
-    "e56c45faf4ba978f": {
-      "date": "2026-04-26",
-      "title": "Show HN: AI memory with biological decay (52% recall)",
-      "source": "hackernews"
-    },
-    "2ef9867e79bf89be": {
-      "date": "2026-04-26",
-      "title": "MoQ Boy",
-      "source": "hackernews"
-    },
-    "c6c35b52043ff7d2": {
-      "date": "2026-04-26",
-      "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
-      "source": "hackernews"
-    },
-    "0179535a49fcd8b3": {
-      "date": "2026-04-26",
-      "title": "Edgee Team",
-      "source": "producthunt"
-    },
-    "bd1f114961a7f921": {
-      "date": "2026-04-26",
-      "title": "QuickCompare by Trismik",
-      "source": "producthunt"
-    },
-    "dc358f611f426d8a": {
-      "date": "2026-04-26",
-      "title": "Claude Connectors",
-      "source": "producthunt"
-    },
-    "19eb48bacc26b336": {
-      "date": "2026-04-26",
-      "title": "Pica",
-      "source": "producthunt"
-    },
-    "d44331a1971df5c9": {
-      "date": "2026-04-26",
-      "title": "trycua / cua",
-      "source": "github"
-    },
-    "c77ce24ce71f68a5": {
-      "date": "2026-04-26",
-      "title": "gastownhall / beads",
-      "source": "github"
-    },
-    "bf53335606249c5e": {
-      "date": "2026-04-26",
-      "title": "curl / curl",
-      "source": "github"
-    },
-    "33cf411d1b08b0fd": {
-      "date": "2026-04-26",
-      "title": "home-assistant / core",
-      "source": "github"
-    },
-    "0bd21c2cf11fc945": {
-      "date": "2026-04-26",
-      "title": "openclaw / openclaw",
-      "source": "github"
-    },
-    "2ae37e7dcc70b9a3": {
-      "date": "2026-04-26",
-      "title": "Tech Debt Didn't Start with AI",
-      "source": "devto"
-    },
-    "19461e859a1d58a5": {
-      "date": "2026-04-26",
-      "title": "Writing Testable Code: Common Anti-Patterns and How to Fix Them",
-      "source": "devto"
-    },
-    "a8e5aad6c4d94873": {
-      "date": "2026-04-26",
-      "title": "From CLI to AI: The Evolution of How Humans Talk to Software",
-      "source": "devto"
-    },
-    "4a4e1a1764dc2795": {
-      "date": "2026-04-26",
-      "title": "The Spot Instance That Killed Our Payments Service (And Why It Took Us 47 Minutes to Find It)",
-      "source": "devto"
-    },
-    "ae2028dfc55d53a6": {
-      "date": "2026-04-26",
-      "title": "How to Create an EventBridge Scheduler with ActionAfterCompletion in CloudFormation",
-      "source": "devto"
-    },
-    "1d291f3d744b9101": {
-      "date": "2026-04-26",
-      "title": "Building a 21-Layer Memory Stack for an AI That Forgets Every 5 Minutes",
-      "source": "devto"
-    },
-    "a36f3ffadd58da14": {
-      "date": "2026-04-26",
-      "title": "Officially Introducing: The Google AI and Google Cloud Run Badges",
-      "source": "devto"
-    },
-    "e05bc51d470d1579": {
-      "date": "2026-04-26",
-      "title": "Hermes agent: Introduction",
-      "source": "devto"
-    },
-    "af01125cc58bc2ec": {
-      "date": "2026-04-26",
-      "title": "I Tried Building a Money Earning App — Here’s What Actually Happened (No BS)",
-      "source": "devto"
-    },
-    "c69c2f96ffb21c6a": {
-      "date": "2026-04-26",
-      "title": "Cx Dev Log — 2026-04-25",
-      "source": "devto"
-    },
     "daa1a5250017a4b8": {
       "date": "2026-04-27",
       "title": "Brew Finder",
@@ -4896,6 +4751,171 @@
       "date": "2026-05-26",
       "title": "st-tech / ppf-contact-solver",
       "source": "github"
+    },
+    "762be394b9881037": {
+      "date": "2026-05-27",
+      "title": "Pawse.ai",
+      "source": "producthunt"
+    },
+    "41cfd70ee315b17e": {
+      "date": "2026-05-27",
+      "title": "Aviquill",
+      "source": "producthunt"
+    },
+    "1d600ca2e3b97ca5": {
+      "date": "2026-05-27",
+      "title": "CircadiaOS",
+      "source": "producthunt"
+    },
+    "22f1740d08a6f7da": {
+      "date": "2026-05-27",
+      "title": "Layers",
+      "source": "producthunt"
+    },
+    "39d781746548afb8": {
+      "date": "2026-05-27",
+      "title": "Calling Skills for AI Agents",
+      "source": "producthunt"
+    },
+    "b6f3c52f92cc68b9": {
+      "date": "2026-05-27",
+      "title": "zero.xyz",
+      "source": "producthunt"
+    },
+    "dd1d70fbf152b7ee": {
+      "date": "2026-05-27",
+      "title": "BobCA",
+      "source": "producthunt"
+    },
+    "263ab083a949f938": {
+      "date": "2026-05-27",
+      "title": "Mojito",
+      "source": "producthunt"
+    },
+    "0ce3b9fca202ff15": {
+      "date": "2026-05-27",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "source": "hackernews"
+    },
+    "8c94a29a6f46e24d": {
+      "date": "2026-05-27",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "source": "hackernews"
+    },
+    "16b0cdbcc3639453": {
+      "date": "2026-05-27",
+      "title": "YouTube to automatically label AI-generated videos",
+      "source": "hackernews"
+    },
+    "d3b288485012d6cb": {
+      "date": "2026-05-27",
+      "title": "SimCity 3k in 4k (2025)",
+      "source": "hackernews"
+    },
+    "346ca456a2298efa": {
+      "date": "2026-05-27",
+      "title": "What Apple and Google are doing to push notifications",
+      "source": "hackernews"
+    },
+    "adcf4f576d5d8c9c": {
+      "date": "2026-05-27",
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "source": "hackernews"
+    },
+    "68fda2e1cf51760b": {
+      "date": "2026-05-27",
+      "title": "On Labubu and the Hyperreal",
+      "source": "hackernews"
+    },
+    "ffba48ca86503312": {
+      "date": "2026-05-27",
+      "title": "Internet traffic in Iran increasing",
+      "source": "hackernews"
+    },
+    "6130c2d48031a4d6": {
+      "date": "2026-05-27",
+      "title": "Warm up your MacBook (2019)",
+      "source": "hackernews"
+    },
+    "9a059d1d3d023966": {
+      "date": "2026-05-27",
+      "title": "A New Typst Template for Pandoc",
+      "source": "hackernews"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-05-27",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "d2f39386e20eb773": {
+      "date": "2026-05-27",
+      "title": "p-e-w / heretic",
+      "source": "github"
+    },
+    "56bde87769c785be": {
+      "date": "2026-05-27",
+      "title": "Chachamaru127 / claude-code-harness",
+      "source": "github"
+    },
+    "34092b68de732111": {
+      "date": "2026-05-27",
+      "title": "byoungd / English-level-up-tips",
+      "source": "github"
+    },
+    "9d48e4e4a6b36e10": {
+      "date": "2026-05-27",
+      "title": "iii-hq / iii",
+      "source": "github"
+    },
+    "c2451ca17facc910": {
+      "date": "2026-05-27",
+      "title": "How Are Developers Actually Using AI At Work?",
+      "source": "devto"
+    },
+    "3757655592a46abf": {
+      "date": "2026-05-27",
+      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
+      "source": "devto"
+    },
+    "c7ecc55bf11767fd": {
+      "date": "2026-05-27",
+      "title": "Hermes Mentor — A Local AI Agent That Gets You Out of Tutorial Hell",
+      "source": "devto"
+    },
+    "711cded1498a6e66": {
+      "date": "2026-05-27",
+      "title": "Accessibility question: is nesting interactive elements bad?",
+      "source": "devto"
+    },
+    "e3e430112dae1747": {
+      "date": "2026-05-27",
+      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
+      "source": "devto"
+    },
+    "997e0a1cd2b7307f": {
+      "date": "2026-05-27",
+      "title": "How the 80/20 Rule and GitHub Copilot Saved My Abandoned App From Code Graveyard",
+      "source": "devto"
+    },
+    "34462cb8c4cce7dc": {
+      "date": "2026-05-27",
+      "title": "What Building My Own AI Bot Taught Me About Generative AI",
+      "source": "devto"
+    },
+    "9a70f295e92554d3": {
+      "date": "2026-05-27",
+      "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
+      "source": "devto"
+    },
+    "6221c201abd4f174": {
+      "date": "2026-05-27",
+      "title": "SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?",
+      "source": "devto"
+    },
+    "d0266ca6aa32fd20": {
+      "date": "2026-05-27",
+      "title": "How I Built an Indonesian NLP Parser That Understands Warung Owners, Then Abandoned It",
+      "source": "devto"
     }
   }
 }
