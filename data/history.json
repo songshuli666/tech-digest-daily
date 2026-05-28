@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-27T23:48:20.256836",
+  "last_updated": "2026-05-28T23:53:59.467933",
   "sent_items": {
-    "daa1a5250017a4b8": {
-      "date": "2026-04-27",
-      "title": "Brew Finder",
-      "source": "producthunt"
-    },
-    "800a8a0110c0d2d3": {
-      "date": "2026-04-27",
-      "title": "Odyssey-2 Max",
-      "source": "producthunt"
-    },
-    "18f264a8f3c15c83": {
-      "date": "2026-04-27",
-      "title": "Orange Slice",
-      "source": "producthunt"
-    },
-    "a14d95b0aa1050f8": {
-      "date": "2026-04-27",
-      "title": "Jet AI Agents",
-      "source": "producthunt"
-    },
-    "7cc2bb1c9b0e8746": {
-      "date": "2026-04-27",
-      "title": "Subgrapher",
-      "source": "producthunt"
-    },
-    "ccddd61af809ab2d": {
-      "date": "2026-04-27",
-      "title": "Atech",
-      "source": "producthunt"
-    },
-    "bcd4cb136ae85976": {
-      "date": "2026-04-27",
-      "title": "Vouch API",
-      "source": "producthunt"
-    },
-    "114eebda866682f7": {
-      "date": "2026-04-27",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "source": "hackernews"
-    },
-    "464b82a8a36d2b75": {
-      "date": "2026-04-27",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "source": "hackernews"
-    },
-    "586e893d9d02fbfc": {
-      "date": "2026-04-27",
-      "title": "Men who stare at walls",
-      "source": "hackernews"
-    },
-    "9e9de1c372502f7d": {
-      "date": "2026-04-27",
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "source": "hackernews"
-    },
-    "9545f59b2066f79f": {
-      "date": "2026-04-27",
-      "title": "Is my blue your blue?",
-      "source": "hackernews"
-    },
-    "b91da86ecf6734d4": {
-      "date": "2026-04-27",
-      "title": "Networking changes coming in macOS 27",
-      "source": "hackernews"
-    },
-    "e9c3233da747ad38": {
-      "date": "2026-04-27",
-      "title": "The woes of sanitizing SVGs",
-      "source": "hackernews"
-    },
-    "ff5a19d6482beb66": {
-      "date": "2026-04-27",
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "source": "hackernews"
-    },
-    "609ffaf12232da62": {
-      "date": "2026-04-27",
-      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "source": "hackernews"
-    },
-    "5e887f06b9fc5dfb": {
-      "date": "2026-04-27",
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "source": "hackernews"
-    },
-    "7dedb2d2d7715979": {
-      "date": "2026-04-27",
-      "title": "penpot / penpot",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-04-27",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "51be604eeab68db5": {
-      "date": "2026-04-27",
-      "title": "deepseek-ai / DeepSeek-V3",
-      "source": "github"
-    },
-    "5be9284bd6d1ce37": {
-      "date": "2026-04-27",
-      "title": "donnemartin / system-design-primer",
-      "source": "github"
-    },
-    "7ae992514a258242": {
-      "date": "2026-04-27",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "ad0b8a04ed77b432": {
-      "date": "2026-04-27",
-      "title": "Great Little Software: psikat",
-      "source": "devto"
-    },
-    "709b848e4aab87d2": {
-      "date": "2026-04-27",
-      "title": "What are your goals for the week? #176",
-      "source": "devto"
-    },
-    "a6b38588f663a21f": {
-      "date": "2026-04-27",
-      "title": "Run OpenClaw Locally on Windows Using Windows Sandbox for Secure Isolation",
-      "source": "devto"
-    },
-    "65b4c425dd3e9b71": {
-      "date": "2026-04-27",
-      "title": "I built a journaling app where the AI refuses to talk on Sundays. Day 8/9 of 30.",
-      "source": "devto"
-    },
-    "68faa1c422cb0efe": {
-      "date": "2026-04-27",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "9b85f1b651015f11": {
-      "date": "2026-04-27",
-      "title": "G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god",
-      "source": "devto"
-    },
-    "7d6e0685187a75ee": {
-      "date": "2026-04-27",
-      "title": "What It Actually Feels Like to Build Something You're Proud Of",
-      "source": "devto"
-    },
-    "6aaafd668573ad31": {
-      "date": "2026-04-27",
-      "title": "How to Stop Your GitHub Issues From Becoming a Graveyard",
-      "source": "devto"
-    },
-    "968b1230bbd9cbd1": {
-      "date": "2026-04-27",
-      "title": "The Context Window Lie: Why Your LLM Remembers Nothing",
-      "source": "devto"
-    },
     "d3c2115eb12bf841": {
       "date": "2026-04-28",
       "title": "Kinhub",
@@ -4916,6 +4761,176 @@
       "date": "2026-05-27",
       "title": "How I Built an Indonesian NLP Parser That Understands Warung Owners, Then Abandoned It",
       "source": "devto"
+    },
+    "da9dac9b2fce4efa": {
+      "date": "2026-05-28",
+      "title": "AccountyCat",
+      "source": "producthunt"
+    },
+    "f594bb21f920ee51": {
+      "date": "2026-05-28",
+      "title": "Compartment",
+      "source": "producthunt"
+    },
+    "2a6a2deeccf7f2dd": {
+      "date": "2026-05-28",
+      "title": "Robinhood Agentic Trading",
+      "source": "producthunt"
+    },
+    "4b9488f2a67ddee0": {
+      "date": "2026-05-28",
+      "title": "Buffer API",
+      "source": "producthunt"
+    },
+    "0c91ee43cf5945e6": {
+      "date": "2026-05-28",
+      "title": "Pitch Agent",
+      "source": "producthunt"
+    },
+    "7561f9d2093e27d4": {
+      "date": "2026-05-28",
+      "title": "KugelAudio",
+      "source": "producthunt"
+    },
+    "f0d5337dadbeedba": {
+      "date": "2026-05-28",
+      "title": "Kim Personal Health Assistant",
+      "source": "producthunt"
+    },
+    "0c76ced28bcf1c0a": {
+      "date": "2026-05-28",
+      "title": "Crew44",
+      "source": "producthunt"
+    },
+    "5f3a9a519302e6ae": {
+      "date": "2026-05-28",
+      "title": "Claude Opus 4.8",
+      "source": "hackernews"
+    },
+    "419f540eb9e69a9f": {
+      "date": "2026-05-28",
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "source": "hackernews"
+    },
+    "761a1c72e18bc374": {
+      "date": "2026-05-28",
+      "title": "Building durable workflows on Postgres",
+      "source": "hackernews"
+    },
+    "eeb9b49368063b95": {
+      "date": "2026-05-28",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "source": "hackernews"
+    },
+    "dad1b3453af8c384": {
+      "date": "2026-05-28",
+      "title": "Various LLM Smells",
+      "source": "hackernews"
+    },
+    "5e731cc90e6edab8": {
+      "date": "2026-05-28",
+      "title": "News about Raspberry Pi 6 and Microcontroller Development",
+      "source": "hackernews"
+    },
+    "4b8627dcdd302966": {
+      "date": "2026-05-28",
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "source": "hackernews"
+    },
+    "7e5259e3c10b4fa9": {
+      "date": "2026-05-28",
+      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+      "source": "hackernews"
+    },
+    "825b00621fc34b6d": {
+      "date": "2026-05-28",
+      "title": "I hated writing until I learned there’s a science to it (2024)",
+      "source": "hackernews"
+    },
+    "a57b0954d27ce89c": {
+      "date": "2026-05-28",
+      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
+      "source": "hackernews"
+    },
+    "6266b8370bd2cbd4": {
+      "date": "2026-05-28",
+      "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
+      "source": "devto"
+    },
+    "b4ba6ff0c2b216ac": {
+      "date": "2026-05-28",
+      "title": "I Thought Coding Was The Job",
+      "source": "devto"
+    },
+    "573c881ad8d12a06": {
+      "date": "2026-05-28",
+      "title": "Winner Announcement Delayed for the Gemma 4 Challenge",
+      "source": "devto"
+    },
+    "7366e71c6a3ce932": {
+      "date": "2026-05-28",
+      "title": "Copilot helped me deploy my passion project to the App Store",
+      "source": "devto"
+    },
+    "ae166602b7824027": {
+      "date": "2026-05-28",
+      "title": "Building an Offline-First Bushfire Response Platform With Hermes Agent",
+      "source": "devto"
+    },
+    "4fcf4c152b38071a": {
+      "date": "2026-05-28",
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "source": "devto"
+    },
+    "f244fb94c7739e68": {
+      "date": "2026-05-28",
+      "title": "Seasons time-lapse - alignment",
+      "source": "devto"
+    },
+    "c90666bec5b8d630": {
+      "date": "2026-05-28",
+      "title": "I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. H",
+      "source": "devto"
+    },
+    "f74c1fa3b45c6930": {
+      "date": "2026-05-28",
+      "title": "I Built Sổ Lãi, a Practical Profit Tracker for Vietnamese Online Shops",
+      "source": "devto"
+    },
+    "8bd0ec49b0994dc7": {
+      "date": "2026-05-28",
+      "title": "My AI Kept Hallucinating Career Paths. I Abandoned the Project. GitHub Copilot Helped Me Fix What Wa",
+      "source": "devto"
+    },
+    "33054ecb8bf0f855": {
+      "date": "2026-05-28",
+      "title": "microsoft / markitdown",
+      "source": "github"
+    },
+    "38bb6a600df0e5fa": {
+      "date": "2026-05-28",
+      "title": "revfactory / harness",
+      "source": "github"
+    },
+    "bcfb7e936799fa98": {
+      "date": "2026-05-28",
+      "title": "codecrafters-io / build-your-own-x",
+      "source": "github"
+    },
+    "2db83a025fb2e599": {
+      "date": "2026-05-28",
+      "title": "unclecode / crawl4ai",
+      "source": "github"
+    },
+    "7a898800576591d9": {
+      "date": "2026-05-28",
+      "title": "OpenMOSS / MOSS-TTS",
+      "source": "github"
+    },
+    "7cb97b3a7c12222e": {
+      "date": "2026-05-28",
+      "title": "EveryInc / compound-engineering-plugin",
+      "source": "github"
     }
   }
 }
