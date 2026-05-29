@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-28T23:53:59.467933",
+  "last_updated": "2026-05-29T23:55:52.168968",
   "sent_items": {
-    "d3c2115eb12bf841": {
-      "date": "2026-04-28",
-      "title": "Kinhub",
-      "source": "producthunt"
-    },
-    "2d3b1f28d574aa69": {
-      "date": "2026-04-28",
-      "title": "Flitch",
-      "source": "producthunt"
-    },
-    "fded6f1cc78259c3": {
-      "date": "2026-04-28",
-      "title": "OrcaSheets AI Reports",
-      "source": "producthunt"
-    },
-    "2efbd17cbb96702c": {
-      "date": "2026-04-28",
-      "title": "Lovable mobile app",
-      "source": "producthunt"
-    },
-    "73d4e24c5aa4bfb5": {
-      "date": "2026-04-28",
-      "title": "Devin for Terminal",
-      "source": "producthunt"
-    },
-    "74b8a7d92c27247c": {
-      "date": "2026-04-28",
-      "title": "Blueprint",
-      "source": "producthunt"
-    },
-    "6be0d351d8416918": {
-      "date": "2026-04-28",
-      "title": "Curflow",
-      "source": "producthunt"
-    },
-    "da79dba0665da59f": {
-      "date": "2026-04-28",
-      "title": "SimCam",
-      "source": "producthunt"
-    },
-    "89eae6eebb45b8a1": {
-      "date": "2026-04-28",
-      "title": "Ghostty is leaving GitHub",
-      "source": "hackernews"
-    },
-    "d0dbba84b6a1dfd4": {
-      "date": "2026-04-28",
-      "title": "Warp is now Open-Source",
-      "source": "hackernews"
-    },
-    "e435084241412a02": {
-      "date": "2026-04-28",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "source": "hackernews"
-    },
-    "bdde8eb0d4c4f359": {
-      "date": "2026-04-28",
-      "title": "Before GitHub",
-      "source": "hackernews"
-    },
-    "37e09e62858164d4": {
-      "date": "2026-04-28",
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "source": "hackernews"
-    },
-    "045deb17ed3f9fef": {
-      "date": "2026-04-28",
-      "title": "Intel Arc Pro B70 Review",
-      "source": "hackernews"
-    },
-    "e92d46567488dd25": {
-      "date": "2026-04-28",
-      "title": "CJIT: C, Just in Time",
-      "source": "hackernews"
-    },
-    "ef03c896e6c422a2": {
-      "date": "2026-04-28",
-      "title": "I won a championship that doesn't exist",
-      "source": "hackernews"
-    },
-    "149ccd7bb36757a0": {
-      "date": "2026-04-28",
-      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-      "source": "hackernews"
-    },
-    "a3aa9d1a49118f1c": {
-      "date": "2026-04-28",
-      "title": "Carrot Disclosure: Forgejo",
-      "source": "hackernews"
-    },
-    "77a89bd7a868e2d4": {
-      "date": "2026-04-28",
-      "title": "Are We Using AI at the Wrong Scale?",
-      "source": "devto"
-    },
-    "88f898e10292002b": {
-      "date": "2026-04-28",
-      "title": "How I used Gemini CLI to orchestrate a complex RAG migration",
-      "source": "devto"
-    },
-    "57f7dca6094d6ff9": {
-      "date": "2026-04-28",
-      "title": "My Incredible Google Cloud Next 26 Experience as a GDE",
-      "source": "devto"
-    },
-    "0032175cb8c1f978": {
-      "date": "2026-04-28",
-      "title": "Weekly Dev Log 2026-W03",
-      "source": "devto"
-    },
-    "7811951f763c704e": {
-      "date": "2026-04-28",
-      "title": "🗓️ Monthly Dev Report: April 2026",
-      "source": "devto"
-    },
-    "0b604e59e5bba292": {
-      "date": "2026-04-28",
-      "title": "Founder Patterns That Kill a Launch – And What AI Has To Do With It",
-      "source": "devto"
-    },
-    "7fcb22f2a8052e04": {
-      "date": "2026-04-28",
-      "title": "I built an open-source MCP server that lints a CV against 5 real ATS parsers",
-      "source": "devto"
-    },
-    "957e9f117693105f": {
-      "date": "2026-04-28",
-      "title": "I Stopped Fighting WordPress… So I Rebuilt How I Use It",
-      "source": "devto"
-    },
-    "5a566dc8d1fe842e": {
-      "date": "2026-04-28",
-      "title": "How I Built Inline Disable Comments for a Go Markdown Linter",
-      "source": "devto"
-    },
-    "93bbb6b8229734be": {
-      "date": "2026-04-28",
-      "title": "SHIFT: The Third Time I Tried Convergence",
-      "source": "devto"
-    },
-    "104b57e9a4316877": {
-      "date": "2026-04-28",
-      "title": "microsoft / VibeVoice",
-      "source": "github"
-    },
-    "313f5b1e67ddc488": {
-      "date": "2026-04-28",
-      "title": "HunxByts / GhostTrack",
-      "source": "github"
-    },
-    "a88d93bba138f9f3": {
-      "date": "2026-04-28",
-      "title": "fspecii / ace-step-ui",
-      "source": "github"
-    },
-    "3e2033fc37ad3f11": {
-      "date": "2026-04-28",
-      "title": "EbookFoundation / free-programming-books",
-      "source": "github"
-    },
-    "f8a83a183835a788": {
-      "date": "2026-04-28",
-      "title": "iamgio / quarkdown",
-      "source": "github"
-    },
     "02f5c0a364abb9d5": {
       "date": "2026-04-29",
       "title": "Open Wearables",
@@ -4930,6 +4765,171 @@
     "7cb97b3a7c12222e": {
       "date": "2026-05-28",
       "title": "EveryInc / compound-engineering-plugin",
+      "source": "github"
+    },
+    "2da885b226251faf": {
+      "date": "2026-05-29",
+      "title": "The dead economy theory",
+      "source": "hackernews"
+    },
+    "395721ff92725693": {
+      "date": "2026-05-29",
+      "title": "SQLite is all you need for durable workflows",
+      "source": "hackernews"
+    },
+    "dd1892931864cf29": {
+      "date": "2026-05-29",
+      "title": "Notes from the Mistral AI Now Summit",
+      "source": "hackernews"
+    },
+    "b3fe634031f04cc6": {
+      "date": "2026-05-29",
+      "title": "It's hard to justify buying a Framework 12",
+      "source": "hackernews"
+    },
+    "b23a2d77c92e090b": {
+      "date": "2026-05-29",
+      "title": "On Rendering Diffs",
+      "source": "hackernews"
+    },
+    "bc0dcce54460137c": {
+      "date": "2026-05-29",
+      "title": "You can just say it",
+      "source": "hackernews"
+    },
+    "c3707c4135d803c1": {
+      "date": "2026-05-29",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "source": "hackernews"
+    },
+    "5d8342f0307196a2": {
+      "date": "2026-05-29",
+      "title": "Shift will clean homes for free to train future robots",
+      "source": "hackernews"
+    },
+    "a9d2d7c98471f847": {
+      "date": "2026-05-29",
+      "title": "MCP Is Dead",
+      "source": "hackernews"
+    },
+    "68341d6ed88cc217": {
+      "date": "2026-05-29",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "source": "hackernews"
+    },
+    "1d2f810f8e8b255f": {
+      "date": "2026-05-29",
+      "title": "Clipline",
+      "source": "producthunt"
+    },
+    "a124db58f0d499b9": {
+      "date": "2026-05-29",
+      "title": "GPS",
+      "source": "producthunt"
+    },
+    "2d4165a0779b2824": {
+      "date": "2026-05-29",
+      "title": "Drafted",
+      "source": "producthunt"
+    },
+    "69a46b4102ec4833": {
+      "date": "2026-05-29",
+      "title": "Integuru",
+      "source": "producthunt"
+    },
+    "0aa2c5242b307a89": {
+      "date": "2026-05-29",
+      "title": "Firecoach AI",
+      "source": "producthunt"
+    },
+    "f3be022f0c6457c2": {
+      "date": "2026-05-29",
+      "title": "Coffee Piano",
+      "source": "producthunt"
+    },
+    "3fe54f5201def020": {
+      "date": "2026-05-29",
+      "title": "RabbitTravel",
+      "source": "producthunt"
+    },
+    "84dfed377faf2e34": {
+      "date": "2026-05-29",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "0b6a7ece070ce502": {
+      "date": "2026-05-29",
+      "title": "DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together",
+      "source": "devto"
+    },
+    "e36af5386bef471a": {
+      "date": "2026-05-29",
+      "title": "🗓️ Monthly Dev Report: May 2026",
+      "source": "devto"
+    },
+    "044d6768d068b64c": {
+      "date": "2026-05-29",
+      "title": "Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource",
+      "source": "devto"
+    },
+    "1bcfb60396d9b1ce": {
+      "date": "2026-05-29",
+      "title": "The Kubernetes Overkill: Why I Built a \"K8s Killer\" for Small Environments",
+      "source": "devto"
+    },
+    "fe33e9ddb6381cdc": {
+      "date": "2026-05-29",
+      "title": "Weekly Dev Log 2026-W07",
+      "source": "devto"
+    },
+    "51f1f0341822256b": {
+      "date": "2026-05-29",
+      "title": "Building a Resume Download Gate: Email Collection, Signed Tokens, and an S3 Lesson",
+      "source": "devto"
+    },
+    "0749634e8ad3c79e": {
+      "date": "2026-05-29",
+      "title": "BugWhisperer: How I Finally Finished My Abandoned GitHub Issue Analyzer (8 Months Later) with GitHub",
+      "source": "devto"
+    },
+    "9dc07dafe1772a71": {
+      "date": "2026-05-29",
+      "title": "I left a Linux security guide half-finished for months — Copilot helped me wrap it up",
+      "source": "devto"
+    },
+    "f42b72e8167830cc": {
+      "date": "2026-05-29",
+      "title": "Autofilling in the Blanks",
+      "source": "devto"
+    },
+    "1e61851c7eb0065b": {
+      "date": "2026-05-29",
+      "title": "anthropics / claude-code",
+      "source": "github"
+    },
+    "21302fb12d0b2e2d": {
+      "date": "2026-05-29",
+      "title": "cursor / plugins",
+      "source": "github"
+    },
+    "b1152e5d5b10f814": {
+      "date": "2026-05-29",
+      "title": "run-llama / liteparse",
+      "source": "github"
+    },
+    "1eea2ce007261611": {
+      "date": "2026-05-29",
+      "title": "galilai-group / stable-worldmodel",
+      "source": "github"
+    },
+    "9c6498c92f020663": {
+      "date": "2026-05-29",
+      "title": "Biohub / esm",
+      "source": "github"
+    },
+    "41a6a86637e67fe4": {
+      "date": "2026-05-29",
+      "title": "Crosstalk-Solutions / project-nomad",
       "source": "github"
     }
   }
