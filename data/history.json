@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-30T23:38:07.318622",
+  "last_updated": "2026-05-31T23:41:54.521214",
   "sent_items": {
-    "d816c844c3a3ce55": {
-      "date": "2026-04-30",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "source": "hackernews"
-    },
-    "72f6e1d820c597df": {
-      "date": "2026-04-30",
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "source": "hackernews"
-    },
-    "1cfca1f3458065b1": {
-      "date": "2026-04-30",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "source": "hackernews"
-    },
-    "2fc322e899d50413": {
-      "date": "2026-04-30",
-      "title": "Rivian allows you to disable all internet connectivity",
-      "source": "hackernews"
-    },
-    "ddb1048db9410eac": {
-      "date": "2026-04-30",
-      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-      "source": "hackernews"
-    },
-    "e4cdcf5db76ea824": {
-      "date": "2026-04-30",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "source": "hackernews"
-    },
-    "900ec02ddaac897d": {
-      "date": "2026-04-30",
-      "title": "How an oil refinery works",
-      "source": "hackernews"
-    },
-    "b3ebf3ba58d09596": {
-      "date": "2026-04-30",
-      "title": "I built a Game Boy emulator in F#",
-      "source": "hackernews"
-    },
-    "1ccb0b0aa572bf17": {
-      "date": "2026-04-30",
-      "title": "Opus 4.7 knows the real Kelsey",
-      "source": "hackernews"
-    },
-    "efcd4a4922a842ea": {
-      "date": "2026-04-30",
-      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-      "source": "hackernews"
-    },
-    "f6102647bfb5443b": {
-      "date": "2026-04-30",
-      "title": "KushoAI for Playwright",
-      "source": "producthunt"
-    },
-    "11875ef2863c60fd": {
-      "date": "2026-04-30",
-      "title": "ElevenLabs Agent Templates",
-      "source": "producthunt"
-    },
-    "de0e6d11b04cd2e2": {
-      "date": "2026-04-30",
-      "title": "Crin AI",
-      "source": "producthunt"
-    },
-    "a9bb36c88e355f18": {
-      "date": "2026-04-30",
-      "title": "ElevenMusic",
-      "source": "producthunt"
-    },
-    "c7de720e765ce8e3": {
-      "date": "2026-04-30",
-      "title": "AstroGrid - Universe Engine",
-      "source": "producthunt"
-    },
-    "471b1d2a851d302e": {
-      "date": "2026-04-30",
-      "title": "Wonder",
-      "source": "producthunt"
-    },
-    "cdea4e05756917ed": {
-      "date": "2026-04-30",
-      "title": "Hera Launch",
-      "source": "producthunt"
-    },
-    "4fd1eff88caf3d36": {
-      "date": "2026-04-30",
-      "title": "ghostty-org / ghostty",
-      "source": "github"
-    },
-    "2c2fb0222883697d": {
-      "date": "2026-04-30",
-      "title": "ForrestKnight / open-source-cs",
-      "source": "github"
-    },
-    "4c71ac8bf4b51149": {
-      "date": "2026-04-30",
-      "title": "browserbase / skills",
-      "source": "github"
-    },
-    "e25f93f3d9ac15b2": {
-      "date": "2026-04-30",
-      "title": "Announcing the Winners of the DEV Weekend Challenge: Earth Day Edition 🌍",
-      "source": "devto"
-    },
-    "68860cd1d5289f7f": {
-      "date": "2026-04-30",
-      "title": "Is Software Development Just a Side Quest? A Jira Story",
-      "source": "devto"
-    },
-    "191e4d8245275231": {
-      "date": "2026-04-30",
-      "title": "Stop Using Your Clipboard to Share Context",
-      "source": "devto"
-    },
-    "3f90167997acc229": {
-      "date": "2026-04-30",
-      "title": "More Accessible Focus Indicators with Compose",
-      "source": "devto"
-    },
-    "2b4b025d485e88fc": {
-      "date": "2026-04-30",
-      "title": "vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet (With Interactive Tool)",
-      "source": "devto"
-    },
-    "09022eb45f4f9afd": {
-      "date": "2026-04-30",
-      "title": "Terminal Art",
-      "source": "devto"
-    },
-    "913cbf7200501954": {
-      "date": "2026-04-30",
-      "title": "Three Mastodon issues because of Cloudflare Bot protection",
-      "source": "devto"
-    },
-    "839d0cadfb8c3bbd": {
-      "date": "2026-04-30",
-      "title": "Function Calling Harness 2: CoT Compliance from 9.91% to 100%",
-      "source": "devto"
-    },
-    "bd3ac58a22c3fdd4": {
-      "date": "2026-04-30",
-      "title": "OpenAI Tells You What You Spent. Not Where. So I Built a Dashboard.",
-      "source": "devto"
-    },
-    "485835d8f1680d58": {
-      "date": "2026-04-30",
-      "title": "I returned to Gamedev, but I started hating net tech, even before I created a multiplayer game.",
-      "source": "devto"
-    },
     "c6f8a62cebd26aed": {
       "date": "2026-05-01",
       "title": "Postiz",
@@ -4915,6 +4765,151 @@
     "4b0d3232cb556271": {
       "date": "2026-05-30",
       "title": "DataTalksClub / data-engineering-zoomcamp",
+      "source": "github"
+    },
+    "c13138237e311466": {
+      "date": "2026-05-31",
+      "title": "Marqly 5.0",
+      "source": "producthunt"
+    },
+    "ad5821baeafd41b8": {
+      "date": "2026-05-31",
+      "title": "TabTasker",
+      "source": "producthunt"
+    },
+    "1faa0ad6d4e34255": {
+      "date": "2026-05-31",
+      "title": "Oura Ring 5",
+      "source": "producthunt"
+    },
+    "5ff50a16c2cf0deb": {
+      "date": "2026-05-31",
+      "title": "Agent A by Ahrefs",
+      "source": "producthunt"
+    },
+    "6b4ded40ee3671fe": {
+      "date": "2026-05-31",
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "source": "hackernews"
+    },
+    "f7f47b74b75fd5e7": {
+      "date": "2026-05-31",
+      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "source": "hackernews"
+    },
+    "bb557f3f51125238": {
+      "date": "2026-05-31",
+      "title": "Dav2d",
+      "source": "hackernews"
+    },
+    "51fcd5399bad20c5": {
+      "date": "2026-05-31",
+      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+      "source": "hackernews"
+    },
+    "352fe9e4a27d44d8": {
+      "date": "2026-05-31",
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "source": "hackernews"
+    },
+    "e02a31566011ddc1": {
+      "date": "2026-05-31",
+      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "source": "hackernews"
+    },
+    "163990983d2fbb6f": {
+      "date": "2026-05-31",
+      "title": "It's Not Just X. It's Y",
+      "source": "hackernews"
+    },
+    "04669bbbfa114dfd": {
+      "date": "2026-05-31",
+      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
+      "source": "hackernews"
+    },
+    "f977c21172df2326": {
+      "date": "2026-05-31",
+      "title": "New Beam Spring Keyboards",
+      "source": "hackernews"
+    },
+    "3e2bb31a9b5e15e7": {
+      "date": "2026-05-31",
+      "title": "Chuwi Minibook X: the netbook we deserve",
+      "source": "hackernews"
+    },
+    "b0e4a8c02f0c599f": {
+      "date": "2026-05-31",
+      "title": "Streaming an LLM response, in 4 GIFs",
+      "source": "devto"
+    },
+    "540f73ce5768321f": {
+      "date": "2026-05-31",
+      "title": "Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s",
+      "source": "devto"
+    },
+    "e89af6332e15f051": {
+      "date": "2026-05-31",
+      "title": "I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB",
+      "source": "devto"
+    },
+    "2ea2013ff63a1033": {
+      "date": "2026-05-31",
+      "title": "peektea: brewing a terminal file browser with Bubble Tea",
+      "source": "devto"
+    },
+    "77170166b86c727d": {
+      "date": "2026-05-31",
+      "title": "Claude vs Gemini Across 4 Security Domains: A Dead Heat — and the Hardening 63% of AI Code Skips",
+      "source": "devto"
+    },
+    "72b3bf3e86c4ccb3": {
+      "date": "2026-05-31",
+      "title": "My website has two audiences now. I only built for one of them.",
+      "source": "devto"
+    },
+    "309223b0d6f6c22a": {
+      "date": "2026-05-31",
+      "title": "Building in public, week 11: 143 pages indexed, a TinyPNG alternative in Rust",
+      "source": "devto"
+    },
+    "ecc392ce4eafc372": {
+      "date": "2026-05-31",
+      "title": "AI doesn't fail because the model is bad. It fails because there's nothing underneath it",
+      "source": "devto"
+    },
+    "5f3c446bc1976894": {
+      "date": "2026-05-31",
+      "title": "How I Built a Permanent Testing Server Using Cloudflare Tunnel",
+      "source": "devto"
+    },
+    "78635462cddb4a49": {
+      "date": "2026-05-31",
+      "title": "Frontend Architecture: Where Does This File Go?",
+      "source": "devto"
+    },
+    "c157c87cd55e761b": {
+      "date": "2026-05-31",
+      "title": "nesquena / hermes-webui",
+      "source": "github"
+    },
+    "3217549ef275d205": {
+      "date": "2026-05-31",
+      "title": "github / docs",
+      "source": "github"
+    },
+    "c48c82e47f720318": {
+      "date": "2026-05-31",
+      "title": "supermemoryai / supermemory",
+      "source": "github"
+    },
+    "ed87a229f4988dbd": {
+      "date": "2026-05-31",
+      "title": "nicobailon / pi-subagents",
+      "source": "github"
+    },
+    "1cb7efec45a582ee": {
+      "date": "2026-05-31",
+      "title": "emmabostian / developer-portfolios",
       "source": "github"
     }
   }
