@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-05-31T23:41:54.521214",
+  "last_updated": "2026-06-01T23:55:26.260941",
   "sent_items": {
-    "c6f8a62cebd26aed": {
-      "date": "2026-05-01",
-      "title": "Postiz",
-      "source": "producthunt"
-    },
-    "820823a68e26b136": {
-      "date": "2026-05-01",
-      "title": "ScreenVeil",
-      "source": "producthunt"
-    },
-    "d4a3239f51bd310f": {
-      "date": "2026-05-01",
-      "title": "nudge",
-      "source": "producthunt"
-    },
-    "9aa3dab4b932c077": {
-      "date": "2026-05-01",
-      "title": "PeekFocus",
-      "source": "producthunt"
-    },
-    "8091f57dd7d5ceab": {
-      "date": "2026-05-01",
-      "title": "Buda",
-      "source": "producthunt"
-    },
-    "99f95466fd292838": {
-      "date": "2026-05-01",
-      "title": "Marx Finance",
-      "source": "producthunt"
-    },
-    "628c3315565d9014": {
-      "date": "2026-05-01",
-      "title": "Montage",
-      "source": "producthunt"
-    },
-    "d1390f3c0b9569d5": {
-      "date": "2026-05-01",
-      "title": "Bitgrain",
-      "source": "producthunt"
-    },
-    "6d72172c13c7c24f": {
-      "date": "2026-05-01",
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "source": "hackernews"
-    },
-    "b6b66f860c2fdbd4": {
-      "date": "2026-05-01",
-      "title": "Ti-84 Evo",
-      "source": "hackernews"
-    },
-    "7b26908287186783": {
-      "date": "2026-05-01",
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "source": "hackernews"
-    },
-    "3743cf8a978d7571": {
-      "date": "2026-05-01",
-      "title": "Credit cards are vulnerable to brute force kind attacks",
-      "source": "hackernews"
-    },
-    "976796edb0d64bfa": {
-      "date": "2026-05-01",
-      "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
-      "source": "hackernews"
-    },
-    "3f6b5ac8659fb349": {
-      "date": "2026-05-01",
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "source": "hackernews"
-    },
-    "b82551817bebf522": {
-      "date": "2026-05-01",
-      "title": "Show HN: AI CAD Harness",
-      "source": "hackernews"
-    },
-    "6f3a7bebf91a3a72": {
-      "date": "2026-05-01",
-      "title": "Whimsical Animations Course Open House",
-      "source": "hackernews"
-    },
-    "a2f224ac65266848": {
-      "date": "2026-05-01",
-      "title": "Show HN: Destiny – Claude Code's fortune Teller skill",
-      "source": "hackernews"
-    },
-    "9a921c6546e3892f": {
-      "date": "2026-05-01",
-      "title": "SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",
-      "source": "hackernews"
-    },
-    "e0d0d399bd6a3f2b": {
-      "date": "2026-05-01",
-      "title": "simstudioai / sim",
-      "source": "github"
-    },
-    "f84e917e416c7dca": {
-      "date": "2026-05-01",
-      "title": "Flowseal / zapret-discord-youtube",
-      "source": "github"
-    },
-    "c879bec4966d0ea1": {
-      "date": "2026-05-01",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "d34985a154f69144": {
-      "date": "2026-05-01",
-      "title": "I Don't Like Tailwind. Sorry Not Sorry",
-      "source": "devto"
-    },
-    "12f9c8797f41f4df": {
-      "date": "2026-05-01",
-      "title": "I Rebuilt Karpathy's NanoChat in JAX. Here's What XLA Gets Right and What It Gets Dead Wrong.",
-      "source": "devto"
-    },
-    "b158c14132c17048": {
-      "date": "2026-05-01",
-      "title": "The Emotional Lifecycle of Every Side Project (A Map)",
-      "source": "devto"
-    },
-    "3e25cd416c0bed1a": {
-      "date": "2026-05-01",
-      "title": "EasyPollVote [Dev Log #4]",
-      "source": "devto"
-    },
-    "fe2dfee5fd568e73": {
-      "date": "2026-05-01",
-      "title": "My LLM assistant's new buzzword is starting responses with \"be completely candid\". Very grating.",
-      "source": "devto"
-    },
-    "5c71f7068bbddf32": {
-      "date": "2026-05-01",
-      "title": "Gaffa @ Major League Hacking's Global Hack Week",
-      "source": "devto"
-    },
-    "093a65e21625df13": {
-      "date": "2026-05-01",
-      "title": "I Am Starting Over in Public",
-      "source": "devto"
-    },
-    "2fba66f29778ecff": {
-      "date": "2026-05-01",
-      "title": "Skills Without Evals Are Just Markdown and Hope",
-      "source": "devto"
-    },
-    "e2e9b18a82d39726": {
-      "date": "2026-05-01",
-      "title": "We Blamed Stack Overflow for a Decade. Now It's AI.",
-      "source": "devto"
-    },
     "1e2fb6a87ea6e746": {
       "date": "2026-05-02",
       "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
@@ -4911,6 +4761,166 @@
       "date": "2026-05-31",
       "title": "emmabostian / developer-portfolios",
       "source": "github"
+    },
+    "73b095497bbebddb": {
+      "date": "2026-06-01",
+      "title": "Emily by Co-Desk",
+      "source": "producthunt"
+    },
+    "c0cf853ef5f82926": {
+      "date": "2026-06-01",
+      "title": "Open Caffeine",
+      "source": "producthunt"
+    },
+    "3109f32692fafbd1": {
+      "date": "2026-06-01",
+      "title": "Typeahead",
+      "source": "producthunt"
+    },
+    "516272cded4436d5": {
+      "date": "2026-06-01",
+      "title": "Skylive",
+      "source": "producthunt"
+    },
+    "ac1d64fad45c2e05": {
+      "date": "2026-06-01",
+      "title": "Tabstack Web Research",
+      "source": "producthunt"
+    },
+    "429967b29e103a35": {
+      "date": "2026-06-01",
+      "title": "NetworkSpy",
+      "source": "producthunt"
+    },
+    "b1f5a6c54687a0fd": {
+      "date": "2026-06-01",
+      "title": "Trippple Club",
+      "source": "producthunt"
+    },
+    "ccfc4f0eeb9b1a22": {
+      "date": "2026-06-01",
+      "title": "R0Y OMNI 1.0",
+      "source": "producthunt"
+    },
+    "26b866f0ab0b359d": {
+      "date": "2026-06-01",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "source": "hackernews"
+    },
+    "9d59c6974e123c39": {
+      "date": "2026-06-01",
+      "title": "CS336: Language Modeling from Scratch",
+      "source": "hackernews"
+    },
+    "b1233451ec9006e4": {
+      "date": "2026-06-01",
+      "title": "Nvidia RTX Spark",
+      "source": "hackernews"
+    },
+    "34592f50e59d0741": {
+      "date": "2026-06-01",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "source": "hackernews"
+    },
+    "bbc6d1c5b69b23df": {
+      "date": "2026-06-01",
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "source": "hackernews"
+    },
+    "1bd516bf80d32dfe": {
+      "date": "2026-06-01",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "source": "hackernews"
+    },
+    "adf2d9d862390110": {
+      "date": "2026-06-01",
+      "title": "Debug Project",
+      "source": "hackernews"
+    },
+    "88474bf992dab61d": {
+      "date": "2026-06-01",
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "source": "hackernews"
+    },
+    "f3f647eb2fa9d284": {
+      "date": "2026-06-01",
+      "title": "GrapheneOS Speech Services version 2 released",
+      "source": "hackernews"
+    },
+    "d15a4bcb01f57c5c": {
+      "date": "2026-06-01",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "source": "hackernews"
+    },
+    "be8acfaf11180d2a": {
+      "date": "2026-06-01",
+      "title": "pbakaus / impeccable",
+      "source": "github"
+    },
+    "afdace39e7492d8a": {
+      "date": "2026-06-01",
+      "title": "TauricResearch / TradingAgents",
+      "source": "github"
+    },
+    "86c066d5eb88de40": {
+      "date": "2026-06-01",
+      "title": "godotengine / godot",
+      "source": "github"
+    },
+    "14325000fbbfd1cc": {
+      "date": "2026-06-01",
+      "title": "stefan-jansen / machine-learning-for-trading",
+      "source": "github"
+    },
+    "a3d7c8d46e334891": {
+      "date": "2026-06-01",
+      "title": "I Rebuilt My Karaoke App So Everyone's Phone Could Be a Remote",
+      "source": "devto"
+    },
+    "b035b840eeee8008": {
+      "date": "2026-06-01",
+      "title": "What are your goals for the week? #181",
+      "source": "devto"
+    },
+    "a9877f43f0000863": {
+      "date": "2026-06-01",
+      "title": "Debloating The AI-Grown Codebase",
+      "source": "devto"
+    },
+    "9ede5ba7256fb462": {
+      "date": "2026-06-01",
+      "title": "Why My Analytics Was Logging Every Page Visit Twice (And How I Fixed It)",
+      "source": "devto"
+    },
+    "2ca7de54a8a4df46": {
+      "date": "2026-06-01",
+      "title": "Tossed The T.V. but Kept the Remote? Here's how to NOT generate more E-Waste.",
+      "source": "devto"
+    },
+    "846fbcc182ab1e25": {
+      "date": "2026-06-01",
+      "title": "Ihua 🌸 — Building an AI Women's Health Agent for the African Woman with Hermes Agent",
+      "source": "devto"
+    },
+    "cbeb67ad283a504e": {
+      "date": "2026-06-01",
+      "title": "Running PyTorch fork-safe in Celery on macOS",
+      "source": "devto"
+    },
+    "b8b2834cc824d95d": {
+      "date": "2026-06-01",
+      "title": "When Duplicate Code Is the Better Design",
+      "source": "devto"
+    },
+    "6021be904e868181": {
+      "date": "2026-06-01",
+      "title": "Why Strake Is Free Right Now",
+      "source": "devto"
+    },
+    "4e7e42f213e3e704": {
+      "date": "2026-06-01",
+      "title": "The Becoming: I gave an AI a blank sketchbook and it invented its own art style",
+      "source": "devto"
     }
   }
 }
