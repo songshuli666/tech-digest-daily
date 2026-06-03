@@ -1,277 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-01T23:55:26.260941",
+  "last_updated": "2026-06-03T00:16:14.075671",
   "sent_items": {
-    "1e2fb6a87ea6e746": {
-      "date": "2026-05-02",
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "source": "hackernews"
-    },
-    "bdbbb546f42fc6f8": {
-      "date": "2026-05-02",
-      "title": "Dav2d",
-      "source": "hackernews"
-    },
-    "a21f7307c5436cb0": {
-      "date": "2026-05-02",
-      "title": "Do_not_track",
-      "source": "hackernews"
-    },
-    "3720b99fd1322c5f": {
-      "date": "2026-05-02",
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "source": "hackernews"
-    },
-    "d7ffb30e8e538a47": {
-      "date": "2026-05-02",
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "source": "hackernews"
-    },
-    "bfde6c94a3be7c12": {
-      "date": "2026-05-02",
-      "title": "This Month in Ladybird - April 2026",
-      "source": "hackernews"
-    },
-    "54022c7a224cf828": {
-      "date": "2026-05-02",
-      "title": "Little Magazines Are Back",
-      "source": "hackernews"
-    },
-    "630e08d5655ff951": {
-      "date": "2026-05-02",
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
-      "source": "hackernews"
-    },
-    "30998a404fc0b2fa": {
-      "date": "2026-05-02",
-      "title": "The agent harness belongs outside the sandbox",
-      "source": "hackernews"
-    },
-    "c92a17cdddb32684": {
-      "date": "2026-05-02",
-      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
-      "source": "hackernews"
-    },
-    "243963ef1a992ef2": {
-      "date": "2026-05-02",
-      "title": "Filect",
-      "source": "producthunt"
-    },
-    "c3dba039492409a7": {
-      "date": "2026-05-02",
-      "title": "Ara",
-      "source": "producthunt"
-    },
-    "fbc54e7dc5ad2e18": {
-      "date": "2026-05-02",
-      "title": "Breaks",
-      "source": "producthunt"
-    },
-    "e6a6d6406902db6f": {
-      "date": "2026-05-02",
-      "title": "Cloud Computer by Manus",
-      "source": "producthunt"
-    },
-    "2da3561a2b14e315": {
-      "date": "2026-05-02",
-      "title": "Feather",
-      "source": "producthunt"
-    },
-    "fb4324ceda254471": {
-      "date": "2026-05-02",
-      "title": "Zed 1.0",
-      "source": "producthunt"
-    },
-    "9a16f8b0667e86a0": {
-      "date": "2026-05-02",
-      "title": "ruvnet / ruflo",
-      "source": "github"
-    },
-    "6fdaea5c26dbb585": {
-      "date": "2026-05-02",
-      "title": "ShareX / ShareX",
-      "source": "github"
-    },
-    "7d9f29e1c13843dd": {
-      "date": "2026-05-02",
-      "title": "jwasham / coding-interview-university",
-      "source": "github"
-    },
-    "89655ca6d1928006": {
-      "date": "2026-05-02",
-      "title": "The AI Harness: why your AI coding agent is only as smart as the repo you put it in",
-      "source": "devto"
-    },
-    "6cc49e4740547ecb": {
-      "date": "2026-05-02",
-      "title": "Write Code That's Easy to Delete: The Art of Impermanent Software",
-      "source": "devto"
-    },
-    "79592ef5852cb37c": {
-      "date": "2026-05-02",
-      "title": "Gemini 3.1: Native TTS for Easier, More Powerful Summary Reading",
-      "source": "devto"
-    },
-    "c1284bcf7f93b4d8": {
-      "date": "2026-05-02",
-      "title": "GCP in Action: Migrating a LINE Bot from AI Studio to Vertex AI to Solve 429 Errors",
-      "source": "devto"
-    },
-    "f5cd67d6766df86c": {
-      "date": "2026-05-02",
-      "title": "GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram",
-      "source": "devto"
-    },
-    "ad366f661ee4e978": {
-      "date": "2026-05-02",
-      "title": "5 TypeScript Defaults That Quietly Changed in 2026 (And Why Your Build Is Now Broken)",
-      "source": "devto"
-    },
-    "6ad4d04e8634f07e": {
-      "date": "2026-05-02",
-      "title": "Porting Libraries to Crystal with AI",
-      "source": "devto"
-    },
-    "d9a16f653b348ff1": {
-      "date": "2026-05-02",
-      "title": "I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don't Require Sign",
-      "source": "devto"
-    },
-    "ac873a428c410b94": {
-      "date": "2026-05-02",
-      "title": "I Threw Away My ILIKE Queries and My Search Bar Finally Works - MeiliSearch",
-      "source": "devto"
-    },
-    "345c238f24f13952": {
-      "date": "2026-05-02",
-      "title": "How I replaced hours of manual work with a self-hosted AI agent",
-      "source": "devto"
-    },
-    "53df03651f0d856c": {
-      "date": "2026-05-03",
-      "title": "PandaProbe",
-      "source": "producthunt"
-    },
-    "85f1cec2df420274": {
-      "date": "2026-05-03",
-      "title": "Aximote In-Car App",
-      "source": "producthunt"
-    },
-    "daedd44d9c8f0e3c": {
-      "date": "2026-05-03",
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "source": "hackernews"
-    },
-    "0219dc984d294117": {
-      "date": "2026-05-03",
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "source": "hackernews"
-    },
-    "33d649e2c8c3c809": {
-      "date": "2026-05-03",
-      "title": "Why TUIs Are Back",
-      "source": "hackernews"
-    },
-    "7eea96c5c90de6b0": {
-      "date": "2026-05-03",
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "source": "hackernews"
-    },
-    "f2cd1468301afc09": {
-      "date": "2026-05-03",
-      "title": "A desktop made for one",
-      "source": "hackernews"
-    },
-    "4855f35c2b2aa421": {
-      "date": "2026-05-03",
-      "title": "Southwest Headquarters Tour",
-      "source": "hackernews"
-    },
-    "668da3cdcd9fd90b": {
-      "date": "2026-05-03",
-      "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-      "source": "hackernews"
-    },
-    "4e023a4cf4d2b8a2": {
-      "date": "2026-05-03",
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "source": "hackernews"
-    },
-    "bb69a241f370afb9": {
-      "date": "2026-05-03",
-      "title": "I recreated the Apple Lisa computer inside an FPGA [video]",
-      "source": "hackernews"
-    },
-    "d17182547cc5edde": {
-      "date": "2026-05-03",
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-      "source": "hackernews"
-    },
-    "21bbf9731969aa13": {
-      "date": "2026-05-03",
-      "title": "GitHub Broke Git: The Merge Queue Bug That Silently Deleted Your Code",
-      "source": "devto"
-    },
-    "9f3c495f5b6f4b86": {
-      "date": "2026-05-03",
-      "title": "Every developer deserves end credits",
-      "source": "devto"
-    },
-    "34938af25fd08c82": {
-      "date": "2026-05-03",
-      "title": "Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖",
-      "source": "devto"
-    },
-    "b99be0deb400b63e": {
-      "date": "2026-05-03",
-      "title": "AI Deleted My Tests and Said 'All Tests Pass' — A Horror Story from Porting 'typia' from TypeScript ",
-      "source": "devto"
-    },
-    "bb2aa28181ee3701": {
-      "date": "2026-05-03",
-      "title": "How I Built an Offline AI Assistant in Python - No OpenAI, No LangChain, No Dependencies",
-      "source": "devto"
-    },
-    "1162cb5bfaf2997c": {
-      "date": "2026-05-03",
-      "title": "How to Win a Hackathon",
-      "source": "devto"
-    },
-    "7283a2346a6ad438": {
-      "date": "2026-05-03",
-      "title": "I Accidentally Wrote a Filesystem Driver. For a Browser. 🤔",
-      "source": "devto"
-    },
-    "246d6fd0afebdfe9": {
-      "date": "2026-05-03",
-      "title": "I Built a Tool That Detects SEO Poisoning Across Multiple Search Engines",
-      "source": "devto"
-    },
-    "3b4cde843d38ec83": {
-      "date": "2026-05-03",
-      "title": "I Built a Mood Ring for the Internet in 24 Hours",
-      "source": "devto"
-    },
-    "c4a2a123af995166": {
-      "date": "2026-05-03",
-      "title": "I always worried my READMEs disagreed with my own repos. So I built README Clew.",
-      "source": "devto"
-    },
-    "a8489cdb447ed082": {
-      "date": "2026-05-03",
-      "title": "Hmbown / DeepSeek-TUI",
-      "source": "github"
-    },
-    "6441a71a96a5c444": {
-      "date": "2026-05-03",
-      "title": "czlonkowski / n8n-mcp",
-      "source": "github"
-    },
-    "c60883ab2c4d3c50": {
-      "date": "2026-05-03",
-      "title": "openwrt / openwrt",
-      "source": "github"
-    },
     "e5dcd6e024690805": {
       "date": "2026-05-04",
       "title": "Panels Store",
@@ -4921,6 +4651,166 @@
       "date": "2026-06-01",
       "title": "The Becoming: I gave an AI a blank sketchbook and it invented its own art style",
       "source": "devto"
+    },
+    "9c42fc7af7caf7d5": {
+      "date": "2026-06-03",
+      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+      "source": "hackernews"
+    },
+    "4a8e60d6a363b8c8": {
+      "date": "2026-06-03",
+      "title": "Gmail thinks I'm stupid, so I left",
+      "source": "hackernews"
+    },
+    "5e3fb37ba0a46de7": {
+      "date": "2026-06-03",
+      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
+      "source": "hackernews"
+    },
+    "cf136cba317516a0": {
+      "date": "2026-06-03",
+      "title": "MAI-Code-1-Flash",
+      "source": "hackernews"
+    },
+    "7678ea2a30a537f7": {
+      "date": "2026-06-03",
+      "title": "CT scans of BYD car parts",
+      "source": "hackernews"
+    },
+    "6259d1b372b1a9c4": {
+      "date": "2026-06-03",
+      "title": "My thoughts after using Clojure for about a month",
+      "source": "hackernews"
+    },
+    "6a91bb9e77a5b768": {
+      "date": "2026-06-03",
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "source": "hackernews"
+    },
+    "c47f27c0df87bd0e": {
+      "date": "2026-06-03",
+      "title": "California’s university system went all in on AI, now it's tearing itself apart",
+      "source": "hackernews"
+    },
+    "79c44a3e94ea04cd": {
+      "date": "2026-06-03",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "source": "hackernews"
+    },
+    "56f4a9c9d9db3bab": {
+      "date": "2026-06-03",
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "source": "hackernews"
+    },
+    "477eeac60d208753": {
+      "date": "2026-06-03",
+      "title": "Fundraisly",
+      "source": "producthunt"
+    },
+    "25f85150bcc18bd5": {
+      "date": "2026-06-03",
+      "title": "Gigacatalyst",
+      "source": "producthunt"
+    },
+    "21c4bcfb39a863db": {
+      "date": "2026-06-03",
+      "title": "Branda",
+      "source": "producthunt"
+    },
+    "a636d7a62908fdf4": {
+      "date": "2026-06-03",
+      "title": "GlowPulse",
+      "source": "producthunt"
+    },
+    "2bff2e08d8c60c5d": {
+      "date": "2026-06-03",
+      "title": "Gusto Cofounder",
+      "source": "producthunt"
+    },
+    "4ea3b1dce7a24bf0": {
+      "date": "2026-06-03",
+      "title": "PawPause",
+      "source": "producthunt"
+    },
+    "71b06b60a38ca011": {
+      "date": "2026-06-03",
+      "title": "Enshittifier",
+      "source": "producthunt"
+    },
+    "2df2b4f684244e97": {
+      "date": "2026-06-03",
+      "title": "Knock agent for Slack",
+      "source": "producthunt"
+    },
+    "502abd1a488bee98": {
+      "date": "2026-06-03",
+      "title": "Learning Lessons from Gaming",
+      "source": "devto"
+    },
+    "0d56c57d72db819e": {
+      "date": "2026-06-03",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "59351e36f3a25b39": {
+      "date": "2026-06-03",
+      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
+      "source": "devto"
+    },
+    "f9eb64bc64cace14": {
+      "date": "2026-06-03",
+      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
+      "source": "devto"
+    },
+    "9e981f60c19bde46": {
+      "date": "2026-06-03",
+      "title": "How fast is LlamaStash? Overhead, throughput, and a fair comparison with Ollama and LM Studio",
+      "source": "devto"
+    },
+    "cc89b489dc118ff0": {
+      "date": "2026-06-03",
+      "title": "Introducing LlamaStash: a zero-overhead, terminal-native llama.cpp launcher",
+      "source": "devto"
+    },
+    "47667866978e24aa": {
+      "date": "2026-06-03",
+      "title": "Gubernator [the kill ku8s]",
+      "source": "devto"
+    },
+    "9d01c012ffce9746": {
+      "date": "2026-06-03",
+      "title": "I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.",
+      "source": "devto"
+    },
+    "85d2d2eb071838eb": {
+      "date": "2026-06-03",
+      "title": "Send your first AI message in one API call",
+      "source": "devto"
+    },
+    "57ef89597d94efa3": {
+      "date": "2026-06-03",
+      "title": "Sovereign Synapse: The Context-Cleaner",
+      "source": "devto"
+    },
+    "fc660d3bee25c762": {
+      "date": "2026-06-03",
+      "title": "chopratejas / headroom",
+      "source": "github"
+    },
+    "9be2298923154546": {
+      "date": "2026-06-03",
+      "title": "reconurge / flowsint",
+      "source": "github"
+    },
+    "e7969addf9dd898b": {
+      "date": "2026-06-03",
+      "title": "jamwithai / production-agentic-rag-course",
+      "source": "github"
+    },
+    "cfb1d28a79107bc8": {
+      "date": "2026-06-03",
+      "title": "Open-LLM-VTuber / Open-LLM-VTuber",
+      "source": "github"
     }
   }
 }
