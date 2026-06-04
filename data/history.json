@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-06-04T00:17:03.262956",
+  "last_updated": "2026-06-04T23:49:49.424053",
   "sent_items": {
     "c5eab5ba0df89f26": {
       "date": "2026-05-05",
@@ -4816,6 +4816,176 @@
       "date": "2026-06-04",
       "title": "I built a tool to stop Claude from forgetting everything then forgot about it myself",
       "source": "devto"
+    },
+    "e8140c74e8b01f8d": {
+      "date": "2026-06-04",
+      "title": "VoidZero Is Joining Cloudflare",
+      "source": "hackernews"
+    },
+    "9fa2c50a19b2ff29": {
+      "date": "2026-06-04",
+      "title": "Ian's Secure Shoelace Knot",
+      "source": "hackernews"
+    },
+    "5a4fc1b94d5aac9a": {
+      "date": "2026-06-04",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "source": "hackernews"
+    },
+    "dc05ceb317a93c0e": {
+      "date": "2026-06-04",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "source": "hackernews"
+    },
+    "56e49d50d863b5df": {
+      "date": "2026-06-04",
+      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "source": "hackernews"
+    },
+    "1f14063f067bcd39": {
+      "date": "2026-06-04",
+      "title": "IPv6 zones in URLs are a mistake",
+      "source": "hackernews"
+    },
+    "70d2e40954599745": {
+      "date": "2026-06-04",
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "source": "hackernews"
+    },
+    "b592da700f379925": {
+      "date": "2026-06-04",
+      "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+      "source": "hackernews"
+    },
+    "4fbefb6a0e3523a8": {
+      "date": "2026-06-04",
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "source": "hackernews"
+    },
+    "926c8b39390aecdd": {
+      "date": "2026-06-04",
+      "title": "Queen bees emerge from special wax chambers",
+      "source": "hackernews"
+    },
+    "227762c911187ccf": {
+      "date": "2026-06-04",
+      "title": "Split Ninja",
+      "source": "producthunt"
+    },
+    "c8646776380172ea": {
+      "date": "2026-06-04",
+      "title": "Walrus Memory",
+      "source": "producthunt"
+    },
+    "5e564725625ad1b5": {
+      "date": "2026-06-04",
+      "title": "Empromptu AI",
+      "source": "producthunt"
+    },
+    "bc7a1da732ae1aeb": {
+      "date": "2026-06-04",
+      "title": "TimeTuna.com",
+      "source": "producthunt"
+    },
+    "5b326038cdba79d4": {
+      "date": "2026-06-04",
+      "title": "Deliveryman.ai",
+      "source": "producthunt"
+    },
+    "109b5cbc7de1da63": {
+      "date": "2026-06-04",
+      "title": "PlugTalk",
+      "source": "producthunt"
+    },
+    "ed3937528dfc48a5": {
+      "date": "2026-06-04",
+      "title": "Perplexity Personal Computer for Windows",
+      "source": "producthunt"
+    },
+    "cb17d69a58d6f116": {
+      "date": "2026-06-04",
+      "title": "Carbon Voice Speed Dial",
+      "source": "producthunt"
+    },
+    "19f5388a6147f1cb": {
+      "date": "2026-06-04",
+      "title": "I Didn't Mean To Learn Marketing",
+      "source": "devto"
+    },
+    "90f8d9ea28a3a5d7": {
+      "date": "2026-06-04",
+      "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
+      "source": "devto"
+    },
+    "077c12c25c7bfa4b": {
+      "date": "2026-06-04",
+      "title": "AI gateways: why and how",
+      "source": "devto"
+    },
+    "58e676ca4be1d4a0": {
+      "date": "2026-06-04",
+      "title": "Why Every Developer Should Attend Tech Week at Least Once",
+      "source": "devto"
+    },
+    "a75842045b528099": {
+      "date": "2026-06-04",
+      "title": "I Started 10,000 Java Threads. My Laptop Barely Noticed.",
+      "source": "devto"
+    },
+    "3cc359c641b76555": {
+      "date": "2026-06-04",
+      "title": "peektea narrows its gaze 👀 filter-as-you-type and hidden files",
+      "source": "devto"
+    },
+    "2c173bd15bf480d7": {
+      "date": "2026-06-04",
+      "title": "Union(C#, F#)",
+      "source": "devto"
+    },
+    "cb17e9c8e9449c4a": {
+      "date": "2026-06-04",
+      "title": "People Without Dirty Hands Are Wrong",
+      "source": "devto"
+    },
+    "0c7dd2f658fbbbd6": {
+      "date": "2026-06-04",
+      "title": "How I Bridged AWS Face Liveness to Expo with a Native Module",
+      "source": "devto"
+    },
+    "ea7a5d1edd474d71": {
+      "date": "2026-06-04",
+      "title": "The Comments Got Good. That's How I Knew.",
+      "source": "devto"
+    },
+    "68c57e7779dc4696": {
+      "date": "2026-06-04",
+      "title": "PaddlePaddle / PaddleOCR",
+      "source": "github"
+    },
+    "84aa3d71238dfaf5": {
+      "date": "2026-06-04",
+      "title": "NVIDIA / cosmos",
+      "source": "github"
+    },
+    "6cead375f73f7950": {
+      "date": "2026-06-04",
+      "title": "lfnovo / open-notebook",
+      "source": "github"
+    },
+    "06007b54a16f5739": {
+      "date": "2026-06-04",
+      "title": "github / copilot-sdk",
+      "source": "github"
+    },
+    "c44bd13f179e5e8e": {
+      "date": "2026-06-04",
+      "title": "openclaw / openclaw-windows-node",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-06-04",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
     }
   }
 }
