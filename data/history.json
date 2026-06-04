@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-03T00:16:14.075671",
+  "last_updated": "2026-06-04T00:17:03.262956",
   "sent_items": {
-    "e5dcd6e024690805": {
-      "date": "2026-05-04",
-      "title": "Panels Store",
-      "source": "producthunt"
-    },
-    "b6479a43c8e1beb6": {
-      "date": "2026-05-04",
-      "title": "Dropy",
-      "source": "producthunt"
-    },
-    "f83e8242aff16cb6": {
-      "date": "2026-05-04",
-      "title": "Claude Code & Codex Usage Trading Cards by Rudel",
-      "source": "producthunt"
-    },
-    "745e9d2a05b39b69": {
-      "date": "2026-05-04",
-      "title": "Regulus by Cumbuca",
-      "source": "producthunt"
-    },
-    "25ab8c8fd447cfb1": {
-      "date": "2026-05-04",
-      "title": "Flowly",
-      "source": "producthunt"
-    },
-    "9078fa92194c772e": {
-      "date": "2026-05-04",
-      "title": "Manex",
-      "source": "producthunt"
-    },
-    "d8505c72213b8c12": {
-      "date": "2026-05-04",
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "source": "hackernews"
-    },
-    "a091ccea2cc2c3a0": {
-      "date": "2026-05-04",
-      "title": "I am worried about Bun",
-      "source": "hackernews"
-    },
-    "eb019f8e647499d9": {
-      "date": "2026-05-04",
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "source": "hackernews"
-    },
-    "6ad310dc1941fde5": {
-      "date": "2026-05-04",
-      "title": "Redis array: short story of a long development process",
-      "source": "hackernews"
-    },
-    "fb4593bfa3f19c9d": {
-      "date": "2026-05-04",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "source": "hackernews"
-    },
-    "d2e32cbe867ebe79": {
-      "date": "2026-05-04",
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "source": "hackernews"
-    },
-    "1086b28ccf963238": {
-      "date": "2026-05-04",
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "source": "hackernews"
-    },
-    "7a10a123e00c34b7": {
-      "date": "2026-05-04",
-      "title": "Formatting a 25M-line codebase overnight",
-      "source": "hackernews"
-    },
-    "08e9f8987263c627": {
-      "date": "2026-05-04",
-      "title": "Agent Skills",
-      "source": "hackernews"
-    },
-    "70a74db77a54f90d": {
-      "date": "2026-05-04",
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "source": "hackernews"
-    },
-    "0f5ed17d13e137d5": {
-      "date": "2026-05-04",
-      "title": "I Love Tailwind. Sorry Not Sorry",
-      "source": "devto"
-    },
-    "8a6a239e3a4a4288": {
-      "date": "2026-05-04",
-      "title": "[Google Cloud Next '26 Recap #3] Anthropic's Vision for \"After Software\"",
-      "source": "devto"
-    },
-    "ec275157a8ad8f3e": {
-      "date": "2026-05-04",
-      "title": "I Built a Mobile App in 3 Days. The Hard Part Was Keeping It Connected.",
-      "source": "devto"
-    },
-    "0e1a048799f7ba81": {
-      "date": "2026-05-04",
-      "title": "The 4 Cognitive Archetypes of Developers Using AI",
-      "source": "devto"
-    },
-    "c0cc4a56b1573ecb": {
-      "date": "2026-05-04",
-      "title": "How to Build a Custom AI Quality Gate on Cloud Run (From Zero to Production)",
-      "source": "devto"
-    },
-    "ddc5e7321cf73d55": {
-      "date": "2026-05-04",
-      "title": "A LinkedIn Recruiter Sent Me Malware Disguised as a \"Pre-Interview Code Review\"",
-      "source": "devto"
-    },
-    "c64ae2c4bb0ae3bf": {
-      "date": "2026-05-04",
-      "title": "What are your goals for the week? #177",
-      "source": "devto"
-    },
-    "da3396fcf444bbc0": {
-      "date": "2026-05-04",
-      "title": "You got selected for GSoC 2026, now what?",
-      "source": "devto"
-    },
-    "1821bebfbf6f55aa": {
-      "date": "2026-05-04",
-      "title": "I built a 4-week hackathon focused entirely on real-world debugging instead of Leetcode problems",
-      "source": "devto"
-    },
-    "a6f26da16fa2fefb": {
-      "date": "2026-05-04",
-      "title": "Managing 150+ AI Agent Skills at Scale — What Broke, What I Built",
-      "source": "devto"
-    },
-    "83c3c10ae1ad3686": {
-      "date": "2026-05-04",
-      "title": "qbittorrent / qBittorrent",
-      "source": "github"
-    },
-    "5dfe15d5980db3b9": {
-      "date": "2026-05-04",
-      "title": "msitarzewski / agency-agents",
-      "source": "github"
-    },
-    "1556da33724cda2d": {
-      "date": "2026-05-04",
-      "title": "virattt / dexter",
-      "source": "github"
-    },
-    "59e9f1b93ba7d02c": {
-      "date": "2026-05-04",
-      "title": "jellyfin / jellyfin",
-      "source": "github"
-    },
-    "34a0bab37750cc3a": {
-      "date": "2026-05-04",
-      "title": "cocoindex-io / cocoindex",
-      "source": "github"
-    },
-    "c19a27291b7051b9": {
-      "date": "2026-05-04",
-      "title": "docusealco / docuseal",
-      "source": "github"
-    },
     "c5eab5ba0df89f26": {
       "date": "2026-05-05",
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
@@ -4811,6 +4651,171 @@
       "date": "2026-06-03",
       "title": "Open-LLM-VTuber / Open-LLM-VTuber",
       "source": "github"
+    },
+    "fbdc8389b6aa3fe5": {
+      "date": "2026-06-04",
+      "title": "superlog",
+      "source": "producthunt"
+    },
+    "4658b9c20a07e5f2": {
+      "date": "2026-06-04",
+      "title": "Forward",
+      "source": "producthunt"
+    },
+    "2bae7486a91b0c45": {
+      "date": "2026-06-04",
+      "title": "Dropstone 1.5",
+      "source": "producthunt"
+    },
+    "bb0ca7c213e4a3ff": {
+      "date": "2026-06-04",
+      "title": "Franz 6",
+      "source": "producthunt"
+    },
+    "a69e6a1af111f81f": {
+      "date": "2026-06-04",
+      "title": "Replicas",
+      "source": "producthunt"
+    },
+    "7bc24131d358ba02": {
+      "date": "2026-06-04",
+      "title": "Composer",
+      "source": "producthunt"
+    },
+    "3f214bfca9344c45": {
+      "date": "2026-06-04",
+      "title": "InsForge Backend Branching",
+      "source": "producthunt"
+    },
+    "432c145e4a85ba91": {
+      "date": "2026-06-04",
+      "title": "Brand Context API",
+      "source": "producthunt"
+    },
+    "16b2e2d45d991fd5": {
+      "date": "2026-06-04",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "source": "hackernews"
+    },
+    "283b77a59c852d5b": {
+      "date": "2026-06-04",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "source": "hackernews"
+    },
+    "e4384e18dab3ec1d": {
+      "date": "2026-06-04",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "source": "hackernews"
+    },
+    "779ee421420a67f2": {
+      "date": "2026-06-04",
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "source": "hackernews"
+    },
+    "4d9e50a88f0438ea": {
+      "date": "2026-06-04",
+      "title": "DaVinci Resolve 21",
+      "source": "hackernews"
+    },
+    "9bd767c2185e11f5": {
+      "date": "2026-06-04",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "source": "hackernews"
+    },
+    "810d79e8080b86e1": {
+      "date": "2026-06-04",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "source": "hackernews"
+    },
+    "bfefbd1717ae1f7e": {
+      "date": "2026-06-04",
+      "title": "A Man Who Reads Books for a Living (One Every Two Days)",
+      "source": "hackernews"
+    },
+    "019c2fde17f91db4": {
+      "date": "2026-06-04",
+      "title": "Ableton Extensions SDK",
+      "source": "hackernews"
+    },
+    "8b98aacc9683ed77": {
+      "date": "2026-06-04",
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "source": "hackernews"
+    },
+    "7fdb3d2f4950e680": {
+      "date": "2026-06-04",
+      "title": "aquasecurity / trivy",
+      "source": "github"
+    },
+    "965fc61ede103703": {
+      "date": "2026-06-04",
+      "title": "opendataloader-project / opendataloader-pdf",
+      "source": "github"
+    },
+    "7d9f29e1c13843dd": {
+      "date": "2026-06-04",
+      "title": "jwasham / coding-interview-university",
+      "source": "github"
+    },
+    "cef11b5e74b825ba": {
+      "date": "2026-06-04",
+      "title": "lyogavin / airllm",
+      "source": "github"
+    },
+    "3888eecb3f450ecd": {
+      "date": "2026-06-04",
+      "title": "HKUDS / Vibe-Trading",
+      "source": "github"
+    },
+    "43df2c8aad0ed932": {
+      "date": "2026-06-04",
+      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
+      "source": "devto"
+    },
+    "dd30ef5eb8c1aeb9": {
+      "date": "2026-06-04",
+      "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+      "source": "devto"
+    },
+    "a3b9a7e6f7ea4f3c": {
+      "date": "2026-06-04",
+      "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
+      "source": "devto"
+    },
+    "0d607d12f8dc5753": {
+      "date": "2026-06-04",
+      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
+      "source": "devto"
+    },
+    "42955912d520d9a9": {
+      "date": "2026-06-04",
+      "title": "Why I stopped fighting the browser",
+      "source": "devto"
+    },
+    "6dfe9b02086af2d5": {
+      "date": "2026-06-04",
+      "title": "The Bug That Took 10 Minutes to Fix and 3 Days to Find",
+      "source": "devto"
+    },
+    "d1ee241d06ced6f5": {
+      "date": "2026-06-04",
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "source": "devto"
+    },
+    "c3158ed62d4228f8": {
+      "date": "2026-06-04",
+      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
+      "source": "devto"
+    },
+    "81ecd637bd199b56": {
+      "date": "2026-06-04",
+      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
+      "source": "devto"
+    },
+    "f26bb68f6df4c0e5": {
+      "date": "2026-06-04",
+      "title": "I built a tool to stop Claude from forgetting everything then forgot about it myself",
+      "source": "devto"
     }
   }
 }
