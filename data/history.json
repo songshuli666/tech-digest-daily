@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-04T23:49:49.424053",
+  "last_updated": "2026-06-05T23:50:28.036097",
   "sent_items": {
-    "c5eab5ba0df89f26": {
-      "date": "2026-05-05",
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "source": "hackernews"
-    },
-    "8bef14aaa380f335": {
-      "date": "2026-05-05",
-      "title": ".de TLD offline due to DNSSEC?",
-      "source": "hackernews"
-    },
-    "d5ba33cbb98e36fd": {
-      "date": "2026-05-05",
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "source": "hackernews"
-    },
-    "9e4a3d4b16dd5428": {
-      "date": "2026-05-05",
-      "title": "Three Inverse Laws of AI",
-      "source": "hackernews"
-    },
-    "b2e0d6576ecf2982": {
-      "date": "2026-05-05",
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "source": "hackernews"
-    },
-    "59f8bce6bb7997ab": {
-      "date": "2026-05-05",
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "source": "hackernews"
-    },
-    "6d6fa37b55d2bd16": {
-      "date": "2026-05-05",
-      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-      "source": "hackernews"
-    },
-    "18f2de7ebbeb839c": {
-      "date": "2026-05-05",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "source": "hackernews"
-    },
-    "571538eebfaebe44": {
-      "date": "2026-05-05",
-      "title": "Write some software, give it away for free",
-      "source": "hackernews"
-    },
-    "3e5f0a504ccaea5c": {
-      "date": "2026-05-05",
-      "title": "Why most product tours get skipped",
-      "source": "hackernews"
-    },
-    "e1ad930c71542f2b": {
-      "date": "2026-05-05",
-      "title": "Intuned Agent",
-      "source": "producthunt"
-    },
-    "08edebae15e9fed2": {
-      "date": "2026-05-05",
-      "title": "Breathwrk",
-      "source": "producthunt"
-    },
-    "5547371b8457191e": {
-      "date": "2026-05-05",
-      "title": "Steam Controller",
-      "source": "producthunt"
-    },
-    "c506cb4c8f4fa79c": {
-      "date": "2026-05-05",
-      "title": "Dina",
-      "source": "producthunt"
-    },
-    "cf514d5fb973acd1": {
-      "date": "2026-05-05",
-      "title": "PaceBar",
-      "source": "producthunt"
-    },
-    "62f721425251cd93": {
-      "date": "2026-05-05",
-      "title": "Blaze",
-      "source": "producthunt"
-    },
-    "063023784582ceca": {
-      "date": "2026-05-05",
-      "title": "Unity AI",
-      "source": "producthunt"
-    },
-    "896c8dba208c9412": {
-      "date": "2026-05-05",
-      "title": "Agentic API Grader by SaaStr.ai",
-      "source": "producthunt"
-    },
-    "43f9ed7cbd9e6d64": {
-      "date": "2026-05-05",
-      "title": "bwya77 / vscode-dark-islands",
-      "source": "github"
-    },
-    "7530bd8bb92bc27b": {
-      "date": "2026-05-05",
-      "title": "Arindam200 / awesome-ai-apps",
-      "source": "github"
-    },
-    "7573b3014cf6371c": {
-      "date": "2026-05-05",
-      "title": "LearningCircuit / local-deep-research",
-      "source": "github"
-    },
-    "7f4681947a6cc317": {
-      "date": "2026-05-05",
-      "title": "PriorLabs / TabPFN",
-      "source": "github"
-    },
-    "7a5e41156aae08d4": {
-      "date": "2026-05-05",
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "source": "devto"
-    },
-    "d3534fe2ca10aa0c": {
-      "date": "2026-05-05",
-      "title": "Am I a Developer or Just a Prompt Engineer?",
-      "source": "devto"
-    },
-    "a1c47535df388da9": {
-      "date": "2026-05-05",
-      "title": "The Next Casualty of the GenAI Revolution",
-      "source": "devto"
-    },
-    "a9fa6792b4ef1f88": {
-      "date": "2026-05-05",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "818e7b8f5d5c78de": {
-      "date": "2026-05-05",
-      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two Keynotes",
-      "source": "devto"
-    },
-    "d6f159a333052db3": {
-      "date": "2026-05-05",
-      "title": "Kimi K2.6 vs. Claude Opus 4.7 in a Weird Game Coding Test ✅",
-      "source": "devto"
-    },
-    "27c838deee3bb850": {
-      "date": "2026-05-05",
-      "title": "Copilot Squad",
-      "source": "devto"
-    },
-    "0d3b099d899b799a": {
-      "date": "2026-05-05",
-      "title": "Blue Ridge Ruby 2026: A Conference About the Long Game",
-      "source": "devto"
-    },
-    "0115f4cac734dfe4": {
-      "date": "2026-05-05",
-      "title": "From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software",
-      "source": "devto"
-    },
-    "85ed12e22d6f19a4": {
-      "date": "2026-05-05",
-      "title": "I Built a Minecraft Mod Where Every Sword is an AWS Service — Here's How We Coded It with AI",
-      "source": "devto"
-    },
     "68c530c85a5a967f": {
       "date": "2026-05-06",
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
@@ -4985,6 +4825,171 @@
     "cb3eddfe11b539d1": {
       "date": "2026-06-04",
       "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "62c14f7db442a708": {
+      "date": "2026-06-05",
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "source": "hackernews"
+    },
+    "d313e04190b1da70": {
+      "date": "2026-06-05",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "source": "hackernews"
+    },
+    "a355d233fde2182d": {
+      "date": "2026-06-05",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "source": "hackernews"
+    },
+    "3a051d69737131e9": {
+      "date": "2026-06-05",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "source": "hackernews"
+    },
+    "fbcb06c9cc706d6a": {
+      "date": "2026-06-05",
+      "title": "Did Claude increase bugs in rsync?",
+      "source": "hackernews"
+    },
+    "92fb9bd98bb12f6f": {
+      "date": "2026-06-05",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "source": "hackernews"
+    },
+    "7fb5ded51f1d1075": {
+      "date": "2026-06-05",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "source": "hackernews"
+    },
+    "0248aaa12dc5253c": {
+      "date": "2026-06-05",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "source": "hackernews"
+    },
+    "cd3cf45ff9bf1e27": {
+      "date": "2026-06-05",
+      "title": "My Agent Skill for Test-Driven Development",
+      "source": "hackernews"
+    },
+    "c0d8176c9327dbe0": {
+      "date": "2026-06-05",
+      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "source": "hackernews"
+    },
+    "b92cbf0f9e81b298": {
+      "date": "2026-06-05",
+      "title": "Agent Mode on Arena",
+      "source": "producthunt"
+    },
+    "b5ff5a3b86334117": {
+      "date": "2026-06-05",
+      "title": "LocalClicky",
+      "source": "producthunt"
+    },
+    "fbd80249c8669b21": {
+      "date": "2026-06-05",
+      "title": "Microsoft MAI-Voice-2",
+      "source": "producthunt"
+    },
+    "dd34e7a995f91eb6": {
+      "date": "2026-06-05",
+      "title": "Agent Browser Shield",
+      "source": "producthunt"
+    },
+    "459b17900ff8131f": {
+      "date": "2026-06-05",
+      "title": "Recursi",
+      "source": "producthunt"
+    },
+    "e361aa62060486fa": {
+      "date": "2026-06-05",
+      "title": "Leni",
+      "source": "producthunt"
+    },
+    "d70fe09b06e0461a": {
+      "date": "2026-06-05",
+      "title": "Nemotron 3 Ultra by NVIDIA",
+      "source": "producthunt"
+    },
+    "309733501d07d046": {
+      "date": "2026-06-05",
+      "title": "Minimi",
+      "source": "producthunt"
+    },
+    "ba7a032cf4e93de9": {
+      "date": "2026-06-05",
+      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hacka",
+      "source": "devto"
+    },
+    "f96cb609de19fe3b": {
+      "date": "2026-06-05",
+      "title": "Abhorrent Employment Agreements.",
+      "source": "devto"
+    },
+    "4d829f02143bd4d9": {
+      "date": "2026-06-05",
+      "title": "IssueWatch — Never Miss a GitHub Issue That Matters to You",
+      "source": "devto"
+    },
+    "85060af0bc737a3e": {
+      "date": "2026-06-05",
+      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
+      "source": "devto"
+    },
+    "5d42a6e63a7eeed8": {
+      "date": "2026-06-05",
+      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
+      "source": "devto"
+    },
+    "b18063e706a18a63": {
+      "date": "2026-06-05",
+      "title": "From Hackathon Wreckage to Production-Ready: How I Rebuilt My Kubernetes Attack Path Visualiser with",
+      "source": "devto"
+    },
+    "39ca0c8d8b1d266d": {
+      "date": "2026-06-05",
+      "title": "peektea past the roadmap 👀 sorting and scrollable previews",
+      "source": "devto"
+    },
+    "74ca8cd55e51f8b3": {
+      "date": "2026-06-05",
+      "title": "I Found a Stack in a Tea Room",
+      "source": "devto"
+    },
+    "22ad666a65735eec": {
+      "date": "2026-06-05",
+      "title": "I Took the Keyboard Back From an Agent Mid-Task - Here's What the New PMP Can't Test",
+      "source": "devto"
+    },
+    "389c3e46b3efe081": {
+      "date": "2026-06-05",
+      "title": "Karate Platform: Finishing the Tournament Experience",
+      "source": "devto"
+    },
+    "33121b9523130cf0": {
+      "date": "2026-06-05",
+      "title": "CopilotKit / CopilotKit",
+      "source": "github"
+    },
+    "81fb0b6406ba5bb8": {
+      "date": "2026-06-05",
+      "title": "Panniantong / Agent-Reach",
+      "source": "github"
+    },
+    "8c9e20fc0efe6fec": {
+      "date": "2026-06-05",
+      "title": "openai / plugins",
+      "source": "github"
+    },
+    "d43e82f402483a72": {
+      "date": "2026-06-05",
+      "title": "MemPalace / mempalace",
+      "source": "github"
+    },
+    "71103c9d6fa808ea": {
+      "date": "2026-06-05",
+      "title": "withastro / flue",
       "source": "github"
     }
   }
