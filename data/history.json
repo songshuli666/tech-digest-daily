@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-05T23:50:28.036097",
+  "last_updated": "2026-06-06T23:40:21.706122",
   "sent_items": {
-    "68c530c85a5a967f": {
-      "date": "2026-05-06",
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "source": "hackernews"
-    },
-    "dd6530fd31572d70": {
-      "date": "2026-05-06",
-      "title": "Appearing productive in the workplace",
-      "source": "hackernews"
-    },
-    "53c9dadab91c691e": {
-      "date": "2026-05-06",
-      "title": "The bottleneck was never the code",
-      "source": "hackernews"
-    },
-    "590ef2d9d36de400": {
-      "date": "2026-05-06",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "source": "hackernews"
-    },
-    "4075d8524a4a66ec": {
-      "date": "2026-05-06",
-      "title": "From Supabase to Clerk to Better Auth",
-      "source": "hackernews"
-    },
-    "e0ba2f2e38fe212f": {
-      "date": "2026-05-06",
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "source": "hackernews"
-    },
-    "8d25540fc888cdd7": {
-      "date": "2026-05-06",
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "source": "hackernews"
-    },
-    "fcb698629d0c8fb2": {
-      "date": "2026-05-06",
-      "title": "Learning the Integral of a Diffusion Model",
-      "source": "hackernews"
-    },
-    "49614414efb43747": {
-      "date": "2026-05-06",
-      "title": "David Sacks crashed and burned in the White House",
-      "source": "hackernews"
-    },
-    "d0c298a68f774699": {
-      "date": "2026-05-06",
-      "title": "UK businesses brace for jet fuel rationing",
-      "source": "hackernews"
-    },
-    "2dcdef5784f22c21": {
-      "date": "2026-05-06",
-      "title": "Open Finance MCP",
-      "source": "producthunt"
-    },
-    "07e0f276901dd087": {
-      "date": "2026-05-06",
-      "title": "moar",
-      "source": "producthunt"
-    },
-    "f799a3fac3bb3393": {
-      "date": "2026-05-06",
-      "title": "Gas City 1.0",
-      "source": "producthunt"
-    },
-    "c7d8c9a43198949d": {
-      "date": "2026-05-06",
-      "title": "Shadow 2.0",
-      "source": "producthunt"
-    },
-    "e7a653905521aaa8": {
-      "date": "2026-05-06",
-      "title": "damnlines.com",
-      "source": "producthunt"
-    },
-    "07857e96f78f8bc9": {
-      "date": "2026-05-06",
-      "title": "Ads in ChatGPT",
-      "source": "producthunt"
-    },
-    "cba75cdee48ffe1c": {
-      "date": "2026-05-06",
-      "title": "Kanwas",
-      "source": "producthunt"
-    },
-    "0ffdd30290dcaa69": {
-      "date": "2026-05-06",
-      "title": "DevAlly",
-      "source": "producthunt"
-    },
-    "e9d578d5463e2138": {
-      "date": "2026-05-06",
-      "title": "I Didn’t Stop Building. I Just Left My Laptop.",
-      "source": "devto"
-    },
-    "521bec564b46635f": {
-      "date": "2026-05-06",
-      "title": "Build Your Own AI Butler - A Scheduled Agent That Runs Itself!",
-      "source": "devto"
-    },
-    "e24e00803efaddcd": {
-      "date": "2026-05-06",
-      "title": "I Programmed an AI in 6502 Assembly - It Worked",
-      "source": "devto"
-    },
-    "c586df46f7229f61": {
-      "date": "2026-05-06",
-      "title": "Join the Gemma 4 Challenge: $3,000 prize pool for TEN winners!",
-      "source": "devto"
-    },
-    "224565043caf7b53": {
-      "date": "2026-05-06",
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "source": "devto"
-    },
-    "5287db3dd773c8a3": {
-      "date": "2026-05-06",
-      "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Exten",
-      "source": "devto"
-    },
-    "5906e8ae8f693c4c": {
-      "date": "2026-05-06",
-      "title": "Not Open Source Not Interested",
-      "source": "devto"
-    },
-    "c9da400a98eec16f": {
-      "date": "2026-05-06",
-      "title": "A much faster mgsub",
-      "source": "devto"
-    },
-    "87e14164d68d1992": {
-      "date": "2026-05-06",
-      "title": "MerMark Editor v0.2.0 - Markdown/Mermaid editor with built-in Claude/Codex",
-      "source": "devto"
-    },
-    "240a93e8905d9970": {
-      "date": "2026-05-06",
-      "title": "Lighthouse Said It Was Fast. My Users Kept Clicking the Same Button.",
-      "source": "devto"
-    },
-    "0d1bd25a3199bf22": {
-      "date": "2026-05-06",
-      "title": "addyosmani / agent-skills",
-      "source": "github"
-    },
-    "b4c1f3891d0e98fc": {
-      "date": "2026-05-06",
-      "title": "LadybirdBrowser / ladybird",
-      "source": "github"
-    },
-    "d9229b5716bee102": {
-      "date": "2026-05-06",
-      "title": "InsForge / InsForge",
-      "source": "github"
-    },
-    "bf36d171e6670874": {
-      "date": "2026-05-06",
-      "title": "anthropics / financial-services",
-      "source": "github"
-    },
-    "8b3ac28cee2a333a": {
-      "date": "2026-05-06",
-      "title": "cheahjs / free-llm-api-resources",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-05-06",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
-    "76a267c59bdc6676": {
-      "date": "2026-05-06",
-      "title": "D4Vinci / Scrapling",
-      "source": "github"
-    },
     "b0277d2e413b79b8": {
       "date": "2026-05-07",
       "title": "The Burning Man MOOP Map",
@@ -4990,6 +4815,166 @@
     "71103c9d6fa808ea": {
       "date": "2026-06-05",
       "title": "withastro / flue",
+      "source": "github"
+    },
+    "7da1cc8d81f7f1e6": {
+      "date": "2026-06-06",
+      "title": "MAI-Image-2.5",
+      "source": "producthunt"
+    },
+    "7a1fa6010eb51954": {
+      "date": "2026-06-06",
+      "title": "QWERTYS",
+      "source": "producthunt"
+    },
+    "19d03b682f91294c": {
+      "date": "2026-06-06",
+      "title": "Manus Shopify Connector",
+      "source": "producthunt"
+    },
+    "5cf0cffd54f4ca5c": {
+      "date": "2026-06-06",
+      "title": "Navi+ Menu Builder",
+      "source": "producthunt"
+    },
+    "93f4e76d7d8b5c2f": {
+      "date": "2026-06-06",
+      "title": "Gaming services by IFTTT",
+      "source": "producthunt"
+    },
+    "046df9d0de0d3476": {
+      "date": "2026-06-06",
+      "title": "Ideogram 4.0",
+      "source": "producthunt"
+    },
+    "3c5baeffc5b7761a": {
+      "date": "2026-06-06",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "source": "hackernews"
+    },
+    "bcffa4aa2b44b400": {
+      "date": "2026-06-06",
+      "title": "Moving beyond fork() + exec()",
+      "source": "hackernews"
+    },
+    "aaab49a61417b3dd": {
+      "date": "2026-06-06",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "source": "hackernews"
+    },
+    "e0c52205400bfeab": {
+      "date": "2026-06-06",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "source": "hackernews"
+    },
+    "4d9fadeb082c4f82": {
+      "date": "2026-06-06",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "source": "hackernews"
+    },
+    "8fa68ead1d14560b": {
+      "date": "2026-06-06",
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "source": "hackernews"
+    },
+    "29593461c70fa510": {
+      "date": "2026-06-06",
+      "title": "Home alone: Remote work, isolation, and mental health",
+      "source": "hackernews"
+    },
+    "a9883b07799d1d17": {
+      "date": "2026-06-06",
+      "title": "You Can Run",
+      "source": "hackernews"
+    },
+    "040be72b59702cc6": {
+      "date": "2026-06-06",
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "source": "hackernews"
+    },
+    "73c7a91e2473ddfe": {
+      "date": "2026-06-06",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "source": "hackernews"
+    },
+    "e4c2efbb1d191d03": {
+      "date": "2026-06-06",
+      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects",
+      "source": "devto"
+    },
+    "b324a249c9340091": {
+      "date": "2026-06-06",
+      "title": "Two Doors Into the Same Room",
+      "source": "devto"
+    },
+    "2b574160a3cb50ee": {
+      "date": "2026-06-06",
+      "title": "peektea brews on WSL 👀🍵 (and installs in one line)",
+      "source": "devto"
+    },
+    "a66e30224368f328": {
+      "date": "2026-06-06",
+      "title": "I Tried to Fix a Vulnerability. A $1,400,000 AI System Said No. Twenty Days Later, That Vulnerabilit",
+      "source": "devto"
+    },
+    "fef94b8ba880201e": {
+      "date": "2026-06-06",
+      "title": "I got tired of waiting for deploys, so I built a local Lambda runner",
+      "source": "devto"
+    },
+    "c3f93a4bff5283eb": {
+      "date": "2026-06-06",
+      "title": "Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, ",
+      "source": "devto"
+    },
+    "e19123df582a35ff": {
+      "date": "2026-06-06",
+      "title": "The Last Capacity Planning Sheet You'll Ever Need",
+      "source": "devto"
+    },
+    "fca46cc9bafd033c": {
+      "date": "2026-06-06",
+      "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
+      "source": "devto"
+    },
+    "52f4f6eca5738005": {
+      "date": "2026-06-06",
+      "title": "MindPal: finishing the AI support app that remembers what matters",
+      "source": "devto"
+    },
+    "b296f2f136c253de": {
+      "date": "2026-06-06",
+      "title": "I Opened My Old Repository Again After 315 Days",
+      "source": "devto"
+    },
+    "f43dc28dacfdd0a3": {
+      "date": "2026-06-06",
+      "title": "sveltejs / svelte",
+      "source": "github"
+    },
+    "604139543fc779f6": {
+      "date": "2026-06-06",
+      "title": "nginx / nginx",
+      "source": "github"
+    },
+    "9ada988b350746ad": {
+      "date": "2026-06-06",
+      "title": "golang / go",
+      "source": "github"
+    },
+    "7b6a865db4d6f6c0": {
+      "date": "2026-06-06",
+      "title": "santifer / career-ops",
+      "source": "github"
+    },
+    "a6f6ce8cf66ece76": {
+      "date": "2026-06-06",
+      "title": "openai / whisper",
+      "source": "github"
+    },
+    "4f889ecb22483e5c": {
+      "date": "2026-06-06",
+      "title": "vitejs / vite",
       "source": "github"
     }
   }
