@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-06T23:40:21.706122",
+  "last_updated": "2026-06-07T23:42:08.435949",
   "sent_items": {
-    "b0277d2e413b79b8": {
-      "date": "2026-05-07",
-      "title": "The Burning Man MOOP Map",
-      "source": "hackernews"
-    },
-    "e5ce7757e4d60a5a": {
-      "date": "2026-05-07",
-      "title": "AI slop is killing online communities",
-      "source": "hackernews"
-    },
-    "f330dd508d2c2bbb": {
-      "date": "2026-05-07",
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "source": "hackernews"
-    },
-    "69d1768404a5413e": {
-      "date": "2026-05-07",
-      "title": "Agents need control flow, not more prompts",
-      "source": "hackernews"
-    },
-    "016bf4c0be9de95f": {
-      "date": "2026-05-07",
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "source": "hackernews"
-    },
-    "c122dcde12a09056": {
-      "date": "2026-05-07",
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "source": "hackernews"
-    },
-    "722f29405f4e9dbd": {
-      "date": "2026-05-07",
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "source": "hackernews"
-    },
-    "6f612bb7dec37696": {
-      "date": "2026-05-07",
-      "title": "Draw Marc Andreessen on an Egg",
-      "source": "hackernews"
-    },
-    "28296e015cc21f27": {
-      "date": "2026-05-07",
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "source": "hackernews"
-    },
-    "a6da451a70659f52": {
-      "date": "2026-05-07",
-      "title": "OpenClaw Had a Rough Week",
-      "source": "hackernews"
-    },
-    "26d9d84b4a18ae85": {
-      "date": "2026-05-07",
-      "title": "DevPass by LLM Gateway",
-      "source": "producthunt"
-    },
-    "3f9567c4603aa87a": {
-      "date": "2026-05-07",
-      "title": "Phrony",
-      "source": "producthunt"
-    },
-    "58521bdc059f204d": {
-      "date": "2026-05-07",
-      "title": "FlowMarket",
-      "source": "producthunt"
-    },
-    "8e05d01800f84b2e": {
-      "date": "2026-05-07",
-      "title": "Neo by Amp",
-      "source": "producthunt"
-    },
-    "79a0543aa012a68e": {
-      "date": "2026-05-07",
-      "title": "Askmeety",
-      "source": "producthunt"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-05-07",
-      "title": "Basedash MCP server",
-      "source": "producthunt"
-    },
-    "145e005ec8012361": {
-      "date": "2026-05-07",
-      "title": "Luma Uni 1.1 API",
-      "source": "producthunt"
-    },
-    "afaf60c34e4a69ee": {
-      "date": "2026-05-07",
-      "title": "reMarkable Paper Pure",
-      "source": "producthunt"
-    },
-    "b6fec567ec1515c0": {
-      "date": "2026-05-07",
-      "title": "Congrats to the Google Cloud NEXT '26 Writing Challenge Winners!",
-      "source": "devto"
-    },
-    "a3ecbce43304b57e": {
-      "date": "2026-05-07",
-      "title": "Congrats to the OpenClaw Challenge Winners!",
-      "source": "devto"
-    },
-    "7d6df81d62e2699a": {
-      "date": "2026-05-07",
-      "title": "Designing a team of agents",
-      "source": "devto"
-    },
-    "788a6cb0e19f04d1": {
-      "date": "2026-05-07",
-      "title": "[GCP Practice][BwAI] AI-Powered Development: Quickly Deploy a LINE Bot Cloud Backup Tool with Gemini",
-      "source": "devto"
-    },
-    "54e9a62e4a497bf6": {
-      "date": "2026-05-07",
-      "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-      "source": "devto"
-    },
-    "47bccce6a5baac99": {
-      "date": "2026-05-07",
-      "title": "How a Hackathon Will Teach a New Developer What a Year of Tutorials Can't",
-      "source": "devto"
-    },
-    "5caa0ad9b76f6da7": {
-      "date": "2026-05-07",
-      "title": "I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper",
-      "source": "devto"
-    },
-    "2cd51075d955be48": {
-      "date": "2026-05-07",
-      "title": "I tested the same self-monitoring role doc on Claude and Gemma 4. Here's what survived.",
-      "source": "devto"
-    },
-    "ca693880fa9207c1": {
-      "date": "2026-05-07",
-      "title": "How I Built a Whiteboard App with 3 Dependencies",
-      "source": "devto"
-    },
-    "cb83a6df2b4258bb": {
-      "date": "2026-05-07",
-      "title": "How to Authorize AI Agents Using Token Exchange Open Standards",
-      "source": "devto"
-    },
-    "9fea7d3b8ac2c89f": {
-      "date": "2026-05-07",
-      "title": "VectifyAI / PageIndex",
-      "source": "github"
-    },
-    "1dd6e674a7f46a1b": {
-      "date": "2026-05-07",
-      "title": "decolua / 9router",
-      "source": "github"
-    },
-    "dbf05bf5bd2df348": {
-      "date": "2026-05-07",
-      "title": "aaif-goose / goose",
-      "source": "github"
-    },
-    "dcf59463883835d8": {
-      "date": "2026-05-07",
-      "title": "Augani / openreel-video",
-      "source": "github"
-    },
     "6690fa79123b4bdf": {
       "date": "2026-05-08",
       "title": "Google broke reCAPTCHA for de-googled Android users",
@@ -4976,6 +4816,116 @@
       "date": "2026-06-06",
       "title": "vitejs / vite",
       "source": "github"
+    },
+    "26dab00bbbd79052": {
+      "date": "2026-06-07",
+      "title": "Smmall Cloud for iOS",
+      "source": "producthunt"
+    },
+    "e6b9cee054ea4394": {
+      "date": "2026-06-07",
+      "title": "Dreambeans by Google Labs",
+      "source": "producthunt"
+    },
+    "973a14e1d5d31791": {
+      "date": "2026-06-07",
+      "title": "CabinLink",
+      "source": "producthunt"
+    },
+    "e286d29b0a57aaa8": {
+      "date": "2026-06-07",
+      "title": "Job Postings API",
+      "source": "producthunt"
+    },
+    "84f72f9832a136d7": {
+      "date": "2026-06-07",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "source": "hackernews"
+    },
+    "94c3c63741a51ec0": {
+      "date": "2026-06-07",
+      "title": "Building from zero after addiction, prison, and a felony",
+      "source": "hackernews"
+    },
+    "7039d267b60db609": {
+      "date": "2026-06-07",
+      "title": "How's Linear so fast? A technical breakdown",
+      "source": "hackernews"
+    },
+    "b8754bcd3653ed42": {
+      "date": "2026-06-07",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "source": "hackernews"
+    },
+    "213b359a895ab801": {
+      "date": "2026-06-07",
+      "title": "Making peace with your unlived dreams (2023)",
+      "source": "hackernews"
+    },
+    "bde68449dc6ef4a1": {
+      "date": "2026-06-07",
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "source": "hackernews"
+    },
+    "7e99f24d78a02597": {
+      "date": "2026-06-07",
+      "title": "Show HN: I Derived a Pancake",
+      "source": "hackernews"
+    },
+    "547b2b25fb510533": {
+      "date": "2026-06-07",
+      "title": "My automated doubt development process",
+      "source": "hackernews"
+    },
+    "845080cda2b1aa64": {
+      "date": "2026-06-07",
+      "title": "Do we fear the serializable isolation level more than we fear subtle bugs?",
+      "source": "hackernews"
+    },
+    "1dd64331b0d36b30": {
+      "date": "2026-06-07",
+      "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
+      "source": "hackernews"
+    },
+    "e515c2f5b1bb846d": {
+      "date": "2026-06-07",
+      "title": "opencv / opencv",
+      "source": "github"
+    },
+    "ce57d7f0f38eb7bc": {
+      "date": "2026-06-07",
+      "title": "RyanCodrai / turbovec",
+      "source": "github"
+    },
+    "7bd0775c5ce4ee5c": {
+      "date": "2026-06-07",
+      "title": "TapXWorld / ChinaTextbook",
+      "source": "github"
+    },
+    "b6c3444b6d06ce65": {
+      "date": "2026-06-07",
+      "title": "refactoringhq / tolaria",
+      "source": "github"
+    },
+    "313f5b1e67ddc488": {
+      "date": "2026-06-07",
+      "title": "HunxByts / GhostTrack",
+      "source": "github"
+    },
+    "5007ade6c196c938": {
+      "date": "2026-06-07",
+      "title": "Run Coding Agents on Local AI — Zero Cloud, Full Control",
+      "source": "devto"
+    },
+    "f0fe70a5d096c5d0": {
+      "date": "2026-06-07",
+      "title": "I built a Python AI agent and Pylance drove me to build a type checker and LSP",
+      "source": "devto"
+    },
+    "9167c49051061283": {
+      "date": "2026-06-07",
+      "title": "Finishing What I Started: A Code Snippet Manager Built on GitHub Gists",
+      "source": "devto"
     }
   }
 }
