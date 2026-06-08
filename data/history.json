@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-07T23:42:08.435949",
+  "last_updated": "2026-06-08T23:50:35.362958",
   "sent_items": {
-    "6690fa79123b4bdf": {
-      "date": "2026-05-08",
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "source": "hackernews"
-    },
-    "9c386bd08149672f": {
-      "date": "2026-05-08",
-      "title": "David Attenborough's 100th Birthday",
-      "source": "hackernews"
-    },
-    "6e7318ff133abd6c": {
-      "date": "2026-05-08",
-      "title": "Cartoon Network Flash Games",
-      "source": "hackernews"
-    },
-    "45f425d42eabd972": {
-      "date": "2026-05-08",
-      "title": "AI is breaking two vulnerability cultures",
-      "source": "hackernews"
-    },
-    "fde5801ac015a674": {
-      "date": "2026-05-08",
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "source": "hackernews"
-    },
-    "f0d58f8cfe1e3d06": {
-      "date": "2026-05-08",
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "source": "hackernews"
-    },
-    "649c462dc131a162": {
-      "date": "2026-05-08",
-      "title": "AWS says data center overheating in North Virginia disrupts services",
-      "source": "hackernews"
-    },
-    "15a75f8d4991606f": {
-      "date": "2026-05-08",
-      "title": "Looking at the data behind prediction markets",
-      "source": "hackernews"
-    },
-    "91d8290b98f6f39f": {
-      "date": "2026-05-08",
-      "title": "Non-determinism is an issue with patching CVEs",
-      "source": "hackernews"
-    },
-    "be4d71c77ee3722a": {
-      "date": "2026-05-08",
-      "title": "AWS data center outage hits trading on Fanduel, Coinbase",
-      "source": "hackernews"
-    },
-    "420cc8cb25fc8a9a": {
-      "date": "2026-05-08",
-      "title": "Sendly",
-      "source": "producthunt"
-    },
-    "aee8dccc785d45a1": {
-      "date": "2026-05-08",
-      "title": "KodHau",
-      "source": "producthunt"
-    },
-    "1a85af4aafd8c461": {
-      "date": "2026-05-08",
-      "title": "Photobomb",
-      "source": "producthunt"
-    },
-    "b06e4a4cd053f471": {
-      "date": "2026-05-08",
-      "title": "MarkUp",
-      "source": "producthunt"
-    },
-    "c30d7d6968d91c4f": {
-      "date": "2026-05-08",
-      "title": "Sound Warden",
-      "source": "producthunt"
-    },
-    "5cbcc50f7dc00931": {
-      "date": "2026-05-08",
-      "title": "Maia Executives",
-      "source": "producthunt"
-    },
-    "388987a6e29b7e8b": {
-      "date": "2026-05-08",
-      "title": "GlowIsland",
-      "source": "producthunt"
-    },
-    "624089c5de6b3534": {
-      "date": "2026-05-08",
-      "title": "CloakHQ / CloakBrowser",
-      "source": "github"
-    },
-    "f6847520dd02cb48": {
-      "date": "2026-05-08",
-      "title": "awslabs / aidlc-workflows",
-      "source": "github"
-    },
-    "41c48f470a425e07": {
-      "date": "2026-05-08",
-      "title": "HKUDS / AI-Trader",
-      "source": "github"
-    },
-    "82164af40f45157f": {
-      "date": "2026-05-08",
-      "title": "lobehub / lobehub",
-      "source": "github"
-    },
-    "150ed4f8b5463679": {
-      "date": "2026-05-08",
-      "title": "datawhalechina / hello-agents",
-      "source": "github"
-    },
-    "c120ebd1e1931347": {
-      "date": "2026-05-08",
-      "title": "flutter / skills",
-      "source": "github"
-    },
-    "fdc284a8fdb431c8": {
-      "date": "2026-05-08",
-      "title": "What was your win this week??",
-      "source": "devto"
-    },
-    "34563e52be51e13d": {
-      "date": "2026-05-08",
-      "title": "The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine",
-      "source": "devto"
-    },
-    "ed046f8a08267438": {
-      "date": "2026-05-08",
-      "title": "5 types of engineers I met as a Technical Writer",
-      "source": "devto"
-    },
-    "8a8580a90330d97c": {
-      "date": "2026-05-08",
-      "title": "I Built My Mom an AI Recipe Helper for Mother's Day",
-      "source": "devto"
-    },
-    "f6f913c441690d30": {
-      "date": "2026-05-08",
-      "title": "I built a Ruby gem so I don't have to squint at hash dumps anymore",
-      "source": "devto"
-    },
-    "6717a636c4288768": {
-      "date": "2026-05-08",
-      "title": "Using Claude Code with Docker Model Runner",
-      "source": "devto"
-    },
-    "09408dc1dec506c5": {
-      "date": "2026-05-08",
-      "title": "Error Handling in Go: Stop Panicking, Start Wrapping",
-      "source": "devto"
-    },
-    "9569ffca758448a5": {
-      "date": "2026-05-08",
-      "title": "Build your own daily notification bot on AWS Free Tier",
-      "source": "devto"
-    },
-    "7acf8a991301830c": {
-      "date": "2026-05-08",
-      "title": "SVG animations with Friction",
-      "source": "devto"
-    },
-    "d7e085822e8563c0": {
-      "date": "2026-05-08",
-      "title": "Gemma 4 Has Four Models. Here's Which One You Actually Need",
-      "source": "devto"
-    },
     "8849fbb96472b2ad": {
       "date": "2026-05-09",
       "title": "How AI-pilled are you?",
@@ -4926,6 +4761,161 @@
       "date": "2026-06-07",
       "title": "Finishing What I Started: A Code Snippet Manager Built on GitHub Gists",
       "source": "devto"
+    },
+    "d7fc1fd0b63acd60": {
+      "date": "2026-06-08",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "source": "hackernews"
+    },
+    "0defdb0f59fc8f1f": {
+      "date": "2026-06-08",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "source": "hackernews"
+    },
+    "8aa3d7126110128f": {
+      "date": "2026-06-08",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "source": "hackernews"
+    },
+    "a085722c47a377d1": {
+      "date": "2026-06-08",
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "source": "hackernews"
+    },
+    "7e2ffaaf813fd878": {
+      "date": "2026-06-08",
+      "title": "Siri AI",
+      "source": "hackernews"
+    },
+    "9358a6d9e28c202c": {
+      "date": "2026-06-08",
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "source": "hackernews"
+    },
+    "5fc27872e27c6ab9": {
+      "date": "2026-06-08",
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "source": "hackernews"
+    },
+    "aace692274464236": {
+      "date": "2026-06-08",
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "source": "hackernews"
+    },
+    "2c68c8931f061609": {
+      "date": "2026-06-08",
+      "title": "Apple Core AI Framework",
+      "source": "hackernews"
+    },
+    "37584cd834721526": {
+      "date": "2026-06-08",
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "source": "hackernews"
+    },
+    "de69a6a8e77df60d": {
+      "date": "2026-06-08",
+      "title": "Vaani",
+      "source": "producthunt"
+    },
+    "38ba9934962b7a5e": {
+      "date": "2026-06-08",
+      "title": "Tamadoggo",
+      "source": "producthunt"
+    },
+    "27b6d54660f77c90": {
+      "date": "2026-06-08",
+      "title": "Claude Artifact Player",
+      "source": "producthunt"
+    },
+    "eb532f20be4f2a57": {
+      "date": "2026-06-08",
+      "title": "Sigma File Manager",
+      "source": "producthunt"
+    },
+    "a031056c5b40c6db": {
+      "date": "2026-06-08",
+      "title": "Supaste",
+      "source": "producthunt"
+    },
+    "ffdf3cd36082bab3": {
+      "date": "2026-06-08",
+      "title": "The Virtual OS Museum",
+      "source": "producthunt"
+    },
+    "8b293e9959b2c826": {
+      "date": "2026-06-08",
+      "title": "NTSC-RS",
+      "source": "producthunt"
+    },
+    "2833c3c90f9f35c5": {
+      "date": "2026-06-08",
+      "title": "What are your Goals for the week? #182",
+      "source": "devto"
+    },
+    "3eec01e8824da97a": {
+      "date": "2026-06-08",
+      "title": "12 Hard Truths About Coding I Learned the Hard Way After 10+ Years",
+      "source": "devto"
+    },
+    "facbcdcfcf7f78c1": {
+      "date": "2026-06-08",
+      "title": "I Built an Interview Prep Tool Instead of Grinding LeetCode",
+      "source": "devto"
+    },
+    "2e15eeb6356da0aa": {
+      "date": "2026-06-08",
+      "title": "You’re a Real TypeScript Developer Only If...",
+      "source": "devto"
+    },
+    "5733c0a02e7a1dd4": {
+      "date": "2026-06-08",
+      "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, t",
+      "source": "devto"
+    },
+    "e799fdfb7ee7b5ed": {
+      "date": "2026-06-08",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "127203aa29fa9ef6": {
+      "date": "2026-06-08",
+      "title": "It's Time We All Eat some more Cucumber!",
+      "source": "devto"
+    },
+    "812284989e0dc0a4": {
+      "date": "2026-06-08",
+      "title": "TanStack Start Is Kind of a Big Deal",
+      "source": "devto"
+    },
+    "455f8dfadfd3dec4": {
+      "date": "2026-06-08",
+      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+      "source": "devto"
+    },
+    "bf49d98a561e391c": {
+      "date": "2026-06-08",
+      "title": "🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extens",
+      "source": "devto"
+    },
+    "69c7eb76fe0b1fcc": {
+      "date": "2026-06-08",
+      "title": "google / skills",
+      "source": "github"
+    },
+    "6c8a62077e0ee644": {
+      "date": "2026-06-08",
+      "title": "phuryn / pm-skills",
+      "source": "github"
+    },
+    "b40dcd22bd693015": {
+      "date": "2026-06-08",
+      "title": "Andyyyy64 / whichllm",
+      "source": "github"
+    },
+    "aaa5c7366cbdcbd7": {
+      "date": "2026-06-08",
+      "title": "luongnv89 / claude-howto",
+      "source": "github"
     }
   }
 }
