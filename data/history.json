@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-08T23:50:35.362958",
+  "last_updated": "2026-06-09T23:55:58.355637",
   "sent_items": {
-    "8849fbb96472b2ad": {
-      "date": "2026-05-09",
-      "title": "How AI-pilled are you?",
-      "source": "producthunt"
-    },
-    "d59b5207dc6f86e8": {
-      "date": "2026-05-09",
-      "title": "Glowix",
-      "source": "producthunt"
-    },
-    "ca24bcb2c5aeba83": {
-      "date": "2026-05-09",
-      "title": "MolmoAct 2",
-      "source": "producthunt"
-    },
-    "851203cdad75200a": {
-      "date": "2026-05-09",
-      "title": "nocal 4",
-      "source": "producthunt"
-    },
-    "3a256946d8cc3731": {
-      "date": "2026-05-09",
-      "title": "Prism",
-      "source": "producthunt"
-    },
-    "f74d472bd7377ea0": {
-      "date": "2026-05-09",
-      "title": "Omi A11Y",
-      "source": "producthunt"
-    },
-    "0babea3bf6c26e3a": {
-      "date": "2026-05-09",
-      "title": "Ghost",
-      "source": "producthunt"
-    },
-    "99a63a59b2d50ac6": {
-      "date": "2026-05-09",
-      "title": "Staff.rip",
-      "source": "producthunt"
-    },
-    "79683e444d491e18": {
-      "date": "2026-05-09",
-      "title": "Internet Archive Switzerland",
-      "source": "hackernews"
-    },
-    "edf29cf444b8e57c": {
-      "date": "2026-05-09",
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "source": "hackernews"
-    },
-    "dfc4a7c06394571a": {
-      "date": "2026-05-09",
-      "title": "LLMs corrupt your documents when you delegate",
-      "source": "hackernews"
-    },
-    "19ecd877067f078a": {
-      "date": "2026-05-09",
-      "title": "I’ve banned query strings",
-      "source": "hackernews"
-    },
-    "9612e2ac6e6e027e": {
-      "date": "2026-05-09",
-      "title": "Zed Editor Theme-Builder",
-      "source": "hackernews"
-    },
-    "86b87cdcd02ac045": {
-      "date": "2026-05-09",
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "source": "hackernews"
-    },
-    "b54d50c429abf232": {
-      "date": "2026-05-09",
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "source": "hackernews"
-    },
-    "2aef9bf8ac0386e5": {
-      "date": "2026-05-09",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "source": "hackernews"
-    },
-    "6be3cd0904d42596": {
-      "date": "2026-05-09",
-      "title": "Making your own programming language is easier than you think (but also harder)",
-      "source": "hackernews"
-    },
-    "290864bea4ed979d": {
-      "date": "2026-05-09",
-      "title": "Rust but Lisp",
-      "source": "hackernews"
-    },
-    "ce85014ef213744d": {
-      "date": "2026-05-09",
-      "title": "bytedance / UI-TARS-desktop",
-      "source": "github"
-    },
-    "e6a501142310f90b": {
-      "date": "2026-05-09",
-      "title": "rohitg00 / agentmemory",
-      "source": "github"
-    },
-    "9bbb4928ed12d22a": {
-      "date": "2026-05-09",
-      "title": "datawhalechina / easy-vibe",
-      "source": "github"
-    },
-    "b25b9c85d3f57ef9": {
-      "date": "2026-05-09",
-      "title": "masterking32 / MasterDnsVPN",
-      "source": "github"
-    },
-    "a16b8c21c865ee7c": {
-      "date": "2026-05-09",
-      "title": "playcanvas / supersplat",
-      "source": "github"
-    },
-    "ffb4833fff036c28": {
-      "date": "2026-05-09",
-      "title": "oracle-devrel / oracle-ai-developer-hub",
-      "source": "github"
-    },
-    "736fb3fa87fea271": {
-      "date": "2026-05-09",
-      "title": "Why does AI lie? Hallucinations explained simply",
-      "source": "devto"
-    },
-    "cabbe01c97595ff6": {
-      "date": "2026-05-09",
-      "title": "Initiating the DEVengers org. Check out our Introduction!",
-      "source": "devto"
-    },
-    "8e71ee8d2593428a": {
-      "date": "2026-05-09",
-      "title": "AI-Powered ERP System with Gemma 26B MoE",
-      "source": "devto"
-    },
-    "1884e9aa3a7124a9": {
-      "date": "2026-05-09",
-      "title": "Building a Systemic Autonomy Agent: OpenClaw + Gemma 4 & TurboQuant on Raspberry Pi 4B",
-      "source": "devto"
-    },
-    "f8e2f8d1051ac2ca": {
-      "date": "2026-05-09",
-      "title": "Go forth and `git rm -f` 🚀",
-      "source": "devto"
-    },
-    "e1a77f6de3fb3ff3": {
-      "date": "2026-05-09",
-      "title": "Deploying Cookiecutter Django on DigitalOcean (Ubuntu 24.04 (LTS) x64)",
-      "source": "devto"
-    },
-    "a3f6227c9abe1c73": {
-      "date": "2026-05-09",
-      "title": "Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código",
-      "source": "devto"
-    },
-    "73b0495061e26474": {
-      "date": "2026-05-09",
-      "title": "An afternoon of iOS perf work, with Claude in the loop",
-      "source": "devto"
-    },
     "3bbb301f75e99ee5": {
       "date": "2026-05-10",
       "title": "AgentPeek",
@@ -4915,6 +4755,166 @@
     "aaa5c7366cbdcbd7": {
       "date": "2026-06-08",
       "title": "luongnv89 / claude-howto",
+      "source": "github"
+    },
+    "11c4ac33ca74a563": {
+      "date": "2026-06-09",
+      "title": "Claude Fable 5",
+      "source": "hackernews"
+    },
+    "d01f37bef74f6636": {
+      "date": "2026-06-09",
+      "title": "Making Graphics Like it's 1993",
+      "source": "hackernews"
+    },
+    "09f82e85d8e62c73": {
+      "date": "2026-06-09",
+      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "source": "hackernews"
+    },
+    "7addb5e4ba94390c": {
+      "date": "2026-06-09",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "source": "hackernews"
+    },
+    "f1c209c0d0ddd734": {
+      "date": "2026-06-09",
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "source": "hackernews"
+    },
+    "f77ef93ea638e392": {
+      "date": "2026-06-09",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "source": "hackernews"
+    },
+    "ed50d5d64a961bb5": {
+      "date": "2026-06-09",
+      "title": "Upcoming breaking changes for NPM v12",
+      "source": "hackernews"
+    },
+    "e901173aaccd3c59": {
+      "date": "2026-06-09",
+      "title": "Grit: Rewriting Git in Rust with Agents",
+      "source": "hackernews"
+    },
+    "43fbe7e74cadbbbc": {
+      "date": "2026-06-09",
+      "title": "Exif Smuggling",
+      "source": "hackernews"
+    },
+    "c92d0298a2702264": {
+      "date": "2026-06-09",
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "source": "hackernews"
+    },
+    "aa27626b799c6ed5": {
+      "date": "2026-06-09",
+      "title": "AgentOS",
+      "source": "producthunt"
+    },
+    "70162d5188b50a09": {
+      "date": "2026-06-09",
+      "title": "agentcad",
+      "source": "producthunt"
+    },
+    "8227617ba4566cf8": {
+      "date": "2026-06-09",
+      "title": "ChocolateBar",
+      "source": "producthunt"
+    },
+    "1e5a1a70082abaeb": {
+      "date": "2026-06-09",
+      "title": "ZeroGPU",
+      "source": "producthunt"
+    },
+    "1ff708e47c56eee1": {
+      "date": "2026-06-09",
+      "title": "VC Boom",
+      "source": "producthunt"
+    },
+    "45bcbe3c8704281e": {
+      "date": "2026-06-09",
+      "title": "Uiverse Design",
+      "source": "producthunt"
+    },
+    "ff6060129a542911": {
+      "date": "2026-06-09",
+      "title": "Krisp Voice Translation API",
+      "source": "producthunt"
+    },
+    "b6a9223909b91949": {
+      "date": "2026-06-09",
+      "title": "agmsg",
+      "source": "producthunt"
+    },
+    "03844cae318e3725": {
+      "date": "2026-06-09",
+      "title": "The Most Valuable Thing I Found in Tech Wasn't an Opportunity",
+      "source": "devto"
+    },
+    "70fc5b743d047b94": {
+      "date": "2026-06-09",
+      "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+      "source": "devto"
+    },
+    "8da184b330a476b4": {
+      "date": "2026-06-09",
+      "title": "AI Bots Are Driving Up Your Hosting Bill. I have a WordPress fix",
+      "source": "devto"
+    },
+    "fa34fd11afb8556a": {
+      "date": "2026-06-09",
+      "title": "The Hidden Machinery Behind Background Jobs",
+      "source": "devto"
+    },
+    "cd270b21989b19b7": {
+      "date": "2026-06-09",
+      "title": "Gubernator visual schema.",
+      "source": "devto"
+    },
+    "33ffc29a5eb6c901": {
+      "date": "2026-06-09",
+      "title": "It Worked on My Machine (Literally)",
+      "source": "devto"
+    },
+    "a87dd1e41adb3e8f": {
+      "date": "2026-06-09",
+      "title": "The Messages Array, in 4 GIFs",
+      "source": "devto"
+    },
+    "e54962dca43f08d9": {
+      "date": "2026-06-09",
+      "title": "The Loop Is Not the Product",
+      "source": "devto"
+    },
+    "2c612641012a40cf": {
+      "date": "2026-06-09",
+      "title": "IMITATION: The Turing Test, From the Inside",
+      "source": "devto"
+    },
+    "418f3f3be8c03038": {
+      "date": "2026-06-09",
+      "title": "Sovereign Synapse: The Local Brain",
+      "source": "devto"
+    },
+    "dbf05bf5bd2df348": {
+      "date": "2026-06-09",
+      "title": "aaif-goose / goose",
+      "source": "github"
+    },
+    "58c322f57d693443": {
+      "date": "2026-06-09",
+      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+      "source": "github"
+    },
+    "5969023e34574d40": {
+      "date": "2026-06-09",
+      "title": "maziyarpanahi / openmed",
+      "source": "github"
+    },
+    "e0ed5ca7359b9cc8": {
+      "date": "2026-06-09",
+      "title": "francescopace / espectre",
       "source": "github"
     }
   }
