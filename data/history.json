@@ -1,312 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-09T23:55:58.355637",
+  "last_updated": "2026-06-11T00:03:48.913485",
   "sent_items": {
-    "3bbb301f75e99ee5": {
-      "date": "2026-05-10",
-      "title": "AgentPeek",
-      "source": "producthunt"
-    },
-    "11b31712afcbaebd": {
-      "date": "2026-05-10",
-      "title": "Adject 2.0",
-      "source": "producthunt"
-    },
-    "c88891300d622e63": {
-      "date": "2026-05-10",
-      "title": "InvestorFinder",
-      "source": "producthunt"
-    },
-    "32c1beeee9a89277": {
-      "date": "2026-05-10",
-      "title": "LumiChats Offline(free)",
-      "source": "producthunt"
-    },
-    "8185749ec1a5545a": {
-      "date": "2026-05-10",
-      "title": "BugDrop",
-      "source": "producthunt"
-    },
-    "b3b8b105b70b0c8a": {
-      "date": "2026-05-10",
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "source": "hackernews"
-    },
-    "e52d030c71b804aa": {
-      "date": "2026-05-10",
-      "title": "I returned to AWS and was reminded why I left",
-      "source": "hackernews"
-    },
-    "dc647b36d07068a1": {
-      "date": "2026-05-10",
-      "title": "Local AI needs to be the norm",
-      "source": "hackernews"
-    },
-    "a78ae4336b6ecb6a": {
-      "date": "2026-05-10",
-      "title": "Incident Report: CVE-2024-YIKES",
-      "source": "hackernews"
-    },
-    "892d3f891d495ba5": {
-      "date": "2026-05-10",
-      "title": "Traces Of Humanity",
-      "source": "hackernews"
-    },
-    "9fc0a4474846a7a8": {
-      "date": "2026-05-10",
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "source": "hackernews"
-    },
-    "a7556a9105c3798d": {
-      "date": "2026-05-10",
-      "title": "Why modern parents feel more sleep deprived than our ancestors did",
-      "source": "hackernews"
-    },
-    "f3a11648837a7042": {
-      "date": "2026-05-10",
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "source": "hackernews"
-    },
-    "e2b72082807ef842": {
-      "date": "2026-05-10",
-      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
-      "source": "hackernews"
-    },
-    "e94801208f3d1974": {
-      "date": "2026-05-10",
-      "title": "Running local models on an M4 with 24GB memory",
-      "source": "hackernews"
-    },
-    "9360d6c19ecd5e0c": {
-      "date": "2026-05-10",
-      "title": "How Python's GIL actually works (and when it bites you)",
-      "source": "devto"
-    },
-    "c7c44dc48177ad60": {
-      "date": "2026-05-10",
-      "title": "The first time you watch an AI agent buy something, you will feel something you cannot name.",
-      "source": "devto"
-    },
-    "11dd91b98f96431b": {
-      "date": "2026-05-10",
-      "title": "Diagnosis Didn't Change My Leadership. Ownership Did.",
-      "source": "devto"
-    },
-    "3b15cafbfc4ad9c3": {
-      "date": "2026-05-10",
-      "title": "Building in public, week 8: impressions exploded 71% and I think I know why",
-      "source": "devto"
-    },
-    "2c0af37f9d7932a5": {
-      "date": "2026-05-10",
-      "title": "How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 MCA Student",
-      "source": "devto"
-    },
-    "b04f96f4add7a448": {
-      "date": "2026-05-10",
-      "title": "I built a 20 kB React hook that doesn't care which AI you use — here's how streaming actually works",
-      "source": "devto"
-    },
-    "e9582fcee1fae3bd": {
-      "date": "2026-05-10",
-      "title": "I Grounded Gemma 4 in 118,000 Real Stars — Here's What It Can Do",
-      "source": "devto"
-    },
-    "09fbf0991e69e84e": {
-      "date": "2026-05-10",
-      "title": "The Developer Pay Paradox: Are Junior Devs, Staff Engineers and Most Developers Over- or Under-paid?",
-      "source": "devto"
-    },
-    "3ebec2e8c4c58a4d": {
-      "date": "2026-05-10",
-      "title": "Filling a maintainer's \"Help needed\": shipping a Next.js 16 Redis cache handler",
-      "source": "devto"
-    },
-    "d771728afb7c64aa": {
-      "date": "2026-05-10",
-      "title": "How I Built a Serverless Power Outage Tracker for Nigeria on AWS | Part 1",
-      "source": "devto"
-    },
-    "f4f993b4bf74f441": {
-      "date": "2026-05-10",
-      "title": "jundot / omlx",
-      "source": "github"
-    },
-    "b2b81d4907c6a390": {
-      "date": "2026-05-10",
-      "title": "affaan-m / everything-claude-code",
-      "source": "github"
-    },
-    "c279b7bef73d5d78": {
-      "date": "2026-05-11",
-      "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "source": "hackernews"
-    },
-    "889800f0d3cc9e0e": {
-      "date": "2026-05-11",
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "source": "hackernews"
-    },
-    "37d6a67043ab3cba": {
-      "date": "2026-05-11",
-      "title": "TanStack NPM Packages Compromised",
-      "source": "hackernews"
-    },
-    "751bd60205d58c24": {
-      "date": "2026-05-11",
-      "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
-      "source": "hackernews"
-    },
-    "05195c2be5b3142b": {
-      "date": "2026-05-11",
-      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-      "source": "hackernews"
-    },
-    "ae5124e9901c84cc": {
-      "date": "2026-05-11",
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "source": "hackernews"
-    },
-    "28da985bd59fccbc": {
-      "date": "2026-05-11",
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "source": "hackernews"
-    },
-    "5bc96530718a392c": {
-      "date": "2026-05-11",
-      "title": "Library for fast mapping of Java records to native memory",
-      "source": "hackernews"
-    },
-    "802705492b5b7cd8": {
-      "date": "2026-05-11",
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "source": "hackernews"
-    },
-    "a8631e4927d204ed": {
-      "date": "2026-05-11",
-      "title": "Griffin PowerMate driver for modern macOS",
-      "source": "hackernews"
-    },
-    "1b1f3bc3fd4ed11b": {
-      "date": "2026-05-11",
-      "title": "MiroMiro v2",
-      "source": "producthunt"
-    },
-    "0a68252a24503f41": {
-      "date": "2026-05-11",
-      "title": "Suprbox",
-      "source": "producthunt"
-    },
-    "34b8e3845c8da550": {
-      "date": "2026-05-11",
-      "title": "ChatGPT for Google Sheets",
-      "source": "producthunt"
-    },
-    "7313bff7c12fd9ca": {
-      "date": "2026-05-11",
-      "title": "Warp Open-Source",
-      "source": "producthunt"
-    },
-    "5020d229ca512ec8": {
-      "date": "2026-05-11",
-      "title": "Grok Connectors",
-      "source": "producthunt"
-    },
-    "db0e76466dc21fce": {
-      "date": "2026-05-11",
-      "title": "Snapseed 4.0",
-      "source": "producthunt"
-    },
-    "d5dbddd9bd3ecc02": {
-      "date": "2026-05-11",
-      "title": "Web Speed",
-      "source": "producthunt"
-    },
-    "4d932a1776026087": {
-      "date": "2026-05-11",
-      "title": "RPCForge",
-      "source": "producthunt"
-    },
-    "7f7c96e0aec05819": {
-      "date": "2026-05-11",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "d036bf5d5daf00f4": {
-      "date": "2026-05-11",
-      "title": "What are your goals for the week? #178",
-      "source": "devto"
-    },
-    "eff6d29ced1c96ba": {
-      "date": "2026-05-11",
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "source": "devto"
-    },
-    "a51d27894fe95a7d": {
-      "date": "2026-05-11",
-      "title": "My fully offline AI-assisted Linux development machine",
-      "source": "devto"
-    },
-    "88efe2f214b05c7a": {
-      "date": "2026-05-11",
-      "title": "The missing layer in prompt engineering: thinking quality",
-      "source": "devto"
-    },
-    "1bdb3d3e969ffa0f": {
-      "date": "2026-05-11",
-      "title": "How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project",
-      "source": "devto"
-    },
-    "5e579e51b27a68b6": {
-      "date": "2026-05-11",
-      "title": "Tracking my cardio with OpenClaw and Gemma 4",
-      "source": "devto"
-    },
-    "ac907b85d66be124": {
-      "date": "2026-05-11",
-      "title": "Arc 3 Catch-Up: Solana Transactions Explained for Web2 Developers",
-      "source": "devto"
-    },
-    "59bc3a1daa9fdac7": {
-      "date": "2026-05-11",
-      "title": "⚔️ Go vs Java: The Minimalist vs The Enterprise Veteran",
-      "source": "devto"
-    },
-    "c97d4b360c2fad7d": {
-      "date": "2026-05-11",
-      "title": "How to Secure AI Agents in Production: What MCP Gets Right (and What It Doesn’t)",
-      "source": "devto"
-    },
-    "98e3e9af21c88e9f": {
-      "date": "2026-05-11",
-      "title": "yikart / AiToEarn",
-      "source": "github"
-    },
-    "e5348c5ff3f91788": {
-      "date": "2026-05-11",
-      "title": "tinyhumansai / openhuman",
-      "source": "github"
-    },
-    "864a120eccc90319": {
-      "date": "2026-05-11",
-      "title": "millionco / react-doctor",
-      "source": "github"
-    },
-    "212d7171cf46bef1": {
-      "date": "2026-05-11",
-      "title": "AUTOMATIC1111 / stable-diffusion-webui",
-      "source": "github"
-    },
-    "5746f3ae58d27b8c": {
-      "date": "2026-05-11",
-      "title": "rasbt / LLMs-from-scratch",
-      "source": "github"
-    },
-    "978e35c607178533": {
-      "date": "2026-05-11",
-      "title": "NousResearch / hermes-agent",
-      "source": "github"
-    },
     "27d2bc1afde64157": {
       "date": "2026-05-12",
       "title": "Googlebook",
@@ -4916,6 +4611,166 @@
       "date": "2026-06-09",
       "title": "francescopace / espectre",
       "source": "github"
+    },
+    "f7f17550667c1b8e": {
+      "date": "2026-06-11",
+      "title": "fort",
+      "source": "producthunt"
+    },
+    "95a1978fb725cd91": {
+      "date": "2026-06-11",
+      "title": "Monako Glass",
+      "source": "producthunt"
+    },
+    "da93531c6fc1181e": {
+      "date": "2026-06-11",
+      "title": "AGNT.Hub",
+      "source": "producthunt"
+    },
+    "56cf513174ae71a6": {
+      "date": "2026-06-11",
+      "title": "OLO Robotics",
+      "source": "producthunt"
+    },
+    "cd4f049b1915cd72": {
+      "date": "2026-06-11",
+      "title": "TypingMind",
+      "source": "producthunt"
+    },
+    "ce891cda46f1db82": {
+      "date": "2026-06-11",
+      "title": "Gemini 3.5 Live Translate",
+      "source": "producthunt"
+    },
+    "0001704b1a614f28": {
+      "date": "2026-06-11",
+      "title": "Incorruptible by Eric Ries",
+      "source": "producthunt"
+    },
+    "87f924994d61ed77": {
+      "date": "2026-06-11",
+      "title": "Screen Charm",
+      "source": "producthunt"
+    },
+    "1ef08ce69c3943ec": {
+      "date": "2026-06-11",
+      "title": "πFS",
+      "source": "hackernews"
+    },
+    "cae7f454334d71ab": {
+      "date": "2026-06-11",
+      "title": "PgDog is funded and coming to a database near you",
+      "source": "hackernews"
+    },
+    "ca4e7d70d81cbb9b": {
+      "date": "2026-06-11",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "source": "hackernews"
+    },
+    "923f035e09b2c193": {
+      "date": "2026-06-11",
+      "title": "L'Affaire Siloxane",
+      "source": "hackernews"
+    },
+    "17b7f9df6adf18d2": {
+      "date": "2026-06-11",
+      "title": "Raspberry Pi 5 – 16GB RAM",
+      "source": "hackernews"
+    },
+    "f5d2716efa494d83": {
+      "date": "2026-06-11",
+      "title": "GeoLibre 1.0",
+      "source": "hackernews"
+    },
+    "4f1bcef8ef09731c": {
+      "date": "2026-06-11",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "source": "hackernews"
+    },
+    "778e7a00c5425e46": {
+      "date": "2026-06-11",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "source": "hackernews"
+    },
+    "76201c4160f3317b": {
+      "date": "2026-06-11",
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "source": "hackernews"
+    },
+    "039e5003aaa35a41": {
+      "date": "2026-06-11",
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "source": "hackernews"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-06-11",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "32d41bca1d59120c": {
+      "date": "2026-06-11",
+      "title": "soxoj / maigret",
+      "source": "github"
+    },
+    "b25b9c85d3f57ef9": {
+      "date": "2026-06-11",
+      "title": "masterking32 / MasterDnsVPN",
+      "source": "github"
+    },
+    "21448fa1945070e8": {
+      "date": "2026-06-11",
+      "title": "activeloopai / hivemind",
+      "source": "github"
+    },
+    "67370febfe820b03": {
+      "date": "2026-06-11",
+      "title": "The Code Works. What Could Possibly Go Wrong?",
+      "source": "devto"
+    },
+    "d3cf2671d65214e3": {
+      "date": "2026-06-11",
+      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
+      "source": "devto"
+    },
+    "fcc11a09b271aeda": {
+      "date": "2026-06-11",
+      "title": "CSS – only a Nerdy Hobby?",
+      "source": "devto"
+    },
+    "e2af24a068df79c2": {
+      "date": "2026-06-11",
+      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
+      "source": "devto"
+    },
+    "820d2d39230984e4": {
+      "date": "2026-06-11",
+      "title": "CLI over MCP: a small Chrome DevTools experiment in Copilot CLI",
+      "source": "devto"
+    },
+    "ca7ddf1abeaf8673": {
+      "date": "2026-06-11",
+      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
+      "source": "devto"
+    },
+    "6c696e90720fb397": {
+      "date": "2026-06-11",
+      "title": "Who's Going To RubyConf 2026?",
+      "source": "devto"
+    },
+    "bf8d3a4016f3b34c": {
+      "date": "2026-06-11",
+      "title": "The joy of coding a command line english dictionary program in dotnet",
+      "source": "devto"
+    },
+    "600834f6c8550e8f": {
+      "date": "2026-06-11",
+      "title": "When Prompt Batching Made My LLM App More Expensive",
+      "source": "devto"
+    },
+    "3122286ba2bab06d": {
+      "date": "2026-06-11",
+      "title": "43 Years Later: Finishing My BBC Micro Game in Assembly",
+      "source": "devto"
     }
   }
 }
