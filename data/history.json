@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-11T00:03:48.913485",
+  "last_updated": "2026-06-12T00:08:42.979876",
   "sent_items": {
-    "27d2bc1afde64157": {
-      "date": "2026-05-12",
-      "title": "Googlebook",
-      "source": "hackernews"
-    },
-    "3dc81be175bd0700": {
-      "date": "2026-05-12",
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "source": "hackernews"
-    },
-    "c5dbdf21191d63d7": {
-      "date": "2026-05-12",
-      "title": "Why senior developers fail to communicate their expertise",
-      "source": "hackernews"
-    },
-    "75caae35574e62c4": {
-      "date": "2026-05-12",
-      "title": "The Future of Obsidian Plugins",
-      "source": "hackernews"
-    },
-    "88adb36d994a0627": {
-      "date": "2026-05-12",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "source": "hackernews"
-    },
-    "ca5971853d3d4430": {
-      "date": "2026-05-12",
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "source": "hackernews"
-    },
-    "b0afebb1d56d094c": {
-      "date": "2026-05-12",
-      "title": "How to make your text look futuristic (2016)",
-      "source": "hackernews"
-    },
-    "e8edd27eb79b99e9": {
-      "date": "2026-05-12",
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "source": "hackernews"
-    },
-    "c63a26c0e756a63e": {
-      "date": "2026-05-12",
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "source": "hackernews"
-    },
-    "16909e8cbe72df2d": {
-      "date": "2026-05-12",
-      "title": "Kraftwerk's radical 1976 track",
-      "source": "hackernews"
-    },
-    "c97d7a21f595b62a": {
-      "date": "2026-05-12",
-      "title": "Hyperswitch Prism",
-      "source": "producthunt"
-    },
-    "e044fa9f08923f6e": {
-      "date": "2026-05-12",
-      "title": "knooth",
-      "source": "producthunt"
-    },
-    "d01e0c04f0db8239": {
-      "date": "2026-05-12",
-      "title": "MY AI Agent",
-      "source": "producthunt"
-    },
-    "350a38bcec7ca101": {
-      "date": "2026-05-12",
-      "title": "Whisper Island by Coddo",
-      "source": "producthunt"
-    },
-    "d514201ec401ad6c": {
-      "date": "2026-05-12",
-      "title": "Jotform Claude App",
-      "source": "producthunt"
-    },
-    "e0aecf203a24ca9c": {
-      "date": "2026-05-12",
-      "title": "HeyNews",
-      "source": "producthunt"
-    },
-    "2a52244ab9abf8c4": {
-      "date": "2026-05-12",
-      "title": "Hopper",
-      "source": "producthunt"
-    },
-    "b5005402d69c945e": {
-      "date": "2026-05-12",
-      "title": "Pixcode",
-      "source": "producthunt"
-    },
-    "d9683ff09958c9d2": {
-      "date": "2026-05-12",
-      "title": "It's live. Tollere is on the App Store.",
-      "source": "devto"
-    },
-    "064200d42303e968": {
-      "date": "2026-05-12",
-      "title": "I Slashed My AI Trading Agent Token Costs by 80% — Here's the Architecture",
-      "source": "devto"
-    },
-    "a2db2191850d01cb": {
-      "date": "2026-05-12",
-      "title": "Open Vibe -- Ship your SaaS with AI. Without getting stuck.",
-      "source": "devto"
-    },
-    "f317c5da13adcb8f": {
-      "date": "2026-05-12",
-      "title": "The Language Wars Are Over. The Ground Shifted Without You.",
-      "source": "devto"
-    },
-    "6598ae4f52a4bba7": {
-      "date": "2026-05-12",
-      "title": "Hacking perfectly square AI videos with Veo 3.1 and NanoBanana 2",
-      "source": "devto"
-    },
-    "7d8219f8dff0d84c": {
-      "date": "2026-05-12",
-      "title": "Run Claude Code Locally for Free with Docker Model Runner",
-      "source": "devto"
-    },
-    "6735ae1bddc285c7": {
-      "date": "2026-05-12",
-      "title": "Gemini API File Search: Enhanced Multimodal Capabilities with Embedding 2, Including Open-Source LIN",
-      "source": "devto"
-    },
-    "093dbda89366d59b": {
-      "date": "2026-05-12",
-      "title": "I Stopped Fighting React Server Components — Here's What Finally Made It",
-      "source": "devto"
-    },
-    "96431c78810b73f6": {
-      "date": "2026-05-12",
-      "title": "Teaching an AI Agent to Talk to a Light Bulb (and Why I Had to Get Up From My Desk)",
-      "source": "devto"
-    },
-    "e78dd84d83999039": {
-      "date": "2026-05-12",
-      "title": "The Hidden Cost of \"It Works\": Why Quick Fixes Kill Long-Term Speed",
-      "source": "devto"
-    },
-    "a2e9897ae5407c5c": {
-      "date": "2026-05-12",
-      "title": "apernet / hysteria",
-      "source": "github"
-    },
-    "226bdadc09085783": {
-      "date": "2026-05-12",
-      "title": "anonfaded / FadCam",
-      "source": "github"
-    },
     "f21f56b2edeca3e7": {
       "date": "2026-05-13",
       "title": "Googlebook",
@@ -4770,6 +4620,176 @@
     "3122286ba2bab06d": {
       "date": "2026-06-11",
       "title": "43 Years Later: Finishing My BBC Micro Game in Assembly",
+      "source": "devto"
+    },
+    "8265ddda1f057d66": {
+      "date": "2026-06-12",
+      "title": "Show HN: Homebrew 6.0.0",
+      "source": "hackernews"
+    },
+    "98f62c93b442c971": {
+      "date": "2026-06-12",
+      "title": "MiMo Code is now released and open-source",
+      "source": "hackernews"
+    },
+    "2e231f9adb0e964b": {
+      "date": "2026-06-12",
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "source": "hackernews"
+    },
+    "866072bf2988b16c": {
+      "date": "2026-06-12",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "source": "hackernews"
+    },
+    "491c5c5afec4ed9e": {
+      "date": "2026-06-12",
+      "title": "Emacs appearances in pop culture",
+      "source": "hackernews"
+    },
+    "cf12d00f8745a482": {
+      "date": "2026-06-12",
+      "title": "The RCE that AMD wouldn't fix",
+      "source": "hackernews"
+    },
+    "bea3d9e16259f851": {
+      "date": "2026-06-12",
+      "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+      "source": "hackernews"
+    },
+    "4cbc30054273555f": {
+      "date": "2026-06-12",
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "source": "hackernews"
+    },
+    "6e32b64be8e0215a": {
+      "date": "2026-06-12",
+      "title": "Shall we play a game? My AI nuclear simulation",
+      "source": "hackernews"
+    },
+    "94c626434db5cc8c": {
+      "date": "2026-06-12",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "source": "hackernews"
+    },
+    "2b78dcebdb81b404": {
+      "date": "2026-06-12",
+      "title": "Asmi AI",
+      "source": "producthunt"
+    },
+    "e475757457503ab8": {
+      "date": "2026-06-12",
+      "title": "Lium AI",
+      "source": "producthunt"
+    },
+    "cd90c659c46e7683": {
+      "date": "2026-06-12",
+      "title": "CrustRecruiter",
+      "source": "producthunt"
+    },
+    "d5f00decbacfd136": {
+      "date": "2026-06-12",
+      "title": "Easybilling",
+      "source": "producthunt"
+    },
+    "8ea3edb1c9658026": {
+      "date": "2026-06-12",
+      "title": "SlimSnap",
+      "source": "producthunt"
+    },
+    "7afe351f7f85dad0": {
+      "date": "2026-06-12",
+      "title": "Juno",
+      "source": "producthunt"
+    },
+    "ca2553ffa419ab18": {
+      "date": "2026-06-12",
+      "title": "DockLog",
+      "source": "producthunt"
+    },
+    "f6b90900bc490ff5": {
+      "date": "2026-06-12",
+      "title": "apple / container",
+      "source": "github"
+    },
+    "eab0bce4d03843fa": {
+      "date": "2026-06-12",
+      "title": "NVIDIA / SkillSpector",
+      "source": "github"
+    },
+    "87ae70fd5acbe9d2": {
+      "date": "2026-06-12",
+      "title": "restic / restic",
+      "source": "github"
+    },
+    "5dfe15d5980db3b9": {
+      "date": "2026-06-12",
+      "title": "msitarzewski / agency-agents",
+      "source": "github"
+    },
+    "81f110db762452f4": {
+      "date": "2026-06-12",
+      "title": "chatwoot / chatwoot",
+      "source": "github"
+    },
+    "747c4e1c922c1686": {
+      "date": "2026-06-12",
+      "title": "kenn-io / agentsview",
+      "source": "github"
+    },
+    "363277e281d4cc1e": {
+      "date": "2026-06-12",
+      "title": "alchaincyf / zhangxuefeng-skill",
+      "source": "github"
+    },
+    "6874d2b2408a2baa": {
+      "date": "2026-06-12",
+      "title": "Congrats to the Google I/O 2026 Writing Challenge Winners!",
+      "source": "devto"
+    },
+    "bef3b0a1bf948049": {
+      "date": "2026-06-12",
+      "title": "My daughter asked if developers used to write code by hand, but it was the follow-up question that s",
+      "source": "devto"
+    },
+    "97603168dfb5fa04": {
+      "date": "2026-06-12",
+      "title": "Virtual Coffee Needs Your Help",
+      "source": "devto"
+    },
+    "d059a80892fde0e9": {
+      "date": "2026-06-12",
+      "title": "Celebrate June rituals with Solstice Bingo!",
+      "source": "devto"
+    },
+    "9210481c42f0619a": {
+      "date": "2026-06-12",
+      "title": "The Microsoft Interview Question I Keep Thinking About",
+      "source": "devto"
+    },
+    "c0f5e9f8f380b378": {
+      "date": "2026-06-12",
+      "title": "Your Vibe-Coded App Works. Is It Any Good?",
+      "source": "devto"
+    },
+    "fe3a7663d03bbc6d": {
+      "date": "2026-06-12",
+      "title": "🌈 Pride Trivia & Alan Turing Edition — A SwiftUI Game for June Solstice Game Jam",
+      "source": "devto"
+    },
+    "5dd8783a55b63281": {
+      "date": "2026-06-12",
+      "title": "The Person, Not the Cards",
+      "source": "devto"
+    },
+    "261f974fbc033464": {
+      "date": "2026-06-12",
+      "title": "How I Added Goose as an External Agent to Entire",
+      "source": "devto"
+    },
+    "11b93e9a85b26069": {
+      "date": "2026-06-12",
+      "title": "700+ Followers, 800+ Reads in 3 Months: Maybe \"Old School\" Engineering Still Resonates",
       "source": "devto"
     }
   }
