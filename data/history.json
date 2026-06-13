@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-06-13T00:06:13.567158",
+  "last_updated": "2026-06-13T23:44:04.290353",
   "sent_items": {
     "34ff731aa3ec89be": {
       "date": "2026-05-14",
@@ -4776,6 +4776,151 @@
       "date": "2026-06-13",
       "title": "Confession of a Former X User: How I Spent 6 Months Writing into the Void",
       "source": "devto"
+    },
+    "082cd1074156fae0": {
+      "date": "2026-06-13",
+      "title": "Kimi K2.7 Code",
+      "source": "producthunt"
+    },
+    "50ca4c3a5665371a": {
+      "date": "2026-06-13",
+      "title": "Vercel Drop",
+      "source": "producthunt"
+    },
+    "38bfb6e78b21bcfa": {
+      "date": "2026-06-13",
+      "title": "CakewordAI",
+      "source": "producthunt"
+    },
+    "3ae6ddb73bc9a1cc": {
+      "date": "2026-06-13",
+      "title": "Avatars in ElevenCreative",
+      "source": "producthunt"
+    },
+    "1b4529a7c2d7b1db": {
+      "date": "2026-06-13",
+      "title": "NomNak",
+      "source": "producthunt"
+    },
+    "55e84a6f47f9549f": {
+      "date": "2026-06-13",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "source": "hackernews"
+    },
+    "37c04ef685e983f7": {
+      "date": "2026-06-13",
+      "title": "Every Frame Perfect",
+      "source": "hackernews"
+    },
+    "f582d40c501d6d84": {
+      "date": "2026-06-13",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "source": "hackernews"
+    },
+    "9cc7608624a905db": {
+      "date": "2026-06-13",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "source": "hackernews"
+    },
+    "f2cdd4cdc72d5c03": {
+      "date": "2026-06-13",
+      "title": "GLM 5.2 Is Out",
+      "source": "hackernews"
+    },
+    "894c51df33f48cb4": {
+      "date": "2026-06-13",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "source": "hackernews"
+    },
+    "03a60f383fcb1ad3": {
+      "date": "2026-06-13",
+      "title": "GameBoy Workboy",
+      "source": "hackernews"
+    },
+    "478835b2440e3d7e": {
+      "date": "2026-06-13",
+      "title": "Codex for open source",
+      "source": "hackernews"
+    },
+    "6bfb729a629768e7": {
+      "date": "2026-06-13",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "source": "hackernews"
+    },
+    "ab6b0feecf892845": {
+      "date": "2026-06-13",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "source": "hackernews"
+    },
+    "d63038fa3a80107b": {
+      "date": "2026-06-13",
+      "title": "Teach Your Agent to Forget (On Purpose)",
+      "source": "devto"
+    },
+    "3ec389710efd130b": {
+      "date": "2026-06-13",
+      "title": "Solstice Runner — A Browser Game Tribute to Alan Turing",
+      "source": "devto"
+    },
+    "a4f0687875e2aa2d": {
+      "date": "2026-06-13",
+      "title": "From 5 Seconds to 50ms: How I Stopped Nuking My Database Every Time I Deleted an Order",
+      "source": "devto"
+    },
+    "07d7bdf8697b87e5": {
+      "date": "2026-06-13",
+      "title": "I expected the cheaper model to be cheaper. It cost 8.6 more.",
+      "source": "devto"
+    },
+    "9497fbb051238164": {
+      "date": "2026-06-13",
+      "title": "HeadLess BAI",
+      "source": "devto"
+    },
+    "588c1b0bad20a1e2": {
+      "date": "2026-06-13",
+      "title": "From Rate Card to Database: Engineering UPS Shipping Rates Into a Multi-Carrier Logistics Platform p",
+      "source": "devto"
+    },
+    "c1e99aa05660eb8b": {
+      "date": "2026-06-13",
+      "title": "Opening Pandora's Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed",
+      "source": "devto"
+    },
+    "faecfe641b6170a4": {
+      "date": "2026-06-13",
+      "title": "[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟",
+      "source": "devto"
+    },
+    "e10b443cf69ef784": {
+      "date": "2026-06-13",
+      "title": "I Built a Token-Bucket Rate Limiter in Pure Python and Finally Understood How APIs Protect Themselve",
+      "source": "devto"
+    },
+    "133bee78e61d00d6": {
+      "date": "2026-06-13",
+      "title": "AI Didn't Replace Junior Developers. It Replaced Safe Places To Be One.",
+      "source": "devto"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-06-13",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "b627289da26ad7fd": {
+      "date": "2026-06-13",
+      "title": "andrewyng / aisuite",
+      "source": "github"
+    },
+    "0e9d524ba522c191": {
+      "date": "2026-06-13",
+      "title": "bannedbook / fanqiang",
+      "source": "github"
+    },
+    "81f1648d4246858d": {
+      "date": "2026-06-13",
+      "title": "swc-project / swc",
+      "source": "github"
     }
   }
 }
