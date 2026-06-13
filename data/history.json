@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-12T00:08:42.979876",
+  "last_updated": "2026-06-13T00:06:13.567158",
   "sent_items": {
-    "f21f56b2edeca3e7": {
-      "date": "2026-05-13",
-      "title": "Googlebook",
-      "source": "producthunt"
-    },
-    "ed167095570bb435": {
-      "date": "2026-05-13",
-      "title": "Mycelis",
-      "source": "producthunt"
-    },
-    "8fa8117cff770cc3": {
-      "date": "2026-05-13",
-      "title": "Mi",
-      "source": "producthunt"
-    },
-    "0964a943208c70d8": {
-      "date": "2026-05-13",
-      "title": "Termux Lite",
-      "source": "producthunt"
-    },
-    "d6bcda7b5be86096": {
-      "date": "2026-05-13",
-      "title": "SideNotes",
-      "source": "producthunt"
-    },
-    "6575eaf50c7df9c9": {
-      "date": "2026-05-13",
-      "title": "PitchDrop.ai",
-      "source": "producthunt"
-    },
-    "60fa5e1ebd4ea40a": {
-      "date": "2026-05-13",
-      "title": "xyOps",
-      "source": "producthunt"
-    },
-    "93ed78930fd3cc68": {
-      "date": "2026-05-13",
-      "title": "IndexedAI",
-      "source": "producthunt"
-    },
-    "667a2a482f0dc715": {
-      "date": "2026-05-13",
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "source": "hackernews"
-    },
-    "1ca095dff411e0f3": {
-      "date": "2026-05-13",
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "source": "hackernews"
-    },
-    "58124c2f604a593a": {
-      "date": "2026-05-13",
-      "title": "A History of IDEs at Google",
-      "source": "hackernews"
-    },
-    "aab9bbeb44ac634e": {
-      "date": "2026-05-13",
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "source": "hackernews"
-    },
-    "194cea362cf4747b": {
-      "date": "2026-05-13",
-      "title": "The Emacsification of Software",
-      "source": "hackernews"
-    },
-    "a36a2054506f48f8": {
-      "date": "2026-05-13",
-      "title": "The US is winning the AI race where it matters most: commercialization",
-      "source": "hackernews"
-    },
-    "51fbc72011373fbd": {
-      "date": "2026-05-13",
-      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
-      "source": "hackernews"
-    },
-    "aa8b1d3502d1253e": {
-      "date": "2026-05-13",
-      "title": "S-100 Virtual Workbench",
-      "source": "hackernews"
-    },
-    "080548aed53b88cb": {
-      "date": "2026-05-13",
-      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-      "source": "hackernews"
-    },
-    "17180054bc45d497": {
-      "date": "2026-05-13",
-      "title": "Chess puzzle I found in my dad's old book",
-      "source": "hackernews"
-    },
-    "8279dc75f463d2b8": {
-      "date": "2026-05-13",
-      "title": "Two DEV Users. Two Countries. One Weird Little Avatar Project.",
-      "source": "devto"
-    },
-    "01da57bde860a58f": {
-      "date": "2026-05-13",
-      "title": "React is Overkill: Why Python + HTMX is Dominating in 2026",
-      "source": "devto"
-    },
-    "0ede5ef318da3a9f": {
-      "date": "2026-05-13",
-      "title": "What Burnout Actually Feels Like (Not What Instagram Tells You)",
-      "source": "devto"
-    },
-    "43e28e41370d2ee7": {
-      "date": "2026-05-13",
-      "title": "From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Change",
-      "source": "devto"
-    },
-    "ae40be28f5af9e6a": {
-      "date": "2026-05-13",
-      "title": "Local-First AI Done Right: How Gemma 4 E2B and 'Thinking Mode' Powered DiagramFlowAI",
-      "source": "devto"
-    },
-    "9e898ce165382025": {
-      "date": "2026-05-13",
-      "title": "Lambda Just Got a File System. I Put AI Agents on It.",
-      "source": "devto"
-    },
-    "68945bc96e99f6eb": {
-      "date": "2026-05-13",
-      "title": "Day 99 of #100DaysOfCode — DevCollab: Deploying Next.js and Going Live",
-      "source": "devto"
-    },
-    "ad9467dc3bf207fd": {
-      "date": "2026-05-13",
-      "title": "My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why.",
-      "source": "devto"
-    },
-    "4139f369bfe0ee1e": {
-      "date": "2026-05-13",
-      "title": "I Got Tired of AI Black Boxes So I Built One You Can Break Into",
-      "source": "devto"
-    },
-    "bc5a8fa4eaf83c2a": {
-      "date": "2026-05-13",
-      "title": "onclick is great, actually",
-      "source": "devto"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-05-13",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "2565b832f4bf6403": {
-      "date": "2026-05-13",
-      "title": "influxdata / telegraf",
-      "source": "github"
-    },
-    "bf559441b24d3589": {
-      "date": "2026-05-13",
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "source": "github"
-    },
-    "7904af429ad536aa": {
-      "date": "2026-05-13",
-      "title": "danielmiessler / Personal_AI_Infrastructure",
-      "source": "github"
-    },
-    "344599a590f4eb39": {
-      "date": "2026-05-13",
-      "title": "supertone-inc / supertonic",
-      "source": "github"
-    },
-    "497185c0f85ecca1": {
-      "date": "2026-05-13",
-      "title": "Greedeks / GTweak",
-      "source": "github"
-    },
-    "a5010e1e56158eea": {
-      "date": "2026-05-13",
-      "title": "ArthurBrussee / brush",
-      "source": "github"
-    },
-    "32d078cecf55571e": {
-      "date": "2026-05-13",
-      "title": "imthenachoman / How-To-Secure-A-Linux-Server",
-      "source": "github"
-    },
     "34ff731aa3ec89be": {
       "date": "2026-05-14",
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
@@ -4790,6 +4610,171 @@
     "11b93e9a85b26069": {
       "date": "2026-06-12",
       "title": "700+ Followers, 800+ Reads in 3 Months: Maybe \"Old School\" Engineering Still Resonates",
+      "source": "devto"
+    },
+    "52991c7eb2d5735d": {
+      "date": "2026-06-13",
+      "title": "Firma.dev",
+      "source": "producthunt"
+    },
+    "4a3d3f99ff9d712f": {
+      "date": "2026-06-13",
+      "title": "Pond",
+      "source": "producthunt"
+    },
+    "36ea64e3c3a4f903": {
+      "date": "2026-06-13",
+      "title": "ShellMate",
+      "source": "producthunt"
+    },
+    "c1c38805e9b4205c": {
+      "date": "2026-06-13",
+      "title": "Bob's CLI",
+      "source": "producthunt"
+    },
+    "3265fb82cdc043cf": {
+      "date": "2026-06-13",
+      "title": "HyperSleep",
+      "source": "producthunt"
+    },
+    "f65f1e26619ffd71": {
+      "date": "2026-06-13",
+      "title": "Meet Warren 3.0",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-06-13",
+      "title": "Slack Data Agent",
+      "source": "producthunt"
+    },
+    "6f00852330f9ef08": {
+      "date": "2026-06-13",
+      "title": "KOSH Money",
+      "source": "producthunt"
+    },
+    "20874038c8c2993b": {
+      "date": "2026-06-13",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "source": "hackernews"
+    },
+    "c2c313cbbd70a73a": {
+      "date": "2026-06-13",
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "source": "hackernews"
+    },
+    "956bbc4f492e419e": {
+      "date": "2026-06-13",
+      "title": "How to setup a local coding agent on macOS",
+      "source": "hackernews"
+    },
+    "4fb17ef9197719e8": {
+      "date": "2026-06-13",
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "source": "hackernews"
+    },
+    "ae938806e82e8c0e": {
+      "date": "2026-06-13",
+      "title": "Palantir loses legal challenge against Swiss investigative magazine",
+      "source": "hackernews"
+    },
+    "a05bd9a94872cf3d": {
+      "date": "2026-06-13",
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "source": "hackernews"
+    },
+    "6fa570b91085dcb3": {
+      "date": "2026-06-13",
+      "title": "Renault: Electric motors with no rare earths",
+      "source": "hackernews"
+    },
+    "89994ef3d453a866": {
+      "date": "2026-06-13",
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "source": "hackernews"
+    },
+    "4ad38bde77ebc2d3": {
+      "date": "2026-06-13",
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "source": "hackernews"
+    },
+    "fcd4334962a41853": {
+      "date": "2026-06-13",
+      "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+      "source": "hackernews"
+    },
+    "4d5a06ba86f6ad13": {
+      "date": "2026-06-13",
+      "title": "music-assistant / server",
+      "source": "github"
+    },
+    "43eac971570e9768": {
+      "date": "2026-06-13",
+      "title": "mattermost / mattermost",
+      "source": "github"
+    },
+    "b11d32bac2710243": {
+      "date": "2026-06-13",
+      "title": "iptv-org / iptv",
+      "source": "github"
+    },
+    "5c551e97a9eb1fa8": {
+      "date": "2026-06-13",
+      "title": "LMCache / LMCache",
+      "source": "github"
+    },
+    "2cd560aef18e9807": {
+      "date": "2026-06-13",
+      "title": "microsoft / PowerToys",
+      "source": "github"
+    },
+    "f6b162cc6cccb8ec": {
+      "date": "2026-06-13",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "46bd0253d0586019": {
+      "date": "2026-06-13",
+      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+      "source": "devto"
+    },
+    "74d1c300b32fe416": {
+      "date": "2026-06-13",
+      "title": "IOS Midsommer Madness",
+      "source": "devto"
+    },
+    "d620b199c7a00fdf": {
+      "date": "2026-06-13",
+      "title": "I Switched to the Agent Toolkit for AWS. Here's Why.",
+      "source": "devto"
+    },
+    "4cc81915f46193fc": {
+      "date": "2026-06-13",
+      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
+      "source": "devto"
+    },
+    "f02f853967a98227": {
+      "date": "2026-06-13",
+      "title": "Weekly Dev Log 2026-W09",
+      "source": "devto"
+    },
+    "3ec430a6244ae536": {
+      "date": "2026-06-13",
+      "title": "The Remote Already Exists: What \"Click\" Got Right About Agentic AI",
+      "source": "devto"
+    },
+    "ef5b54e5ea1cf2ba": {
+      "date": "2026-06-13",
+      "title": "Testing Neovim in a Container with Finch (like Docker)",
+      "source": "devto"
+    },
+    "a2eeb3e25b3d481f": {
+      "date": "2026-06-13",
+      "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
+      "source": "devto"
+    },
+    "de21e9874e170d69": {
+      "date": "2026-06-13",
+      "title": "Confession of a Former X User: How I Spent 6 Months Writing into the Void",
       "source": "devto"
     }
   }
