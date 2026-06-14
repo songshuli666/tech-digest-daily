@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-13T23:44:04.290353",
+  "last_updated": "2026-06-14T23:49:41.206609",
   "sent_items": {
-    "34ff731aa3ec89be": {
-      "date": "2026-05-14",
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "source": "hackernews"
-    },
-    "6c952e55d1e30759": {
-      "date": "2026-05-14",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "source": "hackernews"
-    },
-    "bcf55a71de455c04": {
-      "date": "2026-05-14",
-      "title": "New Nginx Exploit",
-      "source": "hackernews"
-    },
-    "8fd5d832fdd1c471": {
-      "date": "2026-05-14",
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "source": "hackernews"
-    },
-    "3480e3504471e48f": {
-      "date": "2026-05-14",
-      "title": "Codex is now in the ChatGPT mobile app",
-      "source": "hackernews"
-    },
-    "4252a8b7c152ffef": {
-      "date": "2026-05-14",
-      "title": "Amazonbot is finally respecting robots.txt",
-      "source": "hackernews"
-    },
-    "fdd684c677df0d55": {
-      "date": "2026-05-14",
-      "title": "A few words on DS4",
-      "source": "hackernews"
-    },
-    "61b6bc0d51d337d4": {
-      "date": "2026-05-14",
-      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "source": "hackernews"
-    },
-    "8107c03f397ac1ab": {
-      "date": "2026-05-14",
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "source": "hackernews"
-    },
-    "aed7e8515d3ca1ce": {
-      "date": "2026-05-14",
-      "title": "More than half of U.S. faces worst drought in decades",
-      "source": "hackernews"
-    },
-    "a0bcab744de3a0d2": {
-      "date": "2026-05-14",
-      "title": "DesignMD",
-      "source": "producthunt"
-    },
-    "9ba1401b41082fb5": {
-      "date": "2026-05-14",
-      "title": "Open Browser Use",
-      "source": "producthunt"
-    },
-    "cef8dc9576107c25": {
-      "date": "2026-05-14",
-      "title": "Open Computer Use",
-      "source": "producthunt"
-    },
-    "17b6602a6284324c": {
-      "date": "2026-05-14",
-      "title": "Enjo Help Center",
-      "source": "producthunt"
-    },
-    "aef17cdd726b0137": {
-      "date": "2026-05-14",
-      "title": "Asteroid",
-      "source": "producthunt"
-    },
-    "0c80c530d0e39645": {
-      "date": "2026-05-14",
-      "title": "Raindrop Workshop",
-      "source": "producthunt"
-    },
-    "88103d0b63570725": {
-      "date": "2026-05-14",
-      "title": "Indigo",
-      "source": "producthunt"
-    },
-    "d5312f2ca254a9f5": {
-      "date": "2026-05-14",
-      "title": "Edit Mind",
-      "source": "producthunt"
-    },
-    "4b6f13fe3c3bf827": {
-      "date": "2026-05-14",
-      "title": "Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)",
-      "source": "devto"
-    },
-    "183bacdf643669d9": {
-      "date": "2026-05-14",
-      "title": "4 Tiny Mistakes That Secretly Destroy App Performance",
-      "source": "devto"
-    },
-    "38044db9e13700e1": {
-      "date": "2026-05-14",
-      "title": "Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.",
-      "source": "devto"
-    },
-    "9f677364af19961b": {
-      "date": "2026-05-14",
-      "title": "PHP vs Node.js & Next.js vs Angular: What to Learn",
-      "source": "devto"
-    },
-    "332ea133a81d7a42": {
-      "date": "2026-05-14",
-      "title": "Tokensparsamkeit for coding assistants",
-      "source": "devto"
-    },
-    "cc8d31a9d3252a28": {
-      "date": "2026-05-14",
-      "title": "OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.",
-      "source": "devto"
-    },
-    "b5c9ceaebaf629bb": {
-      "date": "2026-05-14",
-      "title": "Building a custom launcher for ChromeOS",
-      "source": "devto"
-    },
-    "8db4356df6ea0568": {
-      "date": "2026-05-14",
-      "title": "The new Agent Toolkit for AWS includes 20+ agent skills, but your agent might never load them withou",
-      "source": "devto"
-    },
-    "e581fadb30dba220": {
-      "date": "2026-05-14",
-      "title": "Vibe Coding, Demystified",
-      "source": "devto"
-    },
-    "f949cf8448c83386": {
-      "date": "2026-05-14",
-      "title": "Vercel AI SDK Middleware vs Genkit Middleware: a Hands-On Comparison",
-      "source": "devto"
-    },
-    "c175a33fc9954c9b": {
-      "date": "2026-05-14",
-      "title": "shiyu-coder / Kronos",
-      "source": "github"
-    },
-    "b8b2afae293a234e": {
-      "date": "2026-05-14",
-      "title": "roboflow / supervision",
-      "source": "github"
-    },
-    "70c47826bd1499e6": {
-      "date": "2026-05-14",
-      "title": "Genymobile / scrcpy",
-      "source": "github"
-    },
-    "fe577d59e6521fe0": {
-      "date": "2026-05-14",
-      "title": "NVIDIA-AI-Blueprints / video-search-and-summarization",
-      "source": "github"
-    },
-    "8a080a19e7684f78": {
-      "date": "2026-05-14",
-      "title": "github / spec-kit",
-      "source": "github"
-    },
-    "8ed11f9c07a08ee3": {
-      "date": "2026-05-14",
-      "title": "garrytan / gstack",
-      "source": "github"
-    },
     "6e47c98b585aa857": {
       "date": "2026-05-15",
       "title": "Project Gutenberg – keeps getting better",
@@ -4920,6 +4750,186 @@
     "81f1648d4246858d": {
       "date": "2026-06-13",
       "title": "swc-project / swc",
+      "source": "github"
+    },
+    "ef3f18f446fca267": {
+      "date": "2026-06-14",
+      "title": "Firewood Splitting Simulator",
+      "source": "hackernews"
+    },
+    "77645118947eda65": {
+      "date": "2026-06-14",
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "source": "hackernews"
+    },
+    "a2621a0b756027f9": {
+      "date": "2026-06-14",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "source": "hackernews"
+    },
+    "40d40148a0162ffb": {
+      "date": "2026-06-14",
+      "title": "Did Anthropic ask for this?",
+      "source": "hackernews"
+    },
+    "8b443d6e64413533": {
+      "date": "2026-06-14",
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "source": "hackernews"
+    },
+    "569aa46bfd689367": {
+      "date": "2026-06-14",
+      "title": "Chaosnet (1981)",
+      "source": "hackernews"
+    },
+    "ea939e36910237e3": {
+      "date": "2026-06-14",
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "source": "hackernews"
+    },
+    "789eeacc629008eb": {
+      "date": "2026-06-14",
+      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
+      "source": "hackernews"
+    },
+    "a75e1fea657831b1": {
+      "date": "2026-06-14",
+      "title": "The Jqwik Anti-AI Affair",
+      "source": "hackernews"
+    },
+    "54d288e909e2d118": {
+      "date": "2026-06-14",
+      "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
+      "source": "hackernews"
+    },
+    "a3698bf0b5a50f03": {
+      "date": "2026-06-14",
+      "title": "Permute 4.0",
+      "source": "producthunt"
+    },
+    "fc18b73e96a6269f": {
+      "date": "2026-06-14",
+      "title": "Momentra",
+      "source": "producthunt"
+    },
+    "3f6afa7a321d5e82": {
+      "date": "2026-06-14",
+      "title": "Cloudback for Linear",
+      "source": "producthunt"
+    },
+    "d6dba69506b9d920": {
+      "date": "2026-06-14",
+      "title": "Slashy",
+      "source": "producthunt"
+    },
+    "09e15d983128c4d1": {
+      "date": "2026-06-14",
+      "title": "Tinfoil Pigeons",
+      "source": "producthunt"
+    },
+    "f132e1540340ddd8": {
+      "date": "2026-06-14",
+      "title": "Pool",
+      "source": "producthunt"
+    },
+    "f4026c5abf8bc4de": {
+      "date": "2026-06-14",
+      "title": "Memoriq",
+      "source": "producthunt"
+    },
+    "42f7a50cccf41696": {
+      "date": "2026-06-14",
+      "title": "Reverie.fm",
+      "source": "producthunt"
+    },
+    "3ff53c76a40b4311": {
+      "date": "2026-06-14",
+      "title": "How to give Claude (or Cursor) access to your Rails app's activity logs",
+      "source": "devto"
+    },
+    "9a0612bb6d5748aa": {
+      "date": "2026-06-14",
+      "title": "Building in public, week 13: the debt week nobody posts about",
+      "source": "devto"
+    },
+    "ec19ea17a8e2042b": {
+      "date": "2026-06-14",
+      "title": "How to enjoy programming in a world of AI",
+      "source": "devto"
+    },
+    "2310266922b491d9": {
+      "date": "2026-06-14",
+      "title": "I Built a Django-Inspired Web Framework in Rust — Here's What I Learned",
+      "source": "devto"
+    },
+    "16223ebc4dc90c34": {
+      "date": "2026-06-14",
+      "title": "I gave 8 AI agents an island and watched a society emerge — wars, gossip, grudges, and peace",
+      "source": "devto"
+    },
+    "19f1482668879af8": {
+      "date": "2026-06-14",
+      "title": "I run Claude Code and Codex side by side. Here's the division of labor that actually works.",
+      "source": "devto"
+    },
+    "c18745a479e410cf": {
+      "date": "2026-06-14",
+      "title": "🕹️ SOLSTICE: Hold the Light Until Dawn - A 3D Browser Game for the June Solstice Jam",
+      "source": "devto"
+    },
+    "5034cf1a60449959": {
+      "date": "2026-06-14",
+      "title": "I built a 3B lease risk scanner that runs without an external LLM API",
+      "source": "devto"
+    },
+    "767009ce2507bd2d": {
+      "date": "2026-06-14",
+      "title": "Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥",
+      "source": "devto"
+    },
+    "e497f7f244be06df": {
+      "date": "2026-06-14",
+      "title": "I Built a Consistent Hashing Ring in Pure Python and Finally Understood How Cassandra Distributes Da",
+      "source": "devto"
+    },
+    "52e5d1d72c1088d2": {
+      "date": "2026-06-14",
+      "title": "freeCodeCamp / freeCodeCamp",
+      "source": "github"
+    },
+    "9855a6e264c8f0c8": {
+      "date": "2026-06-14",
+      "title": "pytest-dev / pytest",
+      "source": "github"
+    },
+    "c84af8760b69b369": {
+      "date": "2026-06-14",
+      "title": "meshery / meshery",
+      "source": "github"
+    },
+    "91014a4cbd784884": {
+      "date": "2026-06-14",
+      "title": "cypress-io / cypress",
+      "source": "github"
+    },
+    "1007a733b399a71b": {
+      "date": "2026-06-14",
+      "title": "GorvGoyl / Clone-Wars",
+      "source": "github"
+    },
+    "c7cd9c67baaf46ad": {
+      "date": "2026-06-14",
+      "title": "Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+      "source": "github"
+    },
+    "a7831823542abca4": {
+      "date": "2026-06-14",
+      "title": "Free-TV / IPTV",
+      "source": "github"
+    },
+    "95c2f4ed167aa46f": {
+      "date": "2026-06-14",
+      "title": "puppeteer / puppeteer",
       "source": "github"
     }
   }
