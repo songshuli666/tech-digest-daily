@@ -1,297 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-14T23:49:41.206609",
+  "last_updated": "2026-06-16T00:16:35.410140",
   "sent_items": {
-    "6e47c98b585aa857": {
-      "date": "2026-05-15",
-      "title": "Project Gutenberg – keeps getting better",
-      "source": "hackernews"
-    },
-    "0fa3fe1131736ad6": {
-      "date": "2026-05-15",
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "source": "hackernews"
-    },
-    "592e1a5d040137b7": {
-      "date": "2026-05-15",
-      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "source": "hackernews"
-    },
-    "6829a4b13e4b1c7a": {
-      "date": "2026-05-15",
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "source": "hackernews"
-    },
-    "838c6602c4af24c1": {
-      "date": "2026-05-15",
-      "title": "California bill would require patches or refunds when online games shut down",
-      "source": "hackernews"
-    },
-    "134c40e3de6a43e0": {
-      "date": "2026-05-15",
-      "title": "The Zulip Foundation",
-      "source": "hackernews"
-    },
-    "dffb9b54ba3023ba": {
-      "date": "2026-05-15",
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "source": "hackernews"
-    },
-    "ed98e6f1b3d607d3": {
-      "date": "2026-05-15",
-      "title": "The sigmoids won't save you",
-      "source": "hackernews"
-    },
-    "8eec0be72313c593": {
-      "date": "2026-05-15",
-      "title": "WinCE64 – Windows CE 2.11 for N64",
-      "source": "hackernews"
-    },
-    "516f21667aa22e67": {
-      "date": "2026-05-15",
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "source": "hackernews"
-    },
-    "39ca155385542caa": {
-      "date": "2026-05-15",
-      "title": "PHBench",
-      "source": "producthunt"
-    },
-    "8033ef29df6b8320": {
-      "date": "2026-05-15",
-      "title": "Sleek Analytics v3",
-      "source": "producthunt"
-    },
-    "48940da03ca1e76b": {
-      "date": "2026-05-15",
-      "title": "Nimbus",
-      "source": "producthunt"
-    },
-    "4e0dd976b3f3bfd1": {
-      "date": "2026-05-15",
-      "title": "Lensmor",
-      "source": "producthunt"
-    },
-    "9a0086f38136f47f": {
-      "date": "2026-05-15",
-      "title": "Agentic Website Builder 2.0 by Lokuma",
-      "source": "producthunt"
-    },
-    "d060ef6d6ef47c37": {
-      "date": "2026-05-15",
-      "title": "Atter AI",
-      "source": "producthunt"
-    },
-    "c438d3da28eecc64": {
-      "date": "2026-05-15",
-      "title": "Gradient Bang",
-      "source": "producthunt"
-    },
-    "6a675e5ebba62405": {
-      "date": "2026-05-15",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "ae346f555e07fdf7": {
-      "date": "2026-05-15",
-      "title": "Building \"Sweets Vault\" - a multimodal Gemini Agent with physical hardware integration",
-      "source": "devto"
-    },
-    "0077cc44a4b777b1": {
-      "date": "2026-05-15",
-      "title": "You don't 3D print a house. You print your tools.",
-      "source": "devto"
-    },
-    "e57c1aa551b6486a": {
-      "date": "2026-05-15",
-      "title": "Circuits: Bit-Banging, SPI, and CPLD",
-      "source": "devto"
-    },
-    "b44261fe1b9186d4": {
-      "date": "2026-05-15",
-      "title": "Day 100 of #100DaysOfCode — What I Built, What I Learned, and What's Next",
-      "source": "devto"
-    },
-    "d6919cf6ccf34c0c": {
-      "date": "2026-05-15",
-      "title": "GemmaFin - Breaking the Cycle of Debt with Conversational AI",
-      "source": "devto"
-    },
-    "f681c593cc1a68c6": {
-      "date": "2026-05-15",
-      "title": "Through the Blue Frames: UX From Google Glass to Gemini",
-      "source": "devto"
-    },
-    "2663dd4aa41183c7": {
-      "date": "2026-05-15",
-      "title": "Bypassing User Isolation on Android with a Screen Reader",
-      "source": "devto"
-    },
-    "1aac0a56d316af7b": {
-      "date": "2026-05-15",
-      "title": "I Built a Multi-Agent AI Tribunal with Gemma 4",
-      "source": "devto"
-    },
-    "69ddb9d4e13a7a65": {
-      "date": "2026-05-15",
-      "title": "Say Goodbye to Context Amnesia: Meet Git-Chacha 🧠",
-      "source": "devto"
-    },
-    "ea97e2f9b3078078": {
-      "date": "2026-05-15",
-      "title": "anthropics / skills",
-      "source": "github"
-    },
-    "d0e94d130828eeee": {
-      "date": "2026-05-15",
-      "title": "oven-sh / bun",
-      "source": "github"
-    },
-    "2ef161ca72bdb0e7": {
-      "date": "2026-05-15",
-      "title": "joeseesun / qiaomu-anything-to-notebooklm",
-      "source": "github"
-    },
-    "31e7a0c680b80f7c": {
-      "date": "2026-05-16",
-      "title": "Loova Agents",
-      "source": "producthunt"
-    },
-    "8fd8d0418eccd0ab": {
-      "date": "2026-05-16",
-      "title": "Gemini 3.1 Flash-Lite",
-      "source": "producthunt"
-    },
-    "5967f762ad718e3b": {
-      "date": "2026-05-16",
-      "title": "Agentmemory",
-      "source": "producthunt"
-    },
-    "a4f423995c4a88e3": {
-      "date": "2026-05-16",
-      "title": "Wring",
-      "source": "producthunt"
-    },
-    "e90e81715a0c9b3f": {
-      "date": "2026-05-16",
-      "title": "M5Stack PaperColor",
-      "source": "producthunt"
-    },
-    "42732129e22c59e7": {
-      "date": "2026-05-16",
-      "title": "Raybeam",
-      "source": "producthunt"
-    },
-    "ad7d7a7b915f938c": {
-      "date": "2026-05-16",
-      "title": "Standboy",
-      "source": "producthunt"
-    },
-    "071ba7bf1560bdcb": {
-      "date": "2026-05-16",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "source": "hackernews"
-    },
-    "2647bd3e0a2ad0dc": {
-      "date": "2026-05-16",
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "source": "hackernews"
-    },
-    "f2ae554d6d69eec7": {
-      "date": "2026-05-16",
-      "title": "Accelerando (2005)",
-      "source": "hackernews"
-    },
-    "fdfc434c05b82d9c": {
-      "date": "2026-05-16",
-      "title": "Windows 9x Subsystem for Linux",
-      "source": "hackernews"
-    },
-    "927aa10b051502b0": {
-      "date": "2026-05-16",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "source": "hackernews"
-    },
-    "84d618770d3182ac": {
-      "date": "2026-05-16",
-      "title": "Halt and Catch Fire",
-      "source": "hackernews"
-    },
-    "9cbe2363eee406c8": {
-      "date": "2026-05-16",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "source": "hackernews"
-    },
-    "57d1a52f8b886503": {
-      "date": "2026-05-16",
-      "title": "A molecule with half-Möbius topology",
-      "source": "hackernews"
-    },
-    "1e15594fce98063d": {
-      "date": "2026-05-16",
-      "title": "MCP Hello Page",
-      "source": "hackernews"
-    },
-    "16d2ffd3d49a6976": {
-      "date": "2026-05-16",
-      "title": "I tried to make Claude make me money on open-source bounties",
-      "source": "hackernews"
-    },
-    "94ec5d23f75fd96a": {
-      "date": "2026-05-16",
-      "title": "colbymchenry / codegraph",
-      "source": "github"
-    },
-    "9696d606666eb070": {
-      "date": "2026-05-16",
-      "title": "Chat to build and schedule your own personal Hacker News email digest! 🎉",
-      "source": "devto"
-    },
-    "cd43b1586a579111": {
-      "date": "2026-05-16",
-      "title": "I Gave Hermes Agent 5 Impossible Tasks",
-      "source": "devto"
-    },
-    "3776481663fb97a9": {
-      "date": "2026-05-16",
-      "title": "I Ran Hermes Agent on the Same Task for 7 Days. The Skill File on Day 7 Looked Nothing Like Day 1.",
-      "source": "devto"
-    },
-    "1c5c86827e5a1f1f": {
-      "date": "2026-05-16",
-      "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
-      "source": "devto"
-    },
-    "96a7ced2548cd0d4": {
-      "date": "2026-05-16",
-      "title": "Building a Ride Analysis Web App with Antigravity and the Strava API",
-      "source": "devto"
-    },
-    "d85581c401ab304f": {
-      "date": "2026-05-16",
-      "title": "Self-Hosting Gemma 4 for Production Automation Revealed Two Ollama Bugs",
-      "source": "devto"
-    },
-    "21fb9d7f13276029": {
-      "date": "2026-05-16",
-      "title": "🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣",
-      "source": "devto"
-    },
-    "17a219c58b91ed92": {
-      "date": "2026-05-16",
-      "title": "I Built an Enterprise Workflow Engine Like a Game Engine — And It Was the Right Call",
-      "source": "devto"
-    },
-    "bdf1c5a66060b92c": {
-      "date": "2026-05-16",
-      "title": "Prisma vs JDBC: the benchmark that almost made me blame the wrong ORM",
-      "source": "devto"
-    },
-    "9aa86c2efdb3674a": {
-      "date": "2026-05-16",
-      "title": "Why every Claude Code-built site looks the same — and the image layer that breaks it",
-      "source": "devto"
-    },
     "4f830bf1e908c789": {
       "date": "2026-05-17",
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
@@ -4931,6 +4641,166 @@
       "date": "2026-06-14",
       "title": "puppeteer / puppeteer",
       "source": "github"
+    },
+    "cdfbc00c7fd89266": {
+      "date": "2026-06-16",
+      "title": "Iroh 1.0",
+      "source": "hackernews"
+    },
+    "8832875a0fb9268c": {
+      "date": "2026-06-16",
+      "title": "A backdoor in a LinkedIn job offer",
+      "source": "hackernews"
+    },
+    "8de637d413f8edcb": {
+      "date": "2026-06-16",
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "source": "hackernews"
+    },
+    "02982031ef56dab3": {
+      "date": "2026-06-16",
+      "title": "My Homelab AI Dev Platform",
+      "source": "hackernews"
+    },
+    "0b8e1b1366a3ce33": {
+      "date": "2026-06-16",
+      "title": "US battery manufacturing output continues to break records",
+      "source": "hackernews"
+    },
+    "b07f38fc030f7fd0": {
+      "date": "2026-06-16",
+      "title": "I Love the Computer",
+      "source": "hackernews"
+    },
+    "e00b532564d6b569": {
+      "date": "2026-06-16",
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "source": "hackernews"
+    },
+    "46cd69ea52ea9128": {
+      "date": "2026-06-16",
+      "title": "Peopleless economy? Not technically impossible",
+      "source": "hackernews"
+    },
+    "105856821bef01ab": {
+      "date": "2026-06-16",
+      "title": "What job interviews taught me about Kubernetes",
+      "source": "hackernews"
+    },
+    "5ef9177b27440fc2": {
+      "date": "2026-06-16",
+      "title": "Why I email complete strangers",
+      "source": "hackernews"
+    },
+    "8e2922cd5a9d0c2d": {
+      "date": "2026-06-16",
+      "title": "MockPilot",
+      "source": "producthunt"
+    },
+    "ffd153f91bd84aef": {
+      "date": "2026-06-16",
+      "title": "ColibotAI",
+      "source": "producthunt"
+    },
+    "4f39f4c1382062b9": {
+      "date": "2026-06-16",
+      "title": "VEXI",
+      "source": "producthunt"
+    },
+    "e4838f666e570f2a": {
+      "date": "2026-06-16",
+      "title": "Synopsule",
+      "source": "producthunt"
+    },
+    "87c916d66e6e855a": {
+      "date": "2026-06-16",
+      "title": "MiMo Code",
+      "source": "producthunt"
+    },
+    "96b82d00dbc781d6": {
+      "date": "2026-06-16",
+      "title": "Notchcode",
+      "source": "producthunt"
+    },
+    "09a38a80865d743a": {
+      "date": "2026-06-16",
+      "title": "IdleDev",
+      "source": "producthunt"
+    },
+    "184d5a9bd4830854": {
+      "date": "2026-06-16",
+      "title": "teslamate-org / teslamate",
+      "source": "github"
+    },
+    "69f3e6a72bebbf36": {
+      "date": "2026-06-16",
+      "title": "krahets / hello-algo",
+      "source": "github"
+    },
+    "d44331a1971df5c9": {
+      "date": "2026-06-16",
+      "title": "trycua / cua",
+      "source": "github"
+    },
+    "ce53e0e5cc55ed71": {
+      "date": "2026-06-16",
+      "title": "Raphire / Win11Debloat",
+      "source": "github"
+    },
+    "3ede0a0649fe460c": {
+      "date": "2026-06-16",
+      "title": "mikeroyal / Self-Hosting-Guide",
+      "source": "github"
+    },
+    "c6a8383d0391cfc8": {
+      "date": "2026-06-16",
+      "title": "Turning Gemma 4 into an Old Korean Translator",
+      "source": "devto"
+    },
+    "68b9e71d73a8f7b8": {
+      "date": "2026-06-16",
+      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
+      "source": "devto"
+    },
+    "9cd2fc6de456a76a": {
+      "date": "2026-06-16",
+      "title": "Has Sloan Flagged Your Article Lately?",
+      "source": "devto"
+    },
+    "f03adca7cceb241e": {
+      "date": "2026-06-16",
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "source": "devto"
+    },
+    "ce3709bc23559cd2": {
+      "date": "2026-06-16",
+      "title": "What are your goals for the week? #183",
+      "source": "devto"
+    },
+    "126bb17866222219": {
+      "date": "2026-06-16",
+      "title": "Meme Monday",
+      "source": "devto"
+    },
+    "d5ffec85f004dbc4": {
+      "date": "2026-06-16",
+      "title": "The Real Reason Your PRs Get Big",
+      "source": "devto"
+    },
+    "28fa38c3f899fb65": {
+      "date": "2026-06-16",
+      "title": "My Bookmark Engine Returned Chunks. I Added One Endpoint to Make It Answer.",
+      "source": "devto"
+    },
+    "d164a9ff21d11a19": {
+      "date": "2026-06-16",
+      "title": "Why Your Gemini Bill Doesn't Match the Model Names",
+      "source": "devto"
+    },
+    "deef28ebfff8cc8d": {
+      "date": "2026-06-16",
+      "title": "End of the Year idea for DEV?",
+      "source": "devto"
     }
   }
 }
