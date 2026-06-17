@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-16T00:16:35.410140",
+  "last_updated": "2026-06-17T00:05:48.575266",
   "sent_items": {
-    "4f830bf1e908c789": {
-      "date": "2026-05-17",
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "source": "hackernews"
-    },
-    "d97d7835a43bd304": {
-      "date": "2026-05-17",
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "source": "hackernews"
-    },
-    "32f963156b31eb90": {
-      "date": "2026-05-17",
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "source": "hackernews"
-    },
-    "a3b4b746428304f0": {
-      "date": "2026-05-17",
-      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "source": "hackernews"
-    },
-    "236c0ea9cfe482f2": {
-      "date": "2026-05-17",
-      "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
-      "source": "hackernews"
-    },
-    "27ffa690abb463d1": {
-      "date": "2026-05-17",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "source": "hackernews"
-    },
-    "c458a0eb97b76ba6": {
-      "date": "2026-05-17",
-      "title": "Prolog Coding Horror",
-      "source": "hackernews"
-    },
-    "64ce35ec18b64599": {
-      "date": "2026-05-17",
-      "title": "GenCAD",
-      "source": "hackernews"
-    },
-    "ed22c4ad8964bcb1": {
-      "date": "2026-05-17",
-      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
-      "source": "hackernews"
-    },
-    "d28d9b6ae7360d1d": {
-      "date": "2026-05-17",
-      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-      "source": "hackernews"
-    },
-    "80dbccff467d5a52": {
-      "date": "2026-05-17",
-      "title": "Kirki",
-      "source": "producthunt"
-    },
-    "c0c7c3657edbe2c9": {
-      "date": "2026-05-17",
-      "title": "Files SDK",
-      "source": "producthunt"
-    },
-    "05ba41a3330922f1": {
-      "date": "2026-05-17",
-      "title": "Vivago Video Agent",
-      "source": "producthunt"
-    },
-    "12e9527951797ad0": {
-      "date": "2026-05-17",
-      "title": "HKUDS / CLI-Anything",
-      "source": "github"
-    },
-    "356c38d07c938974": {
-      "date": "2026-05-17",
-      "title": "BigBodyCobain / Shadowbroker",
-      "source": "github"
-    },
-    "96cb5d4c7f75eb9f": {
-      "date": "2026-05-17",
-      "title": "tech-leads-club / agent-skills",
-      "source": "github"
-    },
-    "6e0c4d897e7c7b7f": {
-      "date": "2026-05-17",
-      "title": "NirDiamant / agents-towards-production",
-      "source": "github"
-    },
-    "d126e4ab7f5d21ec": {
-      "date": "2026-05-17",
-      "title": "dograh-hq / dograh",
-      "source": "github"
-    },
-    "a3fc0ce265c9f6fe": {
-      "date": "2026-05-17",
-      "title": "Light-Heart-Labs / DreamServer",
-      "source": "github"
-    },
-    "8578f89662f6e7d9": {
-      "date": "2026-05-17",
-      "title": "KeygraphHQ / shannon",
-      "source": "github"
-    },
-    "00d751d8c6f4efa9": {
-      "date": "2026-05-17",
-      "title": "TryGhost / Ghost",
-      "source": "github"
-    },
-    "d9be53d70230eef9": {
-      "date": "2026-05-17",
-      "title": "medusajs / medusa",
-      "source": "github"
-    },
-    "e17878eb3ee52340": {
-      "date": "2026-05-17",
-      "title": "knadh / listmonk",
-      "source": "github"
-    },
-    "094f448ec27c79d0": {
-      "date": "2026-05-17",
-      "title": "I built a real-time ASL interpreter for the Gemma4 challenge, no cloud needed",
-      "source": "devto"
-    },
-    "86c92ae4053d9dee": {
-      "date": "2026-05-17",
-      "title": "Mnemonic - local-first voice notes with Gemma 4 E4B",
-      "source": "devto"
-    },
-    "e26bec777b369879": {
-      "date": "2026-05-17",
-      "title": "How to read any legacy codebase. The archaeology playbook.",
-      "source": "devto"
-    },
-    "91331b5ea68e4474": {
-      "date": "2026-05-17",
-      "title": "I Built a Desktop App That Ends My “Open 7 Terminals and Pray” Routine",
-      "source": "devto"
-    },
-    "2f538a6d23ba4533": {
-      "date": "2026-05-17",
-      "title": "I Got Tired of Docker Eating My Raspberry Pi's RAM — So I Built My Own Container Orchestrator",
-      "source": "devto"
-    },
-    "62f05c22d295d2f5": {
-      "date": "2026-05-17",
-      "title": "Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulka",
-      "source": "devto"
-    },
-    "c13309d772dfe49a": {
-      "date": "2026-05-17",
-      "title": "What I actually learned using Gemma 4 for ASL recognition (spoiler: D kept showing up as 1)",
-      "source": "devto"
-    },
-    "e7c22521254ef9ba": {
-      "date": "2026-05-17",
-      "title": "I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries — The Results Surprised Me",
-      "source": "devto"
-    },
-    "96316e695603738d": {
-      "date": "2026-05-17",
-      "title": "Indexing Solana Programs in Rust: Notes From a Python Backend Engineer",
-      "source": "devto"
-    },
-    "a6704d42351b69df": {
-      "date": "2026-05-17",
-      "title": "I Ran AI Models Directly in the Browser and Measured What It Did to Core Web Vitals",
-      "source": "devto"
-    },
     "0f87aaa2564a37e6": {
       "date": "2026-05-18",
       "title": "Searchad.ai",
@@ -4800,6 +4635,161 @@
     "deef28ebfff8cc8d": {
       "date": "2026-06-16",
       "title": "End of the Year idea for DEV?",
+      "source": "devto"
+    },
+    "bb259de27df65612": {
+      "date": "2026-06-17",
+      "title": "Running local models is good now",
+      "source": "hackernews"
+    },
+    "c9b65226d2de8178": {
+      "date": "2026-06-17",
+      "title": "SpaceX to buy Cursor for $60B",
+      "source": "hackernews"
+    },
+    "789c798aeecde2f6": {
+      "date": "2026-06-17",
+      "title": "Mechanical Watch (2022)",
+      "source": "hackernews"
+    },
+    "d622f0f32cd9a37c": {
+      "date": "2026-06-17",
+      "title": "GrapheneOS has been ported to Android 17",
+      "source": "hackernews"
+    },
+    "bafcb28b20136921": {
+      "date": "2026-06-17",
+      "title": "Calvin and Hobbes and the price of integrity",
+      "source": "hackernews"
+    },
+    "789e204f8afb33bb": {
+      "date": "2026-06-17",
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "source": "hackernews"
+    },
+    "c03533571df51fd8": {
+      "date": "2026-06-17",
+      "title": "Stop Using JWTs",
+      "source": "hackernews"
+    },
+    "6eb706903b6bd1cb": {
+      "date": "2026-06-17",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "source": "hackernews"
+    },
+    "c7ba620c90fb055a": {
+      "date": "2026-06-17",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "source": "hackernews"
+    },
+    "8ade010001cd9d36": {
+      "date": "2026-06-17",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "source": "hackernews"
+    },
+    "e2209643fb79044c": {
+      "date": "2026-06-17",
+      "title": "Ledgerly",
+      "source": "producthunt"
+    },
+    "0af650dcb1b4cf95": {
+      "date": "2026-06-17",
+      "title": "Fluxmail",
+      "source": "producthunt"
+    },
+    "81c6cdc1b07432cb": {
+      "date": "2026-06-17",
+      "title": "Botme",
+      "source": "producthunt"
+    },
+    "e2b87b271ff556a3": {
+      "date": "2026-06-17",
+      "title": "Athena Desktop",
+      "source": "producthunt"
+    },
+    "a875cec6513d28f0": {
+      "date": "2026-06-17",
+      "title": "Obotiq",
+      "source": "producthunt"
+    },
+    "2012fbd78e715a7d": {
+      "date": "2026-06-17",
+      "title": "Getusefeed",
+      "source": "producthunt"
+    },
+    "3739061f31ae2425": {
+      "date": "2026-06-17",
+      "title": "BossMode",
+      "source": "producthunt"
+    },
+    "8b468510a823c2d3": {
+      "date": "2026-06-17",
+      "title": "Tychi AI",
+      "source": "producthunt"
+    },
+    "1db88e14e6177745": {
+      "date": "2026-06-17",
+      "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
+      "source": "github"
+    },
+    "3d63f2e9a8d54ed2": {
+      "date": "2026-06-17",
+      "title": "alibaba / zvec",
+      "source": "github"
+    },
+    "016cc3137e910bfb": {
+      "date": "2026-06-17",
+      "title": "n0-computer / iroh",
+      "source": "github"
+    },
+    "fe9354541b270e0f": {
+      "date": "2026-06-17",
+      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
+      "source": "devto"
+    },
+    "8643cd87f73714d5": {
+      "date": "2026-06-17",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "0a46b0a2fd64891e": {
+      "date": "2026-06-17",
+      "title": "I Got Flagged by Sloan. Sloan Is a Guy I Know.",
+      "source": "devto"
+    },
+    "f85c15a04f21299c": {
+      "date": "2026-06-17",
+      "title": "Tailwind CSS4: Why Those Inline Styles Are Actually More Scalable - A Senior CSS Developer's Guide",
+      "source": "devto"
+    },
+    "58a11d560c5c6aa5": {
+      "date": "2026-06-17",
+      "title": "AI took the friction out of my work. Then I found out the friction was holding up two things: my ide",
+      "source": "devto"
+    },
+    "eead838ec84e64b0": {
+      "date": "2026-06-17",
+      "title": "I Asked AI to Write My Commit Messages It Was Embarrassing.",
+      "source": "devto"
+    },
+    "00195513167df43e": {
+      "date": "2026-06-17",
+      "title": "AWS Blocks: Full-Stack Building Blocks That Run Locally Without an AWS Account",
+      "source": "devto"
+    },
+    "87722ed883382a8f": {
+      "date": "2026-06-17",
+      "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
+      "source": "devto"
+    },
+    "1bc63beec71901c2": {
+      "date": "2026-06-17",
+      "title": "AI Isn't Something to Trust — It's Something to Design (Series Final)",
+      "source": "devto"
+    },
+    "cf95553e0654d36e": {
+      "date": "2026-06-17",
+      "title": "When Your AI API Goes Down: A Real-World Fallback Strategy",
       "source": "devto"
     }
   }
