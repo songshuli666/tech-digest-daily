@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-17T00:05:48.575266",
+  "last_updated": "2026-06-18T00:03:25.619935",
   "sent_items": {
-    "0f87aaa2564a37e6": {
-      "date": "2026-05-18",
-      "title": "Searchad.ai",
-      "source": "producthunt"
-    },
-    "456cb41369ff1ef9": {
-      "date": "2026-05-18",
-      "title": "LobeHub",
-      "source": "producthunt"
-    },
-    "af358ed2848a2ced": {
-      "date": "2026-05-18",
-      "title": "AnyFrame",
-      "source": "producthunt"
-    },
-    "545e2e5ebae516b3": {
-      "date": "2026-05-18",
-      "title": "Voiser AI",
-      "source": "producthunt"
-    },
-    "4476f0a77c9d5a14": {
-      "date": "2026-05-18",
-      "title": "QuickRight",
-      "source": "producthunt"
-    },
-    "3f44c4b9ebf2a1fc": {
-      "date": "2026-05-18",
-      "title": "Agentspan",
-      "source": "producthunt"
-    },
-    "6e27d6439080e1a1": {
-      "date": "2026-05-18",
-      "title": "pixserp",
-      "source": "producthunt"
-    },
-    "f568df07558fd44a": {
-      "date": "2026-05-18",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "source": "hackernews"
-    },
-    "adec4ae5403c90fb": {
-      "date": "2026-05-18",
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "source": "hackernews"
-    },
-    "2712f407c8086c5a": {
-      "date": "2026-05-18",
-      "title": "The Quiet Renovation at Bitwarden",
-      "source": "hackernews"
-    },
-    "e2c8ab9ad08db3e7": {
-      "date": "2026-05-18",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "source": "hackernews"
-    },
-    "81beda6aea68725a": {
-      "date": "2026-05-18",
-      "title": "Anthropic acquires Stainless",
-      "source": "hackernews"
-    },
-    "a1061118ae98375c": {
-      "date": "2026-05-18",
-      "title": "We let AIs run radio stations",
-      "source": "hackernews"
-    },
-    "cb5914692fbdb219": {
-      "date": "2026-05-18",
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "source": "hackernews"
-    },
-    "a835146d2db2843d": {
-      "date": "2026-05-18",
-      "title": "Agora-1: The Multi-Agent World Model",
-      "source": "hackernews"
-    },
-    "5560ebecee3e513b": {
-      "date": "2026-05-18",
-      "title": "Click",
-      "source": "hackernews"
-    },
-    "7b24add68b708228": {
-      "date": "2026-05-18",
-      "title": "The Futility of Lava Lamps: What Random Means",
-      "source": "hackernews"
-    },
-    "be0d3a4488559a69": {
-      "date": "2026-05-18",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "88e11386cd0070ac": {
-      "date": "2026-05-18",
-      "title": "What are your goals this week? #139",
-      "source": "devto"
-    },
-    "860d3d35a447b62e": {
-      "date": "2026-05-18",
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "source": "devto"
-    },
-    "eee00f181cfb9cd0": {
-      "date": "2026-05-18",
-      "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
-      "source": "devto"
-    },
-    "3c7f6c4840531ec7": {
-      "date": "2026-05-18",
-      "title": "Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?",
-      "source": "devto"
-    },
-    "c87f75387d6c5949": {
-      "date": "2026-05-18",
-      "title": "I gave Claude six months of our retros. It found three things I'd missed.",
-      "source": "devto"
-    },
-    "43314d9d9de96344": {
-      "date": "2026-05-18",
-      "title": "Bidet AI — on-device Gemma 4 turns a messy brain-dump into clean writing",
-      "source": "devto"
-    },
-    "495e0bdfe2e87e1b": {
-      "date": "2026-05-18",
-      "title": "Rediscovering Domain-Driven Design, one MCP server at a time",
-      "source": "devto"
-    },
-    "54050f2233b539ee": {
-      "date": "2026-05-18",
-      "title": "🚀 Democratizing Frontier AI for Bharat: Gemma 4’s Edge Capabilities in Low-Resource Environments",
-      "source": "devto"
-    },
-    "6995b3474eb9d777": {
-      "date": "2026-05-18",
-      "title": "Everyone's Talking About Bigger AI Models. I Built a Gemma 4 Farm Doctor That Works When the Interne",
-      "source": "devto"
-    },
-    "ec80d71bb50f6b19": {
-      "date": "2026-05-18",
-      "title": "Imbad0202 / academic-research-skills",
-      "source": "github"
-    },
-    "087dae28b6e341d1": {
-      "date": "2026-05-18",
-      "title": "ggml-org / llama.cpp",
-      "source": "github"
-    },
-    "b0ceebb601f9c7ff": {
-      "date": "2026-05-18",
-      "title": "humanlayer / 12-factor-agents",
-      "source": "github"
-    },
-    "c9a33a6f7c4bc928": {
-      "date": "2026-05-18",
-      "title": "NVlabs / Sana",
-      "source": "github"
-    },
-    "f67656219aced14d": {
-      "date": "2026-05-18",
-      "title": "plausible / analytics",
-      "source": "github"
-    },
     "e4c758d56130132f": {
       "date": "2026-05-19",
       "title": "Apple unveils new accessibility features",
@@ -4790,6 +4630,186 @@
     "cf95553e0654d36e": {
       "date": "2026-06-17",
       "title": "When Your AI API Goes Down: A Real-World Fallback Strategy",
+      "source": "devto"
+    },
+    "3750d69a6dbe45ec": {
+      "date": "2026-06-18",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "source": "hackernews"
+    },
+    "51069ac7de9400c1": {
+      "date": "2026-06-18",
+      "title": "U.S. science is in chaos",
+      "source": "hackernews"
+    },
+    "2b2b66bd14991b74": {
+      "date": "2026-06-18",
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "source": "hackernews"
+    },
+    "8c5fea6d0439a0e9": {
+      "date": "2026-06-18",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "source": "hackernews"
+    },
+    "729f35e698cef404": {
+      "date": "2026-06-18",
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "source": "hackernews"
+    },
+    "6a17cf6cae43723e": {
+      "date": "2026-06-18",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "source": "hackernews"
+    },
+    "ea62f50f1b3340bb": {
+      "date": "2026-06-18",
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "source": "hackernews"
+    },
+    "c767b5e1d46005e3": {
+      "date": "2026-06-18",
+      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "source": "hackernews"
+    },
+    "70695b3d1533dc64": {
+      "date": "2026-06-18",
+      "title": "Storied Colors – a catalogue of named colors",
+      "source": "hackernews"
+    },
+    "5525afe4a0566e55": {
+      "date": "2026-06-18",
+      "title": "Loreline – Tools for writing interactive fiction",
+      "source": "hackernews"
+    },
+    "b5d232203264a2a4": {
+      "date": "2026-06-18",
+      "title": "Mirlo",
+      "source": "producthunt"
+    },
+    "9b128ed01d0f28f6": {
+      "date": "2026-06-18",
+      "title": "Tyto by ai-coustics",
+      "source": "producthunt"
+    },
+    "28a638294071f45b": {
+      "date": "2026-06-18",
+      "title": "NotchSpace",
+      "source": "producthunt"
+    },
+    "657aa2b8bf19fdc2": {
+      "date": "2026-06-18",
+      "title": "ClipDone",
+      "source": "producthunt"
+    },
+    "3f19edc30608c181": {
+      "date": "2026-06-18",
+      "title": "Deep Work Plan",
+      "source": "producthunt"
+    },
+    "97efd539e06cdc9a": {
+      "date": "2026-06-18",
+      "title": "Locus Founder",
+      "source": "producthunt"
+    },
+    "f230773914694f62": {
+      "date": "2026-06-18",
+      "title": "AudienceCue",
+      "source": "producthunt"
+    },
+    "15691f2deb3b1ca1": {
+      "date": "2026-06-18",
+      "title": "Tapfree for Chrome",
+      "source": "producthunt"
+    },
+    "bcb2a34cb3ad6059": {
+      "date": "2026-06-18",
+      "title": "DeusData / codebase-memory-mcp",
+      "source": "github"
+    },
+    "17a133fee8f3ef38": {
+      "date": "2026-06-18",
+      "title": "google-research / timesfm",
+      "source": "github"
+    },
+    "b43cd007e18c88b9": {
+      "date": "2026-06-18",
+      "title": "RocketChat / Rocket.Chat",
+      "source": "github"
+    },
+    "a0131fdee43a08fe": {
+      "date": "2026-06-18",
+      "title": "continuedev / continue",
+      "source": "github"
+    },
+    "7dedb2d2d7715979": {
+      "date": "2026-06-18",
+      "title": "penpot / penpot",
+      "source": "github"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-06-18",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "7986386cbd1a557c": {
+      "date": "2026-06-18",
+      "title": "yairm210 / Unciv",
+      "source": "github"
+    },
+    "ce85014ef213744d": {
+      "date": "2026-06-18",
+      "title": "bytedance / UI-TARS-desktop",
+      "source": "github"
+    },
+    "42e64c6d605160d6": {
+      "date": "2026-06-18",
+      "title": "Welcome Thread - v380",
+      "source": "devto"
+    },
+    "7dab0c7e07988b80": {
+      "date": "2026-06-18",
+      "title": "Making my TypeScript types 15.7x faster",
+      "source": "devto"
+    },
+    "1cac1deae27b174c": {
+      "date": "2026-06-18",
+      "title": "Real-time IP capacity in Google Cloud subnets",
+      "source": "devto"
+    },
+    "1f2cb03250f22d01": {
+      "date": "2026-06-18",
+      "title": "Gotta Earn 'Em All: The Gym Badges of Agentic Engineering (Part 1)",
+      "source": "devto"
+    },
+    "9c6c6233c6b0c9ed": {
+      "date": "2026-06-18",
+      "title": "The Playwright Playbook — Part 3: Multi-User, Multi-Tab & Browser Context Testing",
+      "source": "devto"
+    },
+    "f2509982e8ffe34d": {
+      "date": "2026-06-18",
+      "title": "macOS Still Has No Volume Mixer, So I Built One",
+      "source": "devto"
+    },
+    "a338afeccd0e8443": {
+      "date": "2026-06-18",
+      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
+      "source": "devto"
+    },
+    "cca46475470113e2": {
+      "date": "2026-06-18",
+      "title": "Why the retry loop is usually the expensive part of agent work",
+      "source": "devto"
+    },
+    "61a8ca4681368878": {
+      "date": "2026-06-18",
+      "title": "I scaled a pure Spiking Neural Network (SNN) to 1.088B parameters from scratch. Ran out of budget, b",
+      "source": "devto"
+    },
+    "1b1d49b51f919c2d": {
+      "date": "2026-06-18",
+      "title": "AI Built My UI in 2 Hours. Then I Spent 3 Weeks Fixing It.",
       "source": "devto"
     }
   }
