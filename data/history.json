@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-18T00:03:25.619935",
+  "last_updated": "2026-06-19T00:15:26.373568",
   "sent_items": {
-    "e4c758d56130132f": {
-      "date": "2026-05-19",
-      "title": "Apple unveils new accessibility features",
-      "source": "hackernews"
-    },
-    "2db665e3a8723821": {
-      "date": "2026-05-19",
-      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-      "source": "hackernews"
-    },
-    "388f97def8c6038a": {
-      "date": "2026-05-19",
-      "title": "Gemini 3.5 Flash",
-      "source": "hackernews"
-    },
-    "579589bab68cc3a5": {
-      "date": "2026-05-19",
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "source": "hackernews"
-    },
-    "6cad7b8bd2472102": {
-      "date": "2026-05-19",
-      "title": "Google changes its search box",
-      "source": "hackernews"
-    },
-    "8ed713f2da7b8682": {
-      "date": "2026-05-19",
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "source": "hackernews"
-    },
-    "35c14990f6ea5c5f": {
-      "date": "2026-05-19",
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "source": "hackernews"
-    },
-    "0979e8feac6214e6": {
-      "date": "2026-05-19",
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "source": "hackernews"
-    },
-    "ae21fa3da171d897": {
-      "date": "2026-05-19",
-      "title": "Dumb Ways for an Open Source Project to Die",
-      "source": "hackernews"
-    },
-    "ba99e7c4939c97f0": {
-      "date": "2026-05-19",
-      "title": "Remove AI Watermarks",
-      "source": "hackernews"
-    },
-    "45610f41854864a6": {
-      "date": "2026-05-19",
-      "title": "CLI Market",
-      "source": "producthunt"
-    },
-    "be40d2eeddccb07c": {
-      "date": "2026-05-19",
-      "title": "Trainer",
-      "source": "producthunt"
-    },
-    "fb97fb5f8ddd7e12": {
-      "date": "2026-05-19",
-      "title": "CtrlOps",
-      "source": "producthunt"
-    },
-    "307583aa45f7b247": {
-      "date": "2026-05-19",
-      "title": "Drizz",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-05-19",
-      "title": "Composer 2.5",
-      "source": "producthunt"
-    },
-    "e97db58a83ad6cd5": {
-      "date": "2026-05-19",
-      "title": "Thinnest AI",
-      "source": "producthunt"
-    },
-    "4c7da09b1623d92a": {
-      "date": "2026-05-19",
-      "title": "Demystifying AI Agents with Turtle & Gemma",
-      "source": "devto"
-    },
-    "c8c66f593c506fb8": {
-      "date": "2026-05-19",
-      "title": "Great Little Software: Rackula",
-      "source": "devto"
-    },
-    "63cbf24c905d00d6": {
-      "date": "2026-05-19",
-      "title": "What If Every Phone in the Room Was a Game Controller — in the Age of AI?",
-      "source": "devto"
-    },
-    "b2e7f57f392d6275": {
-      "date": "2026-05-19",
-      "title": "Cloudflare Deprecated My Production Model. The Recommended Upgrade Costs $4/M Tokens. Gemma 4 MoE Do",
-      "source": "devto"
-    },
-    "d99312f03a553e9b": {
-      "date": "2026-05-19",
-      "title": "What Happens When You Run `npm run dev`",
-      "source": "devto"
-    },
-    "c05fc1d83f96510e": {
-      "date": "2026-05-19",
-      "title": "The portfolio math. When 30 small apps beat 1 big one.",
-      "source": "devto"
-    },
-    "354aea0669ea28f6": {
-      "date": "2026-05-19",
-      "title": "Hermes Just Killed OpenClaw (Here's Why)",
-      "source": "devto"
-    },
-    "63e43ff401e6b030": {
-      "date": "2026-05-19",
-      "title": "How one bad prompt burned $40 of my Claude budget in 18 minutes",
-      "source": "devto"
-    },
-    "d66a1e1b494396c0": {
-      "date": "2026-05-19",
-      "title": "I built a free debugger because Next.js 16 'use cache' was completely invisible during development",
-      "source": "devto"
-    },
-    "7858bffd6b2a1b45": {
-      "date": "2026-05-19",
-      "title": "Gemma-San — A Teacher in Every Pocket.",
-      "source": "devto"
-    },
-    "f2ef8f8410a81a77": {
-      "date": "2026-05-19",
-      "title": "anthropics / claude-plugins-official",
-      "source": "github"
-    },
-    "357d6524906760e8": {
-      "date": "2026-05-19",
-      "title": "rtk-ai / rtk",
-      "source": "github"
-    },
-    "39ec5846ae4b9617": {
-      "date": "2026-05-19",
-      "title": "multica-ai / andrej-karpathy-skills",
-      "source": "github"
-    },
-    "2a226d56135ff239": {
-      "date": "2026-05-19",
-      "title": "Diolinux / PhotoGIMP",
-      "source": "github"
-    },
-    "f3ea32c160be052c": {
-      "date": "2026-05-19",
-      "title": "pascalorg / editor",
-      "source": "github"
-    },
     "a563cf46230521ac": {
       "date": "2026-05-20",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -4811,6 +4656,176 @@
       "date": "2026-06-18",
       "title": "AI Built My UI in 2 Hours. Then I Spent 3 Weeks Fixing It.",
       "source": "devto"
+    },
+    "7d2f49bd1848b61c": {
+      "date": "2026-06-19",
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "source": "hackernews"
+    },
+    "71ed7c4e1bbc227e": {
+      "date": "2026-06-19",
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "source": "hackernews"
+    },
+    "c287befe6b422887": {
+      "date": "2026-06-19",
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "source": "hackernews"
+    },
+    "67d716bfc55aa129": {
+      "date": "2026-06-19",
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "source": "hackernews"
+    },
+    "5a5ce2d394ba2184": {
+      "date": "2026-06-19",
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "source": "hackernews"
+    },
+    "187510b8d716ec2e": {
+      "date": "2026-06-19",
+      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+      "source": "hackernews"
+    },
+    "558d32830c0c1b90": {
+      "date": "2026-06-19",
+      "title": "Cell-based architecture for resilient payment systems",
+      "source": "hackernews"
+    },
+    "e4922565bf91b13b": {
+      "date": "2026-06-19",
+      "title": "Zero-Touch OAuth for MCP",
+      "source": "hackernews"
+    },
+    "dec972a85618a855": {
+      "date": "2026-06-19",
+      "title": "The AirPods Effect",
+      "source": "hackernews"
+    },
+    "8eed607f63cd6deb": {
+      "date": "2026-06-19",
+      "title": "Zork name origin got an update on Wikipedia",
+      "source": "hackernews"
+    },
+    "51d0e933729b7efd": {
+      "date": "2026-06-19",
+      "title": "Splice",
+      "source": "producthunt"
+    },
+    "5a2b3c0939109468": {
+      "date": "2026-06-19",
+      "title": "Refuse",
+      "source": "producthunt"
+    },
+    "0b5bfebc6a12755b": {
+      "date": "2026-06-19",
+      "title": "Speed Reader",
+      "source": "producthunt"
+    },
+    "f5542846e874b360": {
+      "date": "2026-06-19",
+      "title": "Genie Mentions",
+      "source": "producthunt"
+    },
+    "03444fec01a4a56c": {
+      "date": "2026-06-19",
+      "title": "Ploy.ai",
+      "source": "producthunt"
+    },
+    "8d699597ef864614": {
+      "date": "2026-06-19",
+      "title": "Locofy: design-to-code agents",
+      "source": "producthunt"
+    },
+    "4c9a4be37ac5e25d": {
+      "date": "2026-06-19",
+      "title": "Adapt",
+      "source": "producthunt"
+    },
+    "40e1d2821e54ccb5": {
+      "date": "2026-06-19",
+      "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+      "source": "devto"
+    },
+    "ecb27d4a6dace76e": {
+      "date": "2026-06-19",
+      "title": "Congrats to the Gemma 4 Challenge Winners!",
+      "source": "devto"
+    },
+    "c5028229d890b4ac": {
+      "date": "2026-06-19",
+      "title": "Congrats to the Hermes Agent Challenge Winners!",
+      "source": "devto"
+    },
+    "068d3869761ebf1f": {
+      "date": "2026-06-19",
+      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
+      "source": "devto"
+    },
+    "52d3e54e58e55409": {
+      "date": "2026-06-19",
+      "title": "Building an agentic PR reviewer with Antigravity SDK",
+      "source": "devto"
+    },
+    "cce2b52a878ce472": {
+      "date": "2026-06-19",
+      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
+      "source": "devto"
+    },
+    "6b4721b30eccfdac": {
+      "date": "2026-06-19",
+      "title": "The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)",
+      "source": "devto"
+    },
+    "2451b7fd1df24224": {
+      "date": "2026-06-19",
+      "title": "Technical Writing Advice",
+      "source": "devto"
+    },
+    "a9af9701cc45201a": {
+      "date": "2026-06-19",
+      "title": "Someone was wrong on the internet, so I built a Temporal Docker extension",
+      "source": "devto"
+    },
+    "8c7e9749cd0baf9d": {
+      "date": "2026-06-19",
+      "title": "Codewars did not teach me JavaScript. My job did.",
+      "source": "devto"
+    },
+    "8f02859c1a639cfc": {
+      "date": "2026-06-19",
+      "title": "zai-org / GLM-5",
+      "source": "github"
+    },
+    "bddcb9962156c14d": {
+      "date": "2026-06-19",
+      "title": "yifanfeng97 / Hyper-Extract",
+      "source": "github"
+    },
+    "afbe239417767e39": {
+      "date": "2026-06-19",
+      "title": "Kilo-Org / kilocode",
+      "source": "github"
+    },
+    "bf3408e522ca2216": {
+      "date": "2026-06-19",
+      "title": "makeplane / plane",
+      "source": "github"
+    },
+    "21a7656e0869a3ae": {
+      "date": "2026-06-19",
+      "title": "Kong / insomnia",
+      "source": "github"
+    },
+    "92a38e4bf3c74440": {
+      "date": "2026-06-19",
+      "title": "dotnet / aspnetcore",
+      "source": "github"
+    },
+    "bc82948151fe68eb": {
+      "date": "2026-06-19",
+      "title": "owainlewis / awesome-artificial-intelligence",
+      "source": "github"
     }
   }
 }
