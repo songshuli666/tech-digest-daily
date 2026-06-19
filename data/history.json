@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-06-19T00:15:26.373568",
+  "last_updated": "2026-06-19T23:58:07.461135",
   "sent_items": {
     "a563cf46230521ac": {
       "date": "2026-05-20",
@@ -4825,6 +4825,171 @@
     "bc82948151fe68eb": {
       "date": "2026-06-19",
       "title": "owainlewis / awesome-artificial-intelligence",
+      "source": "github"
+    },
+    "359a8d1c31d49cae": {
+      "date": "2026-06-19",
+      "title": "Hyundai buys Boston Dynamics",
+      "source": "hackernews"
+    },
+    "b72492024c5b64de": {
+      "date": "2026-06-19",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "source": "hackernews"
+    },
+    "7ce0b1f27241a195": {
+      "date": "2026-06-19",
+      "title": "There are no instances in ATProto",
+      "source": "hackernews"
+    },
+    "deade1e4e10ee305": {
+      "date": "2026-06-19",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "source": "hackernews"
+    },
+    "7a508986bc6515ab": {
+      "date": "2026-06-19",
+      "title": "How many of the 170k English words do you know?",
+      "source": "hackernews"
+    },
+    "ad7cab09b62dc32f": {
+      "date": "2026-06-19",
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "source": "hackernews"
+    },
+    "be9ecced1e300944": {
+      "date": "2026-06-19",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "source": "hackernews"
+    },
+    "8a9907779a39eb9f": {
+      "date": "2026-06-19",
+      "title": "Americans express unease over SpaceX's influence on retirement savings",
+      "source": "hackernews"
+    },
+    "0dcc36e1e9383f20": {
+      "date": "2026-06-19",
+      "title": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+      "source": "hackernews"
+    },
+    "8dc3a3d3ce04a947": {
+      "date": "2026-06-19",
+      "title": "Surprising Economics of Load-Balanced Systems",
+      "source": "hackernews"
+    },
+    "f62e03078af6c83c": {
+      "date": "2026-06-19",
+      "title": "MeshPilot",
+      "source": "producthunt"
+    },
+    "364135e6612c648a": {
+      "date": "2026-06-19",
+      "title": "Pitchbar",
+      "source": "producthunt"
+    },
+    "ffc692e62f5d430c": {
+      "date": "2026-06-19",
+      "title": "Snap Deck HQ",
+      "source": "producthunt"
+    },
+    "8990843a862af1ab": {
+      "date": "2026-06-19",
+      "title": "Prism",
+      "source": "producthunt"
+    },
+    "ece24e46c5f1d8bb": {
+      "date": "2026-06-19",
+      "title": "QuackScreen",
+      "source": "producthunt"
+    },
+    "58b0514913b38c11": {
+      "date": "2026-06-19",
+      "title": "Darkmoon",
+      "source": "producthunt"
+    },
+    "aac71deed6e5196e": {
+      "date": "2026-06-19",
+      "title": "Foglamp",
+      "source": "producthunt"
+    },
+    "1893c70f20b7aeb1": {
+      "date": "2026-06-19",
+      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
+      "source": "devto"
+    },
+    "381cb2975430bfc2": {
+      "date": "2026-06-19",
+      "title": "AI summaries need receipts: how I built evidence-bound reports from comments",
+      "source": "devto"
+    },
+    "0ad05b1c0230b7d5": {
+      "date": "2026-06-19",
+      "title": "What Does the Windows REFRESH button really do?",
+      "source": "devto"
+    },
+    "f66092ee09180aed": {
+      "date": "2026-06-19",
+      "title": "AI makes writing code easier. It doesn't make engineering easier.",
+      "source": "devto"
+    },
+    "fdffd2fa13a2eed4": {
+      "date": "2026-06-19",
+      "title": "Compile Zod (30x faster Zod validation)",
+      "source": "devto"
+    },
+    "9c4f8e0b15d94f47": {
+      "date": "2026-06-19",
+      "title": "Breaking Build: Kiro and Claude delivered exactly what I asked, and it wasn't what I wanted",
+      "source": "devto"
+    },
+    "9e0b3a714ceec3ff": {
+      "date": "2026-06-19",
+      "title": "My API Responded in 4 ms, but Navigation Still Felt Slow",
+      "source": "devto"
+    },
+    "6393b7ed7fb34a91": {
+      "date": "2026-06-19",
+      "title": "I built a Claude Code skill that finds customers, not competitors, on Reddit & LinkedIn",
+      "source": "devto"
+    },
+    "5674acb7dd3ae79a": {
+      "date": "2026-06-19",
+      "title": "Hotwire Marten: Less JavaScript, More Interactivity",
+      "source": "devto"
+    },
+    "c007d30b05969603": {
+      "date": "2026-06-19",
+      "title": "Stop paying for the same tokens twice",
+      "source": "devto"
+    },
+    "fa7a24d15387e004": {
+      "date": "2026-06-19",
+      "title": "palmier-io / palmier-pro",
+      "source": "github"
+    },
+    "56d33226bf40d769": {
+      "date": "2026-06-19",
+      "title": "koala73 / worldmonitor",
+      "source": "github"
+    },
+    "b2a5f1801501a962": {
+      "date": "2026-06-19",
+      "title": "aishwaryanr / awesome-generative-ai-guide",
+      "source": "github"
+    },
+    "c91380d9f6159474": {
+      "date": "2026-06-19",
+      "title": "BuilderIO / agent-native",
+      "source": "github"
+    },
+    "20703a86e2b01e24": {
+      "date": "2026-06-19",
+      "title": "calesthio / OpenMontage",
+      "source": "github"
+    },
+    "9a4ea7a4f9427fb4": {
+      "date": "2026-06-19",
+      "title": "Lightricks / LTX-2",
       "source": "github"
     }
   }
