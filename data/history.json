@@ -1,327 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-19T23:58:07.461135",
+  "last_updated": "2026-06-21T00:01:07.237300",
   "sent_items": {
-    "a563cf46230521ac": {
-      "date": "2026-05-20",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "source": "hackernews"
-    },
-    "4d18fc43ae6196ed": {
-      "date": "2026-05-20",
-      "title": "How fast is N tokens per second really?",
-      "source": "hackernews"
-    },
-    "3c5066a31fffac5b": {
-      "date": "2026-05-20",
-      "title": "Google Declaring War on the Web",
-      "source": "hackernews"
-    },
-    "737a39080d7ef5fa": {
-      "date": "2026-05-20",
-      "title": "Flipper One Tech Specs",
-      "source": "hackernews"
-    },
-    "13871fa6d70c48c5": {
-      "date": "2026-05-20",
-      "title": "Why is Inkwell stuck in review",
-      "source": "hackernews"
-    },
-    "6c4b3e1f663eb6b4": {
-      "date": "2026-05-20",
-      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-      "source": "hackernews"
-    },
-    "53eed4ab17b71cd3": {
-      "date": "2026-05-20",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "source": "hackernews"
-    },
-    "67d6d0b7939451d1": {
-      "date": "2026-05-20",
-      "title": "DOS Zone",
-      "source": "hackernews"
-    },
-    "f094925177fc1204": {
-      "date": "2026-05-20",
-      "title": "Archaeologists find Egyptian mummy buried with the 'Iliad'",
-      "source": "hackernews"
-    },
-    "e0eeee29c6f9ca5f": {
-      "date": "2026-05-20",
-      "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-      "source": "hackernews"
-    },
-    "a2275a41ec085c35": {
-      "date": "2026-05-20",
-      "title": "Viberia",
-      "source": "producthunt"
-    },
-    "129c3f36ed58c9e9": {
-      "date": "2026-05-20",
-      "title": "Runtime",
-      "source": "producthunt"
-    },
-    "b5fae5dc8670619e": {
-      "date": "2026-05-20",
-      "title": "Retina",
-      "source": "producthunt"
-    },
-    "8add99e465379bee": {
-      "date": "2026-05-20",
-      "title": "Re_gent",
-      "source": "producthunt"
-    },
-    "54f40b7fbd171913": {
-      "date": "2026-05-20",
-      "title": "GhostSnap",
-      "source": "producthunt"
-    },
-    "bebae48e101e46db": {
-      "date": "2026-05-20",
-      "title": "Emdash",
-      "source": "producthunt"
-    },
-    "3ade497109f5ed9b": {
-      "date": "2026-05-20",
-      "title": "LayerProof Kraft",
-      "source": "producthunt"
-    },
-    "e63901537f3f908f": {
-      "date": "2026-05-20",
-      "title": "Google I/O 2026 - Day 1 - Live from the Front Row",
-      "source": "devto"
-    },
-    "28399ceec4c45c76": {
-      "date": "2026-05-20",
-      "title": "Working With Japanese Clients Humbled Me Faster Than I Expected",
-      "source": "devto"
-    },
-    "66de56cd0514fa95": {
-      "date": "2026-05-20",
-      "title": "MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does",
-      "source": "devto"
-    },
-    "75c159a38283a6db": {
-      "date": "2026-05-20",
-      "title": "I decided to build a Kubernetes alternative. Yes, I know I'm crazy",
-      "source": "devto"
-    },
-    "f711dcd7e4a02ace": {
-      "date": "2026-05-20",
-      "title": "Google AI Edge Gallery Now Runs MCP On-Device. The Privacy Architecture",
-      "source": "devto"
-    },
-    "25645a92a4bc321c": {
-      "date": "2026-05-20",
-      "title": "Book Review: Operational AI with Docker",
-      "source": "devto"
-    },
-    "021c9fb4252c7575": {
-      "date": "2026-05-20",
-      "title": "The Mid-Dev Paradox: Why Juniors Are Chill and Mid-Levels Will Reorganize Your Code at 3 AM",
-      "source": "devto"
-    },
-    "bd9a457f58c8c68d": {
-      "date": "2026-05-20",
-      "title": "Care Compass: Pairing Gemma 4 With Signed Policy Evidence for Healthcare Navigation",
-      "source": "devto"
-    },
-    "66786af3b05d9d38": {
-      "date": "2026-05-20",
-      "title": "My 6-year-old asks 400 questions a day. So I built him a Gemma 4 AI tutor.",
-      "source": "devto"
-    },
-    "fdd97241832549b7": {
-      "date": "2026-05-20",
-      "title": "Google I/O Just Made MCP Inevitable",
-      "source": "devto"
-    },
-    "4d8e922de101f720": {
-      "date": "2026-05-20",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "source": "github"
-    },
-    "5486dec8b59ab192": {
-      "date": "2026-05-20",
-      "title": "can1357 / oh-my-pi",
-      "source": "github"
-    },
-    "7a316c2020cf1bb3": {
-      "date": "2026-05-20",
-      "title": "rmyndharis / OpenWA",
-      "source": "github"
-    },
-    "0f8d1af67ba3e667": {
-      "date": "2026-05-20",
-      "title": "truelockmc / streambert",
-      "source": "github"
-    },
-    "e728c868e24d753b": {
-      "date": "2026-05-20",
-      "title": "opentoonz / opentoonz",
-      "source": "github"
-    },
-    "ec78947b847836b0": {
-      "date": "2026-05-21",
-      "title": "AlliHat",
-      "source": "producthunt"
-    },
-    "2d03e000afa0d1c6": {
-      "date": "2026-05-21",
-      "title": "AutoSubtitles 2.0",
-      "source": "producthunt"
-    },
-    "a0544c80335e006b": {
-      "date": "2026-05-21",
-      "title": "Mintlify Workflows",
-      "source": "producthunt"
-    },
-    "f6b0e869532f265c": {
-      "date": "2026-05-21",
-      "title": "Tycoon AI",
-      "source": "producthunt"
-    },
-    "81f72d4a785cff22": {
-      "date": "2026-05-21",
-      "title": "Framed",
-      "source": "producthunt"
-    },
-    "f1dbbff7e0ffed28": {
-      "date": "2026-05-21",
-      "title": "Vivaldi 8.0",
-      "source": "producthunt"
-    },
-    "dbf777184f2f3969": {
-      "date": "2026-05-21",
-      "title": "Mixpanel Headless",
-      "source": "producthunt"
-    },
-    "7144b014c9d73af3": {
-      "date": "2026-05-21",
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "source": "hackernews"
-    },
-    "832d41d937baf964": {
-      "date": "2026-05-21",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "source": "hackernews"
-    },
-    "db09856a17f56f06": {
-      "date": "2026-05-21",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "source": "hackernews"
-    },
-    "2c49ccd7924ce3cc": {
-      "date": "2026-05-21",
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "source": "hackernews"
-    },
-    "9dca8a63f4d5b20f": {
-      "date": "2026-05-21",
-      "title": "Was my $48K GPU server worth it?",
-      "source": "hackernews"
-    },
-    "53570bf79c740f52": {
-      "date": "2026-05-21",
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "source": "hackernews"
-    },
-    "29706d72a8c78f2a": {
-      "date": "2026-05-21",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "source": "hackernews"
-    },
-    "87c844aa4ed71d34": {
-      "date": "2026-05-21",
-      "title": "Using Kagi Search with Low Vision",
-      "source": "hackernews"
-    },
-    "7ea7b18926058d7e": {
-      "date": "2026-05-21",
-      "title": "Spotify will start reserving concert tickets for fans",
-      "source": "hackernews"
-    },
-    "b6964f51cef74268": {
-      "date": "2026-05-21",
-      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-      "source": "hackernews"
-    },
-    "732bbe39cb800745": {
-      "date": "2026-05-21",
-      "title": "Join the GitHub Finish-Up-A-Thon Challenge: $3,000 Prize Pool!",
-      "source": "devto"
-    },
-    "d134d8611cee3c83": {
-      "date": "2026-05-21",
-      "title": "Every Developer Is Lying About Something — And AI Won’t Fix It",
-      "source": "devto"
-    },
-    "6b3ec45e2cdfc3b6": {
-      "date": "2026-05-21",
-      "title": "From Years to Hours",
-      "source": "devto"
-    },
-    "05c3f5038c079e7d": {
-      "date": "2026-05-21",
-      "title": "Open Source Toolkit for Building AI Agents in 2026",
-      "source": "devto"
-    },
-    "74c50b3ca07b601c": {
-      "date": "2026-05-21",
-      "title": "I Used to Get Excited About New Tools Now I Feel Tired.",
-      "source": "devto"
-    },
-    "82d82f6f2c086ab2": {
-      "date": "2026-05-21",
-      "title": "Recycling made easy: a Polish recycling assistant powered by Gemma 4",
-      "source": "devto"
-    },
-    "04ef14e8b26ff63e": {
-      "date": "2026-05-21",
-      "title": "Building a Database Performance Testing Tool With AI: The Honest Breakdown",
-      "source": "devto"
-    },
-    "1482f8e34c952fa1": {
-      "date": "2026-05-21",
-      "title": "Frameworks Are No Longer Being Designed Only for Humans",
-      "source": "devto"
-    },
-    "5ad7a92decb2d980": {
-      "date": "2026-05-21",
-      "title": "Seasons time-lapse - the foundations",
-      "source": "devto"
-    },
-    "a08046dc3290f958": {
-      "date": "2026-05-21",
-      "title": "Accessibility - This looks like a job for a developer advocate!",
-      "source": "devto"
-    },
-    "5acadd2fc4547853": {
-      "date": "2026-05-21",
-      "title": "dotnet / skills",
-      "source": "github"
-    },
-    "b4212d4b4d442e7e": {
-      "date": "2026-05-21",
-      "title": "ChromeDevTools / chrome-devtools-mcp",
-      "source": "github"
-    },
-    "d1175731313615bc": {
-      "date": "2026-05-21",
-      "title": "teng-lin / notebooklm-py",
-      "source": "github"
-    },
-    "c4933f0e2181e2eb": {
-      "date": "2026-05-21",
-      "title": "multica-ai / multica",
-      "source": "github"
-    },
-    "895071a713eeaa7c": {
-      "date": "2026-05-21",
-      "title": "trimstray / the-book-of-secret-knowledge",
-      "source": "github"
-    },
     "cc413bff4bccb030": {
       "date": "2026-05-22",
       "title": "Why Japanese companies do so many different things",
@@ -4990,6 +4670,156 @@
     "9a4ea7a4f9427fb4": {
       "date": "2026-06-19",
       "title": "Lightricks / LTX-2",
+      "source": "github"
+    },
+    "5a60fcd9ee73131e": {
+      "date": "2026-06-21",
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "source": "hackernews"
+    },
+    "18af52ad9fea7164": {
+      "date": "2026-06-21",
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "source": "hackernews"
+    },
+    "c75edcbe8313f72c": {
+      "date": "2026-06-21",
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "source": "hackernews"
+    },
+    "7850086478fa3f06": {
+      "date": "2026-06-21",
+      "title": "Pre-2022 Books",
+      "source": "hackernews"
+    },
+    "285773f4818b4a71": {
+      "date": "2026-06-21",
+      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
+      "source": "hackernews"
+    },
+    "4428f36051617740": {
+      "date": "2026-06-21",
+      "title": "Inference cost at scale with napkin math",
+      "source": "hackernews"
+    },
+    "80941dbae2cfcf47": {
+      "date": "2026-06-21",
+      "title": "Alice is impatient",
+      "source": "hackernews"
+    },
+    "dc20851c2b48c21a": {
+      "date": "2026-06-21",
+      "title": "Not just books: renting a sewing machine from the library can improve democracy",
+      "source": "hackernews"
+    },
+    "69677a1ebc2e3d3c": {
+      "date": "2026-06-21",
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "source": "hackernews"
+    },
+    "6e70f48cceac3aac": {
+      "date": "2026-06-21",
+      "title": "Epoll vs. Io_uring in Linux",
+      "source": "hackernews"
+    },
+    "8ce743d51ee4a11f": {
+      "date": "2026-06-21",
+      "title": "ReleaseDock",
+      "source": "producthunt"
+    },
+    "f58bd999f96164c8": {
+      "date": "2026-06-21",
+      "title": "Pixlie",
+      "source": "producthunt"
+    },
+    "dc9cbd876d6e1f89": {
+      "date": "2026-06-21",
+      "title": "Slackbot’s MCP Client",
+      "source": "producthunt"
+    },
+    "05c04b6fec7cb814": {
+      "date": "2026-06-21",
+      "title": "Are you in the Weights?",
+      "source": "producthunt"
+    },
+    "19f8a4ca34dab5c3": {
+      "date": "2026-06-21",
+      "title": "pumaDB",
+      "source": "producthunt"
+    },
+    "70c7411d6ef2aea6": {
+      "date": "2026-06-21",
+      "title": "Reframe",
+      "source": "producthunt"
+    },
+    "6ce22d880a7d3545": {
+      "date": "2026-06-21",
+      "title": "GitSync for macOS",
+      "source": "producthunt"
+    },
+    "fb9702a59206af19": {
+      "date": "2026-06-21",
+      "title": "Fruit Dash: A Solstice Platformer with Binary Code Gates",
+      "source": "devto"
+    },
+    "3488bc28a7ea780f": {
+      "date": "2026-06-21",
+      "title": "The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺",
+      "source": "devto"
+    },
+    "5a182f4a51245abd": {
+      "date": "2026-06-21",
+      "title": "⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙",
+      "source": "devto"
+    },
+    "392b41342168eb44": {
+      "date": "2026-06-21",
+      "title": "Rebuilding a Divi Blog with Custom Shortcodes: A Field Report",
+      "source": "devto"
+    },
+    "1594b153fef2210d": {
+      "date": "2026-06-21",
+      "title": "ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing's Last AI, Interrogated by a Live Gemin",
+      "source": "devto"
+    },
+    "b46649f307148f40": {
+      "date": "2026-06-21",
+      "title": "Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam",
+      "source": "devto"
+    },
+    "b7d8a634e631a409": {
+      "date": "2026-06-21",
+      "title": "I Benchmarked 17 Image Conversions on My Production Server. Some Results Were Not What I Expected.",
+      "source": "devto"
+    },
+    "526fff8d5c9655c1": {
+      "date": "2026-06-21",
+      "title": "AI memory should be a product state, not a prompt trick",
+      "source": "devto"
+    },
+    "0baefb5c932a8431": {
+      "date": "2026-06-21",
+      "title": "I automated everything except the code, and that's where Claude Code actually paid off",
+      "source": "devto"
+    },
+    "cf18a45dc2f21a47": {
+      "date": "2026-06-21",
+      "title": "Among Liars -> The 7th Player Isn't Human",
+      "source": "devto"
+    },
+    "0bad1edbad8117de": {
+      "date": "2026-06-21",
+      "title": "tursodatabase / turso",
+      "source": "github"
+    },
+    "390f5316113d12d5": {
+      "date": "2026-06-21",
+      "title": "tw93 / Pake",
+      "source": "github"
+    },
+    "bfeff07f7d8682f0": {
+      "date": "2026-06-21",
+      "title": "jamiepine / voicebox",
       "source": "github"
     }
   }
