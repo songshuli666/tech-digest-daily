@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-06-23T00:07:26.481817",
+  "last_updated": "2026-06-23T23:52:24.052677",
   "sent_items": {
     "f98daa0cf30d867c": {
       "date": "2026-05-24",
@@ -4820,6 +4820,166 @@
     "cdf1702f364a4d5a": {
       "date": "2026-06-23",
       "title": "JCodesMore / ai-website-cloner-template",
+      "source": "github"
+    },
+    "1adcc918e5142322": {
+      "date": "2026-06-23",
+      "title": "Bluerails Discovery",
+      "source": "producthunt"
+    },
+    "cc0850cf5e0e5eb1": {
+      "date": "2026-06-23",
+      "title": "Conduit",
+      "source": "producthunt"
+    },
+    "9f3d761d23c9cac4": {
+      "date": "2026-06-23",
+      "title": "BestDefense.io",
+      "source": "producthunt"
+    },
+    "56b486394c069d88": {
+      "date": "2026-06-23",
+      "title": "Blazly SEO",
+      "source": "producthunt"
+    },
+    "5547371b8457191e": {
+      "date": "2026-06-23",
+      "title": "Steam Machine",
+      "source": "producthunt"
+    },
+    "bcaa061f754d25e2": {
+      "date": "2026-06-23",
+      "title": "Latitude",
+      "source": "producthunt"
+    },
+    "ee77bde5a38ba54d": {
+      "date": "2026-06-23",
+      "title": "Deckwise",
+      "source": "producthunt"
+    },
+    "cf6d5032dea32088": {
+      "date": "2026-06-23",
+      "title": "Buddy AI Note",
+      "source": "producthunt"
+    },
+    "33ff5955ad0f84d9": {
+      "date": "2026-06-23",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "source": "hackernews"
+    },
+    "5fc3690993a645ac": {
+      "date": "2026-06-23",
+      "title": "The Coming Loop",
+      "source": "hackernews"
+    },
+    "639af81f700d6960": {
+      "date": "2026-06-23",
+      "title": "Jerry's Map",
+      "source": "hackernews"
+    },
+    "440089dd75ac5a86": {
+      "date": "2026-06-23",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "source": "hackernews"
+    },
+    "507cdd8bde63943f": {
+      "date": "2026-06-23",
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "source": "hackernews"
+    },
+    "af6e355b941e6ef9": {
+      "date": "2026-06-23",
+      "title": "Swift Package Index joins Apple",
+      "source": "hackernews"
+    },
+    "e6d2c8ee1d8786b8": {
+      "date": "2026-06-23",
+      "title": "Printing Gaussian Splats",
+      "source": "hackernews"
+    },
+    "c7b57177e881a686": {
+      "date": "2026-06-23",
+      "title": "Trains halted across Germany because of communication system problem",
+      "source": "hackernews"
+    },
+    "df5f31ed7733a7c0": {
+      "date": "2026-06-23",
+      "title": "United Wizards of the Coast recognized by NLRB",
+      "source": "hackernews"
+    },
+    "b8ac69d526af0c9f": {
+      "date": "2026-06-23",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "source": "hackernews"
+    },
+    "1f76db0e23612ae0": {
+      "date": "2026-06-23",
+      "title": "I'm moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀",
+      "source": "devto"
+    },
+    "88ef883781df0ab0": {
+      "date": "2026-06-23",
+      "title": "Agents write code, but they don't remember",
+      "source": "devto"
+    },
+    "7f8f683653305c3e": {
+      "date": "2026-06-23",
+      "title": "Too cheap to be good? Think again.",
+      "source": "devto"
+    },
+    "b124905c8c5fce05": {
+      "date": "2026-06-23",
+      "title": "Solstice Protocol: A Puzzle Adventure to Save the Longest Day",
+      "source": "devto"
+    },
+    "69c2753cfad6e072": {
+      "date": "2026-06-23",
+      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
+      "source": "devto"
+    },
+    "b0d639497692da11": {
+      "date": "2026-06-23",
+      "title": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
+      "source": "devto"
+    },
+    "ab06793bd2ea642f": {
+      "date": "2026-06-23",
+      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
+      "source": "devto"
+    },
+    "1c3e0a2117ac60f9": {
+      "date": "2026-06-23",
+      "title": "Maybe It Is Not Yet Time To Bring Every AI Demo To Production",
+      "source": "devto"
+    },
+    "278c617e7254b86e": {
+      "date": "2026-06-23",
+      "title": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
+      "source": "devto"
+    },
+    "ebea3467b34d97b2": {
+      "date": "2026-06-23",
+      "title": "Why I Left Postman — The Real Cost of a Cloud-First API Client",
+      "source": "devto"
+    },
+    "ebc3b4fe22b66c2d": {
+      "date": "2026-06-23",
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "source": "github"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-06-23",
+      "title": "anthropics / claude-plugins-official",
+      "source": "github"
+    },
+    "26ea52d56cf57a70": {
+      "date": "2026-06-23",
+      "title": "shanraisshan / claude-code-best-practice",
+      "source": "github"
+    },
+    "978e35c607178533": {
+      "date": "2026-06-23",
+      "title": "NousResearch / hermes-agent",
       "source": "github"
     }
   }
