@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-22T00:07:44.098586",
+  "last_updated": "2026-06-23T00:07:26.481817",
   "sent_items": {
-    "8d4e21fad8e4ac8a": {
-      "date": "2026-05-23",
-      "title": "SignalLEMO - Ai Outreach Made Simple",
-      "source": "producthunt"
-    },
-    "c8db85639b9e3857": {
-      "date": "2026-05-23",
-      "title": "Google Antigravity CLI",
-      "source": "producthunt"
-    },
-    "b905f6e0f47cd969": {
-      "date": "2026-05-23",
-      "title": "Spantop",
-      "source": "producthunt"
-    },
-    "cb2b01ea035784e9": {
-      "date": "2026-05-23",
-      "title": "RetroMac",
-      "source": "producthunt"
-    },
-    "c769540fdaf49b92": {
-      "date": "2026-05-23",
-      "title": "Command A+",
-      "source": "producthunt"
-    },
-    "1c7252c2df24b74e": {
-      "date": "2026-05-23",
-      "title": "note.md",
-      "source": "producthunt"
-    },
-    "f68b85e5fc7f4c57": {
-      "date": "2026-05-23",
-      "title": "Vibedock",
-      "source": "producthunt"
-    },
-    "00495b52b37446d1": {
-      "date": "2026-05-23",
-      "title": "Cleo",
-      "source": "producthunt"
-    },
-    "35c2148d40f56eda": {
-      "date": "2026-05-23",
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-      "source": "hackernews"
-    },
-    "35eb6d0947747f55": {
-      "date": "2026-05-23",
-      "title": "On The <dl> (2021)",
-      "source": "hackernews"
-    },
-    "639cc20b35151e9a": {
-      "date": "2026-05-23",
-      "title": "SpaceX launches Starship v3 rocket",
-      "source": "hackernews"
-    },
-    "68a8e104ebe8a04f": {
-      "date": "2026-05-23",
-      "title": "It's time to talk about my writerdeck",
-      "source": "hackernews"
-    },
-    "c007cfaf839d06e8": {
-      "date": "2026-05-23",
-      "title": "The Art of Money Getting",
-      "source": "hackernews"
-    },
-    "578e4b08de33e744": {
-      "date": "2026-05-23",
-      "title": ".NET (OK, C#) finally gets union types",
-      "source": "hackernews"
-    },
-    "a82fff79a9b67a4c": {
-      "date": "2026-05-23",
-      "title": "Hengefinder: Finding when the sun aligns with your street",
-      "source": "hackernews"
-    },
-    "f03bd4b74a5ad64a": {
-      "date": "2026-05-23",
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "source": "hackernews"
-    },
-    "0a17ee53ef3b8a18": {
-      "date": "2026-05-23",
-      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
-      "source": "hackernews"
-    },
-    "346b0b71a5c7f8b3": {
-      "date": "2026-05-23",
-      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
-      "source": "hackernews"
-    },
-    "cb92c25c4bd7993e": {
-      "date": "2026-05-23",
-      "title": "Running a Full Multi-Stage Intrusion Simulation. Every Detection Fired.",
-      "source": "devto"
-    },
-    "d0d2233c70758609": {
-      "date": "2026-05-23",
-      "title": "From an Abandoned Hackathon Project to an AI Study Workspace 🚀",
-      "source": "devto"
-    },
-    "ec7b41cfd116cf7a": {
-      "date": "2026-05-23",
-      "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
-      "source": "devto"
-    },
-    "86fe47425b8f8c19": {
-      "date": "2026-05-23",
-      "title": "Running Qwen 2.5 Coder 14B Locally in Cursor with Ollama",
-      "source": "devto"
-    },
-    "3e26cb777fc08cbf": {
-      "date": "2026-05-23",
-      "title": "SafeSMS: On-Device Threat Detection with Gemma 4 E4B, no internet required",
-      "source": "devto"
-    },
-    "e7aeb361da85c16f": {
-      "date": "2026-05-23",
-      "title": "A tool to make your GitHub README impossible to ignore 🚀",
-      "source": "devto"
-    },
-    "4de7cc59c9ea7ca6": {
-      "date": "2026-05-23",
-      "title": "How I Caught and Fixed an N+1 Query in My Django REST API",
-      "source": "devto"
-    },
-    "826ec3c0ad94ff85": {
-      "date": "2026-05-23",
-      "title": "Adaptable apps on ChromeOS: a post-mortem",
-      "source": "devto"
-    },
-    "2340ec9dd8652521": {
-      "date": "2026-05-23",
-      "title": "How I Built a Local, Multimodal Gemma 4 Visual Regression & Patch Agent: Closed-Loop Validation, Can",
-      "source": "devto"
-    },
-    "ebc3b4fe22b66c2d": {
-      "date": "2026-05-23",
-      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-      "source": "github"
-    },
-    "301464475984dc53": {
-      "date": "2026-05-23",
-      "title": "presenton / presenton",
-      "source": "github"
-    },
-    "d60f8ca6784334ee": {
-      "date": "2026-05-23",
-      "title": "NVlabs / LongLive",
-      "source": "github"
-    },
     "f98daa0cf30d867c": {
       "date": "2026-05-24",
       "title": "ModelHub",
@@ -4805,6 +4655,171 @@
     "194bbbbcb050ad73": {
       "date": "2026-06-22",
       "title": "topoteretes / cognee",
+      "source": "github"
+    },
+    "f410da262bf0885c": {
+      "date": "2026-06-23",
+      "title": "Steam Machine launches today",
+      "source": "hackernews"
+    },
+    "6403de463dadf7ab": {
+      "date": "2026-06-23",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "source": "hackernews"
+    },
+    "a95392d652d1981b": {
+      "date": "2026-06-23",
+      "title": "My Mathematical Regression",
+      "source": "hackernews"
+    },
+    "05da327b3a751ddc": {
+      "date": "2026-06-23",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "source": "hackernews"
+    },
+    "7c8e837a78550904": {
+      "date": "2026-06-23",
+      "title": "Unsloth GLM-5.2 – How to Run Locally",
+      "source": "hackernews"
+    },
+    "7e15460cb957b046": {
+      "date": "2026-06-23",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "source": "hackernews"
+    },
+    "40591857a5a4a02e": {
+      "date": "2026-06-23",
+      "title": "Japanese symbols that speak without words",
+      "source": "hackernews"
+    },
+    "40ea44f3f88622e0": {
+      "date": "2026-06-23",
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "source": "hackernews"
+    },
+    "f617077f8e4f1de8": {
+      "date": "2026-06-23",
+      "title": "Canyon HUD helmet for road riding",
+      "source": "hackernews"
+    },
+    "a2860ad0a3e4cf1e": {
+      "date": "2026-06-23",
+      "title": "Is it time for a new Embedded Linux build system?",
+      "source": "hackernews"
+    },
+    "46d8bc18b6a7efa0": {
+      "date": "2026-06-23",
+      "title": "AlgoFly AI",
+      "source": "producthunt"
+    },
+    "d34049417bd81b18": {
+      "date": "2026-06-23",
+      "title": "Photoroom API",
+      "source": "producthunt"
+    },
+    "d0a7407dac5eed44": {
+      "date": "2026-06-23",
+      "title": "uwait",
+      "source": "producthunt"
+    },
+    "4f76f2aec8270204": {
+      "date": "2026-06-23",
+      "title": "Alai 2.0",
+      "source": "producthunt"
+    },
+    "5fe40cb4252a6e2a": {
+      "date": "2026-06-23",
+      "title": "Cloudflare Temporary Accounts",
+      "source": "producthunt"
+    },
+    "cf0a870d5f91e19b": {
+      "date": "2026-06-23",
+      "title": "OnBrand by SlideSpeak",
+      "source": "producthunt"
+    },
+    "d64b7d75cc1fd497": {
+      "date": "2026-06-23",
+      "title": "Selector Forge",
+      "source": "producthunt"
+    },
+    "5733b2b8b4d49a91": {
+      "date": "2026-06-23",
+      "title": "MD+HTML Reader",
+      "source": "producthunt"
+    },
+    "b8cf6d693277b726": {
+      "date": "2026-06-23",
+      "title": "The Principle of Least AI",
+      "source": "devto"
+    },
+    "05e1038be3690ac0": {
+      "date": "2026-06-23",
+      "title": "I Wish I Had Started Documenting My Tech Journey Earlier",
+      "source": "devto"
+    },
+    "90bee5277ea84e18": {
+      "date": "2026-06-23",
+      "title": "What Kind of AI-Assisted Developer Are You? Take the quiz.",
+      "source": "devto"
+    },
+    "d8f7c3d3e7b55555": {
+      "date": "2026-06-23",
+      "title": "👾 Server Access Logs with GoAccess",
+      "source": "devto"
+    },
+    "c52fa0d45e250216": {
+      "date": "2026-06-23",
+      "title": "I am behind, and I can't prove it but does it matter?",
+      "source": "devto"
+    },
+    "bfe185682b294afe": {
+      "date": "2026-06-23",
+      "title": "What are your Goals for the week? #184",
+      "source": "devto"
+    },
+    "372886bb93f68e55": {
+      "date": "2026-06-23",
+      "title": "Do localhost para o mundo",
+      "source": "devto"
+    },
+    "ca9a50a3aa7f1e4e": {
+      "date": "2026-06-23",
+      "title": "The Stale Feature Flag We Deleted That Turned a Feature Back On",
+      "source": "devto"
+    },
+    "d9f7c0534265f8e4": {
+      "date": "2026-06-23",
+      "title": "What it takes to build docs worth reading",
+      "source": "devto"
+    },
+    "30d6f2608ff8bd42": {
+      "date": "2026-06-23",
+      "title": "Link or Button, that is the question.",
+      "source": "devto"
+    },
+    "b2783939baa36f0b": {
+      "date": "2026-06-23",
+      "title": "Stirling-Tools / Stirling-PDF",
+      "source": "github"
+    },
+    "8ed11f9c07a08ee3": {
+      "date": "2026-06-23",
+      "title": "garrytan / gstack",
+      "source": "github"
+    },
+    "1c708e2373cec766": {
+      "date": "2026-06-23",
+      "title": "heygen-com / hyperframes",
+      "source": "github"
+    },
+    "49a1c7e387a4e695": {
+      "date": "2026-06-23",
+      "title": "firecrawl / firecrawl",
+      "source": "github"
+    },
+    "cdf1702f364a4d5a": {
+      "date": "2026-06-23",
+      "title": "JCodesMore / ai-website-cloner-template",
       "source": "github"
     }
   }
