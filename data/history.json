@@ -1,332 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-23T23:52:24.052677",
+  "last_updated": "2026-06-25T00:00:22.129473",
   "sent_items": {
-    "f98daa0cf30d867c": {
-      "date": "2026-05-24",
-      "title": "ModelHub",
-      "source": "producthunt"
-    },
-    "49a598fe1fc9e6e7": {
-      "date": "2026-05-24",
-      "title": "Freu AI",
-      "source": "producthunt"
-    },
-    "b4179c51378e5c84": {
-      "date": "2026-05-24",
-      "title": "DynamicNotch",
-      "source": "producthunt"
-    },
-    "4f8acc75d3892aeb": {
-      "date": "2026-05-24",
-      "title": "DockFlow",
-      "source": "producthunt"
-    },
-    "baadf31096b50f72": {
-      "date": "2026-05-24",
-      "title": "WhatCable",
-      "source": "producthunt"
-    },
-    "e7bf0cf41afc7ff4": {
-      "date": "2026-05-24",
-      "title": "Stitch 3.0 by Google",
-      "source": "producthunt"
-    },
-    "5f7903eb8521056c": {
-      "date": "2026-05-24",
-      "title": "I spent 50 hours drawing a line graph",
-      "source": "hackernews"
-    },
-    "1d1c383a9abd4d8b": {
-      "date": "2026-05-24",
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "source": "hackernews"
-    },
-    "9c8e2a8fc51f6f70": {
-      "date": "2026-05-24",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "source": "hackernews"
-    },
-    "ce7dbebbe73d05c2": {
-      "date": "2026-05-24",
-      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
-      "source": "hackernews"
-    },
-    "7f7af92fbb42db0f": {
-      "date": "2026-05-24",
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "source": "hackernews"
-    },
-    "b84703144dfa3f08": {
-      "date": "2026-05-24",
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "source": "hackernews"
-    },
-    "a693b67198eb5bae": {
-      "date": "2026-05-24",
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "source": "hackernews"
-    },
-    "d464f2ac48d78ba3": {
-      "date": "2026-05-24",
-      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "source": "hackernews"
-    },
-    "0f8cb703c6d47f9f": {
-      "date": "2026-05-24",
-      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
-      "source": "hackernews"
-    },
-    "b0e9fdc381b9d715": {
-      "date": "2026-05-24",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "source": "hackernews"
-    },
-    "8b104053cac10bb4": {
-      "date": "2026-05-24",
-      "title": "anthropics / knowledge-work-plugins",
-      "source": "github"
-    },
-    "d37649da1014b56f": {
-      "date": "2026-05-24",
-      "title": "earendil-works / pi",
-      "source": "github"
-    },
-    "0483299a7e22039b": {
-      "date": "2026-05-24",
-      "title": "manaflow-ai / cmux",
-      "source": "github"
-    },
-    "5fa324d6510a1f1b": {
-      "date": "2026-05-24",
-      "title": "666ghj / MiroFish",
-      "source": "github"
-    },
-    "c8239fb8d0703c93": {
-      "date": "2026-05-24",
-      "title": "blakeblackshear / frigate",
-      "source": "github"
-    },
-    "8ca7e3ffc0c9e7e2": {
-      "date": "2026-05-24",
-      "title": "NeuralHats: I Put Edward de Bono’s Six Thinking Hats on Local LLMs Using Gemma 4",
-      "source": "devto"
-    },
-    "70b038a0095c99bd": {
-      "date": "2026-05-24",
-      "title": "Gemma 4 challenge inspired me to build my first app!",
-      "source": "devto"
-    },
-    "9b2a1d8d01f1ddae": {
-      "date": "2026-05-24",
-      "title": "I built a local document Q&A tool around Gemma 4 E4B's 128K context — five days, no RAG, no cloud",
-      "source": "devto"
-    },
-    "71f95a2573c4c0b5": {
-      "date": "2026-05-24",
-      "title": "I stress-tested Gemma 4 E4B's 128K context on a laptop GPU — recall is great, prefill is not",
-      "source": "devto"
-    },
-    "8e832013ab1d4e1d": {
-      "date": "2026-05-24",
-      "title": "My Impression of AI in Programming",
-      "source": "devto"
-    },
-    "5559d7e3693b050f": {
-      "date": "2026-05-24",
-      "title": "From Govhack Win to Something That Actually Matters",
-      "source": "devto"
-    },
-    "5bc0879890c1b35e": {
-      "date": "2026-05-24",
-      "title": "Your Inbox Knows Too Much: Parsli for the Privacy Paranoid",
-      "source": "devto"
-    },
-    "9ad8e213c69fa97e": {
-      "date": "2026-05-24",
-      "title": "Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.",
-      "source": "devto"
-    },
-    "a7d29aca79b64b0e": {
-      "date": "2026-05-24",
-      "title": "I Built ResuMate! A 100% Private, Local AI Resume Optimizer with Google Gemma 4",
-      "source": "devto"
-    },
-    "d129c9ae80cfdb4e": {
-      "date": "2026-05-24",
-      "title": "Entrei pra fazer networking, mas não imaginava o que ia encontrar...",
-      "source": "devto"
-    },
-    "ba72687c65df7c1d": {
-      "date": "2026-05-25",
-      "title": "Magnifica Humanitas",
-      "source": "hackernews"
-    },
-    "bde34891ebab88eb": {
-      "date": "2026-05-25",
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "source": "hackernews"
-    },
-    "aa5225c1f3a481f3": {
-      "date": "2026-05-25",
-      "title": "Exit IP VPN servers mitigation rollout",
-      "source": "hackernews"
-    },
-    "152e6e69b7bcf8b8": {
-      "date": "2026-05-25",
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "source": "hackernews"
-    },
-    "2555fa13492d8e2b": {
-      "date": "2026-05-25",
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "source": "hackernews"
-    },
-    "136f495df83f81b0": {
-      "date": "2026-05-25",
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "source": "hackernews"
-    },
-    "ab8d3ab1b191c952": {
-      "date": "2026-05-25",
-      "title": "Hacker News front page as a site",
-      "source": "hackernews"
-    },
-    "b6d1babdb4ff7ccb": {
-      "date": "2026-05-25",
-      "title": "Show HN: Write your BPF programs in Go, not C",
-      "source": "hackernews"
-    },
-    "41c1c3275f7b391d": {
-      "date": "2026-05-25",
-      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
-      "source": "hackernews"
-    },
-    "f140c4a58e809930": {
-      "date": "2026-05-25",
-      "title": "Nobody Cracks Open a Programming Book Anymore",
-      "source": "hackernews"
-    },
-    "ef5b70510d48886c": {
-      "date": "2026-05-25",
-      "title": "LLMTest",
-      "source": "producthunt"
-    },
-    "0c5dd2ff376d8089": {
-      "date": "2026-05-25",
-      "title": "Fred",
-      "source": "producthunt"
-    },
-    "2c2dffbbe3a6ea56": {
-      "date": "2026-05-25",
-      "title": "Pi Coding Agent",
-      "source": "producthunt"
-    },
-    "5ad445a77f153fa1": {
-      "date": "2026-05-25",
-      "title": "Yansu",
-      "source": "producthunt"
-    },
-    "5769a6ff6e50d728": {
-      "date": "2026-05-25",
-      "title": "Orchestria",
-      "source": "producthunt"
-    },
-    "4e4d43644fcc10e6": {
-      "date": "2026-05-25",
-      "title": "own.page",
-      "source": "producthunt"
-    },
-    "e5886300fb97361b": {
-      "date": "2026-05-25",
-      "title": "tldx",
-      "source": "producthunt"
-    },
-    "69c7e1d10392884d": {
-      "date": "2026-05-25",
-      "title": "MashuPack",
-      "source": "producthunt"
-    },
-    "ca28d28c43bc8fb5": {
-      "date": "2026-05-25",
-      "title": "Vestige: A Gemma 4 Brain Tracker That Won't Blow Smoke Up Your Ass",
-      "source": "devto"
-    },
-    "17977c5082d3ad67": {
-      "date": "2026-05-25",
-      "title": "Don’t let AI break your collective thinking: a practical guide for engineering teams",
-      "source": "devto"
-    },
-    "e2aa06feb39b46e1": {
-      "date": "2026-05-25",
-      "title": "MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestures, and Controlled Chaos",
-      "source": "devto"
-    },
-    "026c8e420358c6d9": {
-      "date": "2026-05-25",
-      "title": "🛡️ PromptGuard: I Built a Local AI Privacy Firewall That Sanitizes Your Prompts Before They Leave Yo",
-      "source": "devto"
-    },
-    "2e50f076e37ee3bb": {
-      "date": "2026-05-25",
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "source": "devto"
-    },
-    "1989e8237ffaa8b7": {
-      "date": "2026-05-25",
-      "title": "Managing multiple docker hub accounts using docker-use",
-      "source": "devto"
-    },
-    "d372178fc2881529": {
-      "date": "2026-05-25",
-      "title": "Now I See Why Translators Are Panicking Over AI—Should Coders Panic Too?",
-      "source": "devto"
-    },
-    "e86ddf70fe372548": {
-      "date": "2026-05-25",
-      "title": "Why AI-Generated Code Is Always Good Enough — And Never Great",
-      "source": "devto"
-    },
-    "547822997e82da28": {
-      "date": "2026-05-25",
-      "title": "The Code Review Checklist I Actually Use",
-      "source": "devto"
-    },
-    "f8c21b45392ef4a7": {
-      "date": "2026-05-25",
-      "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
-      "source": "devto"
-    },
-    "a90d342e2181a927": {
-      "date": "2026-05-25",
-      "title": "affaan-m / ECC",
-      "source": "github"
-    },
-    "9da20606e54ba5ed": {
-      "date": "2026-05-25",
-      "title": "paperless-ngx / paperless-ngx",
-      "source": "github"
-    },
-    "3f87148fc02bbcf5": {
-      "date": "2026-05-25",
-      "title": "anthropics / claude-cookbooks",
-      "source": "github"
-    },
-    "36584af2f7390ffc": {
-      "date": "2026-05-25",
-      "title": "Leonxlnx / taste-skill",
-      "source": "github"
-    },
-    "ebe69a8411ca36d3": {
-      "date": "2026-05-25",
-      "title": "moeru-ai / airi",
-      "source": "github"
-    },
-    "e7496fc47c432dbe": {
-      "date": "2026-05-25",
-      "title": "Axorax / awesome-free-apps",
-      "source": "github"
-    },
     "48dde4cb958e5c74": {
       "date": "2026-05-26",
       "title": "QuakPit",
@@ -4980,6 +4655,181 @@
     "978e35c607178533": {
       "date": "2026-06-23",
       "title": "NousResearch / hermes-agent",
+      "source": "github"
+    },
+    "dd8688eee4b04870": {
+      "date": "2026-06-25",
+      "title": "We’re making Bunny DNS free",
+      "source": "hackernews"
+    },
+    "b2b283d1fdd44d7c": {
+      "date": "2026-06-25",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "hackernews"
+    },
+    "b6b1da51450c665d": {
+      "date": "2026-06-25",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "source": "hackernews"
+    },
+    "9bbbb66c5b5abf3b": {
+      "date": "2026-06-25",
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "source": "hackernews"
+    },
+    "62333b25b5f0a747": {
+      "date": "2026-06-25",
+      "title": "The Xteink X4 E-Ink Reader",
+      "source": "hackernews"
+    },
+    "eafad1904fb15d6d": {
+      "date": "2026-06-25",
+      "title": "Computer use in Gemini 3.5 Flash",
+      "source": "hackernews"
+    },
+    "9f709adbd370ec0b": {
+      "date": "2026-06-25",
+      "title": "Qualcomm to Acquire Modular",
+      "source": "hackernews"
+    },
+    "b1d70d92460119f3": {
+      "date": "2026-06-25",
+      "title": "Elastic lays off 7% of employees",
+      "source": "hackernews"
+    },
+    "e40b0fcf29e95feb": {
+      "date": "2026-06-25",
+      "title": "PostgreSQL Is Enough",
+      "source": "hackernews"
+    },
+    "204b03b0bd78a1d7": {
+      "date": "2026-06-25",
+      "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
+      "source": "hackernews"
+    },
+    "564cdde030abf8e2": {
+      "date": "2026-06-25",
+      "title": "Crewdle AI",
+      "source": "producthunt"
+    },
+    "705d918fcc134699": {
+      "date": "2026-06-25",
+      "title": "Ruby",
+      "source": "producthunt"
+    },
+    "62d4a7841ca68db2": {
+      "date": "2026-06-25",
+      "title": "Nimt",
+      "source": "producthunt"
+    },
+    "3da21d3fa9d380f1": {
+      "date": "2026-06-25",
+      "title": "Swimio",
+      "source": "producthunt"
+    },
+    "28acae171eb621eb": {
+      "date": "2026-06-25",
+      "title": "React UI Kit V7",
+      "source": "producthunt"
+    },
+    "434ef1c8cd1209ce": {
+      "date": "2026-06-25",
+      "title": "Customer Relationship Agents by Clarify",
+      "source": "producthunt"
+    },
+    "4733d515a4129ae6": {
+      "date": "2026-06-25",
+      "title": "Prospector by Synter",
+      "source": "producthunt"
+    },
+    "992c73525e781399": {
+      "date": "2026-06-25",
+      "title": "Stripe.Directory",
+      "source": "producthunt"
+    },
+    "602d60accf3ca829": {
+      "date": "2026-06-25",
+      "title": "To The People Who Read My Weird Little Blogs",
+      "source": "devto"
+    },
+    "e08a7fd9a243a061": {
+      "date": "2026-06-25",
+      "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+      "source": "devto"
+    },
+    "4bcb78c7d8096141": {
+      "date": "2026-06-25",
+      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
+      "source": "devto"
+    },
+    "7e7570c74b92c395": {
+      "date": "2026-06-25",
+      "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
+      "source": "devto"
+    },
+    "cf0445d5c8770d41": {
+      "date": "2026-06-25",
+      "title": "Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus",
+      "source": "devto"
+    },
+    "bd9e7f230e660e46": {
+      "date": "2026-06-25",
+      "title": "Something Changed After the Sloan Articles. I Can't Prove It.",
+      "source": "devto"
+    },
+    "5392a59ed5875d93": {
+      "date": "2026-06-25",
+      "title": "# Arc 9 Catch-Up: Writing Your First Solana Program",
+      "source": "devto"
+    },
+    "04b20f6e93a988c0": {
+      "date": "2026-06-25",
+      "title": "Conduit: The Gateway I Built to Forget About",
+      "source": "devto"
+    },
+    "096bc15777e4c183": {
+      "date": "2026-06-25",
+      "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
+      "source": "devto"
+    },
+    "8c6c247eacc117d3": {
+      "date": "2026-06-25",
+      "title": "Every Alarm Is a Crime Scene: Meet Poirot, the Read-Only Incident Detective",
+      "source": "devto"
+    },
+    "4a703dff9c32e930": {
+      "date": "2026-06-25",
+      "title": "interviewstreet / hiring-agent",
+      "source": "github"
+    },
+    "b68be267c74ad855": {
+      "date": "2026-06-25",
+      "title": "flutter / flutter",
+      "source": "github"
+    },
+    "9b315b26fb029ae5": {
+      "date": "2026-06-25",
+      "title": "andreknieriem / headunit-revived",
+      "source": "github"
+    },
+    "d7dc32f00be2e8f5": {
+      "date": "2026-06-25",
+      "title": "stablyai / orca",
+      "source": "github"
+    },
+    "8fcbd3d83192e011": {
+      "date": "2026-06-25",
+      "title": "google-labs-code / design.md",
+      "source": "github"
+    },
+    "f84e917e416c7dca": {
+      "date": "2026-06-25",
+      "title": "Flowseal / zapret-discord-youtube",
+      "source": "github"
+    },
+    "ecac04eb8fd789a9": {
+      "date": "2026-06-25",
+      "title": "kunchenguid / no-mistakes",
       "source": "github"
     }
   }
