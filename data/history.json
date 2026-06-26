@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-06-26T00:09:40.490177",
+  "last_updated": "2026-06-26T23:59:43.347013",
   "sent_items": {
     "762be394b9881037": {
       "date": "2026-05-27",
@@ -4835,6 +4835,166 @@
     "0882c05ca7034b93": {
       "date": "2026-06-26",
       "title": "opendatalab / MinerU",
+      "source": "github"
+    },
+    "820663ef04fc31ec": {
+      "date": "2026-06-26",
+      "title": "Aurora Notch",
+      "source": "producthunt"
+    },
+    "805f9a66250f1729": {
+      "date": "2026-06-26",
+      "title": "Gemini Spark",
+      "source": "producthunt"
+    },
+    "1894bd8e20b21356": {
+      "date": "2026-06-26",
+      "title": "LockIn MCP",
+      "source": "producthunt"
+    },
+    "423b99539398bafd": {
+      "date": "2026-06-26",
+      "title": "Cewsco",
+      "source": "producthunt"
+    },
+    "6328955fca1da18b": {
+      "date": "2026-06-26",
+      "title": "AI Slide Editor by CubeOne",
+      "source": "producthunt"
+    },
+    "1c7252c2df24b74e": {
+      "date": "2026-06-26",
+      "title": "note.md",
+      "source": "producthunt"
+    },
+    "10b93a234877603a": {
+      "date": "2026-06-26",
+      "title": "Group Subscriptions by beehiiv",
+      "source": "producthunt"
+    },
+    "e42beeccabf07bcb": {
+      "date": "2026-06-26",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "source": "hackernews"
+    },
+    "15745e7ea1296970": {
+      "date": "2026-06-26",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "source": "hackernews"
+    },
+    "4ee4173d35635b2e": {
+      "date": "2026-06-26",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "source": "hackernews"
+    },
+    "821ced831e9eda87": {
+      "date": "2026-06-26",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "source": "hackernews"
+    },
+    "e359ec819484249f": {
+      "date": "2026-06-26",
+      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
+      "source": "hackernews"
+    },
+    "1e4585fcec1f1a51": {
+      "date": "2026-06-26",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "source": "hackernews"
+    },
+    "e246d1b19889ce7b": {
+      "date": "2026-06-26",
+      "title": "The US lifts its block on Mythos 5",
+      "source": "hackernews"
+    },
+    "d5e839e10994b5d3": {
+      "date": "2026-06-26",
+      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "source": "hackernews"
+    },
+    "579df96b23ead17e": {
+      "date": "2026-06-26",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "source": "hackernews"
+    },
+    "dcf3ebea7069f3ff": {
+      "date": "2026-06-26",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "source": "hackernews"
+    },
+    "882a0ec0a9aebb44": {
+      "date": "2026-06-26",
+      "title": "Never forget to enter the Stern Grove lottery again!",
+      "source": "devto"
+    },
+    "995fd43b4afa1798": {
+      "date": "2026-06-26",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "06a33f3fe6e5402e": {
+      "date": "2026-06-26",
+      "title": "Dev Opportunity Radar #5: A Fully Funded Trip to AWS re:Invent, Google Cloud Career Launchpad, and a",
+      "source": "devto"
+    },
+    "31b2b7ed6b6c7b87": {
+      "date": "2026-06-26",
+      "title": "Functional doesn't mean correct. That's the biggest risk with AI-generated code.",
+      "source": "devto"
+    },
+    "ab676d58c5a00a41": {
+      "date": "2026-06-26",
+      "title": "I Almost Didn't Learn Programming Because I Was Bad at Math",
+      "source": "devto"
+    },
+    "6c17efc1ba66767e": {
+      "date": "2026-06-26",
+      "title": "1,200 Applications. 4 Offers. Here's What Actually Got Me the Product-Based Role",
+      "source": "devto"
+    },
+    "d9453ab8ebf59f6a": {
+      "date": "2026-06-26",
+      "title": "AI is not replacing developers anytime soon",
+      "source": "devto"
+    },
+    "edc28d36264182c4": {
+      "date": "2026-06-26",
+      "title": "Moving to baweaver.com",
+      "source": "devto"
+    },
+    "2d47d1947283bbc7": {
+      "date": "2026-06-26",
+      "title": "Testing Webhooks: The Pattern I Keep Reaching For",
+      "source": "devto"
+    },
+    "e34f3efb1bdea2a5": {
+      "date": "2026-06-26",
+      "title": "How I Built a Custom Rust Blockchain for On-Chain Ride Lifecycle",
+      "source": "devto"
+    },
+    "f20ebd9659517d93": {
+      "date": "2026-06-26",
+      "title": "simplex-chat / simplex-chat",
+      "source": "github"
+    },
+    "09f8f47833523a25": {
+      "date": "2026-06-26",
+      "title": "commaai / openpilot",
+      "source": "github"
+    },
+    "18da61b3e00f4d04": {
+      "date": "2026-06-26",
+      "title": "grafana / grafana",
+      "source": "github"
+    },
+    "66fdad17e3139cd7": {
+      "date": "2026-06-26",
+      "title": "ripienaar / free-for-dev",
+      "source": "github"
+    },
+    "6bf20bedea38ea7d": {
+      "date": "2026-06-26",
+      "title": "NanmiCoder / MediaCrawler",
       "source": "github"
     }
   }
