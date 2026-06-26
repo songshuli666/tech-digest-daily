@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-25T00:00:22.129473",
+  "last_updated": "2026-06-26T00:09:40.490177",
   "sent_items": {
-    "48dde4cb958e5c74": {
-      "date": "2026-05-26",
-      "title": "QuakPit",
-      "source": "producthunt"
-    },
-    "1bd9cd0e13ad6c32": {
-      "date": "2026-05-26",
-      "title": "Willow Scribe",
-      "source": "producthunt"
-    },
-    "8c1357a16af8e985": {
-      "date": "2026-05-26",
-      "title": "NoteCove",
-      "source": "producthunt"
-    },
-    "399ed874aa097ed3": {
-      "date": "2026-05-26",
-      "title": "Ajar",
-      "source": "producthunt"
-    },
-    "1f4e556bd2915456": {
-      "date": "2026-05-26",
-      "title": "Trace",
-      "source": "producthunt"
-    },
-    "da505e194d0fa466": {
-      "date": "2026-05-26",
-      "title": "blokdots 3.0",
-      "source": "producthunt"
-    },
-    "ad139dbc7ca7b90a": {
-      "date": "2026-05-26",
-      "title": "MiniCPM5-1B",
-      "source": "producthunt"
-    },
-    "47e968f6e79ac62e": {
-      "date": "2026-05-26",
-      "title": "Parsewise API",
-      "source": "producthunt"
-    },
-    "de63ec2014c0c808": {
-      "date": "2026-05-26",
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "source": "hackernews"
-    },
-    "35fd15e8db90a316": {
-      "date": "2026-05-26",
-      "title": "A few interesting modern pixel fonts",
-      "source": "hackernews"
-    },
-    "6eb8b5de53f9e8de": {
-      "date": "2026-05-26",
-      "title": "Big tech's anti-labor playbook has come for Wikipedia",
-      "source": "hackernews"
-    },
-    "4f936bc9099c56ad": {
-      "date": "2026-05-26",
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "source": "hackernews"
-    },
-    "6115616f172b01e8": {
-      "date": "2026-05-26",
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "source": "hackernews"
-    },
-    "61b044f5aeaf8ca0": {
-      "date": "2026-05-26",
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "source": "hackernews"
-    },
-    "201a2ec7ddbd45f9": {
-      "date": "2026-05-26",
-      "title": "The worst job interview I ever had",
-      "source": "hackernews"
-    },
-    "2f3124db69da5ebf": {
-      "date": "2026-05-26",
-      "title": "C array types are weird",
-      "source": "hackernews"
-    },
-    "871213454c371b6e": {
-      "date": "2026-05-26",
-      "title": "The Steinwinter Supercargo",
-      "source": "hackernews"
-    },
-    "fdaabdfbf20c3d91": {
-      "date": "2026-05-26",
-      "title": "A portentous reunion",
-      "source": "hackernews"
-    },
-    "cb82be1fc3500191": {
-      "date": "2026-05-26",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "34f938319bdce44b": {
-      "date": "2026-05-26",
-      "title": "An LLM API call, in 4 GIFs",
-      "source": "devto"
-    },
-    "79a32aaba684df15": {
-      "date": "2026-05-26",
-      "title": "Shipping Your Machine: Building a Container in 50 Lines of Code (Part 2)",
-      "source": "devto"
-    },
-    "1977de100ff3a03e": {
-      "date": "2026-05-26",
-      "title": "Minimal Code Doesn’t Mean Stable Code",
-      "source": "devto"
-    },
-    "d02fa41117935d99": {
-      "date": "2026-05-26",
-      "title": "You Don’t Need Microservices (Yet): A Reality Check for Devs",
-      "source": "devto"
-    },
-    "5cdad8ea13902b91": {
-      "date": "2026-05-26",
-      "title": "The Sourdough Manifesto",
-      "source": "devto"
-    },
-    "3acdfaa81aea3cb5": {
-      "date": "2026-05-26",
-      "title": "Vibecoding Our First MCP Server",
-      "source": "devto"
-    },
-    "8701a28bc1f9cf3e": {
-      "date": "2026-05-26",
-      "title": "Cursor 3 ships parallel AI agents. Here is the multi-agent workflow that actually works.",
-      "source": "devto"
-    },
-    "6e2694821a3232bf": {
-      "date": "2026-05-26",
-      "title": "The Cost of Showing Up: What the Productivity Advice Does Not Tell You About Being Visible",
-      "source": "devto"
-    },
-    "6f40230ec06de41f": {
-      "date": "2026-05-26",
-      "title": "Toward a Standard Model for Agent Memory",
-      "source": "devto"
-    },
-    "95f1163f64d0e00f": {
-      "date": "2026-05-26",
-      "title": "hardikpandya / stop-slop",
-      "source": "github"
-    },
-    "a6c0bdd810c337f3": {
-      "date": "2026-05-26",
-      "title": "DigitalPlatDev / FreeDomain",
-      "source": "github"
-    },
-    "4e4265489a81fda2": {
-      "date": "2026-05-26",
-      "title": "twentyhq / twenty",
-      "source": "github"
-    },
-    "84daf5030c295d45": {
-      "date": "2026-05-26",
-      "title": "Open-Dev-Society / OpenStock",
-      "source": "github"
-    },
-    "f08d8cf2c7baf95f": {
-      "date": "2026-05-26",
-      "title": "thedotmack / claude-mem",
-      "source": "github"
-    },
-    "daed4b884fec9742": {
-      "date": "2026-05-26",
-      "title": "st-tech / ppf-contact-solver",
-      "source": "github"
-    },
     "762be394b9881037": {
       "date": "2026-05-27",
       "title": "Pawse.ai",
@@ -4830,6 +4660,181 @@
     "ecac04eb8fd789a9": {
       "date": "2026-06-25",
       "title": "kunchenguid / no-mistakes",
+      "source": "github"
+    },
+    "a64cfd340f6b38a2": {
+      "date": "2026-06-26",
+      "title": "Polygraph",
+      "source": "producthunt"
+    },
+    "66cda09c60813f33": {
+      "date": "2026-06-26",
+      "title": "Blop",
+      "source": "producthunt"
+    },
+    "139ed809dbd12d50": {
+      "date": "2026-06-26",
+      "title": "Nashra",
+      "source": "producthunt"
+    },
+    "2d7fbabb1292714a": {
+      "date": "2026-06-26",
+      "title": "Heron",
+      "source": "producthunt"
+    },
+    "c92c6e420a10aadf": {
+      "date": "2026-06-26",
+      "title": "BrowserBash",
+      "source": "producthunt"
+    },
+    "7eac89648b72e350": {
+      "date": "2026-06-26",
+      "title": "Papermark Agents",
+      "source": "producthunt"
+    },
+    "e6d53e5e44854110": {
+      "date": "2026-06-26",
+      "title": "Zaro",
+      "source": "producthunt"
+    },
+    "be755bb0400c3eb2": {
+      "date": "2026-06-26",
+      "title": "Grass 2.0",
+      "source": "producthunt"
+    },
+    "a5ab93f91593d625": {
+      "date": "2026-06-26",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "source": "hackernews"
+    },
+    "15ed02d2a384386f": {
+      "date": "2026-06-26",
+      "title": "Oxide computer 3D rack guided tour",
+      "source": "hackernews"
+    },
+    "c2466f14c277cc4c": {
+      "date": "2026-06-26",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "source": "hackernews"
+    },
+    "a5f18e26a1f1ea96": {
+      "date": "2026-06-26",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "source": "hackernews"
+    },
+    "0c62baeff9bd40a0": {
+      "date": "2026-06-26",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "source": "hackernews"
+    },
+    "ebc5ea53f3fe04a6": {
+      "date": "2026-06-26",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "source": "hackernews"
+    },
+    "1f98068454037eed": {
+      "date": "2026-06-26",
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "source": "hackernews"
+    },
+    "421a8873291fee7b": {
+      "date": "2026-06-26",
+      "title": "An oral history of Bank Python (2021)",
+      "source": "hackernews"
+    },
+    "bb866b9198a54e3e": {
+      "date": "2026-06-26",
+      "title": "Parallel Parentheses Matching",
+      "source": "hackernews"
+    },
+    "fa97414e1a81b365": {
+      "date": "2026-06-26",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
+      "source": "hackernews"
+    },
+    "4fbd916c4c595102": {
+      "date": "2026-06-26",
+      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
+      "source": "devto"
+    },
+    "e10f35d842ad1428": {
+      "date": "2026-06-26",
+      "title": "On programming languages, targets, and platforms",
+      "source": "devto"
+    },
+    "46d7da18bb45b9ce": {
+      "date": "2026-06-26",
+      "title": "My app didn't go \"viral\". My AWS bill did.",
+      "source": "devto"
+    },
+    "4de7877650ba3bbd": {
+      "date": "2026-06-26",
+      "title": "I don't trust the LLM to classify my email. So I don't let it.",
+      "source": "devto"
+    },
+    "7eef8b8ef47c0094": {
+      "date": "2026-06-26",
+      "title": "Do Developers Ever Really Disconnect?",
+      "source": "devto"
+    },
+    "bf1ea55ba6baac0a": {
+      "date": "2026-06-26",
+      "title": "Ponytail: The AI Coding Skill Taking GitHub by Storm — And the One Question Nobody's Answered Yet",
+      "source": "devto"
+    },
+    "9f8b3639e08591da": {
+      "date": "2026-06-26",
+      "title": "How I built ZeroAudit — AI-powered SOC 2 compliance automation with AWS DynamoDB and Vercel",
+      "source": "devto"
+    },
+    "19166cd6e90eb8f1": {
+      "date": "2026-06-26",
+      "title": "The Tracking-Link Bug That Only Breaks Signed URLs",
+      "source": "devto"
+    },
+    "6fab6fcf4bf4264b": {
+      "date": "2026-06-26",
+      "title": "Your Evals Are Flaky Too: Stop Trusting a Pass Rate You Can't Reproduce",
+      "source": "devto"
+    },
+    "9dc17afa76330292": {
+      "date": "2026-06-26",
+      "title": "One Agent or Many? Orchestrating AI Agents Without the Mess",
+      "source": "devto"
+    },
+    "2e659dc15da03489": {
+      "date": "2026-06-26",
+      "title": "xbtlin / ai-berkshire",
+      "source": "github"
+    },
+    "8f922997c926f6be": {
+      "date": "2026-06-26",
+      "title": "mauriceboe / TREK",
+      "source": "github"
+    },
+    "a1c760c91a2498ee": {
+      "date": "2026-06-26",
+      "title": "every-app / open-seo",
+      "source": "github"
+    },
+    "fef947109115f8c0": {
+      "date": "2026-06-26",
+      "title": "aws / agent-toolkit-for-aws",
+      "source": "github"
+    },
+    "d8d54e4bd4f02a14": {
+      "date": "2026-06-26",
+      "title": "alibaba / page-agent",
+      "source": "github"
+    },
+    "9d1f873d0b898bf1": {
+      "date": "2026-06-26",
+      "title": "IceWhaleTech / CasaOS",
+      "source": "github"
+    },
+    "0882c05ca7034b93": {
+      "date": "2026-06-26",
+      "title": "opendatalab / MinerU",
       "source": "github"
     }
   }
