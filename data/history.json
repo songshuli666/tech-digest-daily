@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-26T23:59:43.347013",
+  "last_updated": "2026-06-27T23:51:12.364212",
   "sent_items": {
-    "762be394b9881037": {
-      "date": "2026-05-27",
-      "title": "Pawse.ai",
-      "source": "producthunt"
-    },
-    "41cfd70ee315b17e": {
-      "date": "2026-05-27",
-      "title": "Aviquill",
-      "source": "producthunt"
-    },
-    "1d600ca2e3b97ca5": {
-      "date": "2026-05-27",
-      "title": "CircadiaOS",
-      "source": "producthunt"
-    },
-    "22f1740d08a6f7da": {
-      "date": "2026-05-27",
-      "title": "Layers",
-      "source": "producthunt"
-    },
-    "39d781746548afb8": {
-      "date": "2026-05-27",
-      "title": "Calling Skills for AI Agents",
-      "source": "producthunt"
-    },
-    "b6f3c52f92cc68b9": {
-      "date": "2026-05-27",
-      "title": "zero.xyz",
-      "source": "producthunt"
-    },
-    "dd1d70fbf152b7ee": {
-      "date": "2026-05-27",
-      "title": "BobCA",
-      "source": "producthunt"
-    },
-    "263ab083a949f938": {
-      "date": "2026-05-27",
-      "title": "Mojito",
-      "source": "producthunt"
-    },
-    "0ce3b9fca202ff15": {
-      "date": "2026-05-27",
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "source": "hackernews"
-    },
-    "8c94a29a6f46e24d": {
-      "date": "2026-05-27",
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "source": "hackernews"
-    },
-    "16b0cdbcc3639453": {
-      "date": "2026-05-27",
-      "title": "YouTube to automatically label AI-generated videos",
-      "source": "hackernews"
-    },
-    "d3b288485012d6cb": {
-      "date": "2026-05-27",
-      "title": "SimCity 3k in 4k (2025)",
-      "source": "hackernews"
-    },
-    "346ca456a2298efa": {
-      "date": "2026-05-27",
-      "title": "What Apple and Google are doing to push notifications",
-      "source": "hackernews"
-    },
-    "adcf4f576d5d8c9c": {
-      "date": "2026-05-27",
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "source": "hackernews"
-    },
-    "68fda2e1cf51760b": {
-      "date": "2026-05-27",
-      "title": "On Labubu and the Hyperreal",
-      "source": "hackernews"
-    },
-    "ffba48ca86503312": {
-      "date": "2026-05-27",
-      "title": "Internet traffic in Iran increasing",
-      "source": "hackernews"
-    },
-    "6130c2d48031a4d6": {
-      "date": "2026-05-27",
-      "title": "Warm up your MacBook (2019)",
-      "source": "hackernews"
-    },
-    "9a059d1d3d023966": {
-      "date": "2026-05-27",
-      "title": "A New Typst Template for Pandoc",
-      "source": "hackernews"
-    },
-    "7c09473f1ffc3548": {
-      "date": "2026-05-27",
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "source": "github"
-    },
-    "d2f39386e20eb773": {
-      "date": "2026-05-27",
-      "title": "p-e-w / heretic",
-      "source": "github"
-    },
-    "56bde87769c785be": {
-      "date": "2026-05-27",
-      "title": "Chachamaru127 / claude-code-harness",
-      "source": "github"
-    },
-    "34092b68de732111": {
-      "date": "2026-05-27",
-      "title": "byoungd / English-level-up-tips",
-      "source": "github"
-    },
-    "9d48e4e4a6b36e10": {
-      "date": "2026-05-27",
-      "title": "iii-hq / iii",
-      "source": "github"
-    },
-    "c2451ca17facc910": {
-      "date": "2026-05-27",
-      "title": "How Are Developers Actually Using AI At Work?",
-      "source": "devto"
-    },
-    "3757655592a46abf": {
-      "date": "2026-05-27",
-      "title": "Reviving a 12K+ Star Abandoned Library: toastr-next v3 🍞",
-      "source": "devto"
-    },
-    "c7ecc55bf11767fd": {
-      "date": "2026-05-27",
-      "title": "Hermes Mentor — A Local AI Agent That Gets You Out of Tutorial Hell",
-      "source": "devto"
-    },
-    "711cded1498a6e66": {
-      "date": "2026-05-27",
-      "title": "Accessibility question: is nesting interactive elements bad?",
-      "source": "devto"
-    },
-    "e3e430112dae1747": {
-      "date": "2026-05-27",
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "source": "devto"
-    },
-    "997e0a1cd2b7307f": {
-      "date": "2026-05-27",
-      "title": "How the 80/20 Rule and GitHub Copilot Saved My Abandoned App From Code Graveyard",
-      "source": "devto"
-    },
-    "34462cb8c4cce7dc": {
-      "date": "2026-05-27",
-      "title": "What Building My Own AI Bot Taught Me About Generative AI",
-      "source": "devto"
-    },
-    "9a70f295e92554d3": {
-      "date": "2026-05-27",
-      "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-      "source": "devto"
-    },
-    "6221c201abd4f174": {
-      "date": "2026-05-27",
-      "title": "SchemaSpy vs SchemaCrawler - Which Database Documentation Tool is Right for You?",
-      "source": "devto"
-    },
-    "d0266ca6aa32fd20": {
-      "date": "2026-05-27",
-      "title": "How I Built an Indonesian NLP Parser That Understands Warung Owners, Then Abandoned It",
-      "source": "devto"
-    },
     "da9dac9b2fce4efa": {
       "date": "2026-05-28",
       "title": "AccountyCat",
@@ -4995,6 +4830,151 @@
     "6bf20bedea38ea7d": {
       "date": "2026-06-26",
       "title": "NanmiCoder / MediaCrawler",
+      "source": "github"
+    },
+    "32c9cee39e6c6d76": {
+      "date": "2026-06-27",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "source": "hackernews"
+    },
+    "da8fbc1a4b495fcf": {
+      "date": "2026-06-27",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "source": "hackernews"
+    },
+    "3b705bc8088743d9": {
+      "date": "2026-06-27",
+      "title": "OpenRA",
+      "source": "hackernews"
+    },
+    "41b9daf68b2b2d21": {
+      "date": "2026-06-27",
+      "title": "Fintech Engineering Handbook",
+      "source": "hackernews"
+    },
+    "1c588e22a528507a": {
+      "date": "2026-06-27",
+      "title": "The case for physical media ownership",
+      "source": "hackernews"
+    },
+    "ba51cc37be17f5bc": {
+      "date": "2026-06-27",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "source": "hackernews"
+    },
+    "1bc8b9cb5521d3b4": {
+      "date": "2026-06-27",
+      "title": "AI learns the “dark art” of RFIC design",
+      "source": "hackernews"
+    },
+    "af0abad6fcd9e2cb": {
+      "date": "2026-06-27",
+      "title": "Turn your site into a place people can bump into each other",
+      "source": "hackernews"
+    },
+    "6910a232f7ec4418": {
+      "date": "2026-06-27",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "source": "hackernews"
+    },
+    "2666363f6c713d27": {
+      "date": "2026-06-27",
+      "title": "Enhancing X11 Application Security with LXC",
+      "source": "hackernews"
+    },
+    "0f300b70d5d85ade": {
+      "date": "2026-06-27",
+      "title": "Cloud World Model",
+      "source": "producthunt"
+    },
+    "f12862b50ea23a24": {
+      "date": "2026-06-27",
+      "title": "Supra Player",
+      "source": "producthunt"
+    },
+    "beac9ebb46c00e98": {
+      "date": "2026-06-27",
+      "title": "Nada",
+      "source": "producthunt"
+    },
+    "fc266d1a66185534": {
+      "date": "2026-06-27",
+      "title": "Folio AI",
+      "source": "producthunt"
+    },
+    "cb2b01ea035784e9": {
+      "date": "2026-06-27",
+      "title": "RetroMac",
+      "source": "producthunt"
+    },
+    "8033ef29df6b8320": {
+      "date": "2026-06-27",
+      "title": "Sleek Analytics",
+      "source": "producthunt"
+    },
+    "11b893c97f741ea9": {
+      "date": "2026-06-27",
+      "title": "Engineering a Brainrot art installation on an Orange Pi Zero 🍊",
+      "source": "devto"
+    },
+    "54c7b44f5e39d2b1": {
+      "date": "2026-06-27",
+      "title": "I Built a Serverless VPN on Lambda MicroVMs — 12 Builds, 5 Dead Ends, 1 Working Architecture",
+      "source": "devto"
+    },
+    "e7ed8f701f0bcb03": {
+      "date": "2026-06-27",
+      "title": "How To Learn Go Fast: A Practical Roadmap For Senior Backend Developers",
+      "source": "devto"
+    },
+    "5d3c04dad35e4448": {
+      "date": "2026-06-27",
+      "title": "AI Didn't Invent Slop. It Only Made It Infinite.",
+      "source": "devto"
+    },
+    "4ca7bda5aaefc271": {
+      "date": "2026-06-27",
+      "title": "What I Learned About PDAs in a Week of Building on Solana",
+      "source": "devto"
+    },
+    "243a7839b37d368c": {
+      "date": "2026-06-27",
+      "title": "Choreography of validation: how to make your auth form seamless and usable",
+      "source": "devto"
+    },
+    "8b9f46a1a0432e48": {
+      "date": "2026-06-27",
+      "title": "How I auto-generate 800+ App Store screenshots across 39 languages and 3 devices",
+      "source": "devto"
+    },
+    "87cdde7ddd251968": {
+      "date": "2026-06-27",
+      "title": "I Built a Full-Stack B2B Marketplace in 3 Days With V0, Next.js 16, and Vercel's AWS Integration — H",
+      "source": "devto"
+    },
+    "2d14e20b3dfb59a6": {
+      "date": "2026-06-27",
+      "title": "I Built a QR Code Generator in Pure Vanilla JS — No Libraries, No Server, 202 Tests",
+      "source": "devto"
+    },
+    "9e7c393407630728": {
+      "date": "2026-06-27",
+      "title": "AI Helps Us Write Code Faster. So Why Aren’t Projects Moving Faster?",
+      "source": "devto"
+    },
+    "26454b4b1f40da47": {
+      "date": "2026-06-27",
+      "title": "hugohe3 / ppt-master",
+      "source": "github"
+    },
+    "f2f7e303ad9af8e4": {
+      "date": "2026-06-27",
+      "title": "Anil-matcha / Open-Generative-AI",
+      "source": "github"
+    },
+    "8504c35e23d06b6e": {
+      "date": "2026-06-27",
+      "title": "dbt-labs / dbt-core",
       "source": "github"
     }
   }
