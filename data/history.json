@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-06-27T23:51:12.364212",
+  "last_updated": "2026-06-28T23:56:10.932553",
   "sent_items": {
-    "da9dac9b2fce4efa": {
-      "date": "2026-05-28",
-      "title": "AccountyCat",
-      "source": "producthunt"
-    },
-    "f594bb21f920ee51": {
-      "date": "2026-05-28",
-      "title": "Compartment",
-      "source": "producthunt"
-    },
-    "2a6a2deeccf7f2dd": {
-      "date": "2026-05-28",
-      "title": "Robinhood Agentic Trading",
-      "source": "producthunt"
-    },
-    "4b9488f2a67ddee0": {
-      "date": "2026-05-28",
-      "title": "Buffer API",
-      "source": "producthunt"
-    },
-    "0c91ee43cf5945e6": {
-      "date": "2026-05-28",
-      "title": "Pitch Agent",
-      "source": "producthunt"
-    },
-    "7561f9d2093e27d4": {
-      "date": "2026-05-28",
-      "title": "KugelAudio",
-      "source": "producthunt"
-    },
-    "f0d5337dadbeedba": {
-      "date": "2026-05-28",
-      "title": "Kim Personal Health Assistant",
-      "source": "producthunt"
-    },
-    "0c76ced28bcf1c0a": {
-      "date": "2026-05-28",
-      "title": "Crew44",
-      "source": "producthunt"
-    },
-    "5f3a9a519302e6ae": {
-      "date": "2026-05-28",
-      "title": "Claude Opus 4.8",
-      "source": "hackernews"
-    },
-    "419f540eb9e69a9f": {
-      "date": "2026-05-28",
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "source": "hackernews"
-    },
-    "761a1c72e18bc374": {
-      "date": "2026-05-28",
-      "title": "Building durable workflows on Postgres",
-      "source": "hackernews"
-    },
-    "eeb9b49368063b95": {
-      "date": "2026-05-28",
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "source": "hackernews"
-    },
-    "dad1b3453af8c384": {
-      "date": "2026-05-28",
-      "title": "Various LLM Smells",
-      "source": "hackernews"
-    },
-    "5e731cc90e6edab8": {
-      "date": "2026-05-28",
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "source": "hackernews"
-    },
-    "4b8627dcdd302966": {
-      "date": "2026-05-28",
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "source": "hackernews"
-    },
-    "7e5259e3c10b4fa9": {
-      "date": "2026-05-28",
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "source": "hackernews"
-    },
-    "825b00621fc34b6d": {
-      "date": "2026-05-28",
-      "title": "I hated writing until I learned there’s a science to it (2024)",
-      "source": "hackernews"
-    },
-    "a57b0954d27ce89c": {
-      "date": "2026-05-28",
-      "title": "Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",
-      "source": "hackernews"
-    },
-    "6266b8370bd2cbd4": {
-      "date": "2026-05-28",
-      "title": "AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors.",
-      "source": "devto"
-    },
-    "b4ba6ff0c2b216ac": {
-      "date": "2026-05-28",
-      "title": "I Thought Coding Was The Job",
-      "source": "devto"
-    },
-    "573c881ad8d12a06": {
-      "date": "2026-05-28",
-      "title": "Winner Announcement Delayed for the Gemma 4 Challenge",
-      "source": "devto"
-    },
-    "7366e71c6a3ce932": {
-      "date": "2026-05-28",
-      "title": "Copilot helped me deploy my passion project to the App Store",
-      "source": "devto"
-    },
-    "ae166602b7824027": {
-      "date": "2026-05-28",
-      "title": "Building an Offline-First Bushfire Response Platform With Hermes Agent",
-      "source": "devto"
-    },
-    "4fcf4c152b38071a": {
-      "date": "2026-05-28",
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "source": "devto"
-    },
-    "f244fb94c7739e68": {
-      "date": "2026-05-28",
-      "title": "Seasons time-lapse - alignment",
-      "source": "devto"
-    },
-    "c90666bec5b8d630": {
-      "date": "2026-05-28",
-      "title": "I Built an MCP Agent Framework for My B.Tech Major Project. It Got 750+ npm Downloads in Week One. H",
-      "source": "devto"
-    },
-    "f74c1fa3b45c6930": {
-      "date": "2026-05-28",
-      "title": "I Built Sổ Lãi, a Practical Profit Tracker for Vietnamese Online Shops",
-      "source": "devto"
-    },
-    "8bd0ec49b0994dc7": {
-      "date": "2026-05-28",
-      "title": "My AI Kept Hallucinating Career Paths. I Abandoned the Project. GitHub Copilot Helped Me Fix What Wa",
-      "source": "devto"
-    },
-    "33054ecb8bf0f855": {
-      "date": "2026-05-28",
-      "title": "microsoft / markitdown",
-      "source": "github"
-    },
-    "38bb6a600df0e5fa": {
-      "date": "2026-05-28",
-      "title": "revfactory / harness",
-      "source": "github"
-    },
-    "bcfb7e936799fa98": {
-      "date": "2026-05-28",
-      "title": "codecrafters-io / build-your-own-x",
-      "source": "github"
-    },
-    "2db83a025fb2e599": {
-      "date": "2026-05-28",
-      "title": "unclecode / crawl4ai",
-      "source": "github"
-    },
-    "7a898800576591d9": {
-      "date": "2026-05-28",
-      "title": "OpenMOSS / MOSS-TTS",
-      "source": "github"
-    },
-    "7cb97b3a7c12222e": {
-      "date": "2026-05-28",
-      "title": "EveryInc / compound-engineering-plugin",
-      "source": "github"
-    },
     "2da885b226251faf": {
       "date": "2026-05-29",
       "title": "The dead economy theory",
@@ -4975,6 +4805,156 @@
     "8504c35e23d06b6e": {
       "date": "2026-06-27",
       "title": "dbt-labs / dbt-core",
+      "source": "github"
+    },
+    "a92ea7afdd55aefe": {
+      "date": "2026-06-28",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "source": "hackernews"
+    },
+    "f2ffd6865721512b": {
+      "date": "2026-06-28",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "source": "hackernews"
+    },
+    "8c4181808166a672": {
+      "date": "2026-06-28",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "source": "hackernews"
+    },
+    "8cfa97b473cbcd87": {
+      "date": "2026-06-28",
+      "title": "Librepods: AirPods liberated",
+      "source": "hackernews"
+    },
+    "f8e0997924c593d8": {
+      "date": "2026-06-28",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "source": "hackernews"
+    },
+    "ed2181489b055804": {
+      "date": "2026-06-28",
+      "title": "Historical memory prices 1960-2026",
+      "source": "hackernews"
+    },
+    "1f9652574a60a335": {
+      "date": "2026-06-28",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "source": "hackernews"
+    },
+    "87b19901de257909": {
+      "date": "2026-06-28",
+      "title": "Xonaly – Canada's Independent Search Engine",
+      "source": "hackernews"
+    },
+    "d80621a742a2b5b8": {
+      "date": "2026-06-28",
+      "title": "A QNX-inspired operating system with selectable kernels",
+      "source": "hackernews"
+    },
+    "ce32f81753d9e8f7": {
+      "date": "2026-06-28",
+      "title": "Knowledge Distillation of Black-Box Large Language Models",
+      "source": "hackernews"
+    },
+    "247b77db1ca8936a": {
+      "date": "2026-06-28",
+      "title": "Persona.js",
+      "source": "producthunt"
+    },
+    "ee2ec4aa04ea13b0": {
+      "date": "2026-06-28",
+      "title": "Lyto",
+      "source": "producthunt"
+    },
+    "6a5f3fadd8ed23bf": {
+      "date": "2026-06-28",
+      "title": "GetCompress",
+      "source": "producthunt"
+    },
+    "9e936683909d6596": {
+      "date": "2026-06-28",
+      "title": "Dotient",
+      "source": "producthunt"
+    },
+    "190bba270386e4e1": {
+      "date": "2026-06-28",
+      "title": "1%",
+      "source": "devto"
+    },
+    "75cdef754e79588a": {
+      "date": "2026-06-28",
+      "title": "V.E.L.O.C.I.T.Y.-OS: Kimi K2.7 and the 'Safe-Room Security' Illusion (Part 1)",
+      "source": "devto"
+    },
+    "641aea483f3f5408": {
+      "date": "2026-06-28",
+      "title": "VP of Nothing: The CEO's Nephew Took Over My AI Platform. The Client Walked Within a Month.",
+      "source": "devto"
+    },
+    "fba5ca9b0d99ddf7": {
+      "date": "2026-06-28",
+      "title": "V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel & LLM Terminal Handover (Part 12)",
+      "source": "devto"
+    },
+    "433ba5c5a1ba5747": {
+      "date": "2026-06-28",
+      "title": "V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack & The 30MB Standalone IDE (Part 3)",
+      "source": "devto"
+    },
+    "8ebd3669901ddef3": {
+      "date": "2026-06-28",
+      "title": "V.E.L.O.C.I.T.Y.-OS: The Synaptic Canvas GUI & V-NCE GPU (Part 10)",
+      "source": "devto"
+    },
+    "a004f51213e4bba2": {
+      "date": "2026-06-28",
+      "title": "The German Tank Problem: Why You Need UUIDs",
+      "source": "devto"
+    },
+    "fdc922d5d4ac33e6": {
+      "date": "2026-06-28",
+      "title": "Choosing the Right Database Abstraction",
+      "source": "devto"
+    },
+    "c74cf8e3052802b6": {
+      "date": "2026-06-28",
+      "title": "Making of Tiny RPG Studio",
+      "source": "devto"
+    },
+    "ec5884488bd2357e": {
+      "date": "2026-06-28",
+      "title": "Can retrieval agents like ChatGPT and Perplexity read your website? Agentis Lux sees what they see.",
+      "source": "devto"
+    },
+    "5d8317a963e5edd1": {
+      "date": "2026-06-28",
+      "title": "Robbyant / lingbot-map",
+      "source": "github"
+    },
+    "e68118c8b66fa3b1": {
+      "date": "2026-06-28",
+      "title": "cupy / cupy",
+      "source": "github"
+    },
+    "cf22fb2fe760cb42": {
+      "date": "2026-06-28",
+      "title": "altic-dev / FluidVoice",
+      "source": "github"
+    },
+    "4ea29adcea71be3d": {
+      "date": "2026-06-28",
+      "title": "ByteByteGoHq / system-design-101",
+      "source": "github"
+    },
+    "11576ef07d08cff8": {
+      "date": "2026-06-28",
+      "title": "usestrix / strix",
+      "source": "github"
+    },
+    "3a55db0d85d4aae8": {
+      "date": "2026-06-28",
+      "title": "browser-use / video-use",
       "source": "github"
     }
   }
