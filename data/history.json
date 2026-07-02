@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-02T00:07:14.944466",
+  "last_updated": "2026-07-02T23:56:37.086151",
   "sent_items": {
     "9c42fc7af7caf7d5": {
       "date": "2026-06-03",
@@ -4831,6 +4831,181 @@
       "date": "2026-07-02",
       "title": "togatoga / karukan",
       "source": "github"
+    },
+    "c172fe28afb4612e": {
+      "date": "2026-07-02",
+      "title": "Needle",
+      "source": "producthunt"
+    },
+    "ed2485507909c3fb": {
+      "date": "2026-07-02",
+      "title": "Solaris",
+      "source": "producthunt"
+    },
+    "25ab8c8fd447cfb1": {
+      "date": "2026-07-02",
+      "title": "Flowly",
+      "source": "producthunt"
+    },
+    "789205a485444e96": {
+      "date": "2026-07-02",
+      "title": "html.contact",
+      "source": "producthunt"
+    },
+    "a73f8d45977aeb76": {
+      "date": "2026-07-02",
+      "title": "Context.dev",
+      "source": "producthunt"
+    },
+    "19d67389f2888c1e": {
+      "date": "2026-07-02",
+      "title": "Banger Mail",
+      "source": "producthunt"
+    },
+    "c8a63f336f46ce23": {
+      "date": "2026-07-02",
+      "title": "Macuse",
+      "source": "producthunt"
+    },
+    "3f0e1b5456b65d43": {
+      "date": "2026-07-02",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "source": "hackernews"
+    },
+    "0fa4d64cd3e544e4": {
+      "date": "2026-07-02",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "source": "hackernews"
+    },
+    "c2664692b7cab44c": {
+      "date": "2026-07-02",
+      "title": "Podman v6.0.0",
+      "source": "hackernews"
+    },
+    "486d391fa031670b": {
+      "date": "2026-07-02",
+      "title": "Virginia bans sale of geolocation data",
+      "source": "hackernews"
+    },
+    "a168a91a841f78aa": {
+      "date": "2026-07-02",
+      "title": "Exapunks (2018)",
+      "source": "hackernews"
+    },
+    "6a636c6e1e513b2f": {
+      "date": "2026-07-02",
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "source": "hackernews"
+    },
+    "2ed7de95f7264611": {
+      "date": "2026-07-02",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "source": "hackernews"
+    },
+    "c946906d26d88cc5": {
+      "date": "2026-07-02",
+      "title": "This is my attempt to get Vulkan going on NetBSD",
+      "source": "hackernews"
+    },
+    "a38fe6ec4c81f3a0": {
+      "date": "2026-07-02",
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "source": "hackernews"
+    },
+    "1763e93d33e286bc": {
+      "date": "2026-07-02",
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "source": "hackernews"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-07-02",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "b4212d4b4d442e7e": {
+      "date": "2026-07-02",
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "source": "github"
+    },
+    "83e2074d59a29f50": {
+      "date": "2026-07-02",
+      "title": "actions / checkout",
+      "source": "github"
+    },
+    "a90d342e2181a927": {
+      "date": "2026-07-02",
+      "title": "affaan-m / ECC",
+      "source": "github"
+    },
+    "8b0b3e6039e7a246": {
+      "date": "2026-07-02",
+      "title": "agentskills / agentskills",
+      "source": "github"
+    },
+    "e4a46981129742c3": {
+      "date": "2026-07-02",
+      "title": "openai / codex-plugin-cc",
+      "source": "github"
+    },
+    "4d010239f76c5704": {
+      "date": "2026-07-02",
+      "title": "langflow-ai / langflow",
+      "source": "github"
+    },
+    "2d9028ec7d2d740c": {
+      "date": "2026-07-02",
+      "title": "pytorch / pytorch",
+      "source": "github"
+    },
+    "e97aa0ebb2cbcb76": {
+      "date": "2026-07-02",
+      "title": "Letting the DEV Community Weigh in on the Topics of AIE",
+      "source": "devto"
+    },
+    "65f01dc449ca12ec": {
+      "date": "2026-07-02",
+      "title": "18 Hot Takes On Where AI is Headed Next",
+      "source": "devto"
+    },
+    "c96ca5cac7cd2692": {
+      "date": "2026-07-02",
+      "title": "Let Us Be Free",
+      "source": "devto"
+    },
+    "88cfb2d8dd91950e": {
+      "date": "2026-07-02",
+      "title": "Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!",
+      "source": "devto"
+    },
+    "a70ba12059057918": {
+      "date": "2026-07-02",
+      "title": "Stop Your LLM From Getting Owned",
+      "source": "devto"
+    },
+    "6290d1f137c6dbe2": {
+      "date": "2026-07-02",
+      "title": "Your Agents Should Be Multiplayer",
+      "source": "devto"
+    },
+    "6a308471ff837820": {
+      "date": "2026-07-02",
+      "title": "The Fragile Balance of AI Development: Individual Flow vs. Collective Context",
+      "source": "devto"
+    },
+    "9d37398190aab81f": {
+      "date": "2026-07-02",
+      "title": "Google VP of Technology says he’s given up on coding",
+      "source": "devto"
+    },
+    "302a8fa5b4a3c89a": {
+      "date": "2026-07-02",
+      "title": "Is Forward Deployed Engineering Killing DevRel?",
+      "source": "devto"
+    },
+    "fcb731ac7dc7e95c": {
+      "date": "2026-07-02",
+      "title": "$30 and a Lifetime of Liability",
+      "source": "devto"
     }
   }
 }
