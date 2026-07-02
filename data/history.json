@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-01T00:01:21.828240",
+  "last_updated": "2026-07-02T00:07:14.944466",
   "sent_items": {
-    "73b095497bbebddb": {
-      "date": "2026-06-01",
-      "title": "Emily by Co-Desk",
-      "source": "producthunt"
-    },
-    "c0cf853ef5f82926": {
-      "date": "2026-06-01",
-      "title": "Open Caffeine",
-      "source": "producthunt"
-    },
-    "3109f32692fafbd1": {
-      "date": "2026-06-01",
-      "title": "Typeahead",
-      "source": "producthunt"
-    },
-    "516272cded4436d5": {
-      "date": "2026-06-01",
-      "title": "Skylive",
-      "source": "producthunt"
-    },
-    "ac1d64fad45c2e05": {
-      "date": "2026-06-01",
-      "title": "Tabstack Web Research",
-      "source": "producthunt"
-    },
-    "429967b29e103a35": {
-      "date": "2026-06-01",
-      "title": "NetworkSpy",
-      "source": "producthunt"
-    },
-    "b1f5a6c54687a0fd": {
-      "date": "2026-06-01",
-      "title": "Trippple Club",
-      "source": "producthunt"
-    },
-    "ccfc4f0eeb9b1a22": {
-      "date": "2026-06-01",
-      "title": "R0Y OMNI 1.0",
-      "source": "producthunt"
-    },
-    "26b866f0ab0b359d": {
-      "date": "2026-06-01",
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "source": "hackernews"
-    },
-    "9d59c6974e123c39": {
-      "date": "2026-06-01",
-      "title": "CS336: Language Modeling from Scratch",
-      "source": "hackernews"
-    },
-    "b1233451ec9006e4": {
-      "date": "2026-06-01",
-      "title": "Nvidia RTX Spark",
-      "source": "hackernews"
-    },
-    "34592f50e59d0741": {
-      "date": "2026-06-01",
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "source": "hackernews"
-    },
-    "bbc6d1c5b69b23df": {
-      "date": "2026-06-01",
-      "title": "What appear to be biochemical processes may be a natural feature of geology",
-      "source": "hackernews"
-    },
-    "1bd516bf80d32dfe": {
-      "date": "2026-06-01",
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "source": "hackernews"
-    },
-    "adf2d9d862390110": {
-      "date": "2026-06-01",
-      "title": "Debug Project",
-      "source": "hackernews"
-    },
-    "88474bf992dab61d": {
-      "date": "2026-06-01",
-      "title": "Stealing from Biologists to Compile Haskell Faster",
-      "source": "hackernews"
-    },
-    "f3f647eb2fa9d284": {
-      "date": "2026-06-01",
-      "title": "GrapheneOS Speech Services version 2 released",
-      "source": "hackernews"
-    },
-    "d15a4bcb01f57c5c": {
-      "date": "2026-06-01",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "source": "hackernews"
-    },
-    "be8acfaf11180d2a": {
-      "date": "2026-06-01",
-      "title": "pbakaus / impeccable",
-      "source": "github"
-    },
-    "afdace39e7492d8a": {
-      "date": "2026-06-01",
-      "title": "TauricResearch / TradingAgents",
-      "source": "github"
-    },
-    "86c066d5eb88de40": {
-      "date": "2026-06-01",
-      "title": "godotengine / godot",
-      "source": "github"
-    },
-    "14325000fbbfd1cc": {
-      "date": "2026-06-01",
-      "title": "stefan-jansen / machine-learning-for-trading",
-      "source": "github"
-    },
-    "a3d7c8d46e334891": {
-      "date": "2026-06-01",
-      "title": "I Rebuilt My Karaoke App So Everyone's Phone Could Be a Remote",
-      "source": "devto"
-    },
-    "b035b840eeee8008": {
-      "date": "2026-06-01",
-      "title": "What are your goals for the week? #181",
-      "source": "devto"
-    },
-    "a9877f43f0000863": {
-      "date": "2026-06-01",
-      "title": "Debloating The AI-Grown Codebase",
-      "source": "devto"
-    },
-    "9ede5ba7256fb462": {
-      "date": "2026-06-01",
-      "title": "Why My Analytics Was Logging Every Page Visit Twice (And How I Fixed It)",
-      "source": "devto"
-    },
-    "2ca7de54a8a4df46": {
-      "date": "2026-06-01",
-      "title": "Tossed The T.V. but Kept the Remote? Here's how to NOT generate more E-Waste.",
-      "source": "devto"
-    },
-    "846fbcc182ab1e25": {
-      "date": "2026-06-01",
-      "title": "Ihua 🌸 — Building an AI Women's Health Agent for the African Woman with Hermes Agent",
-      "source": "devto"
-    },
-    "cbeb67ad283a504e": {
-      "date": "2026-06-01",
-      "title": "Running PyTorch fork-safe in Celery on macOS",
-      "source": "devto"
-    },
-    "b8b2834cc824d95d": {
-      "date": "2026-06-01",
-      "title": "When Duplicate Code Is the Better Design",
-      "source": "devto"
-    },
-    "6021be904e868181": {
-      "date": "2026-06-01",
-      "title": "Why Strake Is Free Right Now",
-      "source": "devto"
-    },
-    "4e7e42f213e3e704": {
-      "date": "2026-06-01",
-      "title": "The Becoming: I gave an AI a blank sketchbook and it invented its own art style",
-      "source": "devto"
-    },
     "9c42fc7af7caf7d5": {
       "date": "2026-06-03",
       "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
@@ -4835,6 +4675,161 @@
     "e67e2c38cce6781c": {
       "date": "2026-07-01",
       "title": "microsoft / AI-For-Beginners",
+      "source": "github"
+    },
+    "084d765c81983169": {
+      "date": "2026-07-02",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "source": "hackernews"
+    },
+    "a12deb738a9b8217": {
+      "date": "2026-07-02",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "source": "hackernews"
+    },
+    "d30c9de1be576f32": {
+      "date": "2026-07-02",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "source": "hackernews"
+    },
+    "949f5ecdede5c44b": {
+      "date": "2026-07-02",
+      "title": "What to learn to be a graphics programmer",
+      "source": "hackernews"
+    },
+    "d5223d9152909e82": {
+      "date": "2026-07-02",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "source": "hackernews"
+    },
+    "c6c2491bd7674539": {
+      "date": "2026-07-02",
+      "title": "ZCode – Harness for GLM-5.2",
+      "source": "hackernews"
+    },
+    "bf8e2aa13a4b247a": {
+      "date": "2026-07-02",
+      "title": "Qualcomm Linux 2.0",
+      "source": "hackernews"
+    },
+    "3b09fdd4bc0ceb77": {
+      "date": "2026-07-02",
+      "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+      "source": "hackernews"
+    },
+    "b1c50a8b5ad84a7a": {
+      "date": "2026-07-02",
+      "title": "Chip Off the Old Block",
+      "source": "hackernews"
+    },
+    "269481c3846e9d1c": {
+      "date": "2026-07-02",
+      "title": "The Underhanded C Contest",
+      "source": "hackernews"
+    },
+    "b35ccb04fbf73f21": {
+      "date": "2026-07-02",
+      "title": "Stigg 2.0",
+      "source": "producthunt"
+    },
+    "db1466ae47f47dd5": {
+      "date": "2026-07-02",
+      "title": "Gemini Omni Flash",
+      "source": "producthunt"
+    },
+    "fd77a6035551a197": {
+      "date": "2026-07-02",
+      "title": "Metal",
+      "source": "producthunt"
+    },
+    "07d829294732f270": {
+      "date": "2026-07-02",
+      "title": "Clusy",
+      "source": "producthunt"
+    },
+    "64f1c2480a008060": {
+      "date": "2026-07-02",
+      "title": "LightTwist",
+      "source": "producthunt"
+    },
+    "7463c618aaf12197": {
+      "date": "2026-07-02",
+      "title": "Browser Notes",
+      "source": "producthunt"
+    },
+    "1b630a4528e975fa": {
+      "date": "2026-07-02",
+      "title": "Claude Sonnet 5",
+      "source": "producthunt"
+    },
+    "837545b135115f9b": {
+      "date": "2026-07-02",
+      "title": "Loot",
+      "source": "producthunt"
+    },
+    "38a3a0fd4b70b820": {
+      "date": "2026-07-02",
+      "title": "My First Year at DEV Recap",
+      "source": "devto"
+    },
+    "ecd00f23b39c9b6d": {
+      "date": "2026-07-02",
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "source": "devto"
+    },
+    "d1c00af096a2c44b": {
+      "date": "2026-07-02",
+      "title": "I Tried to Escape LeetCode for 2 Years (But Here We Are)",
+      "source": "devto"
+    },
+    "c925fc206830926b": {
+      "date": "2026-07-02",
+      "title": "The Agentic, Ironclad Onion",
+      "source": "devto"
+    },
+    "4b6c4869e821d3f9": {
+      "date": "2026-07-02",
+      "title": "It’s Time To Put Humans Back In The Software",
+      "source": "devto"
+    },
+    "99843019e01fcfb6": {
+      "date": "2026-07-02",
+      "title": "DevRel in the Age of AI Is A Search for Meaning",
+      "source": "devto"
+    },
+    "a8c0bfd52783e1dd": {
+      "date": "2026-07-02",
+      "title": "Token Town",
+      "source": "devto"
+    },
+    "d258ee7e1459b8aa": {
+      "date": "2026-07-02",
+      "title": "Optimizing for Agents with llms.txt",
+      "source": "devto"
+    },
+    "214967237eb833f4": {
+      "date": "2026-07-02",
+      "title": "Stratagems #4: P Walked Into an AI Monitoring POC. P Didn't Run a Single Test.",
+      "source": "devto"
+    },
+    "14bf7d1408629b3f": {
+      "date": "2026-07-02",
+      "title": "Build a Minimal WebMCP Agent with Playwright and Gemini",
+      "source": "devto"
+    },
+    "af5e1c06972b6063": {
+      "date": "2026-07-02",
+      "title": "facebook / astryx",
+      "source": "github"
+    },
+    "7dc28f2cebb2845c": {
+      "date": "2026-07-02",
+      "title": "allenai / olmocr",
+      "source": "github"
+    },
+    "27ed64f7c2ff1b61": {
+      "date": "2026-07-02",
+      "title": "togatoga / karukan",
       "source": "github"
     }
   }
