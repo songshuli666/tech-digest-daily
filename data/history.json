@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-02T23:56:37.086151",
+  "last_updated": "2026-07-03T23:40:51.263789",
   "sent_items": {
     "9c42fc7af7caf7d5": {
       "date": "2026-06-03",
@@ -5005,6 +5005,171 @@
     "fcb731ac7dc7e95c": {
       "date": "2026-07-02",
       "title": "$30 and a Lifetime of Liability",
+      "source": "devto"
+    },
+    "68ae0fa3f38a378b": {
+      "date": "2026-07-03",
+      "title": "nxt",
+      "source": "producthunt"
+    },
+    "87872c6c3c8a88a3": {
+      "date": "2026-07-03",
+      "title": "Glaze by Raycast",
+      "source": "producthunt"
+    },
+    "0d0712a747aac3f7": {
+      "date": "2026-07-03",
+      "title": "Vox",
+      "source": "producthunt"
+    },
+    "3204c651b68f17f7": {
+      "date": "2026-07-03",
+      "title": "Osloq",
+      "source": "producthunt"
+    },
+    "0dd7446be77e4e19": {
+      "date": "2026-07-03",
+      "title": "Tamamon",
+      "source": "producthunt"
+    },
+    "8c46e6ca6fe692ea": {
+      "date": "2026-07-03",
+      "title": "Goals from Loops",
+      "source": "producthunt"
+    },
+    "8a2791d6d450d61a": {
+      "date": "2026-07-03",
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "source": "hackernews"
+    },
+    "e2dc986997dd24d5": {
+      "date": "2026-07-03",
+      "title": "Espionage Against the European Parliament",
+      "source": "hackernews"
+    },
+    "d95eb50fe862e203": {
+      "date": "2026-07-03",
+      "title": "SearXNG: A free internet metasearch engine",
+      "source": "hackernews"
+    },
+    "4df86ed7dda0c474": {
+      "date": "2026-07-03",
+      "title": "FreeBSD ate my RAM",
+      "source": "hackernews"
+    },
+    "bd44fd26987fd5ad": {
+      "date": "2026-07-03",
+      "title": "Applied Category Theory Course (2018)",
+      "source": "hackernews"
+    },
+    "cd19f1c90ca5f510": {
+      "date": "2026-07-03",
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "source": "hackernews"
+    },
+    "20760114f5884215": {
+      "date": "2026-07-03",
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "source": "hackernews"
+    },
+    "e376c5c914995e00": {
+      "date": "2026-07-03",
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "source": "hackernews"
+    },
+    "48ff7a9b409ffb9f": {
+      "date": "2026-07-03",
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "source": "hackernews"
+    },
+    "553e55f93e4de264": {
+      "date": "2026-07-03",
+      "title": "Dispersion loss counteracts embedding condensation in small language models",
+      "source": "hackernews"
+    },
+    "8042bfc68ffa4e4a": {
+      "date": "2026-07-03",
+      "title": "elastic / elasticsearch",
+      "source": "github"
+    },
+    "d66865b90c763b69": {
+      "date": "2026-07-03",
+      "title": "ansible / ansible",
+      "source": "github"
+    },
+    "99eec6130edaf0a1": {
+      "date": "2026-07-03",
+      "title": "rommapp / romm",
+      "source": "github"
+    },
+    "fa9c1eb8c45e34c9": {
+      "date": "2026-07-03",
+      "title": "harvard-edge / cs249r_book",
+      "source": "github"
+    },
+    "f8d3d53ff32be104": {
+      "date": "2026-07-03",
+      "title": "apache / maven",
+      "source": "github"
+    },
+    "8fd8c2cd127cba58": {
+      "date": "2026-07-03",
+      "title": "safishamsi / graphify",
+      "source": "github"
+    },
+    "1e61851c7eb0065b": {
+      "date": "2026-07-03",
+      "title": "anthropics / claude-code",
+      "source": "github"
+    },
+    "c047972d0e9c473b": {
+      "date": "2026-07-03",
+      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
+      "source": "devto"
+    },
+    "b04b436fa652a613": {
+      "date": "2026-07-03",
+      "title": "A Third Brain for your Second Brain",
+      "source": "devto"
+    },
+    "6b106afe00ea0e3f": {
+      "date": "2026-07-03",
+      "title": "Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackat",
+      "source": "devto"
+    },
+    "5a734e88579223c4": {
+      "date": "2026-07-03",
+      "title": "Protect Yourself, Mesh Yourself",
+      "source": "devto"
+    },
+    "a5cf3ff0b2cf4cfe": {
+      "date": "2026-07-03",
+      "title": "The most useful tool in my dev setup is a password manager",
+      "source": "devto"
+    },
+    "4f122cd39588e05a": {
+      "date": "2026-07-03",
+      "title": "Choosing the Right Tooling Layer for Your Agent",
+      "source": "devto"
+    },
+    "cf2a285abf83a664": {
+      "date": "2026-07-03",
+      "title": "LuciferCore: The Redemption Arc — From a Naive Prototype to a Battle-Tested .NET Framework",
+      "source": "devto"
+    },
+    "f50e5e27ed3966e9": {
+      "date": "2026-07-03",
+      "title": "The biggest World’s Fair yet powers down for the moment",
+      "source": "devto"
+    },
+    "dcef8aca100be700": {
+      "date": "2026-07-03",
+      "title": "Is looping ready to roll? Experts split on the future of coding",
+      "source": "devto"
+    },
+    "73c23ab983fb2861": {
+      "date": "2026-07-03",
+      "title": "Dev log #10 The Power of the Zero-Commit Week: Stepping Back to Move Faster",
       "source": "devto"
     }
   }
