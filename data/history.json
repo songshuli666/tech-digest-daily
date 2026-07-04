@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-03T23:40:51.263789",
+  "last_updated": "2026-07-04T23:39:40.061740",
   "sent_items": {
-    "9c42fc7af7caf7d5": {
-      "date": "2026-06-03",
-      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "source": "hackernews"
-    },
-    "4a8e60d6a363b8c8": {
-      "date": "2026-06-03",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "source": "hackernews"
-    },
-    "5e3fb37ba0a46de7": {
-      "date": "2026-06-03",
-      "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-      "source": "hackernews"
-    },
-    "cf136cba317516a0": {
-      "date": "2026-06-03",
-      "title": "MAI-Code-1-Flash",
-      "source": "hackernews"
-    },
-    "7678ea2a30a537f7": {
-      "date": "2026-06-03",
-      "title": "CT scans of BYD car parts",
-      "source": "hackernews"
-    },
-    "6259d1b372b1a9c4": {
-      "date": "2026-06-03",
-      "title": "My thoughts after using Clojure for about a month",
-      "source": "hackernews"
-    },
-    "6a91bb9e77a5b768": {
-      "date": "2026-06-03",
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "source": "hackernews"
-    },
-    "c47f27c0df87bd0e": {
-      "date": "2026-06-03",
-      "title": "California’s university system went all in on AI, now it's tearing itself apart",
-      "source": "hackernews"
-    },
-    "79c44a3e94ea04cd": {
-      "date": "2026-06-03",
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "source": "hackernews"
-    },
-    "56f4a9c9d9db3bab": {
-      "date": "2026-06-03",
-      "title": "4K years ago, Mohenjo-daro grew more equal over time",
-      "source": "hackernews"
-    },
-    "477eeac60d208753": {
-      "date": "2026-06-03",
-      "title": "Fundraisly",
-      "source": "producthunt"
-    },
-    "25f85150bcc18bd5": {
-      "date": "2026-06-03",
-      "title": "Gigacatalyst",
-      "source": "producthunt"
-    },
-    "21c4bcfb39a863db": {
-      "date": "2026-06-03",
-      "title": "Branda",
-      "source": "producthunt"
-    },
-    "a636d7a62908fdf4": {
-      "date": "2026-06-03",
-      "title": "GlowPulse",
-      "source": "producthunt"
-    },
-    "2bff2e08d8c60c5d": {
-      "date": "2026-06-03",
-      "title": "Gusto Cofounder",
-      "source": "producthunt"
-    },
-    "4ea3b1dce7a24bf0": {
-      "date": "2026-06-03",
-      "title": "PawPause",
-      "source": "producthunt"
-    },
-    "71b06b60a38ca011": {
-      "date": "2026-06-03",
-      "title": "Enshittifier",
-      "source": "producthunt"
-    },
-    "2df2b4f684244e97": {
-      "date": "2026-06-03",
-      "title": "Knock agent for Slack",
-      "source": "producthunt"
-    },
-    "502abd1a488bee98": {
-      "date": "2026-06-03",
-      "title": "Learning Lessons from Gaming",
-      "source": "devto"
-    },
-    "0d56c57d72db819e": {
-      "date": "2026-06-03",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "59351e36f3a25b39": {
-      "date": "2026-06-03",
-      "title": "How we turned the Replay keynote surprise into an open-source embedded playground",
-      "source": "devto"
-    },
-    "f9eb64bc64cace14": {
-      "date": "2026-06-03",
-      "title": "I Used My Last 7% of Copilot Tokens to Bring a 2014 WinForms Game Back to Life",
-      "source": "devto"
-    },
-    "9e981f60c19bde46": {
-      "date": "2026-06-03",
-      "title": "How fast is LlamaStash? Overhead, throughput, and a fair comparison with Ollama and LM Studio",
-      "source": "devto"
-    },
-    "cc89b489dc118ff0": {
-      "date": "2026-06-03",
-      "title": "Introducing LlamaStash: a zero-overhead, terminal-native llama.cpp launcher",
-      "source": "devto"
-    },
-    "47667866978e24aa": {
-      "date": "2026-06-03",
-      "title": "Gubernator [the kill ku8s]",
-      "source": "devto"
-    },
-    "9d01c012ffce9746": {
-      "date": "2026-06-03",
-      "title": "I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.",
-      "source": "devto"
-    },
-    "85d2d2eb071838eb": {
-      "date": "2026-06-03",
-      "title": "Send your first AI message in one API call",
-      "source": "devto"
-    },
-    "57ef89597d94efa3": {
-      "date": "2026-06-03",
-      "title": "Sovereign Synapse: The Context-Cleaner",
-      "source": "devto"
-    },
-    "fc660d3bee25c762": {
-      "date": "2026-06-03",
-      "title": "chopratejas / headroom",
-      "source": "github"
-    },
-    "9be2298923154546": {
-      "date": "2026-06-03",
-      "title": "reconurge / flowsint",
-      "source": "github"
-    },
-    "e7969addf9dd898b": {
-      "date": "2026-06-03",
-      "title": "jamwithai / production-agentic-rag-course",
-      "source": "github"
-    },
-    "cfb1d28a79107bc8": {
-      "date": "2026-06-03",
-      "title": "Open-LLM-VTuber / Open-LLM-VTuber",
-      "source": "github"
-    },
     "fbdc8389b6aa3fe5": {
       "date": "2026-06-04",
       "title": "superlog",
@@ -5170,6 +5010,141 @@
     "73c23ab983fb2861": {
       "date": "2026-07-03",
       "title": "Dev log #10 The Power of the Zero-Commit Week: Stepping Back to Move Faster",
+      "source": "devto"
+    },
+    "c2c60d9da6178892": {
+      "date": "2026-07-04",
+      "title": "Leaking YouTube creators' private videos",
+      "source": "hackernews"
+    },
+    "5622c8843cfec74c": {
+      "date": "2026-07-04",
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "source": "hackernews"
+    },
+    "f2169834bccf674f": {
+      "date": "2026-07-04",
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "source": "hackernews"
+    },
+    "ec14e8ba0b4833f4": {
+      "date": "2026-07-04",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "source": "hackernews"
+    },
+    "237a5c0312867f79": {
+      "date": "2026-07-04",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "source": "hackernews"
+    },
+    "840e15300deb6dc2": {
+      "date": "2026-07-04",
+      "title": "Verizon is About to Break our Watches",
+      "source": "hackernews"
+    },
+    "e48741dd7b6cc272": {
+      "date": "2026-07-04",
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "source": "hackernews"
+    },
+    "7887c58056129834": {
+      "date": "2026-07-04",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "source": "hackernews"
+    },
+    "e05c83752d2bc226": {
+      "date": "2026-07-04",
+      "title": "Drone Physics",
+      "source": "hackernews"
+    },
+    "5d8627e5c33aba79": {
+      "date": "2026-07-04",
+      "title": "Better Models: Worse Tools",
+      "source": "hackernews"
+    },
+    "03cad9028ecd6545": {
+      "date": "2026-07-04",
+      "title": "ChecklistFox",
+      "source": "producthunt"
+    },
+    "f705f973a5b91eda": {
+      "date": "2026-07-04",
+      "title": "Termi Protocol",
+      "source": "producthunt"
+    },
+    "d194019407f9c70f": {
+      "date": "2026-07-04",
+      "title": "Zackriya-Solutions / meetily",
+      "source": "github"
+    },
+    "3675b0176088850f": {
+      "date": "2026-07-04",
+      "title": "asgeirtj / system_prompts_leaks",
+      "source": "github"
+    },
+    "5acadd2fc4547853": {
+      "date": "2026-07-04",
+      "title": "dotnet / skills",
+      "source": "github"
+    },
+    "f6d44bafc3780456": {
+      "date": "2026-07-04",
+      "title": "immich-app / immich",
+      "source": "github"
+    },
+    "f04bf7788aebbb42": {
+      "date": "2026-07-04",
+      "title": "chthollyphile / folia-major",
+      "source": "github"
+    },
+    "6e8e1d669e818cc5": {
+      "date": "2026-07-04",
+      "title": "From 0 Likes to Meme Engineer",
+      "source": "devto"
+    },
+    "5b0b991f819faeed": {
+      "date": "2026-07-04",
+      "title": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
+      "source": "devto"
+    },
+    "dc4c032afe1270ec": {
+      "date": "2026-07-04",
+      "title": "A New Personal Best: What Six Months of Locking In Can Do",
+      "source": "devto"
+    },
+    "8fae141de6ccb8b3": {
+      "date": "2026-07-04",
+      "title": "HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.",
+      "source": "devto"
+    },
+    "bd0a35f82af34346": {
+      "date": "2026-07-04",
+      "title": "Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)",
+      "source": "devto"
+    },
+    "773dfb991b27a2d2": {
+      "date": "2026-07-04",
+      "title": "I Built My Own Text Editor",
+      "source": "devto"
+    },
+    "450e201c80da863e": {
+      "date": "2026-07-04",
+      "title": "AI For Fun! Électrique Chats for Hack the Kitty, Built with Kiro.",
+      "source": "devto"
+    },
+    "008652384c738989": {
+      "date": "2026-07-04",
+      "title": "My credential rule reported 842 secrets in vercel/ai. The real count was 0.",
+      "source": "devto"
+    },
+    "31a405910e79335b": {
+      "date": "2026-07-04",
+      "title": "Adding Homemade TLS to a Homemade Web Server",
+      "source": "devto"
+    },
+    "23c74af865d5f8df": {
+      "date": "2026-07-04",
+      "title": "What Google's \"Microservices Are Dead\" Paper Actually Said (And What It Missed About AI)",
       "source": "devto"
     }
   }
