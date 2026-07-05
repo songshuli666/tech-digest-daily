@@ -1,342 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-04T23:39:40.061740",
+  "last_updated": "2026-07-05T23:41:39.427361",
   "sent_items": {
-    "fbdc8389b6aa3fe5": {
-      "date": "2026-06-04",
-      "title": "superlog",
-      "source": "producthunt"
-    },
-    "4658b9c20a07e5f2": {
-      "date": "2026-06-04",
-      "title": "Forward",
-      "source": "producthunt"
-    },
-    "2bae7486a91b0c45": {
-      "date": "2026-06-04",
-      "title": "Dropstone 1.5",
-      "source": "producthunt"
-    },
-    "bb0ca7c213e4a3ff": {
-      "date": "2026-06-04",
-      "title": "Franz 6",
-      "source": "producthunt"
-    },
-    "a69e6a1af111f81f": {
-      "date": "2026-06-04",
-      "title": "Replicas",
-      "source": "producthunt"
-    },
-    "7bc24131d358ba02": {
-      "date": "2026-06-04",
-      "title": "Composer",
-      "source": "producthunt"
-    },
-    "3f214bfca9344c45": {
-      "date": "2026-06-04",
-      "title": "InsForge Backend Branching",
-      "source": "producthunt"
-    },
-    "432c145e4a85ba91": {
-      "date": "2026-06-04",
-      "title": "Brand Context API",
-      "source": "producthunt"
-    },
-    "16b2e2d45d991fd5": {
-      "date": "2026-06-04",
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "source": "hackernews"
-    },
-    "283b77a59c852d5b": {
-      "date": "2026-06-04",
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "source": "hackernews"
-    },
-    "e4384e18dab3ec1d": {
-      "date": "2026-06-04",
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "source": "hackernews"
-    },
-    "779ee421420a67f2": {
-      "date": "2026-06-04",
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "source": "hackernews"
-    },
-    "4d9e50a88f0438ea": {
-      "date": "2026-06-04",
-      "title": "DaVinci Resolve 21",
-      "source": "hackernews"
-    },
-    "9bd767c2185e11f5": {
-      "date": "2026-06-04",
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "source": "hackernews"
-    },
-    "810d79e8080b86e1": {
-      "date": "2026-06-04",
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "source": "hackernews"
-    },
-    "bfefbd1717ae1f7e": {
-      "date": "2026-06-04",
-      "title": "A Man Who Reads Books for a Living (One Every Two Days)",
-      "source": "hackernews"
-    },
-    "019c2fde17f91db4": {
-      "date": "2026-06-04",
-      "title": "Ableton Extensions SDK",
-      "source": "hackernews"
-    },
-    "8b98aacc9683ed77": {
-      "date": "2026-06-04",
-      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
-      "source": "hackernews"
-    },
-    "7fdb3d2f4950e680": {
-      "date": "2026-06-04",
-      "title": "aquasecurity / trivy",
-      "source": "github"
-    },
-    "965fc61ede103703": {
-      "date": "2026-06-04",
-      "title": "opendataloader-project / opendataloader-pdf",
-      "source": "github"
-    },
-    "7d9f29e1c13843dd": {
-      "date": "2026-06-04",
-      "title": "jwasham / coding-interview-university",
-      "source": "github"
-    },
-    "cef11b5e74b825ba": {
-      "date": "2026-06-04",
-      "title": "lyogavin / airllm",
-      "source": "github"
-    },
-    "3888eecb3f450ecd": {
-      "date": "2026-06-04",
-      "title": "HKUDS / Vibe-Trading",
-      "source": "github"
-    },
-    "43df2c8aad0ed932": {
-      "date": "2026-06-04",
-      "title": "Join the June Solstice Game Jam: $1,000 in prizes!",
-      "source": "devto"
-    },
-    "dd30ef5eb8c1aeb9": {
-      "date": "2026-06-04",
-      "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-      "source": "devto"
-    },
-    "a3b9a7e6f7ea4f3c": {
-      "date": "2026-06-04",
-      "title": "Want to work with me? We're hiring a Community Program Manager at DEV!",
-      "source": "devto"
-    },
-    "0d607d12f8dc5753": {
-      "date": "2026-06-04",
-      "title": "After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System",
-      "source": "devto"
-    },
-    "42955912d520d9a9": {
-      "date": "2026-06-04",
-      "title": "Why I stopped fighting the browser",
-      "source": "devto"
-    },
-    "6dfe9b02086af2d5": {
-      "date": "2026-06-04",
-      "title": "The Bug That Took 10 Minutes to Fix and 3 Days to Find",
-      "source": "devto"
-    },
-    "d1ee241d06ced6f5": {
-      "date": "2026-06-04",
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "source": "devto"
-    },
-    "c3158ed62d4228f8": {
-      "date": "2026-06-04",
-      "title": "Every tool seems to have a coding agent horned in these days..... I don't think that makes sense.",
-      "source": "devto"
-    },
-    "81ecd637bd199b56": {
-      "date": "2026-06-04",
-      "title": "Executing Google Apps Script on Complex Schedules using Vibe Coding",
-      "source": "devto"
-    },
-    "f26bb68f6df4c0e5": {
-      "date": "2026-06-04",
-      "title": "I built a tool to stop Claude from forgetting everything then forgot about it myself",
-      "source": "devto"
-    },
-    "e8140c74e8b01f8d": {
-      "date": "2026-06-04",
-      "title": "VoidZero Is Joining Cloudflare",
-      "source": "hackernews"
-    },
-    "9fa2c50a19b2ff29": {
-      "date": "2026-06-04",
-      "title": "Ian's Secure Shoelace Knot",
-      "source": "hackernews"
-    },
-    "5a4fc1b94d5aac9a": {
-      "date": "2026-06-04",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "source": "hackernews"
-    },
-    "dc05ceb317a93c0e": {
-      "date": "2026-06-04",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "source": "hackernews"
-    },
-    "56e49d50d863b5df": {
-      "date": "2026-06-04",
-      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-      "source": "hackernews"
-    },
-    "1f14063f067bcd39": {
-      "date": "2026-06-04",
-      "title": "IPv6 zones in URLs are a mistake",
-      "source": "hackernews"
-    },
-    "70d2e40954599745": {
-      "date": "2026-06-04",
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "source": "hackernews"
-    },
-    "b592da700f379925": {
-      "date": "2026-06-04",
-      "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
-      "source": "hackernews"
-    },
-    "4fbefb6a0e3523a8": {
-      "date": "2026-06-04",
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "source": "hackernews"
-    },
-    "926c8b39390aecdd": {
-      "date": "2026-06-04",
-      "title": "Queen bees emerge from special wax chambers",
-      "source": "hackernews"
-    },
-    "227762c911187ccf": {
-      "date": "2026-06-04",
-      "title": "Split Ninja",
-      "source": "producthunt"
-    },
-    "c8646776380172ea": {
-      "date": "2026-06-04",
-      "title": "Walrus Memory",
-      "source": "producthunt"
-    },
-    "5e564725625ad1b5": {
-      "date": "2026-06-04",
-      "title": "Empromptu AI",
-      "source": "producthunt"
-    },
-    "bc7a1da732ae1aeb": {
-      "date": "2026-06-04",
-      "title": "TimeTuna.com",
-      "source": "producthunt"
-    },
-    "5b326038cdba79d4": {
-      "date": "2026-06-04",
-      "title": "Deliveryman.ai",
-      "source": "producthunt"
-    },
-    "109b5cbc7de1da63": {
-      "date": "2026-06-04",
-      "title": "PlugTalk",
-      "source": "producthunt"
-    },
-    "ed3937528dfc48a5": {
-      "date": "2026-06-04",
-      "title": "Perplexity Personal Computer for Windows",
-      "source": "producthunt"
-    },
-    "cb17d69a58d6f116": {
-      "date": "2026-06-04",
-      "title": "Carbon Voice Speed Dial",
-      "source": "producthunt"
-    },
-    "19f5388a6147f1cb": {
-      "date": "2026-06-04",
-      "title": "I Didn't Mean To Learn Marketing",
-      "source": "devto"
-    },
-    "90f8d9ea28a3a5d7": {
-      "date": "2026-06-04",
-      "title": "I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.",
-      "source": "devto"
-    },
-    "077c12c25c7bfa4b": {
-      "date": "2026-06-04",
-      "title": "AI gateways: why and how",
-      "source": "devto"
-    },
-    "58e676ca4be1d4a0": {
-      "date": "2026-06-04",
-      "title": "Why Every Developer Should Attend Tech Week at Least Once",
-      "source": "devto"
-    },
-    "a75842045b528099": {
-      "date": "2026-06-04",
-      "title": "I Started 10,000 Java Threads. My Laptop Barely Noticed.",
-      "source": "devto"
-    },
-    "3cc359c641b76555": {
-      "date": "2026-06-04",
-      "title": "peektea narrows its gaze 👀 filter-as-you-type and hidden files",
-      "source": "devto"
-    },
-    "2c173bd15bf480d7": {
-      "date": "2026-06-04",
-      "title": "Union(C#, F#)",
-      "source": "devto"
-    },
-    "cb17e9c8e9449c4a": {
-      "date": "2026-06-04",
-      "title": "People Without Dirty Hands Are Wrong",
-      "source": "devto"
-    },
-    "0c7dd2f658fbbbd6": {
-      "date": "2026-06-04",
-      "title": "How I Bridged AWS Face Liveness to Expo with a Native Module",
-      "source": "devto"
-    },
-    "ea7a5d1edd474d71": {
-      "date": "2026-06-04",
-      "title": "The Comments Got Good. That's How I Knew.",
-      "source": "devto"
-    },
-    "68c57e7779dc4696": {
-      "date": "2026-06-04",
-      "title": "PaddlePaddle / PaddleOCR",
-      "source": "github"
-    },
-    "84aa3d71238dfaf5": {
-      "date": "2026-06-04",
-      "title": "NVIDIA / cosmos",
-      "source": "github"
-    },
-    "6cead375f73f7950": {
-      "date": "2026-06-04",
-      "title": "lfnovo / open-notebook",
-      "source": "github"
-    },
-    "06007b54a16f5739": {
-      "date": "2026-06-04",
-      "title": "github / copilot-sdk",
-      "source": "github"
-    },
-    "c44bd13f179e5e8e": {
-      "date": "2026-06-04",
-      "title": "openclaw / openclaw-windows-node",
-      "source": "github"
-    },
-    "cb3eddfe11b539d1": {
-      "date": "2026-06-04",
-      "title": "mvanhorn / last30days-skill",
-      "source": "github"
-    },
     "62c14f7db442a708": {
       "date": "2026-06-05",
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
@@ -5146,6 +4811,156 @@
       "date": "2026-07-04",
       "title": "What Google's \"Microservices Are Dead\" Paper Actually Said (And What It Missed About AI)",
       "source": "devto"
+    },
+    "ac3473629dd96043": {
+      "date": "2026-07-05",
+      "title": "Pennen",
+      "source": "producthunt"
+    },
+    "1b6e4ea6cd7b4d25": {
+      "date": "2026-07-05",
+      "title": "DocsAlot",
+      "source": "producthunt"
+    },
+    "d1d9615afc6e008e": {
+      "date": "2026-07-05",
+      "title": "WorkBuddy",
+      "source": "producthunt"
+    },
+    "56ae3a85c66fa117": {
+      "date": "2026-07-05",
+      "title": "Endl",
+      "source": "producthunt"
+    },
+    "734e06dd8b4fe6da": {
+      "date": "2026-07-05",
+      "title": "CircleChat",
+      "source": "producthunt"
+    },
+    "c210c0795b9b565b": {
+      "date": "2026-07-05",
+      "title": "Organic Maps",
+      "source": "hackernews"
+    },
+    "e5e8f3e6e0089997": {
+      "date": "2026-07-05",
+      "title": "It's not about physical vs. digital games, it's about ownership",
+      "source": "hackernews"
+    },
+    "f9b51a9d6ac3b09d": {
+      "date": "2026-07-05",
+      "title": "Reparaible and open source paper printer",
+      "source": "hackernews"
+    },
+    "0d2b41d4706801b9": {
+      "date": "2026-07-05",
+      "title": "The future of Flipper Zero development",
+      "source": "hackernews"
+    },
+    "2915ff01a09fe0c5": {
+      "date": "2026-07-05",
+      "title": "Starring the Computer",
+      "source": "hackernews"
+    },
+    "091c39f17562e83c": {
+      "date": "2026-07-05",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "source": "hackernews"
+    },
+    "bbf0d1aa4ee32552": {
+      "date": "2026-07-05",
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "source": "hackernews"
+    },
+    "349eaf122211922d": {
+      "date": "2026-07-05",
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "source": "hackernews"
+    },
+    "36c7a10bcd1104d7": {
+      "date": "2026-07-05",
+      "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
+      "source": "hackernews"
+    },
+    "ba731a629642fa97": {
+      "date": "2026-07-05",
+      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+      "source": "hackernews"
+    },
+    "1ba272bb5f181cd1": {
+      "date": "2026-07-05",
+      "title": "At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet",
+      "source": "devto"
+    },
+    "7751120cb6568f4b": {
+      "date": "2026-07-05",
+      "title": "Who Else Has Inherited a Codebase With Zero Comments and a Prayer?",
+      "source": "devto"
+    },
+    "dd268478471ac9e2": {
+      "date": "2026-07-05",
+      "title": "Jetson Nano: Ollama & Optimal Quantization",
+      "source": "devto"
+    },
+    "08ee611e6ebc1474": {
+      "date": "2026-07-05",
+      "title": "How to Shine as an Introvert in a Loud Tech World",
+      "source": "devto"
+    },
+    "ef755c11d36ce71f": {
+      "date": "2026-07-05",
+      "title": "Watermark removal isn't lossy — you've been using the wrong tool",
+      "source": "devto"
+    },
+    "4eb69fc0a986415f": {
+      "date": "2026-07-05",
+      "title": "Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2",
+      "source": "devto"
+    },
+    "ee591735c67636e9": {
+      "date": "2026-07-05",
+      "title": "I Built a Sync Engine for a 0-Dep Client-Side Database, Here's What I Learned",
+      "source": "devto"
+    },
+    "12c5fe15844a3dd0": {
+      "date": "2026-07-05",
+      "title": "I tested the 'deterministic agent loop' claims with four experiments. They all failed — including my",
+      "source": "devto"
+    },
+    "61b7139a0f2c5deb": {
+      "date": "2026-07-05",
+      "title": "5 mistakes I made building an AI Chrome extension — and the readers who caught them",
+      "source": "devto"
+    },
+    "31dce154302d4b16": {
+      "date": "2026-07-05",
+      "title": "I Spent 3 Days Building a CLI for an Open Source Project. Here’s What Actually Happened.",
+      "source": "devto"
+    },
+    "36584af2f7390ffc": {
+      "date": "2026-07-05",
+      "title": "Leonxlnx / taste-skill",
+      "source": "github"
+    },
+    "8b826b177eba41b4": {
+      "date": "2026-07-05",
+      "title": "alirezarezvani / claude-skills",
+      "source": "github"
+    },
+    "ec2b5bfa19731be2": {
+      "date": "2026-07-05",
+      "title": "hesreallyhim / awesome-claude-code",
+      "source": "github"
+    },
+    "7344796a1c663646": {
+      "date": "2026-07-05",
+      "title": "coreyhaines31 / marketingskills",
+      "source": "github"
+    },
+    "387be0c359be7e59": {
+      "date": "2026-07-05",
+      "title": "CoplayDev / unity-mcp",
+      "source": "github"
     }
   }
 }
