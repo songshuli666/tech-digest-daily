@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-05T23:41:39.427361",
+  "last_updated": "2026-07-06T23:43:38.705202",
   "sent_items": {
-    "62c14f7db442a708": {
-      "date": "2026-06-05",
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "source": "hackernews"
-    },
-    "d313e04190b1da70": {
-      "date": "2026-06-05",
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "source": "hackernews"
-    },
-    "a355d233fde2182d": {
-      "date": "2026-06-05",
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "source": "hackernews"
-    },
-    "3a051d69737131e9": {
-      "date": "2026-06-05",
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "source": "hackernews"
-    },
-    "fbcb06c9cc706d6a": {
-      "date": "2026-06-05",
-      "title": "Did Claude increase bugs in rsync?",
-      "source": "hackernews"
-    },
-    "92fb9bd98bb12f6f": {
-      "date": "2026-06-05",
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "source": "hackernews"
-    },
-    "7fb5ded51f1d1075": {
-      "date": "2026-06-05",
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "source": "hackernews"
-    },
-    "0248aaa12dc5253c": {
-      "date": "2026-06-05",
-      "title": "New method turns ocean water into drinking water, without waste",
-      "source": "hackernews"
-    },
-    "cd3cf45ff9bf1e27": {
-      "date": "2026-06-05",
-      "title": "My Agent Skill for Test-Driven Development",
-      "source": "hackernews"
-    },
-    "c0d8176c9327dbe0": {
-      "date": "2026-06-05",
-      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "source": "hackernews"
-    },
-    "b92cbf0f9e81b298": {
-      "date": "2026-06-05",
-      "title": "Agent Mode on Arena",
-      "source": "producthunt"
-    },
-    "b5ff5a3b86334117": {
-      "date": "2026-06-05",
-      "title": "LocalClicky",
-      "source": "producthunt"
-    },
-    "fbd80249c8669b21": {
-      "date": "2026-06-05",
-      "title": "Microsoft MAI-Voice-2",
-      "source": "producthunt"
-    },
-    "dd34e7a995f91eb6": {
-      "date": "2026-06-05",
-      "title": "Agent Browser Shield",
-      "source": "producthunt"
-    },
-    "459b17900ff8131f": {
-      "date": "2026-06-05",
-      "title": "Recursi",
-      "source": "producthunt"
-    },
-    "e361aa62060486fa": {
-      "date": "2026-06-05",
-      "title": "Leni",
-      "source": "producthunt"
-    },
-    "d70fe09b06e0461a": {
-      "date": "2026-06-05",
-      "title": "Nemotron 3 Ultra by NVIDIA",
-      "source": "producthunt"
-    },
-    "309733501d07d046": {
-      "date": "2026-06-05",
-      "title": "Minimi",
-      "source": "producthunt"
-    },
-    "ba7a032cf4e93de9": {
-      "date": "2026-06-05",
-      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hacka",
-      "source": "devto"
-    },
-    "f96cb609de19fe3b": {
-      "date": "2026-06-05",
-      "title": "Abhorrent Employment Agreements.",
-      "source": "devto"
-    },
-    "4d829f02143bd4d9": {
-      "date": "2026-06-05",
-      "title": "IssueWatch — Never Miss a GitHub Issue That Matters to You",
-      "source": "devto"
-    },
-    "85060af0bc737a3e": {
-      "date": "2026-06-05",
-      "title": "Magnificent Humanity, Building Cities, and a Special Announcement!",
-      "source": "devto"
-    },
-    "5d42a6e63a7eeed8": {
-      "date": "2026-06-05",
-      "title": "AI Won't Replace Humans — It'll Just Make Us Pickier",
-      "source": "devto"
-    },
-    "b18063e706a18a63": {
-      "date": "2026-06-05",
-      "title": "From Hackathon Wreckage to Production-Ready: How I Rebuilt My Kubernetes Attack Path Visualiser with",
-      "source": "devto"
-    },
-    "39ca0c8d8b1d266d": {
-      "date": "2026-06-05",
-      "title": "peektea past the roadmap 👀 sorting and scrollable previews",
-      "source": "devto"
-    },
-    "74ca8cd55e51f8b3": {
-      "date": "2026-06-05",
-      "title": "I Found a Stack in a Tea Room",
-      "source": "devto"
-    },
-    "22ad666a65735eec": {
-      "date": "2026-06-05",
-      "title": "I Took the Keyboard Back From an Agent Mid-Task - Here's What the New PMP Can't Test",
-      "source": "devto"
-    },
-    "389c3e46b3efe081": {
-      "date": "2026-06-05",
-      "title": "Karate Platform: Finishing the Tournament Experience",
-      "source": "devto"
-    },
-    "33121b9523130cf0": {
-      "date": "2026-06-05",
-      "title": "CopilotKit / CopilotKit",
-      "source": "github"
-    },
-    "81fb0b6406ba5bb8": {
-      "date": "2026-06-05",
-      "title": "Panniantong / Agent-Reach",
-      "source": "github"
-    },
-    "8c9e20fc0efe6fec": {
-      "date": "2026-06-05",
-      "title": "openai / plugins",
-      "source": "github"
-    },
-    "d43e82f402483a72": {
-      "date": "2026-06-05",
-      "title": "MemPalace / mempalace",
-      "source": "github"
-    },
-    "71103c9d6fa808ea": {
-      "date": "2026-06-05",
-      "title": "withastro / flue",
-      "source": "github"
-    },
     "7da1cc8d81f7f1e6": {
       "date": "2026-06-06",
       "title": "MAI-Image-2.5",
@@ -4960,6 +4795,171 @@
     "387be0c359be7e59": {
       "date": "2026-07-05",
       "title": "CoplayDev / unity-mcp",
+      "source": "github"
+    },
+    "150e0617e0e4738e": {
+      "date": "2026-07-06",
+      "title": "Nixmac",
+      "source": "producthunt"
+    },
+    "568f6b99d59918da": {
+      "date": "2026-07-06",
+      "title": "Mozaik",
+      "source": "producthunt"
+    },
+    "dfd5abe6ada61405": {
+      "date": "2026-07-06",
+      "title": "Cadence",
+      "source": "producthunt"
+    },
+    "e56d2ad490d10b7e": {
+      "date": "2026-07-06",
+      "title": "Stanley Studio",
+      "source": "producthunt"
+    },
+    "0179535a49fcd8b3": {
+      "date": "2026-07-06",
+      "title": "Edgee Claude Code Compressor V2",
+      "source": "producthunt"
+    },
+    "516b71e435fe9ef1": {
+      "date": "2026-07-06",
+      "title": "AirKaren",
+      "source": "producthunt"
+    },
+    "1d7fe4c9f8b1cfdf": {
+      "date": "2026-07-06",
+      "title": "CodeMote",
+      "source": "producthunt"
+    },
+    "4b374abd09ce457c": {
+      "date": "2026-07-06",
+      "title": "Resetting Xbox",
+      "source": "hackernews"
+    },
+    "8979f25e49a85a8e": {
+      "date": "2026-07-06",
+      "title": "OpenWrt One – Open Hardware Router",
+      "source": "hackernews"
+    },
+    "599ff36d183ca585": {
+      "date": "2026-07-06",
+      "title": "CoMaps – FOSS Offline Maps",
+      "source": "hackernews"
+    },
+    "02a6feb62f231df1": {
+      "date": "2026-07-06",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "source": "hackernews"
+    },
+    "e3d61d22b8fce615": {
+      "date": "2026-07-06",
+      "title": "A global workspace in language models",
+      "source": "hackernews"
+    },
+    "f409ab7b3b0ecd2a": {
+      "date": "2026-07-06",
+      "title": "Linux on the Atari Jaguar",
+      "source": "hackernews"
+    },
+    "cecbb651d83ffd1c": {
+      "date": "2026-07-06",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "source": "hackernews"
+    },
+    "d6ac029ebfcddebd": {
+      "date": "2026-07-06",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "source": "hackernews"
+    },
+    "1289a1ebf891c93b": {
+      "date": "2026-07-06",
+      "title": "Full Writeup of the Windows GDID",
+      "source": "hackernews"
+    },
+    "a2777597e972442c": {
+      "date": "2026-07-06",
+      "title": "Evaluation order and nontermination in query languages",
+      "source": "hackernews"
+    },
+    "ffc1ddd641f68006": {
+      "date": "2026-07-06",
+      "title": "It's You.",
+      "source": "devto"
+    },
+    "da7c8ee781d9841e": {
+      "date": "2026-07-06",
+      "title": "Your Career Matters. So Does the Person Building It.",
+      "source": "devto"
+    },
+    "b2e7af94b53e7281": {
+      "date": "2026-07-06",
+      "title": "I Contain Multitudes (and Also Three Git Repos)",
+      "source": "devto"
+    },
+    "23c77b9498ff8661": {
+      "date": "2026-07-06",
+      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "source": "devto"
+    },
+    "17fc8beb472b8a6d": {
+      "date": "2026-07-06",
+      "title": "What are your goals for the week? #186",
+      "source": "devto"
+    },
+    "1db24cd6567327ec": {
+      "date": "2026-07-06",
+      "title": "My AI agent tried to ship a mistake we'd already reverted",
+      "source": "devto"
+    },
+    "7944b3c839f27c35": {
+      "date": "2026-07-06",
+      "title": "Fable 5 Hype: Fangirling with Datasets to Build a Lakers Dashboard",
+      "source": "devto"
+    },
+    "22ddfd286c3a9110": {
+      "date": "2026-07-06",
+      "title": "OrinIDE v1.0.9 — local AI, an Agentic dev squad, and a bug fix I owe you an explanation for",
+      "source": "devto"
+    },
+    "473e12d63fb09aca": {
+      "date": "2026-07-06",
+      "title": "What Happens When Everyone Can Build Apps But Nobody Understands Them?",
+      "source": "devto"
+    },
+    "98cbfd1bc5d8ea73": {
+      "date": "2026-07-06",
+      "title": "AI Code Generation Has a Social Media Problem",
+      "source": "devto"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-07-06",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-07-06",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "fbb6c6e2ca5fde6f": {
+      "date": "2026-07-06",
+      "title": "bradautomates / claude-video",
+      "source": "github"
+    },
+    "23317f0740885ab5": {
+      "date": "2026-07-06",
+      "title": "karakeep-app / karakeep",
+      "source": "github"
+    },
+    "8689ab58cebfc899": {
+      "date": "2026-07-06",
+      "title": "steipete / CodexBar",
+      "source": "github"
+    },
+    "09c61568d4dce2aa": {
+      "date": "2026-07-06",
+      "title": "sindresorhus / awesome",
       "source": "github"
     }
   }
