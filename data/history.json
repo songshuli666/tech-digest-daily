@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-06T23:43:38.705202",
+  "last_updated": "2026-07-07T23:34:27.666253",
   "sent_items": {
-    "7da1cc8d81f7f1e6": {
-      "date": "2026-06-06",
-      "title": "MAI-Image-2.5",
-      "source": "producthunt"
-    },
-    "7a1fa6010eb51954": {
-      "date": "2026-06-06",
-      "title": "QWERTYS",
-      "source": "producthunt"
-    },
-    "19d03b682f91294c": {
-      "date": "2026-06-06",
-      "title": "Manus Shopify Connector",
-      "source": "producthunt"
-    },
-    "5cf0cffd54f4ca5c": {
-      "date": "2026-06-06",
-      "title": "Navi+ Menu Builder",
-      "source": "producthunt"
-    },
-    "93f4e76d7d8b5c2f": {
-      "date": "2026-06-06",
-      "title": "Gaming services by IFTTT",
-      "source": "producthunt"
-    },
-    "046df9d0de0d3476": {
-      "date": "2026-06-06",
-      "title": "Ideogram 4.0",
-      "source": "producthunt"
-    },
-    "3c5baeffc5b7761a": {
-      "date": "2026-06-06",
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "source": "hackernews"
-    },
-    "bcffa4aa2b44b400": {
-      "date": "2026-06-06",
-      "title": "Moving beyond fork() + exec()",
-      "source": "hackernews"
-    },
-    "aaab49a61417b3dd": {
-      "date": "2026-06-06",
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "source": "hackernews"
-    },
-    "e0c52205400bfeab": {
-      "date": "2026-06-06",
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "source": "hackernews"
-    },
-    "4d9fadeb082c4f82": {
-      "date": "2026-06-06",
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "source": "hackernews"
-    },
-    "8fa68ead1d14560b": {
-      "date": "2026-06-06",
-      "title": "New U.S. college grads now have higher unemployment than the average worker",
-      "source": "hackernews"
-    },
-    "29593461c70fa510": {
-      "date": "2026-06-06",
-      "title": "Home alone: Remote work, isolation, and mental health",
-      "source": "hackernews"
-    },
-    "a9883b07799d1d17": {
-      "date": "2026-06-06",
-      "title": "You Can Run",
-      "source": "hackernews"
-    },
-    "040be72b59702cc6": {
-      "date": "2026-06-06",
-      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
-      "source": "hackernews"
-    },
-    "73c7a91e2473ddfe": {
-      "date": "2026-06-06",
-      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-      "source": "hackernews"
-    },
-    "e4c2efbb1d191d03": {
-      "date": "2026-06-06",
-      "title": "Two Devs and a Copilot Created ClassifierAI: A Prototype Chrome Extension that Automatically Detects",
-      "source": "devto"
-    },
-    "b324a249c9340091": {
-      "date": "2026-06-06",
-      "title": "Two Doors Into the Same Room",
-      "source": "devto"
-    },
-    "2b574160a3cb50ee": {
-      "date": "2026-06-06",
-      "title": "peektea brews on WSL 👀🍵 (and installs in one line)",
-      "source": "devto"
-    },
-    "a66e30224368f328": {
-      "date": "2026-06-06",
-      "title": "I Tried to Fix a Vulnerability. A $1,400,000 AI System Said No. Twenty Days Later, That Vulnerabilit",
-      "source": "devto"
-    },
-    "fef94b8ba880201e": {
-      "date": "2026-06-06",
-      "title": "I got tired of waiting for deploys, so I built a local Lambda runner",
-      "source": "devto"
-    },
-    "c3f93a4bff5283eb": {
-      "date": "2026-06-06",
-      "title": "Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, ",
-      "source": "devto"
-    },
-    "e19123df582a35ff": {
-      "date": "2026-06-06",
-      "title": "The Last Capacity Planning Sheet You'll Ever Need",
-      "source": "devto"
-    },
-    "fca46cc9bafd033c": {
-      "date": "2026-06-06",
-      "title": "I tested whether a code health score actually predicts bugs. Here's the benchmark",
-      "source": "devto"
-    },
-    "52f4f6eca5738005": {
-      "date": "2026-06-06",
-      "title": "MindPal: finishing the AI support app that remembers what matters",
-      "source": "devto"
-    },
-    "b296f2f136c253de": {
-      "date": "2026-06-06",
-      "title": "I Opened My Old Repository Again After 315 Days",
-      "source": "devto"
-    },
-    "f43dc28dacfdd0a3": {
-      "date": "2026-06-06",
-      "title": "sveltejs / svelte",
-      "source": "github"
-    },
-    "604139543fc779f6": {
-      "date": "2026-06-06",
-      "title": "nginx / nginx",
-      "source": "github"
-    },
-    "9ada988b350746ad": {
-      "date": "2026-06-06",
-      "title": "golang / go",
-      "source": "github"
-    },
-    "7b6a865db4d6f6c0": {
-      "date": "2026-06-06",
-      "title": "santifer / career-ops",
-      "source": "github"
-    },
-    "a6f6ce8cf66ece76": {
-      "date": "2026-06-06",
-      "title": "openai / whisper",
-      "source": "github"
-    },
-    "4f889ecb22483e5c": {
-      "date": "2026-06-06",
-      "title": "vitejs / vite",
-      "source": "github"
-    },
     "26dab00bbbd79052": {
       "date": "2026-06-07",
       "title": "Smmall Cloud for iOS",
@@ -4960,6 +4800,166 @@
     "09c61568d4dce2aa": {
       "date": "2026-07-06",
       "title": "sindresorhus / awesome",
+      "source": "github"
+    },
+    "e889a1b735a8bea5": {
+      "date": "2026-07-07",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "source": "hackernews"
+    },
+    "cbdfafae88cfc728": {
+      "date": "2026-07-07",
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "source": "hackernews"
+    },
+    "ce9c05278bd724c4": {
+      "date": "2026-07-07",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "source": "hackernews"
+    },
+    "ec723f60a94f49d5": {
+      "date": "2026-07-07",
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "source": "hackernews"
+    },
+    "e4542f702dad10a8": {
+      "date": "2026-07-07",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "source": "hackernews"
+    },
+    "b2cf346cbfe032f9": {
+      "date": "2026-07-07",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "source": "hackernews"
+    },
+    "0be148333b777e4b": {
+      "date": "2026-07-07",
+      "title": "Herdr: One terminal to rule them all",
+      "source": "hackernews"
+    },
+    "3bea616ed34a4953": {
+      "date": "2026-07-07",
+      "title": "l: A new runtime for k and q",
+      "source": "hackernews"
+    },
+    "9ce953dfc9fb6497": {
+      "date": "2026-07-07",
+      "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
+      "source": "hackernews"
+    },
+    "52e95fe4fd6f0264": {
+      "date": "2026-07-07",
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "source": "hackernews"
+    },
+    "40145c145caa02ae": {
+      "date": "2026-07-07",
+      "title": "Kadoink AI",
+      "source": "producthunt"
+    },
+    "8d58c9b8463e070d": {
+      "date": "2026-07-07",
+      "title": "AI Emaily",
+      "source": "producthunt"
+    },
+    "9b23b6eb8e044cae": {
+      "date": "2026-07-07",
+      "title": "Glideo",
+      "source": "producthunt"
+    },
+    "bcdbd62ea207655c": {
+      "date": "2026-07-07",
+      "title": "Zoho Tables",
+      "source": "producthunt"
+    },
+    "54c73eb88b00d287": {
+      "date": "2026-07-07",
+      "title": "LongCat-2.0",
+      "source": "producthunt"
+    },
+    "edcbf911d159c02b": {
+      "date": "2026-07-07",
+      "title": "AnySearch",
+      "source": "producthunt"
+    },
+    "3109f32692fafbd1": {
+      "date": "2026-07-07",
+      "title": "Typeahead 2.0",
+      "source": "producthunt"
+    },
+    "372b628bc39331ff": {
+      "date": "2026-07-07",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "284fbe723c66706f": {
+      "date": "2026-07-07",
+      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
+      "source": "devto"
+    },
+    "f0a722d08abafd0f": {
+      "date": "2026-07-07",
+      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
+      "source": "devto"
+    },
+    "9fe34762c4e95c33": {
+      "date": "2026-07-07",
+      "title": "you stopped reading the docs. now you don't understand the systems.",
+      "source": "devto"
+    },
+    "9ddce1ee9c62caf0": {
+      "date": "2026-07-07",
+      "title": "Being an engineer in the AI era",
+      "source": "devto"
+    },
+    "67767c44db2f9fe9": {
+      "date": "2026-07-07",
+      "title": "TanStack Start vs Nuxt: One Framework to rule them all?",
+      "source": "devto"
+    },
+    "6476683350c20a67": {
+      "date": "2026-07-07",
+      "title": "The AI Bill Grows in the Agent Loop",
+      "source": "devto"
+    },
+    "56bad85255f74253": {
+      "date": "2026-07-07",
+      "title": "I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why",
+      "source": "devto"
+    },
+    "237c91c83041845f": {
+      "date": "2026-07-07",
+      "title": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3",
+      "source": "devto"
+    },
+    "267eab59de582520": {
+      "date": "2026-07-07",
+      "title": "Building a physical API",
+      "source": "devto"
+    },
+    "ce3a785ea3a972f5": {
+      "date": "2026-07-07",
+      "title": "MadsLorentzen / ai-job-search",
+      "source": "github"
+    },
+    "3533f5ccf08e2c87": {
+      "date": "2026-07-07",
+      "title": "TencentCloud / CubeSandbox",
+      "source": "github"
+    },
+    "363107b1d3d65100": {
+      "date": "2026-07-07",
+      "title": "AhmadIbrahiim / Website-downloader",
+      "source": "github"
+    },
+    "c7871622e500ea54": {
+      "date": "2026-07-07",
+      "title": "iOfficeAI / OfficeCLI",
+      "source": "github"
+    },
+    "adc797b8b3939065": {
+      "date": "2026-07-07",
+      "title": "kyutai-labs / pocket-tts",
       "source": "github"
     }
   }
