@@ -1,117 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-07T23:34:27.666253",
+  "last_updated": "2026-07-08T23:43:08.572895",
   "sent_items": {
-    "26dab00bbbd79052": {
-      "date": "2026-06-07",
-      "title": "Smmall Cloud for iOS",
-      "source": "producthunt"
-    },
-    "e6b9cee054ea4394": {
-      "date": "2026-06-07",
-      "title": "Dreambeans by Google Labs",
-      "source": "producthunt"
-    },
-    "973a14e1d5d31791": {
-      "date": "2026-06-07",
-      "title": "CabinLink",
-      "source": "producthunt"
-    },
-    "e286d29b0a57aaa8": {
-      "date": "2026-06-07",
-      "title": "Job Postings API",
-      "source": "producthunt"
-    },
-    "84f72f9832a136d7": {
-      "date": "2026-06-07",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "source": "hackernews"
-    },
-    "94c3c63741a51ec0": {
-      "date": "2026-06-07",
-      "title": "Building from zero after addiction, prison, and a felony",
-      "source": "hackernews"
-    },
-    "7039d267b60db609": {
-      "date": "2026-06-07",
-      "title": "How's Linear so fast? A technical breakdown",
-      "source": "hackernews"
-    },
-    "b8754bcd3653ed42": {
-      "date": "2026-06-07",
-      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "source": "hackernews"
-    },
-    "213b359a895ab801": {
-      "date": "2026-06-07",
-      "title": "Making peace with your unlived dreams (2023)",
-      "source": "hackernews"
-    },
-    "bde68449dc6ef4a1": {
-      "date": "2026-06-07",
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "source": "hackernews"
-    },
-    "7e99f24d78a02597": {
-      "date": "2026-06-07",
-      "title": "Show HN: I Derived a Pancake",
-      "source": "hackernews"
-    },
-    "547b2b25fb510533": {
-      "date": "2026-06-07",
-      "title": "My automated doubt development process",
-      "source": "hackernews"
-    },
-    "845080cda2b1aa64": {
-      "date": "2026-06-07",
-      "title": "Do we fear the serializable isolation level more than we fear subtle bugs?",
-      "source": "hackernews"
-    },
-    "1dd64331b0d36b30": {
-      "date": "2026-06-07",
-      "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
-      "source": "hackernews"
-    },
-    "e515c2f5b1bb846d": {
-      "date": "2026-06-07",
-      "title": "opencv / opencv",
-      "source": "github"
-    },
-    "ce57d7f0f38eb7bc": {
-      "date": "2026-06-07",
-      "title": "RyanCodrai / turbovec",
-      "source": "github"
-    },
-    "7bd0775c5ce4ee5c": {
-      "date": "2026-06-07",
-      "title": "TapXWorld / ChinaTextbook",
-      "source": "github"
-    },
-    "b6c3444b6d06ce65": {
-      "date": "2026-06-07",
-      "title": "refactoringhq / tolaria",
-      "source": "github"
-    },
-    "313f5b1e67ddc488": {
-      "date": "2026-06-07",
-      "title": "HunxByts / GhostTrack",
-      "source": "github"
-    },
-    "5007ade6c196c938": {
-      "date": "2026-06-07",
-      "title": "Run Coding Agents on Local AI — Zero Cloud, Full Control",
-      "source": "devto"
-    },
-    "f0fe70a5d096c5d0": {
-      "date": "2026-06-07",
-      "title": "I built a Python AI agent and Pylance drove me to build a type checker and LSP",
-      "source": "devto"
-    },
-    "9167c49051061283": {
-      "date": "2026-06-07",
-      "title": "Finishing What I Started: A Code Snippet Manager Built on GitHub Gists",
-      "source": "devto"
-    },
     "d7fc1fd0b63acd60": {
       "date": "2026-06-08",
       "title": "Show HN: Performative-UI – A react component library of design tropes",
@@ -4960,6 +4850,176 @@
     "adc797b8b3939065": {
       "date": "2026-07-07",
       "title": "kyutai-labs / pocket-tts",
+      "source": "github"
+    },
+    "ee89408329588cd5": {
+      "date": "2026-07-08",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "source": "hackernews"
+    },
+    "8d4800754aaa447a": {
+      "date": "2026-07-08",
+      "title": "Chatto is now open source",
+      "source": "hackernews"
+    },
+    "623f6abfe53197b7": {
+      "date": "2026-07-08",
+      "title": "Grok 4.5",
+      "source": "hackernews"
+    },
+    "da7c60eac71cbd5b": {
+      "date": "2026-07-08",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "source": "hackernews"
+    },
+    "f0a84d5fa103e1d0": {
+      "date": "2026-07-08",
+      "title": "FAANG Simulator",
+      "source": "hackernews"
+    },
+    "295415ad6648cf43": {
+      "date": "2026-07-08",
+      "title": "Cloudflare Drop",
+      "source": "hackernews"
+    },
+    "675b2b6a7cdb3d99": {
+      "date": "2026-07-08",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "source": "hackernews"
+    },
+    "ca4034068fea7074": {
+      "date": "2026-07-08",
+      "title": "Rewriting Bun in Rust",
+      "source": "hackernews"
+    },
+    "0397c162f82795c2": {
+      "date": "2026-07-08",
+      "title": "Separating signal from noise in coding evaluations",
+      "source": "hackernews"
+    },
+    "e97ed564430fc93e": {
+      "date": "2026-07-08",
+      "title": "DKIM2 and DMARCbis Have Landed",
+      "source": "hackernews"
+    },
+    "580ab9d68d946b9e": {
+      "date": "2026-07-08",
+      "title": "Link Preview API",
+      "source": "producthunt"
+    },
+    "4539af4e765ac4e8": {
+      "date": "2026-07-08",
+      "title": "agents-cli",
+      "source": "producthunt"
+    },
+    "356624c4d8951de6": {
+      "date": "2026-07-08",
+      "title": "ExploreYC",
+      "source": "producthunt"
+    },
+    "cd8fbf964046fc77": {
+      "date": "2026-07-08",
+      "title": "Compendium",
+      "source": "producthunt"
+    },
+    "9d2d37a03e6a0760": {
+      "date": "2026-07-08",
+      "title": "LemonLime",
+      "source": "producthunt"
+    },
+    "828fb153cb911a31": {
+      "date": "2026-07-08",
+      "title": "Orus",
+      "source": "producthunt"
+    },
+    "1bd9cd0e13ad6c32": {
+      "date": "2026-07-08",
+      "title": "Willow Frontier Pro",
+      "source": "producthunt"
+    },
+    "abeff16927fc6985": {
+      "date": "2026-07-08",
+      "title": "Notion Agents iOS app",
+      "source": "producthunt"
+    },
+    "e3205a5c6cd753d1": {
+      "date": "2026-07-08",
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "source": "devto"
+    },
+    "c108598cf4f16240": {
+      "date": "2026-07-08",
+      "title": "DEV's Summer Bug Smash Launches on July 14. Register Now!",
+      "source": "devto"
+    },
+    "1164abd59804ca77": {
+      "date": "2026-07-08",
+      "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
+      "source": "devto"
+    },
+    "b32f52360c04a0a5": {
+      "date": "2026-07-08",
+      "title": "Bigger Context Windows Didn't Make Our RAG Smarter",
+      "source": "devto"
+    },
+    "c9e0bd98ddd315ff": {
+      "date": "2026-07-08",
+      "title": "I Started Writing My Prediction Before Reading the AI's Answer. Here's What Happened.",
+      "source": "devto"
+    },
+    "12bc74ffc667afca": {
+      "date": "2026-07-08",
+      "title": "A New Developer Platform for Agent-Human Collaboration",
+      "source": "devto"
+    },
+    "05a98ea88ef93b6e": {
+      "date": "2026-07-08",
+      "title": "Stratagems #8: Alex Watched an AI Dashboard Take Over. He Kept the Keys Under the Table.",
+      "source": "devto"
+    },
+    "827bf8f9db2c7928": {
+      "date": "2026-07-08",
+      "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
+      "source": "devto"
+    },
+    "f3688ce3c31e0787": {
+      "date": "2026-07-08",
+      "title": "The Agent Faked a Test Log, Then Believed It. Self-Editing Harnesses Have a Provenance Problem.",
+      "source": "devto"
+    },
+    "6fb12af6948f67ad": {
+      "date": "2026-07-08",
+      "title": "Has the audience for technical articles dropped?",
+      "source": "devto"
+    },
+    "56030b62da1387c4": {
+      "date": "2026-07-08",
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "source": "github"
+    },
+    "a6837e0cbb3b5baa": {
+      "date": "2026-07-08",
+      "title": "prisma / prisma",
+      "source": "github"
+    },
+    "bf2404a033b0a4e0": {
+      "date": "2026-07-08",
+      "title": "argoproj / argo-cd",
+      "source": "github"
+    },
+    "2a226d56135ff239": {
+      "date": "2026-07-08",
+      "title": "Diolinux / PhotoGIMP",
+      "source": "github"
+    },
+    "1186b2882266412e": {
+      "date": "2026-07-08",
+      "title": "wonderwhy-er / DesktopCommanderMCP",
+      "source": "github"
+    },
+    "a531ffc6a0eb8496": {
+      "date": "2026-07-08",
+      "title": "huxingyi / autoremesher",
       "source": "github"
     }
   }
