@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-08T23:43:08.572895",
+  "last_updated": "2026-07-09T23:50:58.835084",
   "sent_items": {
-    "d7fc1fd0b63acd60": {
-      "date": "2026-06-08",
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "source": "hackernews"
-    },
-    "0defdb0f59fc8f1f": {
-      "date": "2026-06-08",
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "source": "hackernews"
-    },
-    "8aa3d7126110128f": {
-      "date": "2026-06-08",
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "source": "hackernews"
-    },
-    "a085722c47a377d1": {
-      "date": "2026-06-08",
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "source": "hackernews"
-    },
-    "7e2ffaaf813fd878": {
-      "date": "2026-06-08",
-      "title": "Siri AI",
-      "source": "hackernews"
-    },
-    "9358a6d9e28c202c": {
-      "date": "2026-06-08",
-      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-      "source": "hackernews"
-    },
-    "5fc27872e27c6ab9": {
-      "date": "2026-06-08",
-      "title": "OpenAI Submits S-1 Draft to SEC",
-      "source": "hackernews"
-    },
-    "aace692274464236": {
-      "date": "2026-06-08",
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "source": "hackernews"
-    },
-    "2c68c8931f061609": {
-      "date": "2026-06-08",
-      "title": "Apple Core AI Framework",
-      "source": "hackernews"
-    },
-    "37584cd834721526": {
-      "date": "2026-06-08",
-      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
-      "source": "hackernews"
-    },
-    "de69a6a8e77df60d": {
-      "date": "2026-06-08",
-      "title": "Vaani",
-      "source": "producthunt"
-    },
-    "38ba9934962b7a5e": {
-      "date": "2026-06-08",
-      "title": "Tamadoggo",
-      "source": "producthunt"
-    },
-    "27b6d54660f77c90": {
-      "date": "2026-06-08",
-      "title": "Claude Artifact Player",
-      "source": "producthunt"
-    },
-    "eb532f20be4f2a57": {
-      "date": "2026-06-08",
-      "title": "Sigma File Manager",
-      "source": "producthunt"
-    },
-    "a031056c5b40c6db": {
-      "date": "2026-06-08",
-      "title": "Supaste",
-      "source": "producthunt"
-    },
-    "ffdf3cd36082bab3": {
-      "date": "2026-06-08",
-      "title": "The Virtual OS Museum",
-      "source": "producthunt"
-    },
-    "8b293e9959b2c826": {
-      "date": "2026-06-08",
-      "title": "NTSC-RS",
-      "source": "producthunt"
-    },
-    "2833c3c90f9f35c5": {
-      "date": "2026-06-08",
-      "title": "What are your Goals for the week? #182",
-      "source": "devto"
-    },
-    "3eec01e8824da97a": {
-      "date": "2026-06-08",
-      "title": "12 Hard Truths About Coding I Learned the Hard Way After 10+ Years",
-      "source": "devto"
-    },
-    "facbcdcfcf7f78c1": {
-      "date": "2026-06-08",
-      "title": "I Built an Interview Prep Tool Instead of Grinding LeetCode",
-      "source": "devto"
-    },
-    "2e15eeb6356da0aa": {
-      "date": "2026-06-08",
-      "title": "You’re a Real TypeScript Developer Only If...",
-      "source": "devto"
-    },
-    "5733c0a02e7a1dd4": {
-      "date": "2026-06-08",
-      "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, t",
-      "source": "devto"
-    },
-    "e799fdfb7ee7b5ed": {
-      "date": "2026-06-08",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "127203aa29fa9ef6": {
-      "date": "2026-06-08",
-      "title": "It's Time We All Eat some more Cucumber!",
-      "source": "devto"
-    },
-    "812284989e0dc0a4": {
-      "date": "2026-06-08",
-      "title": "TanStack Start Is Kind of a Big Deal",
-      "source": "devto"
-    },
-    "455f8dfadfd3dec4": {
-      "date": "2026-06-08",
-      "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-      "source": "devto"
-    },
-    "bf49d98a561e391c": {
-      "date": "2026-06-08",
-      "title": "🎥AI Chat, AI Cheering Messages, and Animation Editor Hyper (AI Avatar v10: VS Code and Chrome Extens",
-      "source": "devto"
-    },
-    "69c7eb76fe0b1fcc": {
-      "date": "2026-06-08",
-      "title": "google / skills",
-      "source": "github"
-    },
-    "6c8a62077e0ee644": {
-      "date": "2026-06-08",
-      "title": "phuryn / pm-skills",
-      "source": "github"
-    },
-    "b40dcd22bd693015": {
-      "date": "2026-06-08",
-      "title": "Andyyyy64 / whichllm",
-      "source": "github"
-    },
-    "aaa5c7366cbdcbd7": {
-      "date": "2026-06-08",
-      "title": "luongnv89 / claude-howto",
-      "source": "github"
-    },
     "11c4ac33ca74a563": {
       "date": "2026-06-09",
       "title": "Claude Fable 5",
@@ -5021,6 +4866,176 @@
       "date": "2026-07-08",
       "title": "huxingyi / autoremesher",
       "source": "github"
+    },
+    "f4e4f7935847b513": {
+      "date": "2026-07-09",
+      "title": "GPT-5.6",
+      "source": "hackernews"
+    },
+    "6897dc0e3dbbf846": {
+      "date": "2026-07-09",
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "source": "hackernews"
+    },
+    "970f96f86491040d": {
+      "date": "2026-07-09",
+      "title": "Show HN: 18 Words",
+      "source": "hackernews"
+    },
+    "08f34ecd4ef9da71": {
+      "date": "2026-07-09",
+      "title": "Hy3",
+      "source": "hackernews"
+    },
+    "d465f4b45da1040a": {
+      "date": "2026-07-09",
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "source": "hackernews"
+    },
+    "d8699931bd0d7791": {
+      "date": "2026-07-09",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "source": "hackernews"
+    },
+    "f79363ee79fb1b84": {
+      "date": "2026-07-09",
+      "title": "No leap second will be introduced at the end of December 2026",
+      "source": "hackernews"
+    },
+    "d7de14150ac398cf": {
+      "date": "2026-07-09",
+      "title": "Train sim created by just one person is being called the best ever made",
+      "source": "hackernews"
+    },
+    "a4ffd2fe1bbf5a41": {
+      "date": "2026-07-09",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "source": "hackernews"
+    },
+    "beaeea510ecc9a1f": {
+      "date": "2026-07-09",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "source": "hackernews"
+    },
+    "d9a017bd8f1a76a0": {
+      "date": "2026-07-09",
+      "title": "Coasty",
+      "source": "producthunt"
+    },
+    "ee95cb9f07576fe9": {
+      "date": "2026-07-09",
+      "title": "Just Ask by SEORCE",
+      "source": "producthunt"
+    },
+    "b4ef0639170354e0": {
+      "date": "2026-07-09",
+      "title": "Constellation Gate AI",
+      "source": "producthunt"
+    },
+    "dd4454034ea850d6": {
+      "date": "2026-07-09",
+      "title": "Opper AI",
+      "source": "producthunt"
+    },
+    "27725463c2e41524": {
+      "date": "2026-07-09",
+      "title": "Glimpse",
+      "source": "producthunt"
+    },
+    "09ba4fc1c10605e9": {
+      "date": "2026-07-09",
+      "title": "Monogram AI",
+      "source": "producthunt"
+    },
+    "4a0b97eb8be19552": {
+      "date": "2026-07-09",
+      "title": "Aura: Agents + Git + Intent Open Source",
+      "source": "producthunt"
+    },
+    "bf975c71ae5896d6": {
+      "date": "2026-07-09",
+      "title": "ARKAD Wallet",
+      "source": "producthunt"
+    },
+    "8227c1b797aef382": {
+      "date": "2026-07-09",
+      "title": "SmartlyDressedGames / U3-SDK",
+      "source": "github"
+    },
+    "4b4cf6b011e27df5": {
+      "date": "2026-07-09",
+      "title": "VoltAgent / awesome-design-md",
+      "source": "github"
+    },
+    "3f87148fc02bbcf5": {
+      "date": "2026-07-09",
+      "title": "anthropics / claude-cookbooks",
+      "source": "github"
+    },
+    "85770197f1cb7d8d": {
+      "date": "2026-07-09",
+      "title": "vxcontrol / pentagi",
+      "source": "github"
+    },
+    "2db83a025fb2e599": {
+      "date": "2026-07-09",
+      "title": "unclecode / crawl4ai",
+      "source": "github"
+    },
+    "32d078cecf55571e": {
+      "date": "2026-07-09",
+      "title": "imthenachoman / How-To-Secure-A-Linux-Server",
+      "source": "github"
+    },
+    "53d1f895d2f6185c": {
+      "date": "2026-07-09",
+      "title": "Should I quit IT or just live through the burnout?",
+      "source": "devto"
+    },
+    "b1f8e8a5664c072d": {
+      "date": "2026-07-09",
+      "title": "Congrats to the June Solstice Game Jam Winners!",
+      "source": "devto"
+    },
+    "df260263d07d91d1": {
+      "date": "2026-07-09",
+      "title": "Your Hand-Typed Slop Isn't Honest. It's Just Slower.",
+      "source": "devto"
+    },
+    "4a6a492b91fdf13d": {
+      "date": "2026-07-09",
+      "title": "I Deleted 200 Lines of Code I Didn't Write and Learned More Than When I Wrote It...",
+      "source": "devto"
+    },
+    "c797970b20ce3e52": {
+      "date": "2026-07-09",
+      "title": "The Silent Panic of Being Asked \"Can You Just Quickly Fix This?\"",
+      "source": "devto"
+    },
+    "500f087ae511b53b": {
+      "date": "2026-07-09",
+      "title": "Two nasty surprises in Home Assistant's config",
+      "source": "devto"
+    },
+    "cbc95a9fb17c39b2": {
+      "date": "2026-07-09",
+      "title": "Deploying a real-time multiplayer game on Railway",
+      "source": "devto"
+    },
+    "ab0adc0904478a5c": {
+      "date": "2026-07-09",
+      "title": "Why My Angular 21 Upgrade Failed 👀",
+      "source": "devto"
+    },
+    "b33207bc3694e1ea": {
+      "date": "2026-07-09",
+      "title": "Unboxable in Tech: The Evidence Locker",
+      "source": "devto"
+    },
+    "f216f16fbdc8639c": {
+      "date": "2026-07-09",
+      "title": "Stratagems #9: Lena and P Watched Two AI Suppliers Fight. The Logs Said Neither Was Clean.",
+      "source": "devto"
     }
   }
 }
