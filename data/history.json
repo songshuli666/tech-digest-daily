@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-09T23:50:58.835084",
+  "last_updated": "2026-07-10T23:35:04.302268",
   "sent_items": {
-    "11c4ac33ca74a563": {
-      "date": "2026-06-09",
-      "title": "Claude Fable 5",
-      "source": "hackernews"
-    },
-    "d01f37bef74f6636": {
-      "date": "2026-06-09",
-      "title": "Making Graphics Like it's 1993",
-      "source": "hackernews"
-    },
-    "09f82e85d8e62c73": {
-      "date": "2026-06-09",
-      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-      "source": "hackernews"
-    },
-    "7addb5e4ba94390c": {
-      "date": "2026-06-09",
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "source": "hackernews"
-    },
-    "f1c209c0d0ddd734": {
-      "date": "2026-06-09",
-      "title": "A giant star may have destroyed itself in one of the rarest explosions",
-      "source": "hackernews"
-    },
-    "f77ef93ea638e392": {
-      "date": "2026-06-09",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "source": "hackernews"
-    },
-    "ed50d5d64a961bb5": {
-      "date": "2026-06-09",
-      "title": "Upcoming breaking changes for NPM v12",
-      "source": "hackernews"
-    },
-    "e901173aaccd3c59": {
-      "date": "2026-06-09",
-      "title": "Grit: Rewriting Git in Rust with Agents",
-      "source": "hackernews"
-    },
-    "43fbe7e74cadbbbc": {
-      "date": "2026-06-09",
-      "title": "Exif Smuggling",
-      "source": "hackernews"
-    },
-    "c92d0298a2702264": {
-      "date": "2026-06-09",
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "source": "hackernews"
-    },
-    "aa27626b799c6ed5": {
-      "date": "2026-06-09",
-      "title": "AgentOS",
-      "source": "producthunt"
-    },
-    "70162d5188b50a09": {
-      "date": "2026-06-09",
-      "title": "agentcad",
-      "source": "producthunt"
-    },
-    "8227617ba4566cf8": {
-      "date": "2026-06-09",
-      "title": "ChocolateBar",
-      "source": "producthunt"
-    },
-    "1e5a1a70082abaeb": {
-      "date": "2026-06-09",
-      "title": "ZeroGPU",
-      "source": "producthunt"
-    },
-    "1ff708e47c56eee1": {
-      "date": "2026-06-09",
-      "title": "VC Boom",
-      "source": "producthunt"
-    },
-    "45bcbe3c8704281e": {
-      "date": "2026-06-09",
-      "title": "Uiverse Design",
-      "source": "producthunt"
-    },
-    "ff6060129a542911": {
-      "date": "2026-06-09",
-      "title": "Krisp Voice Translation API",
-      "source": "producthunt"
-    },
-    "b6a9223909b91949": {
-      "date": "2026-06-09",
-      "title": "agmsg",
-      "source": "producthunt"
-    },
-    "03844cae318e3725": {
-      "date": "2026-06-09",
-      "title": "The Most Valuable Thing I Found in Tech Wasn't an Opportunity",
-      "source": "devto"
-    },
-    "70fc5b743d047b94": {
-      "date": "2026-06-09",
-      "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-      "source": "devto"
-    },
-    "8da184b330a476b4": {
-      "date": "2026-06-09",
-      "title": "AI Bots Are Driving Up Your Hosting Bill. I have a WordPress fix",
-      "source": "devto"
-    },
-    "fa34fd11afb8556a": {
-      "date": "2026-06-09",
-      "title": "The Hidden Machinery Behind Background Jobs",
-      "source": "devto"
-    },
-    "cd270b21989b19b7": {
-      "date": "2026-06-09",
-      "title": "Gubernator visual schema.",
-      "source": "devto"
-    },
-    "33ffc29a5eb6c901": {
-      "date": "2026-06-09",
-      "title": "It Worked on My Machine (Literally)",
-      "source": "devto"
-    },
-    "a87dd1e41adb3e8f": {
-      "date": "2026-06-09",
-      "title": "The Messages Array, in 4 GIFs",
-      "source": "devto"
-    },
-    "e54962dca43f08d9": {
-      "date": "2026-06-09",
-      "title": "The Loop Is Not the Product",
-      "source": "devto"
-    },
-    "2c612641012a40cf": {
-      "date": "2026-06-09",
-      "title": "IMITATION: The Turing Test, From the Inside",
-      "source": "devto"
-    },
-    "418f3f3be8c03038": {
-      "date": "2026-06-09",
-      "title": "Sovereign Synapse: The Local Brain",
-      "source": "devto"
-    },
-    "dbf05bf5bd2df348": {
-      "date": "2026-06-09",
-      "title": "aaif-goose / goose",
-      "source": "github"
-    },
-    "58c322f57d693443": {
-      "date": "2026-06-09",
-      "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
-      "source": "github"
-    },
-    "5969023e34574d40": {
-      "date": "2026-06-09",
-      "title": "maziyarpanahi / openmed",
-      "source": "github"
-    },
-    "e0ed5ca7359b9cc8": {
-      "date": "2026-06-09",
-      "title": "francescopace / espectre",
-      "source": "github"
-    },
     "f7f17550667c1b8e": {
       "date": "2026-06-11",
       "title": "fort",
@@ -5036,6 +4876,191 @@
       "date": "2026-07-09",
       "title": "Stratagems #9: Lena and P Watched Two AI Suppliers Fight. The Logs Said Neither Was Clean.",
       "source": "devto"
+    },
+    "3ad9e4d56d0d1b46": {
+      "date": "2026-07-10",
+      "title": "ChatCut",
+      "source": "producthunt"
+    },
+    "c1293631b720705f": {
+      "date": "2026-07-10",
+      "title": "PlugThis",
+      "source": "producthunt"
+    },
+    "9b921e9360e28fc6": {
+      "date": "2026-07-10",
+      "title": "StoryChief Connect",
+      "source": "producthunt"
+    },
+    "5f55b7f0dc1442cd": {
+      "date": "2026-07-10",
+      "title": "Mispher",
+      "source": "producthunt"
+    },
+    "7ad60b634430aa32": {
+      "date": "2026-07-10",
+      "title": "Juicy",
+      "source": "producthunt"
+    },
+    "3c486a4c0c5d6fe2": {
+      "date": "2026-07-10",
+      "title": "RepStandard",
+      "source": "producthunt"
+    },
+    "ce8620f2b3648316": {
+      "date": "2026-07-10",
+      "title": "Ship OS by Notion",
+      "source": "producthunt"
+    },
+    "b208c3d8837c1ee6": {
+      "date": "2026-07-10",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "source": "hackernews"
+    },
+    "5dfabe863515b014": {
+      "date": "2026-07-10",
+      "title": "New York City to to ban deceptive subscription practices",
+      "source": "hackernews"
+    },
+    "4910c8c33b272315": {
+      "date": "2026-07-10",
+      "title": "Good Tools Are Invisible",
+      "source": "hackernews"
+    },
+    "7cb0bf9414fdab89": {
+      "date": "2026-07-10",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "source": "hackernews"
+    },
+    "c6113a7431def3b3": {
+      "date": "2026-07-10",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "source": "hackernews"
+    },
+    "a6ed0d78a7a5bef2": {
+      "date": "2026-07-10",
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "source": "hackernews"
+    },
+    "91424ae120108acf": {
+      "date": "2026-07-10",
+      "title": "Combustion engine web-based simulator",
+      "source": "hackernews"
+    },
+    "115e49494d8560cb": {
+      "date": "2026-07-10",
+      "title": "Computation as a universal and fundamental concept",
+      "source": "hackernews"
+    },
+    "b1b7fe6054ff32f6": {
+      "date": "2026-07-10",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "source": "hackernews"
+    },
+    "04f02623c0472c0e": {
+      "date": "2026-07-10",
+      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "source": "hackernews"
+    },
+    "9a76eec2a2cd5f94": {
+      "date": "2026-07-10",
+      "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an M",
+      "source": "devto"
+    },
+    "ceb0010c1df95d71": {
+      "date": "2026-07-10",
+      "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
+      "source": "devto"
+    },
+    "10a3411b74185335": {
+      "date": "2026-07-10",
+      "title": "The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits",
+      "source": "devto"
+    },
+    "21ddb138be17b7e6": {
+      "date": "2026-07-10",
+      "title": "Is It Ethical to Post and Ask About Circuits on Dev.to?",
+      "source": "devto"
+    },
+    "58e972fa073e832f": {
+      "date": "2026-07-10",
+      "title": "The Sword of Damocles at Work: The Human Cost of Delayed Layoffs",
+      "source": "devto"
+    },
+    "bf0452da1c604503": {
+      "date": "2026-07-10",
+      "title": "Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn't Know the Knife Was in the Cont",
+      "source": "devto"
+    },
+    "9c0dcaff9642c754": {
+      "date": "2026-07-10",
+      "title": "How I Built a Zero-Cloud AI Memory OS for Android 📱🧠",
+      "source": "devto"
+    },
+    "ee0f2991da7d06f8": {
+      "date": "2026-07-10",
+      "title": "The Rise of Koshary Code",
+      "source": "devto"
+    },
+    "c6842e0dd976db58": {
+      "date": "2026-07-10",
+      "title": "FinPal - I Built a Finance App You Can Actually Ask Questions To",
+      "source": "devto"
+    },
+    "28f27ac5b013d248": {
+      "date": "2026-07-10",
+      "title": "I Built a Linter That Catches the Security Bugs AI Assistants Keep Writing",
+      "source": "devto"
+    },
+    "d0e94d130828eeee": {
+      "date": "2026-07-10",
+      "title": "oven-sh / bun",
+      "source": "github"
+    },
+    "7b96a8713f54316d": {
+      "date": "2026-07-10",
+      "title": "abseil / abseil-cpp",
+      "source": "github"
+    },
+    "e0eb31222492034e": {
+      "date": "2026-07-10",
+      "title": "jbeder / yaml-cpp",
+      "source": "github"
+    },
+    "056bb02146300a1b": {
+      "date": "2026-07-10",
+      "title": "microsoft / TypeScript",
+      "source": "github"
+    },
+    "2e11ed46319e0069": {
+      "date": "2026-07-10",
+      "title": "catchorg / Catch2",
+      "source": "github"
+    },
+    "1529ac3945ee1527": {
+      "date": "2026-07-10",
+      "title": "chriskohlhoff / asio",
+      "source": "github"
+    },
+    "95ae7120d6074efd": {
+      "date": "2026-07-10",
+      "title": "davila7 / claude-code-templates",
+      "source": "github"
+    },
+    "e40e6547343a680e": {
+      "date": "2026-07-10",
+      "title": "zeux / meshoptimizer",
+      "source": "github"
+    },
+    "47503397d9e427e0": {
+      "date": "2026-07-10",
+      "title": "tailscale / tailscale",
+      "source": "github"
+    },
+    "f73b7c861bcc0e09": {
+      "date": "2026-07-10",
+      "title": "google-labs-code / stitch-skills",
+      "source": "github"
     }
   }
 }
