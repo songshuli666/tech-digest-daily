@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-10T23:35:04.302268",
+  "last_updated": "2026-07-11T23:35:16.202934",
   "sent_items": {
     "f7f17550667c1b8e": {
       "date": "2026-06-11",
@@ -5060,6 +5060,151 @@
     "f73b7c861bcc0e09": {
       "date": "2026-07-10",
       "title": "google-labs-code / stitch-skills",
+      "source": "github"
+    },
+    "685cddaf8af416e8": {
+      "date": "2026-07-11",
+      "title": "Prefer strict tables in SQLite",
+      "source": "hackernews"
+    },
+    "7e4ee71decfc0085": {
+      "date": "2026-07-11",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "source": "hackernews"
+    },
+    "e0ec47435bf3b0d8": {
+      "date": "2026-07-11",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "source": "hackernews"
+    },
+    "0876fa567e56bdc9": {
+      "date": "2026-07-11",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "source": "hackernews"
+    },
+    "7f9ead008542b47e": {
+      "date": "2026-07-11",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "source": "hackernews"
+    },
+    "8049498272c2c806": {
+      "date": "2026-07-11",
+      "title": "Stop Telling Me to Ask an LLM",
+      "source": "hackernews"
+    },
+    "313f1828af00767e": {
+      "date": "2026-07-11",
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "source": "hackernews"
+    },
+    "df319ccd79564993": {
+      "date": "2026-07-11",
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "source": "hackernews"
+    },
+    "e8265069f1e30f77": {
+      "date": "2026-07-11",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "source": "hackernews"
+    },
+    "ca7a302167b9686e": {
+      "date": "2026-07-11",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "source": "hackernews"
+    },
+    "3301ef01c79fb78b": {
+      "date": "2026-07-11",
+      "title": "San Fran Sim",
+      "source": "producthunt"
+    },
+    "f283bde20089cec9": {
+      "date": "2026-07-11",
+      "title": "ChatGPT Work",
+      "source": "producthunt"
+    },
+    "2d8c14157582f759": {
+      "date": "2026-07-11",
+      "title": "SoundPipe",
+      "source": "producthunt"
+    },
+    "df2016ab828d7fc7": {
+      "date": "2026-07-11",
+      "title": "Kickbacks CLI",
+      "source": "producthunt"
+    },
+    "c86c967add0be8b5": {
+      "date": "2026-07-11",
+      "title": "Sim",
+      "source": "producthunt"
+    },
+    "09f320937c80b26a": {
+      "date": "2026-07-11",
+      "title": "Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.",
+      "source": "devto"
+    },
+    "7cc7f45531aab24c": {
+      "date": "2026-07-11",
+      "title": "My Abandoned Cricket Kit Confronted Me. So I Built It a Voice",
+      "source": "devto"
+    },
+    "a22475e8b4225317": {
+      "date": "2026-07-11",
+      "title": "How I Turned Slack Into an AI Teammate That Opens Pull Requests",
+      "source": "devto"
+    },
+    "e88c6c8e50499d6d": {
+      "date": "2026-07-11",
+      "title": "See how AI instructions decay, then write ones that hold",
+      "source": "devto"
+    },
+    "764df29b79515117": {
+      "date": "2026-07-11",
+      "title": "Integrating Lambda Durable Functions into a Step Functions Workflow",
+      "source": "devto"
+    },
+    "5e2ffa6189b34baa": {
+      "date": "2026-07-11",
+      "title": "MLH x DigitalOcean Hackathon: Jury Duty, Explained",
+      "source": "devto"
+    },
+    "39100aba033c69b3": {
+      "date": "2026-07-11",
+      "title": "Race Recap Radio — I turned my 10K into a hype sports broadcast",
+      "source": "devto"
+    },
+    "d4ea16cb9478d711": {
+      "date": "2026-07-11",
+      "title": "Building LaunchPad: one product brief, 42 launch channels, and the bugs that almost sank it",
+      "source": "devto"
+    },
+    "936efa43d30c1261": {
+      "date": "2026-07-11",
+      "title": "THE STAND: Keep the Chant Alive!",
+      "source": "devto"
+    },
+    "356d9faee8dfdfad": {
+      "date": "2026-07-11",
+      "title": "Fandom Fire — A GPU-Accelerated, AI-Powered Roast Battle Engine",
+      "source": "devto"
+    },
+    "97fa41567e13c6c4": {
+      "date": "2026-07-11",
+      "title": "hashicorp / terraform",
+      "source": "github"
+    },
+    "8c9e20fc0efe6fec": {
+      "date": "2026-07-11",
+      "title": "openai / plugins",
+      "source": "github"
+    },
+    "33cf411d1b08b0fd": {
+      "date": "2026-07-11",
+      "title": "home-assistant / core",
+      "source": "github"
+    },
+    "b58db5c0a7c76bd1": {
+      "date": "2026-07-11",
+      "title": "vercel / next.js",
       "source": "github"
     }
   }
