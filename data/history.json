@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-11T23:35:16.202934",
+  "last_updated": "2026-07-12T23:34:31.813076",
   "sent_items": {
-    "f7f17550667c1b8e": {
-      "date": "2026-06-11",
-      "title": "fort",
-      "source": "producthunt"
-    },
-    "95a1978fb725cd91": {
-      "date": "2026-06-11",
-      "title": "Monako Glass",
-      "source": "producthunt"
-    },
-    "da93531c6fc1181e": {
-      "date": "2026-06-11",
-      "title": "AGNT.Hub",
-      "source": "producthunt"
-    },
-    "56cf513174ae71a6": {
-      "date": "2026-06-11",
-      "title": "OLO Robotics",
-      "source": "producthunt"
-    },
-    "cd4f049b1915cd72": {
-      "date": "2026-06-11",
-      "title": "TypingMind",
-      "source": "producthunt"
-    },
-    "ce891cda46f1db82": {
-      "date": "2026-06-11",
-      "title": "Gemini 3.5 Live Translate",
-      "source": "producthunt"
-    },
-    "0001704b1a614f28": {
-      "date": "2026-06-11",
-      "title": "Incorruptible by Eric Ries",
-      "source": "producthunt"
-    },
-    "87f924994d61ed77": {
-      "date": "2026-06-11",
-      "title": "Screen Charm",
-      "source": "producthunt"
-    },
-    "1ef08ce69c3943ec": {
-      "date": "2026-06-11",
-      "title": "πFS",
-      "source": "hackernews"
-    },
-    "cae7f454334d71ab": {
-      "date": "2026-06-11",
-      "title": "PgDog is funded and coming to a database near you",
-      "source": "hackernews"
-    },
-    "ca4e7d70d81cbb9b": {
-      "date": "2026-06-11",
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "source": "hackernews"
-    },
-    "923f035e09b2c193": {
-      "date": "2026-06-11",
-      "title": "L'Affaire Siloxane",
-      "source": "hackernews"
-    },
-    "17b7f9df6adf18d2": {
-      "date": "2026-06-11",
-      "title": "Raspberry Pi 5 – 16GB RAM",
-      "source": "hackernews"
-    },
-    "f5d2716efa494d83": {
-      "date": "2026-06-11",
-      "title": "GeoLibre 1.0",
-      "source": "hackernews"
-    },
-    "4f1bcef8ef09731c": {
-      "date": "2026-06-11",
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "source": "hackernews"
-    },
-    "778e7a00c5425e46": {
-      "date": "2026-06-11",
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "source": "hackernews"
-    },
-    "76201c4160f3317b": {
-      "date": "2026-06-11",
-      "title": "What is it like to be a bat? (1974) [pdf]",
-      "source": "hackernews"
-    },
-    "039e5003aaa35a41": {
-      "date": "2026-06-11",
-      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-      "source": "hackernews"
-    },
-    "0d1bd25a3199bf22": {
-      "date": "2026-06-11",
-      "title": "addyosmani / agent-skills",
-      "source": "github"
-    },
-    "32d41bca1d59120c": {
-      "date": "2026-06-11",
-      "title": "soxoj / maigret",
-      "source": "github"
-    },
-    "b25b9c85d3f57ef9": {
-      "date": "2026-06-11",
-      "title": "masterking32 / MasterDnsVPN",
-      "source": "github"
-    },
-    "21448fa1945070e8": {
-      "date": "2026-06-11",
-      "title": "activeloopai / hivemind",
-      "source": "github"
-    },
-    "67370febfe820b03": {
-      "date": "2026-06-11",
-      "title": "The Code Works. What Could Possibly Go Wrong?",
-      "source": "devto"
-    },
-    "d3cf2671d65214e3": {
-      "date": "2026-06-11",
-      "title": "How we built AIventure, an AI-Powered Retro Dungeon",
-      "source": "devto"
-    },
-    "fcc11a09b271aeda": {
-      "date": "2026-06-11",
-      "title": "CSS – only a Nerdy Hobby?",
-      "source": "devto"
-    },
-    "e2af24a068df79c2": {
-      "date": "2026-06-11",
-      "title": "How I Built a Treasure-Run Game Where Australia Saves the Sun",
-      "source": "devto"
-    },
-    "820d2d39230984e4": {
-      "date": "2026-06-11",
-      "title": "CLI over MCP: a small Chrome DevTools experiment in Copilot CLI",
-      "source": "devto"
-    },
-    "ca7ddf1abeaf8673": {
-      "date": "2026-06-11",
-      "title": "I Thought My Next.js 16 Auth Was Solid. One Afternoon Proved Otherwise.",
-      "source": "devto"
-    },
-    "6c696e90720fb397": {
-      "date": "2026-06-11",
-      "title": "Who's Going To RubyConf 2026?",
-      "source": "devto"
-    },
-    "bf8d3a4016f3b34c": {
-      "date": "2026-06-11",
-      "title": "The joy of coding a command line english dictionary program in dotnet",
-      "source": "devto"
-    },
-    "600834f6c8550e8f": {
-      "date": "2026-06-11",
-      "title": "When Prompt Batching Made My LLM App More Expensive",
-      "source": "devto"
-    },
-    "3122286ba2bab06d": {
-      "date": "2026-06-11",
-      "title": "43 Years Later: Finishing My BBC Micro Game in Assembly",
-      "source": "devto"
-    },
     "8265ddda1f057d66": {
       "date": "2026-06-12",
       "title": "Show HN: Homebrew 6.0.0",
@@ -5206,6 +5046,171 @@
       "date": "2026-07-11",
       "title": "vercel / next.js",
       "source": "github"
+    },
+    "9aba0e82d9f455c5": {
+      "date": "2026-07-12",
+      "title": "JustVibe",
+      "source": "producthunt"
+    },
+    "49bc96cff18fe62d": {
+      "date": "2026-07-12",
+      "title": "Miora",
+      "source": "producthunt"
+    },
+    "af30ea7b31515aac": {
+      "date": "2026-07-12",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "source": "hackernews"
+    },
+    "daad41f528e7a68b": {
+      "date": "2026-07-12",
+      "title": "Old and new apps, via modern coding agents",
+      "source": "hackernews"
+    },
+    "a9b26234683f415e": {
+      "date": "2026-07-12",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "source": "hackernews"
+    },
+    "f3db4b73f52de005": {
+      "date": "2026-07-12",
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "source": "hackernews"
+    },
+    "b41a722ba9edfcde": {
+      "date": "2026-07-12",
+      "title": "Tiny Emulators",
+      "source": "hackernews"
+    },
+    "389409443cc9e997": {
+      "date": "2026-07-12",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "source": "hackernews"
+    },
+    "8bf58e13a3bbb9f5": {
+      "date": "2026-07-12",
+      "title": "How we can reduce traffic congestion",
+      "source": "hackernews"
+    },
+    "35f7f42a45eb1a83": {
+      "date": "2026-07-12",
+      "title": "So you want to learn physics (second edition, 2021)",
+      "source": "hackernews"
+    },
+    "5d341736b0dd0bb1": {
+      "date": "2026-07-12",
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "source": "hackernews"
+    },
+    "928d262bf540249c": {
+      "date": "2026-07-12",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "source": "hackernews"
+    },
+    "8c171384c4cda195": {
+      "date": "2026-07-12",
+      "title": "Dicklesworthstone / destructive_command_guard",
+      "source": "github"
+    },
+    "3888eecb3f450ecd": {
+      "date": "2026-07-12",
+      "title": "HKUDS / Vibe-Trading",
+      "source": "github"
+    },
+    "3687a0874b5239a5": {
+      "date": "2026-07-12",
+      "title": "PrefectHQ / prefect",
+      "source": "github"
+    },
+    "46405393d4f50fd7": {
+      "date": "2026-07-12",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "source": "github"
+    },
+    "41a6a86637e67fe4": {
+      "date": "2026-07-12",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "source": "github"
+    },
+    "b454287131ed0d92": {
+      "date": "2026-07-12",
+      "title": "ColeMurray / background-agents",
+      "source": "github"
+    },
+    "1c3e1f88dc2dc347": {
+      "date": "2026-07-12",
+      "title": "k1tbyte / Wand-Enhancer",
+      "source": "github"
+    },
+    "d2e7f6acabc603da": {
+      "date": "2026-07-12",
+      "title": "pingdotgg / t3code",
+      "source": "github"
+    },
+    "86aa53f1b07692ef": {
+      "date": "2026-07-12",
+      "title": "virattt / ai-hedge-fund",
+      "source": "github"
+    },
+    "f41dcfa2746bceff": {
+      "date": "2026-07-12",
+      "title": "chen08209 / FlClash",
+      "source": "github"
+    },
+    "0778cebbc87da2f7": {
+      "date": "2026-07-12",
+      "title": "par274 / sharpemu",
+      "source": "github"
+    },
+    "dffdedb326e70836": {
+      "date": "2026-07-12",
+      "title": "I Built a Graveyard for My Dead Side Projects - With AI Eulogies & a 3D Cemetery",
+      "source": "devto"
+    },
+    "6ebc03c2e796a540": {
+      "date": "2026-07-12",
+      "title": "I Love Fragrances, So I Built a 6-Game Arcade + Concierge About My Obsession",
+      "source": "devto"
+    },
+    "52ca01f082778330": {
+      "date": "2026-07-12",
+      "title": "Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.",
+      "source": "devto"
+    },
+    "9709716b097e25c1": {
+      "date": "2026-07-12",
+      "title": "I Poked a 10-Year-Old Chat Protocol With a Stick",
+      "source": "devto"
+    },
+    "266b0885a49f2e5d": {
+      "date": "2026-07-12",
+      "title": "Building Minelog, a Minecraft Travel Log Web App",
+      "source": "devto"
+    },
+    "7ec5b6a0f0067531": {
+      "date": "2026-07-12",
+      "title": "Simple Benchmark Review: Ollama on Jetson Nano",
+      "source": "devto"
+    },
+    "c1401028bbda5cb8": {
+      "date": "2026-07-12",
+      "title": "Passion Atlas: A Living Map of Human Curiosity",
+      "source": "devto"
+    },
+    "a0e112d4a1d0f904": {
+      "date": "2026-07-12",
+      "title": "Stratagems #12: Mark Watched an AI Dashboard Take Over. The Muted Channel Was Still Speaking.",
+      "source": "devto"
+    },
+    "0469a1670151e018": {
+      "date": "2026-07-12",
+      "title": "Four signals I built into an OSS decision score instead of fabricating reviews",
+      "source": "devto"
+    },
+    "7202eb9a70969986": {
+      "date": "2026-07-12",
+      "title": "For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics",
+      "source": "devto"
     }
   }
 }
