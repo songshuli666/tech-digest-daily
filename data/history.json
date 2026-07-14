@@ -1,317 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-13T23:32:12.337472",
+  "last_updated": "2026-07-14T23:30:36.733029",
   "sent_items": {
-    "52991c7eb2d5735d": {
-      "date": "2026-06-13",
-      "title": "Firma.dev",
-      "source": "producthunt"
-    },
-    "4a3d3f99ff9d712f": {
-      "date": "2026-06-13",
-      "title": "Pond",
-      "source": "producthunt"
-    },
-    "36ea64e3c3a4f903": {
-      "date": "2026-06-13",
-      "title": "ShellMate",
-      "source": "producthunt"
-    },
-    "c1c38805e9b4205c": {
-      "date": "2026-06-13",
-      "title": "Bob's CLI",
-      "source": "producthunt"
-    },
-    "3265fb82cdc043cf": {
-      "date": "2026-06-13",
-      "title": "HyperSleep",
-      "source": "producthunt"
-    },
-    "f65f1e26619ffd71": {
-      "date": "2026-06-13",
-      "title": "Meet Warren 3.0",
-      "source": "producthunt"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-06-13",
-      "title": "Slack Data Agent",
-      "source": "producthunt"
-    },
-    "6f00852330f9ef08": {
-      "date": "2026-06-13",
-      "title": "KOSH Money",
-      "source": "producthunt"
-    },
-    "20874038c8c2993b": {
-      "date": "2026-06-13",
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "source": "hackernews"
-    },
-    "c2c313cbbd70a73a": {
-      "date": "2026-06-13",
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "source": "hackernews"
-    },
-    "956bbc4f492e419e": {
-      "date": "2026-06-13",
-      "title": "How to setup a local coding agent on macOS",
-      "source": "hackernews"
-    },
-    "4fb17ef9197719e8": {
-      "date": "2026-06-13",
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "source": "hackernews"
-    },
-    "ae938806e82e8c0e": {
-      "date": "2026-06-13",
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "source": "hackernews"
-    },
-    "a05bd9a94872cf3d": {
-      "date": "2026-06-13",
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "source": "hackernews"
-    },
-    "6fa570b91085dcb3": {
-      "date": "2026-06-13",
-      "title": "Renault: Electric motors with no rare earths",
-      "source": "hackernews"
-    },
-    "89994ef3d453a866": {
-      "date": "2026-06-13",
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "source": "hackernews"
-    },
-    "4ad38bde77ebc2d3": {
-      "date": "2026-06-13",
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "source": "hackernews"
-    },
-    "fcd4334962a41853": {
-      "date": "2026-06-13",
-      "title": "/architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
-      "source": "hackernews"
-    },
-    "4d5a06ba86f6ad13": {
-      "date": "2026-06-13",
-      "title": "music-assistant / server",
-      "source": "github"
-    },
-    "43eac971570e9768": {
-      "date": "2026-06-13",
-      "title": "mattermost / mattermost",
-      "source": "github"
-    },
-    "b11d32bac2710243": {
-      "date": "2026-06-13",
-      "title": "iptv-org / iptv",
-      "source": "github"
-    },
-    "5c551e97a9eb1fa8": {
-      "date": "2026-06-13",
-      "title": "LMCache / LMCache",
-      "source": "github"
-    },
-    "2cd560aef18e9807": {
-      "date": "2026-06-13",
-      "title": "microsoft / PowerToys",
-      "source": "github"
-    },
-    "f6b162cc6cccb8ec": {
-      "date": "2026-06-13",
-      "title": "What was your win this week?",
-      "source": "devto"
-    },
-    "46bd0253d0586019": {
-      "date": "2026-06-13",
-      "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-      "source": "devto"
-    },
-    "74d1c300b32fe416": {
-      "date": "2026-06-13",
-      "title": "IOS Midsommer Madness",
-      "source": "devto"
-    },
-    "d620b199c7a00fdf": {
-      "date": "2026-06-13",
-      "title": "I Switched to the Agent Toolkit for AWS. Here's Why.",
-      "source": "devto"
-    },
-    "4cc81915f46193fc": {
-      "date": "2026-06-13",
-      "title": "Resolving WSL Friction with Google Antigravity: the Agy 2.0 and Agy IDE Edition",
-      "source": "devto"
-    },
-    "f02f853967a98227": {
-      "date": "2026-06-13",
-      "title": "Weekly Dev Log 2026-W09",
-      "source": "devto"
-    },
-    "3ec430a6244ae536": {
-      "date": "2026-06-13",
-      "title": "The Remote Already Exists: What \"Click\" Got Right About Agentic AI",
-      "source": "devto"
-    },
-    "ef5b54e5ea1cf2ba": {
-      "date": "2026-06-13",
-      "title": "Testing Neovim in a Container with Finch (like Docker)",
-      "source": "devto"
-    },
-    "a2eeb3e25b3d481f": {
-      "date": "2026-06-13",
-      "title": "WordPress.org now distrusts my commits by default. As a plugin author, I think that’s right.",
-      "source": "devto"
-    },
-    "de21e9874e170d69": {
-      "date": "2026-06-13",
-      "title": "Confession of a Former X User: How I Spent 6 Months Writing into the Void",
-      "source": "devto"
-    },
-    "082cd1074156fae0": {
-      "date": "2026-06-13",
-      "title": "Kimi K2.7 Code",
-      "source": "producthunt"
-    },
-    "50ca4c3a5665371a": {
-      "date": "2026-06-13",
-      "title": "Vercel Drop",
-      "source": "producthunt"
-    },
-    "38bfb6e78b21bcfa": {
-      "date": "2026-06-13",
-      "title": "CakewordAI",
-      "source": "producthunt"
-    },
-    "3ae6ddb73bc9a1cc": {
-      "date": "2026-06-13",
-      "title": "Avatars in ElevenCreative",
-      "source": "producthunt"
-    },
-    "1b4529a7c2d7b1db": {
-      "date": "2026-06-13",
-      "title": "NomNak",
-      "source": "producthunt"
-    },
-    "55e84a6f47f9549f": {
-      "date": "2026-06-13",
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "source": "hackernews"
-    },
-    "37c04ef685e983f7": {
-      "date": "2026-06-13",
-      "title": "Every Frame Perfect",
-      "source": "hackernews"
-    },
-    "f582d40c501d6d84": {
-      "date": "2026-06-13",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "source": "hackernews"
-    },
-    "9cc7608624a905db": {
-      "date": "2026-06-13",
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "source": "hackernews"
-    },
-    "f2cdd4cdc72d5c03": {
-      "date": "2026-06-13",
-      "title": "GLM 5.2 Is Out",
-      "source": "hackernews"
-    },
-    "894c51df33f48cb4": {
-      "date": "2026-06-13",
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "source": "hackernews"
-    },
-    "03a60f383fcb1ad3": {
-      "date": "2026-06-13",
-      "title": "GameBoy Workboy",
-      "source": "hackernews"
-    },
-    "478835b2440e3d7e": {
-      "date": "2026-06-13",
-      "title": "Codex for open source",
-      "source": "hackernews"
-    },
-    "6bfb729a629768e7": {
-      "date": "2026-06-13",
-      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-      "source": "hackernews"
-    },
-    "ab6b0feecf892845": {
-      "date": "2026-06-13",
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "source": "hackernews"
-    },
-    "d63038fa3a80107b": {
-      "date": "2026-06-13",
-      "title": "Teach Your Agent to Forget (On Purpose)",
-      "source": "devto"
-    },
-    "3ec389710efd130b": {
-      "date": "2026-06-13",
-      "title": "Solstice Runner — A Browser Game Tribute to Alan Turing",
-      "source": "devto"
-    },
-    "a4f0687875e2aa2d": {
-      "date": "2026-06-13",
-      "title": "From 5 Seconds to 50ms: How I Stopped Nuking My Database Every Time I Deleted an Order",
-      "source": "devto"
-    },
-    "07d7bdf8697b87e5": {
-      "date": "2026-06-13",
-      "title": "I expected the cheaper model to be cheaper. It cost 8.6 more.",
-      "source": "devto"
-    },
-    "9497fbb051238164": {
-      "date": "2026-06-13",
-      "title": "HeadLess BAI",
-      "source": "devto"
-    },
-    "588c1b0bad20a1e2": {
-      "date": "2026-06-13",
-      "title": "From Rate Card to Database: Engineering UPS Shipping Rates Into a Multi-Carrier Logistics Platform p",
-      "source": "devto"
-    },
-    "c1e99aa05660eb8b": {
-      "date": "2026-06-13",
-      "title": "Opening Pandora's Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed",
-      "source": "devto"
-    },
-    "faecfe641b6170a4": {
-      "date": "2026-06-13",
-      "title": "[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟",
-      "source": "devto"
-    },
-    "e10b443cf69ef784": {
-      "date": "2026-06-13",
-      "title": "I Built a Token-Bucket Rate Limiter in Pure Python and Finally Understood How APIs Protect Themselve",
-      "source": "devto"
-    },
-    "133bee78e61d00d6": {
-      "date": "2026-06-13",
-      "title": "AI Didn't Replace Junior Developers. It Replaced Safe Places To Be One.",
-      "source": "devto"
-    },
-    "c3257d531a3c4d89": {
-      "date": "2026-06-13",
-      "title": "obra / superpowers",
-      "source": "github"
-    },
-    "b627289da26ad7fd": {
-      "date": "2026-06-13",
-      "title": "andrewyng / aisuite",
-      "source": "github"
-    },
-    "0e9d524ba522c191": {
-      "date": "2026-06-13",
-      "title": "bannedbook / fanqiang",
-      "source": "github"
-    },
-    "81f1648d4246858d": {
-      "date": "2026-06-13",
-      "title": "swc-project / swc",
-      "source": "github"
-    },
     "ef3f18f446fca267": {
       "date": "2026-06-14",
       "title": "Firewood Splitting Simulator",
@@ -5205,6 +4895,161 @@
     "affb8c9cf0b20028": {
       "date": "2026-07-13",
       "title": "I Could Review It. I Couldn’t Write It.",
+      "source": "devto"
+    },
+    "bd2f3612c99b0d58": {
+      "date": "2026-07-14",
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "source": "hackernews"
+    },
+    "846a8e6b3aad4c9d": {
+      "date": "2026-07-14",
+      "title": "How to stop Claude from saying load-bearing",
+      "source": "hackernews"
+    },
+    "b692f34523e3f6fe": {
+      "date": "2026-07-14",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "source": "hackernews"
+    },
+    "ad2cc798c0cf6466": {
+      "date": "2026-07-14",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "source": "hackernews"
+    },
+    "2c5c2238eb8ffb5a": {
+      "date": "2026-07-14",
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "source": "hackernews"
+    },
+    "0e149f1f34dd768f": {
+      "date": "2026-07-14",
+      "title": "I'm a USB-C Maximalist",
+      "source": "hackernews"
+    },
+    "8b8770d619f10182": {
+      "date": "2026-07-14",
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "source": "hackernews"
+    },
+    "369ded27acb94dcc": {
+      "date": "2026-07-14",
+      "title": "Dependabot version updates introduce default package cooldown",
+      "source": "hackernews"
+    },
+    "c27cd8658ee54098": {
+      "date": "2026-07-14",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "source": "hackernews"
+    },
+    "03a13c9f497a3db4": {
+      "date": "2026-07-14",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "source": "hackernews"
+    },
+    "84b7a8ae4c08696a": {
+      "date": "2026-07-14",
+      "title": "loopclub",
+      "source": "producthunt"
+    },
+    "ea37e872f52ccde9": {
+      "date": "2026-07-14",
+      "title": "ClawTeams",
+      "source": "producthunt"
+    },
+    "9989746b52f1b04b": {
+      "date": "2026-07-14",
+      "title": "Agentcard for companies",
+      "source": "producthunt"
+    },
+    "92031009d02b9d17": {
+      "date": "2026-07-14",
+      "title": "Breva",
+      "source": "producthunt"
+    },
+    "78740a7c9b2a5d73": {
+      "date": "2026-07-14",
+      "title": "Mojave Paint",
+      "source": "producthunt"
+    },
+    "3e8ac84d05ac01e7": {
+      "date": "2026-07-14",
+      "title": "ClipFlow",
+      "source": "producthunt"
+    },
+    "ffaa71ad8273854d": {
+      "date": "2026-07-14",
+      "title": "Altersend",
+      "source": "producthunt"
+    },
+    "e7fb3b3b4b71d74f": {
+      "date": "2026-07-14",
+      "title": "Trump Accounts",
+      "source": "producthunt"
+    },
+    "419bc94b68fc2de8": {
+      "date": "2026-07-14",
+      "title": "AIEraDev / Clypra",
+      "source": "github"
+    },
+    "125010e3540e3897": {
+      "date": "2026-07-14",
+      "title": "chenyme / grok2api",
+      "source": "github"
+    },
+    "810a6b2984da6c86": {
+      "date": "2026-07-14",
+      "title": "HenryNdubuaku / maths-cs-ai-compendium",
+      "source": "github"
+    },
+    "a3731e2a39a817bd": {
+      "date": "2026-07-14",
+      "title": "DEV’s Big Summer Bug Smash is now LIVE! Share $5,000 in cash prizes, skateboards, and more across 20",
+      "source": "devto"
+    },
+    "632282425fc20193": {
+      "date": "2026-07-14",
+      "title": "Top 7 Featured DEV Posts of the Week",
+      "source": "devto"
+    },
+    "aca306173bb9dd07": {
+      "date": "2026-07-14",
+      "title": "Stop Saying You Want Ownership Mindset",
+      "source": "devto"
+    },
+    "5df71f8220c2c167": {
+      "date": "2026-07-14",
+      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
+      "source": "devto"
+    },
+    "c287cf534b1705d4": {
+      "date": "2026-07-14",
+      "title": "How I made a Rust hot path 27x faster, and the AI fix I refused to merge",
+      "source": "devto"
+    },
+    "192a8fc737eae8c1": {
+      "date": "2026-07-14",
+      "title": "A Dash of dev.to: My Blog Stats Now Live in the Terminal",
+      "source": "devto"
+    },
+    "aeb0caab1a9d2513": {
+      "date": "2026-07-14",
+      "title": "Building a Hybrid Docker Orchestrator in Go: The Journey from Single VM to Multi-Node Cluster",
+      "source": "devto"
+    },
+    "45c506f508ecf74a": {
+      "date": "2026-07-14",
+      "title": "HTTP gets a QUERY method so complex searches can stop pretending to be POST\r\n\r\nhttps://www.theregist",
+      "source": "devto"
+    },
+    "a8b86dbf4ea524e9": {
+      "date": "2026-07-14",
+      "title": "Stratagems #13: P Posted a Question on a Public Forum. 24 Hours Later, an AI Sales Team Called.",
+      "source": "devto"
+    },
+    "07a77b3050e17ecf": {
+      "date": "2026-07-14",
+      "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
       "source": "devto"
     }
   }
