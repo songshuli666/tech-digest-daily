@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-14T23:30:36.733029",
+  "last_updated": "2026-07-15T23:37:22.405449",
   "sent_items": {
-    "ef3f18f446fca267": {
-      "date": "2026-06-14",
-      "title": "Firewood Splitting Simulator",
-      "source": "hackernews"
-    },
-    "77645118947eda65": {
-      "date": "2026-06-14",
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "source": "hackernews"
-    },
-    "a2621a0b756027f9": {
-      "date": "2026-06-14",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "source": "hackernews"
-    },
-    "40d40148a0162ffb": {
-      "date": "2026-06-14",
-      "title": "Did Anthropic ask for this?",
-      "source": "hackernews"
-    },
-    "8b443d6e64413533": {
-      "date": "2026-06-14",
-      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-      "source": "hackernews"
-    },
-    "569aa46bfd689367": {
-      "date": "2026-06-14",
-      "title": "Chaosnet (1981)",
-      "source": "hackernews"
-    },
-    "ea939e36910237e3": {
-      "date": "2026-06-14",
-      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
-      "source": "hackernews"
-    },
-    "789eeacc629008eb": {
-      "date": "2026-06-14",
-      "title": "Chopped, Stored, Secured – The Story of the Hash Function",
-      "source": "hackernews"
-    },
-    "a75e1fea657831b1": {
-      "date": "2026-06-14",
-      "title": "The Jqwik Anti-AI Affair",
-      "source": "hackernews"
-    },
-    "54d288e909e2d118": {
-      "date": "2026-06-14",
-      "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
-      "source": "hackernews"
-    },
-    "a3698bf0b5a50f03": {
-      "date": "2026-06-14",
-      "title": "Permute 4.0",
-      "source": "producthunt"
-    },
-    "fc18b73e96a6269f": {
-      "date": "2026-06-14",
-      "title": "Momentra",
-      "source": "producthunt"
-    },
-    "3f6afa7a321d5e82": {
-      "date": "2026-06-14",
-      "title": "Cloudback for Linear",
-      "source": "producthunt"
-    },
-    "d6dba69506b9d920": {
-      "date": "2026-06-14",
-      "title": "Slashy",
-      "source": "producthunt"
-    },
-    "09e15d983128c4d1": {
-      "date": "2026-06-14",
-      "title": "Tinfoil Pigeons",
-      "source": "producthunt"
-    },
-    "f132e1540340ddd8": {
-      "date": "2026-06-14",
-      "title": "Pool",
-      "source": "producthunt"
-    },
-    "f4026c5abf8bc4de": {
-      "date": "2026-06-14",
-      "title": "Memoriq",
-      "source": "producthunt"
-    },
-    "42f7a50cccf41696": {
-      "date": "2026-06-14",
-      "title": "Reverie.fm",
-      "source": "producthunt"
-    },
-    "3ff53c76a40b4311": {
-      "date": "2026-06-14",
-      "title": "How to give Claude (or Cursor) access to your Rails app's activity logs",
-      "source": "devto"
-    },
-    "9a0612bb6d5748aa": {
-      "date": "2026-06-14",
-      "title": "Building in public, week 13: the debt week nobody posts about",
-      "source": "devto"
-    },
-    "ec19ea17a8e2042b": {
-      "date": "2026-06-14",
-      "title": "How to enjoy programming in a world of AI",
-      "source": "devto"
-    },
-    "2310266922b491d9": {
-      "date": "2026-06-14",
-      "title": "I Built a Django-Inspired Web Framework in Rust — Here's What I Learned",
-      "source": "devto"
-    },
-    "16223ebc4dc90c34": {
-      "date": "2026-06-14",
-      "title": "I gave 8 AI agents an island and watched a society emerge — wars, gossip, grudges, and peace",
-      "source": "devto"
-    },
-    "19f1482668879af8": {
-      "date": "2026-06-14",
-      "title": "I run Claude Code and Codex side by side. Here's the division of labor that actually works.",
-      "source": "devto"
-    },
-    "c18745a479e410cf": {
-      "date": "2026-06-14",
-      "title": "🕹️ SOLSTICE: Hold the Light Until Dawn - A 3D Browser Game for the June Solstice Jam",
-      "source": "devto"
-    },
-    "5034cf1a60449959": {
-      "date": "2026-06-14",
-      "title": "I built a 3B lease risk scanner that runs without an external LLM API",
-      "source": "devto"
-    },
-    "767009ce2507bd2d": {
-      "date": "2026-06-14",
-      "title": "Building an Interactive 'Festa Junina' with Vanilla JS 🌽🔥",
-      "source": "devto"
-    },
-    "e497f7f244be06df": {
-      "date": "2026-06-14",
-      "title": "I Built a Consistent Hashing Ring in Pure Python and Finally Understood How Cassandra Distributes Da",
-      "source": "devto"
-    },
-    "52e5d1d72c1088d2": {
-      "date": "2026-06-14",
-      "title": "freeCodeCamp / freeCodeCamp",
-      "source": "github"
-    },
-    "9855a6e264c8f0c8": {
-      "date": "2026-06-14",
-      "title": "pytest-dev / pytest",
-      "source": "github"
-    },
-    "c84af8760b69b369": {
-      "date": "2026-06-14",
-      "title": "meshery / meshery",
-      "source": "github"
-    },
-    "91014a4cbd784884": {
-      "date": "2026-06-14",
-      "title": "cypress-io / cypress",
-      "source": "github"
-    },
-    "1007a733b399a71b": {
-      "date": "2026-06-14",
-      "title": "GorvGoyl / Clone-Wars",
-      "source": "github"
-    },
-    "c7cd9c67baaf46ad": {
-      "date": "2026-06-14",
-      "title": "Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
-      "source": "github"
-    },
-    "a7831823542abca4": {
-      "date": "2026-06-14",
-      "title": "Free-TV / IPTV",
-      "source": "github"
-    },
-    "95c2f4ed167aa46f": {
-      "date": "2026-06-14",
-      "title": "puppeteer / puppeteer",
-      "source": "github"
-    },
     "cdfbc00c7fd89266": {
       "date": "2026-06-16",
       "title": "Iroh 1.0",
@@ -5051,6 +4871,161 @@
       "date": "2026-07-14",
       "title": "This is remarkable\r\n\r\nhttps://bobdahacker.com/blog/fifa-hack",
       "source": "devto"
+    },
+    "93bfddc231a53e0b": {
+      "date": "2026-07-15",
+      "title": "Inkling: Our Open-Weights Model",
+      "source": "hackernews"
+    },
+    "4c4d1653eb7d2ad5": {
+      "date": "2026-07-15",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "source": "hackernews"
+    },
+    "9c2b59994f37d4f0": {
+      "date": "2026-07-15",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "source": "hackernews"
+    },
+    "2bdccaea9d3819f9": {
+      "date": "2026-07-15",
+      "title": "Grok Build is open source",
+      "source": "hackernews"
+    },
+    "6fba7131fe4a2eb3": {
+      "date": "2026-07-15",
+      "title": "Show HN: Firefox in WebAssembly",
+      "source": "hackernews"
+    },
+    "1d93303d9e789be5": {
+      "date": "2026-07-15",
+      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+      "source": "hackernews"
+    },
+    "eada78214e2f23a7": {
+      "date": "2026-07-15",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "source": "hackernews"
+    },
+    "c21754a83684fce4": {
+      "date": "2026-07-15",
+      "title": "SQLite should have (Rust-style) editions",
+      "source": "hackernews"
+    },
+    "e129bfdfa3d699a8": {
+      "date": "2026-07-15",
+      "title": "The Anti-Mac User Interface (1996)",
+      "source": "hackernews"
+    },
+    "03cd34ebd4cc8c5e": {
+      "date": "2026-07-15",
+      "title": "LLM Networking with MikroTik",
+      "source": "hackernews"
+    },
+    "f030430262631af8": {
+      "date": "2026-07-15",
+      "title": "Keepresso",
+      "source": "producthunt"
+    },
+    "e9a53601e12902e6": {
+      "date": "2026-07-15",
+      "title": "Jam-Pod",
+      "source": "producthunt"
+    },
+    "e767f25ee386511c": {
+      "date": "2026-07-15",
+      "title": "YAGNI",
+      "source": "producthunt"
+    },
+    "d17dea0042e97d95": {
+      "date": "2026-07-15",
+      "title": "Velo 3.0",
+      "source": "producthunt"
+    },
+    "cd90c659c46e7683": {
+      "date": "2026-07-15",
+      "title": "Crustdata Recruiter",
+      "source": "producthunt"
+    },
+    "d4a3239f51bd310f": {
+      "date": "2026-07-15",
+      "title": "nudge2.0",
+      "source": "producthunt"
+    },
+    "8669b395b6538bbf": {
+      "date": "2026-07-15",
+      "title": "QuickQuill",
+      "source": "producthunt"
+    },
+    "6ce4be94143d9744": {
+      "date": "2026-07-15",
+      "title": "ccshare",
+      "source": "producthunt"
+    },
+    "8d619cd23556466b": {
+      "date": "2026-07-15",
+      "title": "My benchmark's Python column was N/A for a year — CPython's 4300-digit limit, and eight other bugs",
+      "source": "devto"
+    },
+    "5ae7bbaa1609519d": {
+      "date": "2026-07-15",
+      "title": "Why did my benchmark stop at N=22? A debugging story in nine bugs",
+      "source": "devto"
+    },
+    "344aac16fa17673d": {
+      "date": "2026-07-15",
+      "title": "/proc, pkexec, and 678 commits",
+      "source": "devto"
+    },
+    "5525cf4bdf471482": {
+      "date": "2026-07-15",
+      "title": "My Demo Script Found a Production Bug on Its First Run: A Tiny Post-Mortem",
+      "source": "devto"
+    },
+    "1f464749ec8ec13a": {
+      "date": "2026-07-15",
+      "title": "Eighty Percent Done Is Not a Real Number",
+      "source": "devto"
+    },
+    "6b4b3c3490e236f8": {
+      "date": "2026-07-15",
+      "title": "The SSE Fragmentation Catastrophe That Took Down CareerPilot AI",
+      "source": "devto"
+    },
+    "2a12de29d6ea7137": {
+      "date": "2026-07-15",
+      "title": "A Receipt Is Not Proof Forever. It Is a Promise to Reopen the Claim.",
+      "source": "devto"
+    },
+    "3cccb3430afe65f7": {
+      "date": "2026-07-15",
+      "title": "I Built a Tool to Visualize DSA. Let’s Learn Together! (DSA View View 👀👀)",
+      "source": "devto"
+    },
+    "c2110bde0d623718": {
+      "date": "2026-07-15",
+      "title": "I Pre-Registered a Hypothesis. 600 API Calls Later, the Data Killed It.",
+      "source": "devto"
+    },
+    "268c49ccce191d62": {
+      "date": "2026-07-15",
+      "title": "How We Cut Our Browser Video Renderer's Frame Time by 80%",
+      "source": "devto"
+    },
+    "be7c8f4e3a9e9011": {
+      "date": "2026-07-15",
+      "title": "openinterpreter / openinterpreter",
+      "source": "github"
+    },
+    "bca7775ac9caec94": {
+      "date": "2026-07-15",
+      "title": "HKUDS / DeepTutor",
+      "source": "github"
+    },
+    "25d4ef138213864c": {
+      "date": "2026-07-15",
+      "title": "YimMenu / YimMenuV2",
+      "source": "github"
     }
   }
 }
