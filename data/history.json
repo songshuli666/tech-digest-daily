@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-16T23:33:59.183344",
+  "last_updated": "2026-07-17T23:31:58.039941",
   "sent_items": {
-    "cdfbc00c7fd89266": {
-      "date": "2026-06-16",
-      "title": "Iroh 1.0",
-      "source": "hackernews"
-    },
-    "8832875a0fb9268c": {
-      "date": "2026-06-16",
-      "title": "A backdoor in a LinkedIn job offer",
-      "source": "hackernews"
-    },
-    "8de637d413f8edcb": {
-      "date": "2026-06-16",
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "source": "hackernews"
-    },
-    "02982031ef56dab3": {
-      "date": "2026-06-16",
-      "title": "My Homelab AI Dev Platform",
-      "source": "hackernews"
-    },
-    "0b8e1b1366a3ce33": {
-      "date": "2026-06-16",
-      "title": "US battery manufacturing output continues to break records",
-      "source": "hackernews"
-    },
-    "b07f38fc030f7fd0": {
-      "date": "2026-06-16",
-      "title": "I Love the Computer",
-      "source": "hackernews"
-    },
-    "e00b532564d6b569": {
-      "date": "2026-06-16",
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "source": "hackernews"
-    },
-    "46cd69ea52ea9128": {
-      "date": "2026-06-16",
-      "title": "Peopleless economy? Not technically impossible",
-      "source": "hackernews"
-    },
-    "105856821bef01ab": {
-      "date": "2026-06-16",
-      "title": "What job interviews taught me about Kubernetes",
-      "source": "hackernews"
-    },
-    "5ef9177b27440fc2": {
-      "date": "2026-06-16",
-      "title": "Why I email complete strangers",
-      "source": "hackernews"
-    },
-    "8e2922cd5a9d0c2d": {
-      "date": "2026-06-16",
-      "title": "MockPilot",
-      "source": "producthunt"
-    },
-    "ffd153f91bd84aef": {
-      "date": "2026-06-16",
-      "title": "ColibotAI",
-      "source": "producthunt"
-    },
-    "4f39f4c1382062b9": {
-      "date": "2026-06-16",
-      "title": "VEXI",
-      "source": "producthunt"
-    },
-    "e4838f666e570f2a": {
-      "date": "2026-06-16",
-      "title": "Synopsule",
-      "source": "producthunt"
-    },
-    "87c916d66e6e855a": {
-      "date": "2026-06-16",
-      "title": "MiMo Code",
-      "source": "producthunt"
-    },
-    "96b82d00dbc781d6": {
-      "date": "2026-06-16",
-      "title": "Notchcode",
-      "source": "producthunt"
-    },
-    "09a38a80865d743a": {
-      "date": "2026-06-16",
-      "title": "IdleDev",
-      "source": "producthunt"
-    },
-    "184d5a9bd4830854": {
-      "date": "2026-06-16",
-      "title": "teslamate-org / teslamate",
-      "source": "github"
-    },
-    "69f3e6a72bebbf36": {
-      "date": "2026-06-16",
-      "title": "krahets / hello-algo",
-      "source": "github"
-    },
-    "d44331a1971df5c9": {
-      "date": "2026-06-16",
-      "title": "trycua / cua",
-      "source": "github"
-    },
-    "ce53e0e5cc55ed71": {
-      "date": "2026-06-16",
-      "title": "Raphire / Win11Debloat",
-      "source": "github"
-    },
-    "3ede0a0649fe460c": {
-      "date": "2026-06-16",
-      "title": "mikeroyal / Self-Hosting-Guide",
-      "source": "github"
-    },
-    "c6a8383d0391cfc8": {
-      "date": "2026-06-16",
-      "title": "Turning Gemma 4 into an Old Korean Translator",
-      "source": "devto"
-    },
-    "68b9e71d73a8f7b8": {
-      "date": "2026-06-16",
-      "title": "Letters to Tomorrow: A June Solstice Game About the Things We Carry Into Tomorrow",
-      "source": "devto"
-    },
-    "9cd2fc6de456a76a": {
-      "date": "2026-06-16",
-      "title": "Has Sloan Flagged Your Article Lately?",
-      "source": "devto"
-    },
-    "f03adca7cceb241e": {
-      "date": "2026-06-16",
-      "title": "Building a Chrome Extension to Make AI Use More Intentional",
-      "source": "devto"
-    },
-    "ce3709bc23559cd2": {
-      "date": "2026-06-16",
-      "title": "What are your goals for the week? #183",
-      "source": "devto"
-    },
-    "126bb17866222219": {
-      "date": "2026-06-16",
-      "title": "Meme Monday",
-      "source": "devto"
-    },
-    "d5ffec85f004dbc4": {
-      "date": "2026-06-16",
-      "title": "The Real Reason Your PRs Get Big",
-      "source": "devto"
-    },
-    "28fa38c3f899fb65": {
-      "date": "2026-06-16",
-      "title": "My Bookmark Engine Returned Chunks. I Added One Endpoint to Make It Answer.",
-      "source": "devto"
-    },
-    "d164a9ff21d11a19": {
-      "date": "2026-06-16",
-      "title": "Why Your Gemini Bill Doesn't Match the Model Names",
-      "source": "devto"
-    },
-    "deef28ebfff8cc8d": {
-      "date": "2026-06-16",
-      "title": "End of the Year idea for DEV?",
-      "source": "devto"
-    },
     "bb259de27df65612": {
       "date": "2026-06-17",
       "title": "Running local models is good now",
@@ -5195,6 +5035,171 @@
     "060d9576ed9646da": {
       "date": "2026-07-16",
       "title": "ibelick / ui-skills",
+      "source": "github"
+    },
+    "7a744d6876270db1": {
+      "date": "2026-07-17",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "source": "hackernews"
+    },
+    "c35b417007f7c182": {
+      "date": "2026-07-17",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "source": "hackernews"
+    },
+    "6e830503fed36aba": {
+      "date": "2026-07-17",
+      "title": "The Zilog Z80 has turned 50",
+      "source": "hackernews"
+    },
+    "8717ecee3596f189": {
+      "date": "2026-07-17",
+      "title": "Learning a few things about running SQLite",
+      "source": "hackernews"
+    },
+    "9cfc73e86dde639b": {
+      "date": "2026-07-17",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "source": "hackernews"
+    },
+    "4e14e173ceb5294d": {
+      "date": "2026-07-17",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "source": "hackernews"
+    },
+    "54546ec17fd34a4d": {
+      "date": "2026-07-17",
+      "title": "Frank Lloyd Wright’s first home",
+      "source": "hackernews"
+    },
+    "76bd5c2a949748d0": {
+      "date": "2026-07-17",
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "source": "hackernews"
+    },
+    "bc49769c38be8c53": {
+      "date": "2026-07-17",
+      "title": "Open Book Touch: open-source e-reader",
+      "source": "hackernews"
+    },
+    "9cc3c6dc893f533c": {
+      "date": "2026-07-17",
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "source": "hackernews"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-07-17",
+      "title": "Basedash Suggestions",
+      "source": "producthunt"
+    },
+    "011562674e823d94": {
+      "date": "2026-07-17",
+      "title": "Pebbles Ai",
+      "source": "producthunt"
+    },
+    "3922cb552c6eca1e": {
+      "date": "2026-07-17",
+      "title": "PixyCAD",
+      "source": "producthunt"
+    },
+    "d241e9220d7eae15": {
+      "date": "2026-07-17",
+      "title": "Scribble Party",
+      "source": "producthunt"
+    },
+    "082cd1074156fae0": {
+      "date": "2026-07-17",
+      "title": "Kimi K3",
+      "source": "producthunt"
+    },
+    "4c4f6563f9881394": {
+      "date": "2026-07-17",
+      "title": "Yapper Leaderboard",
+      "source": "producthunt"
+    },
+    "decf40f6027a789d": {
+      "date": "2026-07-17",
+      "title": "Aye",
+      "source": "producthunt"
+    },
+    "7f199bcc63c47033": {
+      "date": "2026-07-17",
+      "title": "Timely",
+      "source": "producthunt"
+    },
+    "635974f9dd97a1be": {
+      "date": "2026-07-17",
+      "title": "Hey DEV, I'm Tobore. Let's actually connect.",
+      "source": "devto"
+    },
+    "f2f12d63ac074cdb": {
+      "date": "2026-07-17",
+      "title": "What was your win this week!?",
+      "source": "devto"
+    },
+    "56e68cc9ef7aabc9": {
+      "date": "2026-07-17",
+      "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI D",
+      "source": "devto"
+    },
+    "8367ab2c0b384d71": {
+      "date": "2026-07-17",
+      "title": "I burned through thousands of AI tokens. Then a friend did it for free",
+      "source": "devto"
+    },
+    "f2647b1e0e13d2f9": {
+      "date": "2026-07-17",
+      "title": "Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me",
+      "source": "devto"
+    },
+    "0ebf5f0d6072afce": {
+      "date": "2026-07-17",
+      "title": "Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 — where every rank weighted the wrong ",
+      "source": "devto"
+    },
+    "35fa5767dcb27539": {
+      "date": "2026-07-17",
+      "title": "My Inferentia port matched its reference token-for-token — and still output garbage",
+      "source": "devto"
+    },
+    "cf3385beea3553b1": {
+      "date": "2026-07-17",
+      "title": "Experiments with On-device AI — What building on Gemini Nano actually teaches you",
+      "source": "devto"
+    },
+    "4503a3913d8e5e25": {
+      "date": "2026-07-17",
+      "title": "Instrumenting an AI-Powered GitHub Analyzer with OpenTelemetry and SigNoz",
+      "source": "devto"
+    },
+    "bcfb7e936799fa98": {
+      "date": "2026-07-17",
+      "title": "codecrafters-io / build-your-own-x",
+      "source": "github"
+    },
+    "836c99cc8449230b": {
+      "date": "2026-07-17",
+      "title": "anthropics / cwc-workshops",
+      "source": "github"
+    },
+    "89a665d7fafbfdc7": {
+      "date": "2026-07-17",
+      "title": "protocolbuffers / protobuf",
+      "source": "github"
+    },
+    "49d53e226ac61243": {
+      "date": "2026-07-17",
+      "title": "tirth8205 / code-review-graph",
+      "source": "github"
+    },
+    "c19a27291b7051b9": {
+      "date": "2026-07-17",
+      "title": "docusealco / docuseal",
+      "source": "github"
+    },
+    "ce57d7f0f38eb7bc": {
+      "date": "2026-07-17",
+      "title": "RyanCodrai / turbovec",
       "source": "github"
     }
   }
