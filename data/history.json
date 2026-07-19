@@ -1,342 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-17T23:31:58.039941",
+  "last_updated": "2026-07-19T07:52:53.322493",
   "sent_items": {
-    "bb259de27df65612": {
-      "date": "2026-06-17",
-      "title": "Running local models is good now",
-      "source": "hackernews"
-    },
-    "c9b65226d2de8178": {
-      "date": "2026-06-17",
-      "title": "SpaceX to buy Cursor for $60B",
-      "source": "hackernews"
-    },
-    "789c798aeecde2f6": {
-      "date": "2026-06-17",
-      "title": "Mechanical Watch (2022)",
-      "source": "hackernews"
-    },
-    "d622f0f32cd9a37c": {
-      "date": "2026-06-17",
-      "title": "GrapheneOS has been ported to Android 17",
-      "source": "hackernews"
-    },
-    "bafcb28b20136921": {
-      "date": "2026-06-17",
-      "title": "Calvin and Hobbes and the price of integrity",
-      "source": "hackernews"
-    },
-    "789e204f8afb33bb": {
-      "date": "2026-06-17",
-      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "source": "hackernews"
-    },
-    "c03533571df51fd8": {
-      "date": "2026-06-17",
-      "title": "Stop Using JWTs",
-      "source": "hackernews"
-    },
-    "6eb706903b6bd1cb": {
-      "date": "2026-06-17",
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "source": "hackernews"
-    },
-    "c7ba620c90fb055a": {
-      "date": "2026-06-17",
-      "title": "Humiliating IIS servers for fun and jail time",
-      "source": "hackernews"
-    },
-    "8ade010001cd9d36": {
-      "date": "2026-06-17",
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "source": "hackernews"
-    },
-    "e2209643fb79044c": {
-      "date": "2026-06-17",
-      "title": "Ledgerly",
-      "source": "producthunt"
-    },
-    "0af650dcb1b4cf95": {
-      "date": "2026-06-17",
-      "title": "Fluxmail",
-      "source": "producthunt"
-    },
-    "81c6cdc1b07432cb": {
-      "date": "2026-06-17",
-      "title": "Botme",
-      "source": "producthunt"
-    },
-    "e2b87b271ff556a3": {
-      "date": "2026-06-17",
-      "title": "Athena Desktop",
-      "source": "producthunt"
-    },
-    "a875cec6513d28f0": {
-      "date": "2026-06-17",
-      "title": "Obotiq",
-      "source": "producthunt"
-    },
-    "2012fbd78e715a7d": {
-      "date": "2026-06-17",
-      "title": "Getusefeed",
-      "source": "producthunt"
-    },
-    "3739061f31ae2425": {
-      "date": "2026-06-17",
-      "title": "BossMode",
-      "source": "producthunt"
-    },
-    "8b468510a823c2d3": {
-      "date": "2026-06-17",
-      "title": "Tychi AI",
-      "source": "producthunt"
-    },
-    "1db88e14e6177745": {
-      "date": "2026-06-17",
-      "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
-      "source": "github"
-    },
-    "3d63f2e9a8d54ed2": {
-      "date": "2026-06-17",
-      "title": "alibaba / zvec",
-      "source": "github"
-    },
-    "016cc3137e910bfb": {
-      "date": "2026-06-17",
-      "title": "n0-computer / iroh",
-      "source": "github"
-    },
-    "fe9354541b270e0f": {
-      "date": "2026-06-17",
-      "title": "How We Saved Big and Simplified Our Image Pipeline: Adopting bunny.net on DEV",
-      "source": "devto"
-    },
-    "8643cd87f73714d5": {
-      "date": "2026-06-17",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "0a46b0a2fd64891e": {
-      "date": "2026-06-17",
-      "title": "I Got Flagged by Sloan. Sloan Is a Guy I Know.",
-      "source": "devto"
-    },
-    "f85c15a04f21299c": {
-      "date": "2026-06-17",
-      "title": "Tailwind CSS4: Why Those Inline Styles Are Actually More Scalable - A Senior CSS Developer's Guide",
-      "source": "devto"
-    },
-    "58a11d560c5c6aa5": {
-      "date": "2026-06-17",
-      "title": "AI took the friction out of my work. Then I found out the friction was holding up two things: my ide",
-      "source": "devto"
-    },
-    "eead838ec84e64b0": {
-      "date": "2026-06-17",
-      "title": "I Asked AI to Write My Commit Messages It Was Embarrassing.",
-      "source": "devto"
-    },
-    "00195513167df43e": {
-      "date": "2026-06-17",
-      "title": "AWS Blocks: Full-Stack Building Blocks That Run Locally Without an AWS Account",
-      "source": "devto"
-    },
-    "87722ed883382a8f": {
-      "date": "2026-06-17",
-      "title": "Why the Fable 5 Crisis Proves Your AI Context Layer Can't Live Inside the Model",
-      "source": "devto"
-    },
-    "1bc63beec71901c2": {
-      "date": "2026-06-17",
-      "title": "AI Isn't Something to Trust — It's Something to Design (Series Final)",
-      "source": "devto"
-    },
-    "cf95553e0654d36e": {
-      "date": "2026-06-17",
-      "title": "When Your AI API Goes Down: A Real-World Fallback Strategy",
-      "source": "devto"
-    },
-    "3750d69a6dbe45ec": {
-      "date": "2026-06-18",
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "source": "hackernews"
-    },
-    "51069ac7de9400c1": {
-      "date": "2026-06-18",
-      "title": "U.S. science is in chaos",
-      "source": "hackernews"
-    },
-    "2b2b66bd14991b74": {
-      "date": "2026-06-18",
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "source": "hackernews"
-    },
-    "8c5fea6d0439a0e9": {
-      "date": "2026-06-18",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "source": "hackernews"
-    },
-    "729f35e698cef404": {
-      "date": "2026-06-18",
-      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-      "source": "hackernews"
-    },
-    "6a17cf6cae43723e": {
-      "date": "2026-06-18",
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "source": "hackernews"
-    },
-    "ea62f50f1b3340bb": {
-      "date": "2026-06-18",
-      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "source": "hackernews"
-    },
-    "c767b5e1d46005e3": {
-      "date": "2026-06-18",
-      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
-      "source": "hackernews"
-    },
-    "70695b3d1533dc64": {
-      "date": "2026-06-18",
-      "title": "Storied Colors – a catalogue of named colors",
-      "source": "hackernews"
-    },
-    "5525afe4a0566e55": {
-      "date": "2026-06-18",
-      "title": "Loreline – Tools for writing interactive fiction",
-      "source": "hackernews"
-    },
-    "b5d232203264a2a4": {
-      "date": "2026-06-18",
-      "title": "Mirlo",
-      "source": "producthunt"
-    },
-    "9b128ed01d0f28f6": {
-      "date": "2026-06-18",
-      "title": "Tyto by ai-coustics",
-      "source": "producthunt"
-    },
-    "28a638294071f45b": {
-      "date": "2026-06-18",
-      "title": "NotchSpace",
-      "source": "producthunt"
-    },
-    "657aa2b8bf19fdc2": {
-      "date": "2026-06-18",
-      "title": "ClipDone",
-      "source": "producthunt"
-    },
-    "3f19edc30608c181": {
-      "date": "2026-06-18",
-      "title": "Deep Work Plan",
-      "source": "producthunt"
-    },
-    "97efd539e06cdc9a": {
-      "date": "2026-06-18",
-      "title": "Locus Founder",
-      "source": "producthunt"
-    },
-    "f230773914694f62": {
-      "date": "2026-06-18",
-      "title": "AudienceCue",
-      "source": "producthunt"
-    },
-    "15691f2deb3b1ca1": {
-      "date": "2026-06-18",
-      "title": "Tapfree for Chrome",
-      "source": "producthunt"
-    },
-    "bcb2a34cb3ad6059": {
-      "date": "2026-06-18",
-      "title": "DeusData / codebase-memory-mcp",
-      "source": "github"
-    },
-    "17a133fee8f3ef38": {
-      "date": "2026-06-18",
-      "title": "google-research / timesfm",
-      "source": "github"
-    },
-    "b43cd007e18c88b9": {
-      "date": "2026-06-18",
-      "title": "RocketChat / Rocket.Chat",
-      "source": "github"
-    },
-    "a0131fdee43a08fe": {
-      "date": "2026-06-18",
-      "title": "continuedev / continue",
-      "source": "github"
-    },
-    "7dedb2d2d7715979": {
-      "date": "2026-06-18",
-      "title": "penpot / penpot",
-      "source": "github"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-06-18",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "7986386cbd1a557c": {
-      "date": "2026-06-18",
-      "title": "yairm210 / Unciv",
-      "source": "github"
-    },
-    "ce85014ef213744d": {
-      "date": "2026-06-18",
-      "title": "bytedance / UI-TARS-desktop",
-      "source": "github"
-    },
-    "42e64c6d605160d6": {
-      "date": "2026-06-18",
-      "title": "Welcome Thread - v380",
-      "source": "devto"
-    },
-    "7dab0c7e07988b80": {
-      "date": "2026-06-18",
-      "title": "Making my TypeScript types 15.7x faster",
-      "source": "devto"
-    },
-    "1cac1deae27b174c": {
-      "date": "2026-06-18",
-      "title": "Real-time IP capacity in Google Cloud subnets",
-      "source": "devto"
-    },
-    "1f2cb03250f22d01": {
-      "date": "2026-06-18",
-      "title": "Gotta Earn 'Em All: The Gym Badges of Agentic Engineering (Part 1)",
-      "source": "devto"
-    },
-    "9c6c6233c6b0c9ed": {
-      "date": "2026-06-18",
-      "title": "The Playwright Playbook — Part 3: Multi-User, Multi-Tab & Browser Context Testing",
-      "source": "devto"
-    },
-    "f2509982e8ffe34d": {
-      "date": "2026-06-18",
-      "title": "macOS Still Has No Volume Mixer, So I Built One",
-      "source": "devto"
-    },
-    "a338afeccd0e8443": {
-      "date": "2026-06-18",
-      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
-      "source": "devto"
-    },
-    "cca46475470113e2": {
-      "date": "2026-06-18",
-      "title": "Why the retry loop is usually the expensive part of agent work",
-      "source": "devto"
-    },
-    "61a8ca4681368878": {
-      "date": "2026-06-18",
-      "title": "I scaled a pure Spiking Neural Network (SNN) to 1.088B parameters from scratch. Ran out of budget, b",
-      "source": "devto"
-    },
-    "1b1d49b51f919c2d": {
-      "date": "2026-06-18",
-      "title": "AI Built My UI in 2 Hours. Then I Spent 3 Weeks Fixing It.",
-      "source": "devto"
-    },
     "7d2f49bd1848b61c": {
       "date": "2026-06-19",
       "title": "Swiss parliament lifts ban on new nuclear power plants",
@@ -5201,6 +4866,171 @@
       "date": "2026-07-17",
       "title": "RyanCodrai / turbovec",
       "source": "github"
+    },
+    "da56b4ec12266495": {
+      "date": "2026-07-19",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "source": "hackernews"
+    },
+    "d8fb288a83174b41": {
+      "date": "2026-07-19",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "source": "hackernews"
+    },
+    "4276818fd4632bbf": {
+      "date": "2026-07-19",
+      "title": "Transcribe.cpp",
+      "source": "hackernews"
+    },
+    "a7a58eeb6e522a01": {
+      "date": "2026-07-19",
+      "title": "The Kimi K3 Moment",
+      "source": "hackernews"
+    },
+    "1690c623113a8c4d": {
+      "date": "2026-07-19",
+      "title": "Better and Cheaper Than IPTV",
+      "source": "hackernews"
+    },
+    "f0749cd9f30a40fa": {
+      "date": "2026-07-19",
+      "title": "Codex Resets",
+      "source": "hackernews"
+    },
+    "1de0d1c2053434a5": {
+      "date": "2026-07-19",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "source": "hackernews"
+    },
+    "24375f049c8592d9": {
+      "date": "2026-07-19",
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "source": "hackernews"
+    },
+    "092082649750ac9d": {
+      "date": "2026-07-19",
+      "title": "Making Software: How to make a font",
+      "source": "hackernews"
+    },
+    "17dbe44ad715bd00": {
+      "date": "2026-07-19",
+      "title": "Supabase just announced searchable encryption",
+      "source": "hackernews"
+    },
+    "b3fc6c67cceb08b7": {
+      "date": "2026-07-19",
+      "title": "Rewisp — an ambient memory for your Mac",
+      "source": "producthunt"
+    },
+    "9fbdf4f6079626ab": {
+      "date": "2026-07-19",
+      "title": "OpenSEO",
+      "source": "producthunt"
+    },
+    "c4c566d05361fc36": {
+      "date": "2026-07-19",
+      "title": "BaseRT - Apple M5 Optimized",
+      "source": "producthunt"
+    },
+    "b09b9822d243ad95": {
+      "date": "2026-07-19",
+      "title": "Detourmap",
+      "source": "producthunt"
+    },
+    "7b6cc02cd654d765": {
+      "date": "2026-07-19",
+      "title": "Kobbe",
+      "source": "producthunt"
+    },
+    "3e7a45f66f924223": {
+      "date": "2026-07-19",
+      "title": "OpenMarkdown",
+      "source": "producthunt"
+    },
+    "9b41cf79a4a4d306": {
+      "date": "2026-07-19",
+      "title": "Mainichi",
+      "source": "producthunt"
+    },
+    "384130be23988385": {
+      "date": "2026-07-19",
+      "title": "WX",
+      "source": "producthunt"
+    },
+    "4d8e922de101f720": {
+      "date": "2026-07-19",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "source": "github"
+    },
+    "db7ba6e660566bce": {
+      "date": "2026-07-19",
+      "title": "elder-plinius / G0DM0D3",
+      "source": "github"
+    },
+    "cef11b5e74b825ba": {
+      "date": "2026-07-19",
+      "title": "lyogavin / airllm",
+      "source": "github"
+    },
+    "4e0f7b8afe94cb65": {
+      "date": "2026-07-19",
+      "title": "KnockOutEZ / wigolo",
+      "source": "github"
+    },
+    "ff4df8f2ba59fc8c": {
+      "date": "2026-07-19",
+      "title": "MoonshotAI / kimi-cli",
+      "source": "github"
+    },
+    "eb6c98bf3dd10338": {
+      "date": "2026-07-19",
+      "title": "How We Beat HotSpot Performance (By Cheating, But Not Like That)",
+      "source": "devto"
+    },
+    "31329a780eba1b8f": {
+      "date": "2026-07-19",
+      "title": "FLUX on a 4070 Graphics Card 🖼️",
+      "source": "devto"
+    },
+    "bee70cae2471c7e6": {
+      "date": "2026-07-19",
+      "title": "Why I built a SQL client when 10 already exist — then let AI agents into it",
+      "source": "devto"
+    },
+    "7bf0a72a91191680": {
+      "date": "2026-07-19",
+      "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
+      "source": "devto"
+    },
+    "7bccd8e55ea72c3b": {
+      "date": "2026-07-19",
+      "title": "Apache Data Lakehouse Weekly: July 11 to July 18, 2026",
+      "source": "devto"
+    },
+    "95fd4fd750195d61": {
+      "date": "2026-07-19",
+      "title": "I'm 13, Solo Founder & CEO of Akhouri Systems. No team, no backend, no funding — just a laptop.",
+      "source": "devto"
+    },
+    "767884ecc9f033d5": {
+      "date": "2026-07-19",
+      "title": "400+ downloads, 0 revenue, and why that's actually fine for now",
+      "source": "devto"
+    },
+    "0c28cab83efab5ff": {
+      "date": "2026-07-19",
+      "title": "How Being a Junior Developer Taught Me More About Myself Than About Code",
+      "source": "devto"
+    },
+    "0cecc6f9bd7427f3": {
+      "date": "2026-07-19",
+      "title": "I built a readability test for my own compression format. It scored 0/24.",
+      "source": "devto"
+    },
+    "0547f30382e068b0": {
+      "date": "2026-07-19",
+      "title": "The Missing Row: Auto-Provisioning Derived Records Without the Race Condition",
+      "source": "devto"
     }
   }
 }
