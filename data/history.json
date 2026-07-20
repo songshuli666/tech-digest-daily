@@ -1,342 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-19T07:52:53.322493",
+  "last_updated": "2026-07-20T08:41:08.027103",
   "sent_items": {
-    "7d2f49bd1848b61c": {
-      "date": "2026-06-19",
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "source": "hackernews"
-    },
-    "71ed7c4e1bbc227e": {
-      "date": "2026-06-19",
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "source": "hackernews"
-    },
-    "c287befe6b422887": {
-      "date": "2026-06-19",
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "source": "hackernews"
-    },
-    "67d716bfc55aa129": {
-      "date": "2026-06-19",
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "source": "hackernews"
-    },
-    "5a5ce2d394ba2184": {
-      "date": "2026-06-19",
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "source": "hackernews"
-    },
-    "187510b8d716ec2e": {
-      "date": "2026-06-19",
-      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "source": "hackernews"
-    },
-    "558d32830c0c1b90": {
-      "date": "2026-06-19",
-      "title": "Cell-based architecture for resilient payment systems",
-      "source": "hackernews"
-    },
-    "e4922565bf91b13b": {
-      "date": "2026-06-19",
-      "title": "Zero-Touch OAuth for MCP",
-      "source": "hackernews"
-    },
-    "dec972a85618a855": {
-      "date": "2026-06-19",
-      "title": "The AirPods Effect",
-      "source": "hackernews"
-    },
-    "8eed607f63cd6deb": {
-      "date": "2026-06-19",
-      "title": "Zork name origin got an update on Wikipedia",
-      "source": "hackernews"
-    },
-    "51d0e933729b7efd": {
-      "date": "2026-06-19",
-      "title": "Splice",
-      "source": "producthunt"
-    },
-    "5a2b3c0939109468": {
-      "date": "2026-06-19",
-      "title": "Refuse",
-      "source": "producthunt"
-    },
-    "0b5bfebc6a12755b": {
-      "date": "2026-06-19",
-      "title": "Speed Reader",
-      "source": "producthunt"
-    },
-    "f5542846e874b360": {
-      "date": "2026-06-19",
-      "title": "Genie Mentions",
-      "source": "producthunt"
-    },
-    "03444fec01a4a56c": {
-      "date": "2026-06-19",
-      "title": "Ploy.ai",
-      "source": "producthunt"
-    },
-    "8d699597ef864614": {
-      "date": "2026-06-19",
-      "title": "Locofy: design-to-code agents",
-      "source": "producthunt"
-    },
-    "4c9a4be37ac5e25d": {
-      "date": "2026-06-19",
-      "title": "Adapt",
-      "source": "producthunt"
-    },
-    "40e1d2821e54ccb5": {
-      "date": "2026-06-19",
-      "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
-      "source": "devto"
-    },
-    "ecb27d4a6dace76e": {
-      "date": "2026-06-19",
-      "title": "Congrats to the Gemma 4 Challenge Winners!",
-      "source": "devto"
-    },
-    "c5028229d890b4ac": {
-      "date": "2026-06-19",
-      "title": "Congrats to the Hermes Agent Challenge Winners!",
-      "source": "devto"
-    },
-    "068d3869761ebf1f": {
-      "date": "2026-06-19",
-      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
-      "source": "devto"
-    },
-    "52d3e54e58e55409": {
-      "date": "2026-06-19",
-      "title": "Building an agentic PR reviewer with Antigravity SDK",
-      "source": "devto"
-    },
-    "cce2b52a878ce472": {
-      "date": "2026-06-19",
-      "title": "I'm not a developer, but I built a calendar app to fix my most annoying work task",
-      "source": "devto"
-    },
-    "6b4721b30eccfdac": {
-      "date": "2026-06-19",
-      "title": "The Winner of the AI-Pocalypse? The Full-Stack Generalist (But Probably Later Instead of Sooner)",
-      "source": "devto"
-    },
-    "2451b7fd1df24224": {
-      "date": "2026-06-19",
-      "title": "Technical Writing Advice",
-      "source": "devto"
-    },
-    "a9af9701cc45201a": {
-      "date": "2026-06-19",
-      "title": "Someone was wrong on the internet, so I built a Temporal Docker extension",
-      "source": "devto"
-    },
-    "8c7e9749cd0baf9d": {
-      "date": "2026-06-19",
-      "title": "Codewars did not teach me JavaScript. My job did.",
-      "source": "devto"
-    },
-    "8f02859c1a639cfc": {
-      "date": "2026-06-19",
-      "title": "zai-org / GLM-5",
-      "source": "github"
-    },
-    "bddcb9962156c14d": {
-      "date": "2026-06-19",
-      "title": "yifanfeng97 / Hyper-Extract",
-      "source": "github"
-    },
-    "afbe239417767e39": {
-      "date": "2026-06-19",
-      "title": "Kilo-Org / kilocode",
-      "source": "github"
-    },
-    "bf3408e522ca2216": {
-      "date": "2026-06-19",
-      "title": "makeplane / plane",
-      "source": "github"
-    },
-    "21a7656e0869a3ae": {
-      "date": "2026-06-19",
-      "title": "Kong / insomnia",
-      "source": "github"
-    },
-    "92a38e4bf3c74440": {
-      "date": "2026-06-19",
-      "title": "dotnet / aspnetcore",
-      "source": "github"
-    },
-    "bc82948151fe68eb": {
-      "date": "2026-06-19",
-      "title": "owainlewis / awesome-artificial-intelligence",
-      "source": "github"
-    },
-    "359a8d1c31d49cae": {
-      "date": "2026-06-19",
-      "title": "Hyundai buys Boston Dynamics",
-      "source": "hackernews"
-    },
-    "b72492024c5b64de": {
-      "date": "2026-06-19",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "source": "hackernews"
-    },
-    "7ce0b1f27241a195": {
-      "date": "2026-06-19",
-      "title": "There are no instances in ATProto",
-      "source": "hackernews"
-    },
-    "deade1e4e10ee305": {
-      "date": "2026-06-19",
-      "title": "Norway imposes near ban on AI in elementary school",
-      "source": "hackernews"
-    },
-    "7a508986bc6515ab": {
-      "date": "2026-06-19",
-      "title": "How many of the 170k English words do you know?",
-      "source": "hackernews"
-    },
-    "ad7cab09b62dc32f": {
-      "date": "2026-06-19",
-      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
-      "source": "hackernews"
-    },
-    "be9ecced1e300944": {
-      "date": "2026-06-19",
-      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-      "source": "hackernews"
-    },
-    "8a9907779a39eb9f": {
-      "date": "2026-06-19",
-      "title": "Americans express unease over SpaceX's influence on retirement savings",
-      "source": "hackernews"
-    },
-    "0dcc36e1e9383f20": {
-      "date": "2026-06-19",
-      "title": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
-      "source": "hackernews"
-    },
-    "8dc3a3d3ce04a947": {
-      "date": "2026-06-19",
-      "title": "Surprising Economics of Load-Balanced Systems",
-      "source": "hackernews"
-    },
-    "f62e03078af6c83c": {
-      "date": "2026-06-19",
-      "title": "MeshPilot",
-      "source": "producthunt"
-    },
-    "364135e6612c648a": {
-      "date": "2026-06-19",
-      "title": "Pitchbar",
-      "source": "producthunt"
-    },
-    "ffc692e62f5d430c": {
-      "date": "2026-06-19",
-      "title": "Snap Deck HQ",
-      "source": "producthunt"
-    },
-    "8990843a862af1ab": {
-      "date": "2026-06-19",
-      "title": "Prism",
-      "source": "producthunt"
-    },
-    "ece24e46c5f1d8bb": {
-      "date": "2026-06-19",
-      "title": "QuackScreen",
-      "source": "producthunt"
-    },
-    "58b0514913b38c11": {
-      "date": "2026-06-19",
-      "title": "Darkmoon",
-      "source": "producthunt"
-    },
-    "aac71deed6e5196e": {
-      "date": "2026-06-19",
-      "title": "Foglamp",
-      "source": "producthunt"
-    },
-    "1893c70f20b7aeb1": {
-      "date": "2026-06-19",
-      "title": "Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK",
-      "source": "devto"
-    },
-    "381cb2975430bfc2": {
-      "date": "2026-06-19",
-      "title": "AI summaries need receipts: how I built evidence-bound reports from comments",
-      "source": "devto"
-    },
-    "0ad05b1c0230b7d5": {
-      "date": "2026-06-19",
-      "title": "What Does the Windows REFRESH button really do?",
-      "source": "devto"
-    },
-    "f66092ee09180aed": {
-      "date": "2026-06-19",
-      "title": "AI makes writing code easier. It doesn't make engineering easier.",
-      "source": "devto"
-    },
-    "fdffd2fa13a2eed4": {
-      "date": "2026-06-19",
-      "title": "Compile Zod (30x faster Zod validation)",
-      "source": "devto"
-    },
-    "9c4f8e0b15d94f47": {
-      "date": "2026-06-19",
-      "title": "Breaking Build: Kiro and Claude delivered exactly what I asked, and it wasn't what I wanted",
-      "source": "devto"
-    },
-    "9e0b3a714ceec3ff": {
-      "date": "2026-06-19",
-      "title": "My API Responded in 4 ms, but Navigation Still Felt Slow",
-      "source": "devto"
-    },
-    "6393b7ed7fb34a91": {
-      "date": "2026-06-19",
-      "title": "I built a Claude Code skill that finds customers, not competitors, on Reddit & LinkedIn",
-      "source": "devto"
-    },
-    "5674acb7dd3ae79a": {
-      "date": "2026-06-19",
-      "title": "Hotwire Marten: Less JavaScript, More Interactivity",
-      "source": "devto"
-    },
-    "c007d30b05969603": {
-      "date": "2026-06-19",
-      "title": "Stop paying for the same tokens twice",
-      "source": "devto"
-    },
-    "fa7a24d15387e004": {
-      "date": "2026-06-19",
-      "title": "palmier-io / palmier-pro",
-      "source": "github"
-    },
-    "56d33226bf40d769": {
-      "date": "2026-06-19",
-      "title": "koala73 / worldmonitor",
-      "source": "github"
-    },
-    "b2a5f1801501a962": {
-      "date": "2026-06-19",
-      "title": "aishwaryanr / awesome-generative-ai-guide",
-      "source": "github"
-    },
-    "c91380d9f6159474": {
-      "date": "2026-06-19",
-      "title": "BuilderIO / agent-native",
-      "source": "github"
-    },
-    "20703a86e2b01e24": {
-      "date": "2026-06-19",
-      "title": "calesthio / OpenMontage",
-      "source": "github"
-    },
-    "9a4ea7a4f9427fb4": {
-      "date": "2026-06-19",
-      "title": "Lightricks / LTX-2",
-      "source": "github"
-    },
     "5a60fcd9ee73131e": {
       "date": "2026-06-21",
       "title": "SMPTE Makes Its Standards Freely Accessible",
@@ -5030,6 +4695,181 @@
     "0547f30382e068b0": {
       "date": "2026-07-19",
       "title": "The Missing Row: Auto-Provisioning Derived Records Without the Race Condition",
+      "source": "devto"
+    },
+    "a69cdbbe8c39ba85": {
+      "date": "2026-07-20",
+      "title": "Claude Code uses Bun written in Rust now",
+      "source": "hackernews"
+    },
+    "262590a6eaebda6c": {
+      "date": "2026-07-20",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "source": "hackernews"
+    },
+    "6d7f7bed44e04d2c": {
+      "date": "2026-07-20",
+      "title": "Orion Browser by Kagi",
+      "source": "hackernews"
+    },
+    "19278d01b6d0599d": {
+      "date": "2026-07-20",
+      "title": "The Zen of Parallel Programming",
+      "source": "hackernews"
+    },
+    "8c57a066ad3392bf": {
+      "date": "2026-07-20",
+      "title": "Xiaomi-Robotics-1",
+      "source": "hackernews"
+    },
+    "10e8f8db374bb7e2": {
+      "date": "2026-07-20",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "source": "hackernews"
+    },
+    "2d603aee23963ac6": {
+      "date": "2026-07-20",
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "source": "hackernews"
+    },
+    "b03fcfa9b699975c": {
+      "date": "2026-07-20",
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "source": "hackernews"
+    },
+    "aee338645f9f8886": {
+      "date": "2026-07-20",
+      "title": "1-Bit LLM in the Browser",
+      "source": "hackernews"
+    },
+    "864d79399fc35b75": {
+      "date": "2026-07-20",
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "source": "hackernews"
+    },
+    "99da2e5c9a5c86eb": {
+      "date": "2026-07-20",
+      "title": "Backbeat Forge",
+      "source": "producthunt"
+    },
+    "07a31d97f0912aa2": {
+      "date": "2026-07-20",
+      "title": "Reignat",
+      "source": "producthunt"
+    },
+    "7bbad20e727abe54": {
+      "date": "2026-07-20",
+      "title": "BlockscopeChat",
+      "source": "producthunt"
+    },
+    "19eb9454448b3499": {
+      "date": "2026-07-20",
+      "title": "LnkFlow",
+      "source": "producthunt"
+    },
+    "3ade497109f5ed9b": {
+      "date": "2026-07-20",
+      "title": "LayerProof Mylar",
+      "source": "producthunt"
+    },
+    "9dfca342ca366870": {
+      "date": "2026-07-20",
+      "title": "CaptureKit",
+      "source": "producthunt"
+    },
+    "60769df50b2bf403": {
+      "date": "2026-07-20",
+      "title": "Skippr AI",
+      "source": "producthunt"
+    },
+    "f7649e21502597d6": {
+      "date": "2026-07-20",
+      "title": "Autoplot",
+      "source": "producthunt"
+    },
+    "b07d60e58753a646": {
+      "date": "2026-07-20",
+      "title": "bojieli / ai-agent-book",
+      "source": "github"
+    },
+    "3cabe5488f9f7c40": {
+      "date": "2026-07-20",
+      "title": "kvcache-ai / ktransformers",
+      "source": "github"
+    },
+    "bc222d70acfeef9c": {
+      "date": "2026-07-20",
+      "title": "andrewrabert / jellium-desktop",
+      "source": "github"
+    },
+    "435d72beb104780e": {
+      "date": "2026-07-20",
+      "title": "microsoft / terminal",
+      "source": "github"
+    },
+    "6a29aa0fa11abd15": {
+      "date": "2026-07-20",
+      "title": "AstrBotDevs / AstrBot",
+      "source": "github"
+    },
+    "7d0e9c89c3e6f05b": {
+      "date": "2026-07-20",
+      "title": "1jehuang / jcode",
+      "source": "github"
+    },
+    "d44331a1971df5c9": {
+      "date": "2026-07-20",
+      "title": "trycua / cua",
+      "source": "github"
+    },
+    "f7c37de1e3df3eb3": {
+      "date": "2026-07-20",
+      "title": "I Rewrote a OneNote MCP Server in TypeScript — Here's What I Learned About Microsoft Graph Auth",
+      "source": "devto"
+    },
+    "2d5e76513da14b8a": {
+      "date": "2026-07-20",
+      "title": "The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail",
+      "source": "devto"
+    },
+    "10c80c064e0c324f": {
+      "date": "2026-07-20",
+      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding ",
+      "source": "devto"
+    },
+    "bcb6d173ecf7cf78": {
+      "date": "2026-07-20",
+      "title": "The smolagents bug that made my agent retry the same valid code three times",
+      "source": "devto"
+    },
+    "9ecad8aabfe5b1bd": {
+      "date": "2026-07-20",
+      "title": "Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a 5\" Screen Browser",
+      "source": "devto"
+    },
+    "24475a54fdfc215a": {
+      "date": "2026-07-20",
+      "title": "I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.",
+      "source": "devto"
+    },
+    "1f4eef53f743c852": {
+      "date": "2026-07-20",
+      "title": "My Solana Program Launch Checklist (Written the Day After I Actually Did It)",
+      "source": "devto"
+    },
+    "ff7406b40e2dfddb": {
+      "date": "2026-07-20",
+      "title": "I built a storefront that works with zero API keys, and it made the code better",
+      "source": "devto"
+    },
+    "5ca1057acd1e502a": {
+      "date": "2026-07-20",
+      "title": "How to Hunt a Bug Again (But at 10 AM ☀️)",
+      "source": "devto"
+    },
+    "ec6af18149d86030": {
+      "date": "2026-07-20",
+      "title": "Two ways to reuse a privileged CI token (and my rule only caught one)",
       "source": "devto"
     }
   }
