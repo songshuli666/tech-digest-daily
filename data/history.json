@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-21T06:57:45.404282",
+  "last_updated": "2026-07-22T00:27:57.308246",
   "sent_items": {
-    "5a60fcd9ee73131e": {
-      "date": "2026-06-21",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "source": "hackernews"
-    },
-    "18af52ad9fea7164": {
-      "date": "2026-06-21",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "source": "hackernews"
-    },
-    "c75edcbe8313f72c": {
-      "date": "2026-06-21",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "source": "hackernews"
-    },
-    "7850086478fa3f06": {
-      "date": "2026-06-21",
-      "title": "Pre-2022 Books",
-      "source": "hackernews"
-    },
-    "285773f4818b4a71": {
-      "date": "2026-06-21",
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "source": "hackernews"
-    },
-    "4428f36051617740": {
-      "date": "2026-06-21",
-      "title": "Inference cost at scale with napkin math",
-      "source": "hackernews"
-    },
-    "80941dbae2cfcf47": {
-      "date": "2026-06-21",
-      "title": "Alice is impatient",
-      "source": "hackernews"
-    },
-    "dc20851c2b48c21a": {
-      "date": "2026-06-21",
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "source": "hackernews"
-    },
-    "69677a1ebc2e3d3c": {
-      "date": "2026-06-21",
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "source": "hackernews"
-    },
-    "6e70f48cceac3aac": {
-      "date": "2026-06-21",
-      "title": "Epoll vs. Io_uring in Linux",
-      "source": "hackernews"
-    },
-    "8ce743d51ee4a11f": {
-      "date": "2026-06-21",
-      "title": "ReleaseDock",
-      "source": "producthunt"
-    },
-    "f58bd999f96164c8": {
-      "date": "2026-06-21",
-      "title": "Pixlie",
-      "source": "producthunt"
-    },
-    "dc9cbd876d6e1f89": {
-      "date": "2026-06-21",
-      "title": "Slackbot’s MCP Client",
-      "source": "producthunt"
-    },
-    "05c04b6fec7cb814": {
-      "date": "2026-06-21",
-      "title": "Are you in the Weights?",
-      "source": "producthunt"
-    },
-    "19f8a4ca34dab5c3": {
-      "date": "2026-06-21",
-      "title": "pumaDB",
-      "source": "producthunt"
-    },
-    "70c7411d6ef2aea6": {
-      "date": "2026-06-21",
-      "title": "Reframe",
-      "source": "producthunt"
-    },
-    "6ce22d880a7d3545": {
-      "date": "2026-06-21",
-      "title": "GitSync for macOS",
-      "source": "producthunt"
-    },
-    "fb9702a59206af19": {
-      "date": "2026-06-21",
-      "title": "Fruit Dash: A Solstice Platformer with Binary Code Gates",
-      "source": "devto"
-    },
-    "3488bc28a7ea780f": {
-      "date": "2026-06-21",
-      "title": "The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺",
-      "source": "devto"
-    },
-    "5a182f4a51245abd": {
-      "date": "2026-06-21",
-      "title": "⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙",
-      "source": "devto"
-    },
-    "392b41342168eb44": {
-      "date": "2026-06-21",
-      "title": "Rebuilding a Divi Blog with Custom Shortcodes: A Field Report",
-      "source": "devto"
-    },
-    "1594b153fef2210d": {
-      "date": "2026-06-21",
-      "title": "ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing's Last AI, Interrogated by a Live Gemin",
-      "source": "devto"
-    },
-    "b46649f307148f40": {
-      "date": "2026-06-21",
-      "title": "Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam",
-      "source": "devto"
-    },
-    "b7d8a634e631a409": {
-      "date": "2026-06-21",
-      "title": "I Benchmarked 17 Image Conversions on My Production Server. Some Results Were Not What I Expected.",
-      "source": "devto"
-    },
-    "526fff8d5c9655c1": {
-      "date": "2026-06-21",
-      "title": "AI memory should be a product state, not a prompt trick",
-      "source": "devto"
-    },
-    "0baefb5c932a8431": {
-      "date": "2026-06-21",
-      "title": "I automated everything except the code, and that's where Claude Code actually paid off",
-      "source": "devto"
-    },
-    "cf18a45dc2f21a47": {
-      "date": "2026-06-21",
-      "title": "Among Liars -> The 7th Player Isn't Human",
-      "source": "devto"
-    },
-    "0bad1edbad8117de": {
-      "date": "2026-06-21",
-      "title": "tursodatabase / turso",
-      "source": "github"
-    },
-    "390f5316113d12d5": {
-      "date": "2026-06-21",
-      "title": "tw93 / Pake",
-      "source": "github"
-    },
-    "bfeff07f7d8682f0": {
-      "date": "2026-06-21",
-      "title": "jamiepine / voicebox",
-      "source": "github"
-    },
     "ead6b93e051102f5": {
       "date": "2026-06-22",
       "title": "Identity verification on Claude",
@@ -5000,6 +4850,191 @@
     "542965ab7bd0bd5f": {
       "date": "2026-07-21",
       "title": "PrefectHQ / fastmcp",
+      "source": "github"
+    },
+    "8d98dad254cdf357": {
+      "date": "2026-07-22",
+      "title": "ditto.site",
+      "source": "producthunt"
+    },
+    "9a000b3744f08ac6": {
+      "date": "2026-07-22",
+      "title": "Lev8",
+      "source": "producthunt"
+    },
+    "131ab0359ae0ec5a": {
+      "date": "2026-07-22",
+      "title": "Tidy",
+      "source": "producthunt"
+    },
+    "e0ca3218302df310": {
+      "date": "2026-07-22",
+      "title": "Phantomstory",
+      "source": "producthunt"
+    },
+    "0e12bdb3b2ba7bef": {
+      "date": "2026-07-22",
+      "title": "BUD",
+      "source": "producthunt"
+    },
+    "8bd658931519894d": {
+      "date": "2026-07-22",
+      "title": "OpenChatCut",
+      "source": "producthunt"
+    },
+    "f07f340c848832ee": {
+      "date": "2026-07-22",
+      "title": "ProtoFlow",
+      "source": "producthunt"
+    },
+    "6a0cbd9ec6d9b3d1": {
+      "date": "2026-07-22",
+      "title": "Universal Dictation on Stream",
+      "source": "producthunt"
+    },
+    "a6a720bfc5d237c9": {
+      "date": "2026-07-22",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "source": "hackernews"
+    },
+    "2967707ce89d50d9": {
+      "date": "2026-07-22",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "source": "hackernews"
+    },
+    "6ed57de9509871a4": {
+      "date": "2026-07-22",
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "source": "hackernews"
+    },
+    "f7c43a5bc182f683": {
+      "date": "2026-07-22",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "source": "hackernews"
+    },
+    "c985fe603867f532": {
+      "date": "2026-07-22",
+      "title": "Advertise in ChatGPT",
+      "source": "hackernews"
+    },
+    "9e19d69b3cd8bcb0": {
+      "date": "2026-07-22",
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "source": "hackernews"
+    },
+    "0d84a422d04985f3": {
+      "date": "2026-07-22",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "source": "hackernews"
+    },
+    "2a7ff54d10754acf": {
+      "date": "2026-07-22",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "source": "hackernews"
+    },
+    "2b003984306beb7e": {
+      "date": "2026-07-22",
+      "title": "An Engineer's Guide to USB Type-C [pdf]",
+      "source": "hackernews"
+    },
+    "806ea7e1ef045eeb": {
+      "date": "2026-07-22",
+      "title": "Recreating the math behind the first stealth aircraft",
+      "source": "hackernews"
+    },
+    "9ad772dbfeb435e6": {
+      "date": "2026-07-22",
+      "title": "You can build it. Should you?",
+      "source": "devto"
+    },
+    "8c2ba10cd6a304a4": {
+      "date": "2026-07-22",
+      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
+      "source": "devto"
+    },
+    "a247d2449e1ba154": {
+      "date": "2026-07-22",
+      "title": "The Optimistic UI Race Condition That Only Showed Up on the Fifth Click",
+      "source": "devto"
+    },
+    "0dfee9fa3f18885f": {
+      "date": "2026-07-22",
+      "title": "🐘 TypeScript for PHP? YES, that's possible! And it's not what you think...",
+      "source": "devto"
+    },
+    "0c4a33c7837b280f": {
+      "date": "2026-07-22",
+      "title": "How AI changed the way I pick frameworks, and the two places React survived",
+      "source": "devto"
+    },
+    "2208dae172b90c9a": {
+      "date": "2026-07-22",
+      "title": "Snowflake Cortex, Explained Like an AI That Lives Next to Your Data",
+      "source": "devto"
+    },
+    "07087b8abb505a64": {
+      "date": "2026-07-22",
+      "title": "Open AI Build Week: Foundation First, Software Second",
+      "source": "devto"
+    },
+    "bb54ba776d88bbc2": {
+      "date": "2026-07-22",
+      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models",
+      "source": "devto"
+    },
+    "cd1b1c78f4b363af": {
+      "date": "2026-07-22",
+      "title": "Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game",
+      "source": "devto"
+    },
+    "56d33226bf40d769": {
+      "date": "2026-07-22",
+      "title": "koala73 / worldmonitor",
+      "source": "github"
+    },
+    "ee7d6f2f5cec7fb9": {
+      "date": "2026-07-22",
+      "title": "ayghri / i-have-adhd",
+      "source": "github"
+    },
+    "7a4b3790492aaeb5": {
+      "date": "2026-07-22",
+      "title": "earthtojake / text-to-cad",
+      "source": "github"
+    },
+    "ee1315903bd5e838": {
+      "date": "2026-07-22",
+      "title": "oblien / openship",
+      "source": "github"
+    },
+    "d84de85bb3f0e980": {
+      "date": "2026-07-22",
+      "title": "tradesdontlie / tradingview-mcp",
+      "source": "github"
+    },
+    "018703fab583e3d5": {
+      "date": "2026-07-22",
+      "title": "AlexsJones / llmfit",
+      "source": "github"
+    },
+    "3a0b0b37a392aba3": {
+      "date": "2026-07-22",
+      "title": "hyprwm / Hyprland",
+      "source": "github"
+    },
+    "44fef4354ab3fc2f": {
+      "date": "2026-07-22",
+      "title": "chrislgarry / Apollo-11",
+      "source": "github"
+    },
+    "c23e4133fb44634b": {
+      "date": "2026-07-22",
+      "title": "DioxusLabs / dioxus",
+      "source": "github"
+    },
+    "280b22a646186e07": {
+      "date": "2026-07-22",
+      "title": "langchain-ai / open_deep_research",
       "source": "github"
     }
   }
