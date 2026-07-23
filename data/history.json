@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-22T00:27:57.308246",
+  "last_updated": "2026-07-23T06:55:11.623891",
   "sent_items": {
-    "ead6b93e051102f5": {
-      "date": "2026-06-22",
-      "title": "Identity verification on Claude",
-      "source": "hackernews"
-    },
-    "7d71e6815adec316": {
-      "date": "2026-06-22",
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "source": "hackernews"
-    },
-    "9ab140b948c262b2": {
-      "date": "2026-06-22",
-      "title": "JSON-LD Explained for Personal Websites",
-      "source": "hackernews"
-    },
-    "ea5a45c3af5bf436": {
-      "date": "2026-06-22",
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "source": "hackernews"
-    },
-    "9bd7a67eddd4600a": {
-      "date": "2026-06-22",
-      "title": "Did my old job only exist because of fraud?",
-      "source": "hackernews"
-    },
-    "e7bab2232f0d31e4": {
-      "date": "2026-06-22",
-      "title": "Everything Is Logarithms",
-      "source": "hackernews"
-    },
-    "57a790565b60efef": {
-      "date": "2026-06-22",
-      "title": "Stop wasting tokens and re explaining your project between sessions",
-      "source": "hackernews"
-    },
-    "3972d0f81e54a4a6": {
-      "date": "2026-06-22",
-      "title": "PowerFox Browser",
-      "source": "hackernews"
-    },
-    "65171448dd1f4a6c": {
-      "date": "2026-06-22",
-      "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
-      "source": "hackernews"
-    },
-    "35e25d4dec72c524": {
-      "date": "2026-06-22",
-      "title": "Simple hard way to conjugate Japanese verbs",
-      "source": "hackernews"
-    },
-    "60e190b4c0e4d95f": {
-      "date": "2026-06-22",
-      "title": "oioi",
-      "source": "producthunt"
-    },
-    "1305353225ad44ff": {
-      "date": "2026-06-22",
-      "title": "Grok by SpaceXAI for Word",
-      "source": "producthunt"
-    },
-    "5cb978d0985c1a75": {
-      "date": "2026-06-22",
-      "title": "Atomic Mail Agentic",
-      "source": "producthunt"
-    },
-    "bde3562d7fe1f73d": {
-      "date": "2026-06-22",
-      "title": "Laguna by Poolside",
-      "source": "producthunt"
-    },
-    "292664e7957d106b": {
-      "date": "2026-06-22",
-      "title": "Plansera AI",
-      "source": "producthunt"
-    },
-    "02c87d0c8bab43f6": {
-      "date": "2026-06-22",
-      "title": "Agent 37 Cloud",
-      "source": "producthunt"
-    },
-    "7db20e2dc913e34c": {
-      "date": "2026-06-22",
-      "title": "Notchkin",
-      "source": "producthunt"
-    },
-    "4c03872b4105b66f": {
-      "date": "2026-06-22",
-      "title": "Some friends wanted to see how I use DigitalOcean. So I built them the smallest real app I could.",
-      "source": "devto"
-    },
-    "96c48b17297c1d83": {
-      "date": "2026-06-22",
-      "title": "15 AI Stories Later, Some Honest Words",
-      "source": "devto"
-    },
-    "f137faa6d02558e1": {
-      "date": "2026-06-22",
-      "title": "(new) Bifrost Edge: MCP Visibility and Control for Enterprise Teams and Beyond 🔥",
-      "source": "devto"
-    },
-    "239ece87e9af1a82": {
-      "date": "2026-06-22",
-      "title": "When Judgment Becomes the Bottleneck",
-      "source": "devto"
-    },
-    "e9df813b512b103e": {
-      "date": "2026-06-22",
-      "title": "Solstice Crypt - Decrypt the Light",
-      "source": "devto"
-    },
-    "7f764d64c4f3a16a": {
-      "date": "2026-06-22",
-      "title": "From Prompting ChatGPT to Orchestrating AI Agents: Two Years as an Ordinary Engineer",
-      "source": "devto"
-    },
-    "ed85ad29e7ffbcc2": {
-      "date": "2026-06-22",
-      "title": "What Is an Array, Really? I'm Writing a Book to Find Out",
-      "source": "devto"
-    },
-    "5031edb1ad7611c0": {
-      "date": "2026-06-22",
-      "title": "The Playwright Playbook — Part 7: The CI/CD Setup Nobody Shows You",
-      "source": "devto"
-    },
-    "14a4448bb99442cb": {
-      "date": "2026-06-22",
-      "title": "Turing's Mirror - A Game About the Question We Still Haven't Answered",
-      "source": "devto"
-    },
-    "82a63756c4175cd6": {
-      "date": "2026-06-22",
-      "title": "Less Noise, More Labs: How I Actually Learned RF Hacking This Year",
-      "source": "devto"
-    },
-    "4ec6d5af71eebc5a": {
-      "date": "2026-06-22",
-      "title": "ZhuLinsen / daily_stock_analysis",
-      "source": "github"
-    },
-    "8715d70f7c6f5657": {
-      "date": "2026-06-22",
-      "title": "bytedance / deer-flow",
-      "source": "github"
-    },
-    "f0139d905f3ca74b": {
-      "date": "2026-06-22",
-      "title": "mikumifa / biliTickerBuy",
-      "source": "github"
-    },
-    "d5c3c51d6e6ce977": {
-      "date": "2026-06-22",
-      "title": "smicallef / spiderfoot",
-      "source": "github"
-    },
-    "194bbbbcb050ad73": {
-      "date": "2026-06-22",
-      "title": "topoteretes / cognee",
-      "source": "github"
-    },
     "f410da262bf0885c": {
       "date": "2026-06-23",
       "title": "Steam Machine launches today",
@@ -5035,6 +4875,181 @@
     "280b22a646186e07": {
       "date": "2026-07-22",
       "title": "langchain-ai / open_deep_research",
+      "source": "github"
+    },
+    "678763b37da605af": {
+      "date": "2026-07-23",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "source": "hackernews"
+    },
+    "6ca22fc6b2aead0a": {
+      "date": "2026-07-23",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "source": "hackernews"
+    },
+    "5e48565febeac4f5": {
+      "date": "2026-07-23",
+      "title": "Are AI labs pelicanmaxxing?",
+      "source": "hackernews"
+    },
+    "a1d745ce50de911b": {
+      "date": "2026-07-23",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "source": "hackernews"
+    },
+    "02232e38e9ed7824": {
+      "date": "2026-07-23",
+      "title": "Everyone should know SIMD",
+      "source": "hackernews"
+    },
+    "9f90536071ea53ea": {
+      "date": "2026-07-23",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "source": "hackernews"
+    },
+    "c8888a8db57dc488": {
+      "date": "2026-07-23",
+      "title": "git's –end-of-options Flag",
+      "source": "hackernews"
+    },
+    "3b9ce8048ca3ffb0": {
+      "date": "2026-07-23",
+      "title": "Making ASCII Art in Vim",
+      "source": "hackernews"
+    },
+    "6c23fae05e9479be": {
+      "date": "2026-07-23",
+      "title": "Restructuring GitHub's bug bounty program",
+      "source": "hackernews"
+    },
+    "fa6bd82f61d13fa7": {
+      "date": "2026-07-23",
+      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "source": "hackernews"
+    },
+    "a0c8c4ea5a8d3c9a": {
+      "date": "2026-07-23",
+      "title": "AgentManager",
+      "source": "producthunt"
+    },
+    "325f1a1d14a14446": {
+      "date": "2026-07-23",
+      "title": "Garmin CIRQA™ Smart Band",
+      "source": "producthunt"
+    },
+    "fab52f6911a82a9e": {
+      "date": "2026-07-23",
+      "title": "Lattics",
+      "source": "producthunt"
+    },
+    "f05b34d02ab03efd": {
+      "date": "2026-07-23",
+      "title": "MonoCloud for Startups",
+      "source": "producthunt"
+    },
+    "8361de597a4f8d85": {
+      "date": "2026-07-23",
+      "title": "box",
+      "source": "producthunt"
+    },
+    "da974e3033e08f8e": {
+      "date": "2026-07-23",
+      "title": "Redential",
+      "source": "producthunt"
+    },
+    "564f8e5d9182d672": {
+      "date": "2026-07-23",
+      "title": "Light Flip",
+      "source": "producthunt"
+    },
+    "8b56d022076b2e8f": {
+      "date": "2026-07-23",
+      "title": "Humalike x Hermes",
+      "source": "producthunt"
+    },
+    "5da3f4c37d3720d8": {
+      "date": "2026-07-23",
+      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
+      "source": "devto"
+    },
+    "d99d41e62511a205": {
+      "date": "2026-07-23",
+      "title": "Contribuir para a comunidade: como destacar isso no seu LinkedIn e currículo",
+      "source": "devto"
+    },
+    "d1195c9225566267": {
+      "date": "2026-07-23",
+      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
+      "source": "devto"
+    },
+    "22d1b91ecd7a24a9": {
+      "date": "2026-07-23",
+      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
+      "source": "devto"
+    },
+    "6b281a647098fd45": {
+      "date": "2026-07-23",
+      "title": "What is a context window, actually?",
+      "source": "devto"
+    },
+    "f6b077c6f20dc5b9": {
+      "date": "2026-07-23",
+      "title": "Swift Classes — Deinitializers and How Swift Cleans Up After Itself 🧹",
+      "source": "devto"
+    },
+    "28120def5bae5dbe": {
+      "date": "2026-07-23",
+      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and",
+      "source": "devto"
+    },
+    "ef6aff73d624510f": {
+      "date": "2026-07-23",
+      "title": "Defeating the Fargate Cold Start Chaos with SOCI",
+      "source": "devto"
+    },
+    "1e626d276e20994c": {
+      "date": "2026-07-23",
+      "title": "SPF, DKIM, DMARC: the 15-minute setup that actually passes",
+      "source": "devto"
+    },
+    "b75ebd7bec4dfd12": {
+      "date": "2026-07-23",
+      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
+      "source": "devto"
+    },
+    "b88a3a4b263fe858": {
+      "date": "2026-07-23",
+      "title": "schollz / croc",
+      "source": "github"
+    },
+    "239fc0bbdc76c10b": {
+      "date": "2026-07-23",
+      "title": "likec4 / likec4",
+      "source": "github"
+    },
+    "bfeff07f7d8682f0": {
+      "date": "2026-07-23",
+      "title": "jamiepine / voicebox",
+      "source": "github"
+    },
+    "c175a33fc9954c9b": {
+      "date": "2026-07-23",
+      "title": "shiyu-coder / Kronos",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-07-23",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "fe5f464751175ecd": {
+      "date": "2026-07-23",
+      "title": "agegr / pi-web",
+      "source": "github"
+    },
+    "0f509cf92ac6d466": {
+      "date": "2026-07-23",
+      "title": "dreamhunter2333 / cloudflare_temp_email",
       "source": "github"
     }
   }
