@@ -1,332 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-23T06:55:11.623891",
+  "last_updated": "2026-07-24T06:54:28.045257",
   "sent_items": {
-    "f410da262bf0885c": {
-      "date": "2026-06-23",
-      "title": "Steam Machine launches today",
-      "source": "hackernews"
-    },
-    "6403de463dadf7ab": {
-      "date": "2026-06-23",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "source": "hackernews"
-    },
-    "a95392d652d1981b": {
-      "date": "2026-06-23",
-      "title": "My Mathematical Regression",
-      "source": "hackernews"
-    },
-    "05da327b3a751ddc": {
-      "date": "2026-06-23",
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "source": "hackernews"
-    },
-    "7c8e837a78550904": {
-      "date": "2026-06-23",
-      "title": "Unsloth GLM-5.2 – How to Run Locally",
-      "source": "hackernews"
-    },
-    "7e15460cb957b046": {
-      "date": "2026-06-23",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "source": "hackernews"
-    },
-    "40591857a5a4a02e": {
-      "date": "2026-06-23",
-      "title": "Japanese symbols that speak without words",
-      "source": "hackernews"
-    },
-    "40ea44f3f88622e0": {
-      "date": "2026-06-23",
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "source": "hackernews"
-    },
-    "f617077f8e4f1de8": {
-      "date": "2026-06-23",
-      "title": "Canyon HUD helmet for road riding",
-      "source": "hackernews"
-    },
-    "a2860ad0a3e4cf1e": {
-      "date": "2026-06-23",
-      "title": "Is it time for a new Embedded Linux build system?",
-      "source": "hackernews"
-    },
-    "46d8bc18b6a7efa0": {
-      "date": "2026-06-23",
-      "title": "AlgoFly AI",
-      "source": "producthunt"
-    },
-    "d34049417bd81b18": {
-      "date": "2026-06-23",
-      "title": "Photoroom API",
-      "source": "producthunt"
-    },
-    "d0a7407dac5eed44": {
-      "date": "2026-06-23",
-      "title": "uwait",
-      "source": "producthunt"
-    },
-    "4f76f2aec8270204": {
-      "date": "2026-06-23",
-      "title": "Alai 2.0",
-      "source": "producthunt"
-    },
-    "5fe40cb4252a6e2a": {
-      "date": "2026-06-23",
-      "title": "Cloudflare Temporary Accounts",
-      "source": "producthunt"
-    },
-    "cf0a870d5f91e19b": {
-      "date": "2026-06-23",
-      "title": "OnBrand by SlideSpeak",
-      "source": "producthunt"
-    },
-    "d64b7d75cc1fd497": {
-      "date": "2026-06-23",
-      "title": "Selector Forge",
-      "source": "producthunt"
-    },
-    "5733b2b8b4d49a91": {
-      "date": "2026-06-23",
-      "title": "MD+HTML Reader",
-      "source": "producthunt"
-    },
-    "b8cf6d693277b726": {
-      "date": "2026-06-23",
-      "title": "The Principle of Least AI",
-      "source": "devto"
-    },
-    "05e1038be3690ac0": {
-      "date": "2026-06-23",
-      "title": "I Wish I Had Started Documenting My Tech Journey Earlier",
-      "source": "devto"
-    },
-    "90bee5277ea84e18": {
-      "date": "2026-06-23",
-      "title": "What Kind of AI-Assisted Developer Are You? Take the quiz.",
-      "source": "devto"
-    },
-    "d8f7c3d3e7b55555": {
-      "date": "2026-06-23",
-      "title": "👾 Server Access Logs with GoAccess",
-      "source": "devto"
-    },
-    "c52fa0d45e250216": {
-      "date": "2026-06-23",
-      "title": "I am behind, and I can't prove it but does it matter?",
-      "source": "devto"
-    },
-    "bfe185682b294afe": {
-      "date": "2026-06-23",
-      "title": "What are your Goals for the week? #184",
-      "source": "devto"
-    },
-    "372886bb93f68e55": {
-      "date": "2026-06-23",
-      "title": "Do localhost para o mundo",
-      "source": "devto"
-    },
-    "ca9a50a3aa7f1e4e": {
-      "date": "2026-06-23",
-      "title": "The Stale Feature Flag We Deleted That Turned a Feature Back On",
-      "source": "devto"
-    },
-    "d9f7c0534265f8e4": {
-      "date": "2026-06-23",
-      "title": "What it takes to build docs worth reading",
-      "source": "devto"
-    },
-    "30d6f2608ff8bd42": {
-      "date": "2026-06-23",
-      "title": "Link or Button, that is the question.",
-      "source": "devto"
-    },
-    "b2783939baa36f0b": {
-      "date": "2026-06-23",
-      "title": "Stirling-Tools / Stirling-PDF",
-      "source": "github"
-    },
-    "8ed11f9c07a08ee3": {
-      "date": "2026-06-23",
-      "title": "garrytan / gstack",
-      "source": "github"
-    },
-    "1c708e2373cec766": {
-      "date": "2026-06-23",
-      "title": "heygen-com / hyperframes",
-      "source": "github"
-    },
-    "49a1c7e387a4e695": {
-      "date": "2026-06-23",
-      "title": "firecrawl / firecrawl",
-      "source": "github"
-    },
-    "cdf1702f364a4d5a": {
-      "date": "2026-06-23",
-      "title": "JCodesMore / ai-website-cloner-template",
-      "source": "github"
-    },
-    "1adcc918e5142322": {
-      "date": "2026-06-23",
-      "title": "Bluerails Discovery",
-      "source": "producthunt"
-    },
-    "cc0850cf5e0e5eb1": {
-      "date": "2026-06-23",
-      "title": "Conduit",
-      "source": "producthunt"
-    },
-    "9f3d761d23c9cac4": {
-      "date": "2026-06-23",
-      "title": "BestDefense.io",
-      "source": "producthunt"
-    },
-    "56b486394c069d88": {
-      "date": "2026-06-23",
-      "title": "Blazly SEO",
-      "source": "producthunt"
-    },
-    "5547371b8457191e": {
-      "date": "2026-06-23",
-      "title": "Steam Machine",
-      "source": "producthunt"
-    },
-    "bcaa061f754d25e2": {
-      "date": "2026-06-23",
-      "title": "Latitude",
-      "source": "producthunt"
-    },
-    "ee77bde5a38ba54d": {
-      "date": "2026-06-23",
-      "title": "Deckwise",
-      "source": "producthunt"
-    },
-    "cf6d5032dea32088": {
-      "date": "2026-06-23",
-      "title": "Buddy AI Note",
-      "source": "producthunt"
-    },
-    "33ff5955ad0f84d9": {
-      "date": "2026-06-23",
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "source": "hackernews"
-    },
-    "5fc3690993a645ac": {
-      "date": "2026-06-23",
-      "title": "The Coming Loop",
-      "source": "hackernews"
-    },
-    "639af81f700d6960": {
-      "date": "2026-06-23",
-      "title": "Jerry's Map",
-      "source": "hackernews"
-    },
-    "440089dd75ac5a86": {
-      "date": "2026-06-23",
-      "title": "FUTO Swipe – A new swipe typing model",
-      "source": "hackernews"
-    },
-    "507cdd8bde63943f": {
-      "date": "2026-06-23",
-      "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "source": "hackernews"
-    },
-    "af6e355b941e6ef9": {
-      "date": "2026-06-23",
-      "title": "Swift Package Index joins Apple",
-      "source": "hackernews"
-    },
-    "e6d2c8ee1d8786b8": {
-      "date": "2026-06-23",
-      "title": "Printing Gaussian Splats",
-      "source": "hackernews"
-    },
-    "c7b57177e881a686": {
-      "date": "2026-06-23",
-      "title": "Trains halted across Germany because of communication system problem",
-      "source": "hackernews"
-    },
-    "df5f31ed7733a7c0": {
-      "date": "2026-06-23",
-      "title": "United Wizards of the Coast recognized by NLRB",
-      "source": "hackernews"
-    },
-    "b8ac69d526af0c9f": {
-      "date": "2026-06-23",
-      "title": "In memory of the man who put red and green squiggles under words",
-      "source": "hackernews"
-    },
-    "1f76db0e23612ae0": {
-      "date": "2026-06-23",
-      "title": "I'm moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀",
-      "source": "devto"
-    },
-    "88ef883781df0ab0": {
-      "date": "2026-06-23",
-      "title": "Agents write code, but they don't remember",
-      "source": "devto"
-    },
-    "7f8f683653305c3e": {
-      "date": "2026-06-23",
-      "title": "Too cheap to be good? Think again.",
-      "source": "devto"
-    },
-    "b124905c8c5fce05": {
-      "date": "2026-06-23",
-      "title": "Solstice Protocol: A Puzzle Adventure to Save the Longest Day",
-      "source": "devto"
-    },
-    "69c2753cfad6e072": {
-      "date": "2026-06-23",
-      "title": "An AI Feature Has No \"Tests Pass\" Moment. So I Write the Eval First.",
-      "source": "devto"
-    },
-    "b0d639497692da11": {
-      "date": "2026-06-23",
-      "title": "The 80/20 Rule of AI Code — Why the Last 20% Takes 80% of Your Time",
-      "source": "devto"
-    },
-    "ab06793bd2ea642f": {
-      "date": "2026-06-23",
-      "title": "How My AI Agent Hacked Its Own Permissions (And What It Taught Me)",
-      "source": "devto"
-    },
-    "1c3e0a2117ac60f9": {
-      "date": "2026-06-23",
-      "title": "Maybe It Is Not Yet Time To Bring Every AI Demo To Production",
-      "source": "devto"
-    },
-    "278c617e7254b86e": {
-      "date": "2026-06-23",
-      "title": "Building One Knowledge Graph Across 46 Repositories With Static Analysis (Part 1)",
-      "source": "devto"
-    },
-    "ebea3467b34d97b2": {
-      "date": "2026-06-23",
-      "title": "Why I Left Postman — The Real Cost of a Cloud-First API Client",
-      "source": "devto"
-    },
-    "ebc3b4fe22b66c2d": {
-      "date": "2026-06-23",
-      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-      "source": "github"
-    },
-    "f2ef8f8410a81a77": {
-      "date": "2026-06-23",
-      "title": "anthropics / claude-plugins-official",
-      "source": "github"
-    },
-    "26ea52d56cf57a70": {
-      "date": "2026-06-23",
-      "title": "shanraisshan / claude-code-best-practice",
-      "source": "github"
-    },
-    "978e35c607178533": {
-      "date": "2026-06-23",
-      "title": "NousResearch / hermes-agent",
-      "source": "github"
-    },
     "dd8688eee4b04870": {
       "date": "2026-06-25",
       "title": "We’re making Bunny DNS free",
@@ -5050,6 +4725,176 @@
     "0f509cf92ac6d466": {
       "date": "2026-07-23",
       "title": "dreamhunter2333 / cloudflare_temp_email",
+      "source": "github"
+    },
+    "35ef15278bebe994": {
+      "date": "2026-07-24",
+      "title": "Writing by hand is good for your brain",
+      "source": "hackernews"
+    },
+    "aca257bb93fd12fa": {
+      "date": "2026-07-24",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "source": "hackernews"
+    },
+    "8cce3676d4f631cb": {
+      "date": "2026-07-24",
+      "title": "98.css",
+      "source": "hackernews"
+    },
+    "f64ead1100dcc11f": {
+      "date": "2026-07-24",
+      "title": "What happened to TheNumbers.com",
+      "source": "hackernews"
+    },
+    "8bd1f17f0a17c196": {
+      "date": "2026-07-24",
+      "title": "The Beam Engine",
+      "source": "hackernews"
+    },
+    "5223b9bbb6a5ac5f": {
+      "date": "2026-07-24",
+      "title": "Software rendering in 500 lines of bare C++",
+      "source": "hackernews"
+    },
+    "1ff27c8ad9969a65": {
+      "date": "2026-07-24",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "source": "hackernews"
+    },
+    "85bd5a1fc677dda6": {
+      "date": "2026-07-24",
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "source": "hackernews"
+    },
+    "cc744205c493c965": {
+      "date": "2026-07-24",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "source": "hackernews"
+    },
+    "7050f540acb8dcac": {
+      "date": "2026-07-24",
+      "title": "What else do people draw on gradient.horse?",
+      "source": "hackernews"
+    },
+    "e8789acdfd3d98db": {
+      "date": "2026-07-24",
+      "title": "Mnemcore",
+      "source": "producthunt"
+    },
+    "a26d039d80c91d88": {
+      "date": "2026-07-24",
+      "title": "HOL Guard",
+      "source": "producthunt"
+    },
+    "9b635b60815e08cb": {
+      "date": "2026-07-24",
+      "title": "GTA DataCity",
+      "source": "producthunt"
+    },
+    "e4826f308694e629": {
+      "date": "2026-07-24",
+      "title": "Fathom",
+      "source": "producthunt"
+    },
+    "26b811d667d2e418": {
+      "date": "2026-07-24",
+      "title": "Wispro",
+      "source": "producthunt"
+    },
+    "bf55e7c1c16bced4": {
+      "date": "2026-07-24",
+      "title": "Fable Flight",
+      "source": "producthunt"
+    },
+    "f8d9d2a3fb3d6805": {
+      "date": "2026-07-24",
+      "title": "SMASH Voice to Invoice",
+      "source": "producthunt"
+    },
+    "509787364215c635": {
+      "date": "2026-07-24",
+      "title": "Motionly",
+      "source": "producthunt"
+    },
+    "faa501375775e0d3": {
+      "date": "2026-07-24",
+      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+      "source": "devto"
+    },
+    "00e0bb1da86f7c77": {
+      "date": "2026-07-24",
+      "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+      "source": "devto"
+    },
+    "686ffa292750fff1": {
+      "date": "2026-07-24",
+      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
+      "source": "devto"
+    },
+    "2cd143fdad0c7ca8": {
+      "date": "2026-07-24",
+      "title": "Tried building GitHub's search box in Go",
+      "source": "devto"
+    },
+    "eeda0c5ab91437cc": {
+      "date": "2026-07-24",
+      "title": "Swift Classes — The Four Ways Variables and Constants Can Combine 🎭",
+      "source": "devto"
+    },
+    "7cca8a62219d6b5b": {
+      "date": "2026-07-24",
+      "title": "The AWS Cleanup We Keep Putting Off (I Let an Agent Do It)",
+      "source": "devto"
+    },
+    "078745d6ff844477": {
+      "date": "2026-07-24",
+      "title": "Roll your own file-based router in under 50 lines of code",
+      "source": "devto"
+    },
+    "d89892338a08a58f": {
+      "date": "2026-07-24",
+      "title": "How AI Endpoints Change the Traditional API Flow",
+      "source": "devto"
+    },
+    "5920cc8cff939517": {
+      "date": "2026-07-24",
+      "title": "DSCI - CI with regular programming languages instead of YAML",
+      "source": "devto"
+    },
+    "8dca5ae0f0ac47a1": {
+      "date": "2026-07-24",
+      "title": "Your Car Is Spying on Itself. I Taught It to Confess.",
+      "source": "devto"
+    },
+    "f8fd1424e453d1b4": {
+      "date": "2026-07-24",
+      "title": "block / buzz",
+      "source": "github"
+    },
+    "0064ff826d4ea331": {
+      "date": "2026-07-24",
+      "title": "Pumpkin-MC / Pumpkin",
+      "source": "github"
+    },
+    "02e09efcdbd4bdf8": {
+      "date": "2026-07-24",
+      "title": "citrolabs / ego-lite",
+      "source": "github"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-07-24",
+      "title": "alibaba / open-code-review",
+      "source": "github"
+    },
+    "f0e8ac07d3199ef1": {
+      "date": "2026-07-24",
+      "title": "Automattic / harper",
+      "source": "github"
+    },
+    "59e9f1b93ba7d02c": {
+      "date": "2026-07-24",
+      "title": "jellyfin / jellyfin",
       "source": "github"
     }
   }
