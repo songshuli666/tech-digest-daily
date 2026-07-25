@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-24T06:54:28.045257",
+  "last_updated": "2026-07-25T06:22:31.059001",
   "sent_items": {
     "dd8688eee4b04870": {
       "date": "2026-06-25",
@@ -4895,6 +4895,161 @@
     "59e9f1b93ba7d02c": {
       "date": "2026-07-24",
       "title": "jellyfin / jellyfin",
+      "source": "github"
+    },
+    "0abbbce48d5f23f6": {
+      "date": "2026-07-25",
+      "title": "Hotspot Meter",
+      "source": "producthunt"
+    },
+    "ca8e0d337b926230": {
+      "date": "2026-07-25",
+      "title": "Liso",
+      "source": "producthunt"
+    },
+    "251094ae0d595314": {
+      "date": "2026-07-25",
+      "title": "Buzz",
+      "source": "producthunt"
+    },
+    "4cd8726e2096bec7": {
+      "date": "2026-07-25",
+      "title": "HarnessRouter",
+      "source": "producthunt"
+    },
+    "b58ffa21d36583e5": {
+      "date": "2026-07-25",
+      "title": "The new Firecrawl /search",
+      "source": "producthunt"
+    },
+    "fa59e88f036b3e53": {
+      "date": "2026-07-25",
+      "title": "YC has it",
+      "source": "producthunt"
+    },
+    "9152c3d73117eaa2": {
+      "date": "2026-07-25",
+      "title": "Prosed",
+      "source": "producthunt"
+    },
+    "d05d8aadf890ce6b": {
+      "date": "2026-07-25",
+      "title": "Freesolo Flash",
+      "source": "producthunt"
+    },
+    "1445d8a42c014bb8": {
+      "date": "2026-07-25",
+      "title": "Claude Opus 5",
+      "source": "hackernews"
+    },
+    "a6b9338fd2341ca0": {
+      "date": "2026-07-25",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "source": "hackernews"
+    },
+    "044a992b61137428": {
+      "date": "2026-07-25",
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "source": "hackernews"
+    },
+    "3a464cfed62513a7": {
+      "date": "2026-07-25",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "source": "hackernews"
+    },
+    "7e3d93bcc2e892c9": {
+      "date": "2026-07-25",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "source": "hackernews"
+    },
+    "78261b4c4c883a06": {
+      "date": "2026-07-25",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "source": "hackernews"
+    },
+    "07521dea9f1f5697": {
+      "date": "2026-07-25",
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "source": "hackernews"
+    },
+    "7ae7008a6464cecb": {
+      "date": "2026-07-25",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "source": "hackernews"
+    },
+    "1514d98a9fe8fe90": {
+      "date": "2026-07-25",
+      "title": "GC and Exceptions in Wasmtime",
+      "source": "hackernews"
+    },
+    "040184a965f82424": {
+      "date": "2026-07-25",
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "source": "hackernews"
+    },
+    "05d37dc32f33cdc9": {
+      "date": "2026-07-25",
+      "title": "Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus L",
+      "source": "devto"
+    },
+    "15475f4daa5f3799": {
+      "date": "2026-07-25",
+      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions ",
+      "source": "devto"
+    },
+    "e29a28ade0bb4300": {
+      "date": "2026-07-25",
+      "title": "6 Open Source Tools That Give You the Web Back",
+      "source": "devto"
+    },
+    "c90d9bc83522e00c": {
+      "date": "2026-07-25",
+      "title": "The World's Oldest Communication Protocol Is Music",
+      "source": "devto"
+    },
+    "08819da096448997": {
+      "date": "2026-07-25",
+      "title": "Own Your Pixels: Native Fidelity on Your Schedule",
+      "source": "devto"
+    },
+    "e1f430721ed58066": {
+      "date": "2026-07-25",
+      "title": "Hetzner Inference: First Look",
+      "source": "devto"
+    },
+    "849add21bba150f8": {
+      "date": "2026-07-25",
+      "title": "The Person Who Fixed the Bugs Just Vanished",
+      "source": "devto"
+    },
+    "f6b9a1ab05939659": {
+      "date": "2026-07-25",
+      "title": "Começando com Redes: Camadas de uma conexão TCP/IP",
+      "source": "devto"
+    },
+    "eca452783fe08d8f": {
+      "date": "2026-07-25",
+      "title": "Sentry's Span Hierarchy Exposed a Silent Retry in My 5-Agent Pipeline. One Agent Took 22.6s, the Oth",
+      "source": "devto"
+    },
+    "8e8f9354b3b61c38": {
+      "date": "2026-07-25",
+      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
+      "source": "devto"
+    },
+    "348a5ab08e75414c": {
+      "date": "2026-07-25",
+      "title": "yorukot / superfile",
+      "source": "github"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-07-25",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "1fc186e3e23d6cbb": {
+      "date": "2026-07-25",
+      "title": "Lordog / dive-into-llms",
       "source": "github"
     }
   }
