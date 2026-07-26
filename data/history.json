@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-25T06:22:31.059001",
+  "last_updated": "2026-07-26T07:35:12.612528",
   "sent_items": {
-    "dd8688eee4b04870": {
-      "date": "2026-06-25",
-      "title": "We’re making Bunny DNS free",
-      "source": "hackernews"
-    },
-    "b2b283d1fdd44d7c": {
-      "date": "2026-06-25",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "source": "hackernews"
-    },
-    "b6b1da51450c665d": {
-      "date": "2026-06-25",
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "source": "hackernews"
-    },
-    "9bbbb66c5b5abf3b": {
-      "date": "2026-06-25",
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "source": "hackernews"
-    },
-    "62333b25b5f0a747": {
-      "date": "2026-06-25",
-      "title": "The Xteink X4 E-Ink Reader",
-      "source": "hackernews"
-    },
-    "eafad1904fb15d6d": {
-      "date": "2026-06-25",
-      "title": "Computer use in Gemini 3.5 Flash",
-      "source": "hackernews"
-    },
-    "9f709adbd370ec0b": {
-      "date": "2026-06-25",
-      "title": "Qualcomm to Acquire Modular",
-      "source": "hackernews"
-    },
-    "b1d70d92460119f3": {
-      "date": "2026-06-25",
-      "title": "Elastic lays off 7% of employees",
-      "source": "hackernews"
-    },
-    "e40b0fcf29e95feb": {
-      "date": "2026-06-25",
-      "title": "PostgreSQL Is Enough",
-      "source": "hackernews"
-    },
-    "204b03b0bd78a1d7": {
-      "date": "2026-06-25",
-      "title": "Robotics Teams Are Rebuilding the Data Stack from Scratch",
-      "source": "hackernews"
-    },
-    "564cdde030abf8e2": {
-      "date": "2026-06-25",
-      "title": "Crewdle AI",
-      "source": "producthunt"
-    },
-    "705d918fcc134699": {
-      "date": "2026-06-25",
-      "title": "Ruby",
-      "source": "producthunt"
-    },
-    "62d4a7841ca68db2": {
-      "date": "2026-06-25",
-      "title": "Nimt",
-      "source": "producthunt"
-    },
-    "3da21d3fa9d380f1": {
-      "date": "2026-06-25",
-      "title": "Swimio",
-      "source": "producthunt"
-    },
-    "28acae171eb621eb": {
-      "date": "2026-06-25",
-      "title": "React UI Kit V7",
-      "source": "producthunt"
-    },
-    "434ef1c8cd1209ce": {
-      "date": "2026-06-25",
-      "title": "Customer Relationship Agents by Clarify",
-      "source": "producthunt"
-    },
-    "4733d515a4129ae6": {
-      "date": "2026-06-25",
-      "title": "Prospector by Synter",
-      "source": "producthunt"
-    },
-    "992c73525e781399": {
-      "date": "2026-06-25",
-      "title": "Stripe.Directory",
-      "source": "producthunt"
-    },
-    "602d60accf3ca829": {
-      "date": "2026-06-25",
-      "title": "To The People Who Read My Weird Little Blogs",
-      "source": "devto"
-    },
-    "e08a7fd9a243a061": {
-      "date": "2026-06-25",
-      "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-      "source": "devto"
-    },
-    "4bcb78c7d8096141": {
-      "date": "2026-06-25",
-      "title": "Everyone's Excited About Claude Tag. Nobody's Built the Trust Layer.",
-      "source": "devto"
-    },
-    "7e7570c74b92c395": {
-      "date": "2026-06-25",
-      "title": "TypeScript Tips That Actually Matter in Real Projects (including the satisfies operator)",
-      "source": "devto"
-    },
-    "cf0445d5c8770d41": {
-      "date": "2026-06-25",
-      "title": "Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus",
-      "source": "devto"
-    },
-    "bd9e7f230e660e46": {
-      "date": "2026-06-25",
-      "title": "Something Changed After the Sloan Articles. I Can't Prove It.",
-      "source": "devto"
-    },
-    "5392a59ed5875d93": {
-      "date": "2026-06-25",
-      "title": "# Arc 9 Catch-Up: Writing Your First Solana Program",
-      "source": "devto"
-    },
-    "04b20f6e93a988c0": {
-      "date": "2026-06-25",
-      "title": "Conduit: The Gateway I Built to Forget About",
-      "source": "devto"
-    },
-    "096bc15777e4c183": {
-      "date": "2026-06-25",
-      "title": "Next.js 16 Server Actions Security: The Auth Check Most Developers Miss",
-      "source": "devto"
-    },
-    "8c6c247eacc117d3": {
-      "date": "2026-06-25",
-      "title": "Every Alarm Is a Crime Scene: Meet Poirot, the Read-Only Incident Detective",
-      "source": "devto"
-    },
-    "4a703dff9c32e930": {
-      "date": "2026-06-25",
-      "title": "interviewstreet / hiring-agent",
-      "source": "github"
-    },
-    "b68be267c74ad855": {
-      "date": "2026-06-25",
-      "title": "flutter / flutter",
-      "source": "github"
-    },
-    "9b315b26fb029ae5": {
-      "date": "2026-06-25",
-      "title": "andreknieriem / headunit-revived",
-      "source": "github"
-    },
-    "d7dc32f00be2e8f5": {
-      "date": "2026-06-25",
-      "title": "stablyai / orca",
-      "source": "github"
-    },
-    "8fcbd3d83192e011": {
-      "date": "2026-06-25",
-      "title": "google-labs-code / design.md",
-      "source": "github"
-    },
-    "f84e917e416c7dca": {
-      "date": "2026-06-25",
-      "title": "Flowseal / zapret-discord-youtube",
-      "source": "github"
-    },
-    "ecac04eb8fd789a9": {
-      "date": "2026-06-25",
-      "title": "kunchenguid / no-mistakes",
-      "source": "github"
-    },
     "a64cfd340f6b38a2": {
       "date": "2026-06-26",
       "title": "Polygraph",
@@ -5050,6 +4875,161 @@
     "1fc186e3e23d6cbb": {
       "date": "2026-07-25",
       "title": "Lordog / dive-into-llms",
+      "source": "github"
+    },
+    "9b29631a6a5adf30": {
+      "date": "2026-07-26",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "source": "hackernews"
+    },
+    "16818787a51d83e8": {
+      "date": "2026-07-26",
+      "title": "JetZero",
+      "source": "hackernews"
+    },
+    "698ebaaadefd9e62": {
+      "date": "2026-07-26",
+      "title": "Show HN: I mapped every US golf course",
+      "source": "hackernews"
+    },
+    "461018098e71f1bc": {
+      "date": "2026-07-26",
+      "title": "An ESP32 based plane radar for my desk",
+      "source": "hackernews"
+    },
+    "59618d4219cd59c1": {
+      "date": "2026-07-26",
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "source": "hackernews"
+    },
+    "757f8f41e6e8a0cc": {
+      "date": "2026-07-26",
+      "title": "A shell colon does nothing. Use it anyway",
+      "source": "hackernews"
+    },
+    "d4ab8d34ab088510": {
+      "date": "2026-07-26",
+      "title": "Rethinking Legal Education in the AI Era",
+      "source": "hackernews"
+    },
+    "858d560c91992c9e": {
+      "date": "2026-07-26",
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "source": "hackernews"
+    },
+    "d56189dd1047e9e2": {
+      "date": "2026-07-26",
+      "title": "Stinkpot: SQLite-backed shell history",
+      "source": "hackernews"
+    },
+    "34f552dd97c65bd9": {
+      "date": "2026-07-26",
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "source": "hackernews"
+    },
+    "e9e9bcdb60b25401": {
+      "date": "2026-07-26",
+      "title": "KeyOpera 2.0",
+      "source": "producthunt"
+    },
+    "2c7bf50d98b4311a": {
+      "date": "2026-07-26",
+      "title": "Openbase",
+      "source": "producthunt"
+    },
+    "5601a7acba4cab12": {
+      "date": "2026-07-26",
+      "title": "BrainFeed",
+      "source": "producthunt"
+    },
+    "369e98d5758f84fb": {
+      "date": "2026-07-26",
+      "title": "TouchGrass",
+      "source": "producthunt"
+    },
+    "8d78e4872bcccc5c": {
+      "date": "2026-07-26",
+      "title": "PureBox.ai",
+      "source": "producthunt"
+    },
+    "dd15ee2cc6a450f9": {
+      "date": "2026-07-26",
+      "title": "SF Apartment Finder",
+      "source": "producthunt"
+    },
+    "7e4f9db3d5711be5": {
+      "date": "2026-07-26",
+      "title": "CodexBar Lite",
+      "source": "producthunt"
+    },
+    "40a046a6de88dfe1": {
+      "date": "2026-07-26",
+      "title": "Yoggi",
+      "source": "producthunt"
+    },
+    "e9c563ceb650198f": {
+      "date": "2026-07-26",
+      "title": "The Crash That Only Happened Sometimes — A SwiftUI Bug",
+      "source": "devto"
+    },
+    "8bc08fb58ef14192": {
+      "date": "2026-07-26",
+      "title": "I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru",
+      "source": "devto"
+    },
+    "05c9659cc2e15552": {
+      "date": "2026-07-26",
+      "title": "I Run Bare-Metal Kubernetes on $200 of Scrap Hardware (And Why I Burned 3 SD Cards Learning)",
+      "source": "devto"
+    },
+    "cd63302cb0451f01": {
+      "date": "2026-07-26",
+      "title": "I Connected 3 MCP Servers to One Agent. It Got Scary Fast.",
+      "source": "devto"
+    },
+    "cd06491b082ec8b4": {
+      "date": "2026-07-26",
+      "title": "How Unreal Engine Works: Not an API, but Engineering Thinking",
+      "source": "devto"
+    },
+    "75272eb55b835108": {
+      "date": "2026-07-26",
+      "title": "Bare Metal and Neural Nets: Crafting a Purpose-Driven AI Cyberdeck",
+      "source": "devto"
+    },
+    "688ef710edf76207": {
+      "date": "2026-07-26",
+      "title": "When SearchValues<T> Actually Pays Off",
+      "source": "devto"
+    },
+    "7518806c74d52092": {
+      "date": "2026-07-26",
+      "title": "One Cache Miss, Fifty Database Calls",
+      "source": "devto"
+    },
+    "5e1e3cf8095d0d62": {
+      "date": "2026-07-26",
+      "title": "600 Filters and a 414: The New QUERY Method in .NET 10",
+      "source": "devto"
+    },
+    "624d74caa930a954": {
+      "date": "2026-07-26",
+      "title": "We instrumented an AI agent swarm with SigNoz, and its own telemetry told us we were wrong about alm",
+      "source": "devto"
+    },
+    "c3257d531a3c4d89": {
+      "date": "2026-07-26",
+      "title": "obra / superpowers",
+      "source": "github"
+    },
+    "609b77217e47447a": {
+      "date": "2026-07-26",
+      "title": "permissionlesstech / bitchat",
+      "source": "github"
+    },
+    "fa7a24d15387e004": {
+      "date": "2026-07-26",
+      "title": "palmier-io / palmier-pro",
       "source": "github"
     }
   }
