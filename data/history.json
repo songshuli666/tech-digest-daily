@@ -1,342 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-26T07:35:12.612528",
+  "last_updated": "2026-07-27T11:07:23.602568",
   "sent_items": {
-    "a64cfd340f6b38a2": {
-      "date": "2026-06-26",
-      "title": "Polygraph",
-      "source": "producthunt"
-    },
-    "66cda09c60813f33": {
-      "date": "2026-06-26",
-      "title": "Blop",
-      "source": "producthunt"
-    },
-    "139ed809dbd12d50": {
-      "date": "2026-06-26",
-      "title": "Nashra",
-      "source": "producthunt"
-    },
-    "2d7fbabb1292714a": {
-      "date": "2026-06-26",
-      "title": "Heron",
-      "source": "producthunt"
-    },
-    "c92c6e420a10aadf": {
-      "date": "2026-06-26",
-      "title": "BrowserBash",
-      "source": "producthunt"
-    },
-    "7eac89648b72e350": {
-      "date": "2026-06-26",
-      "title": "Papermark Agents",
-      "source": "producthunt"
-    },
-    "e6d53e5e44854110": {
-      "date": "2026-06-26",
-      "title": "Zaro",
-      "source": "producthunt"
-    },
-    "be755bb0400c3eb2": {
-      "date": "2026-06-26",
-      "title": "Grass 2.0",
-      "source": "producthunt"
-    },
-    "a5ab93f91593d625": {
-      "date": "2026-06-26",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "source": "hackernews"
-    },
-    "15ed02d2a384386f": {
-      "date": "2026-06-26",
-      "title": "Oxide computer 3D rack guided tour",
-      "source": "hackernews"
-    },
-    "c2466f14c277cc4c": {
-      "date": "2026-06-26",
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "source": "hackernews"
-    },
-    "a5f18e26a1f1ea96": {
-      "date": "2026-06-26",
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "source": "hackernews"
-    },
-    "0c62baeff9bd40a0": {
-      "date": "2026-06-26",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "source": "hackernews"
-    },
-    "ebc5ea53f3fe04a6": {
-      "date": "2026-06-26",
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "source": "hackernews"
-    },
-    "1f98068454037eed": {
-      "date": "2026-06-26",
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "source": "hackernews"
-    },
-    "421a8873291fee7b": {
-      "date": "2026-06-26",
-      "title": "An oral history of Bank Python (2021)",
-      "source": "hackernews"
-    },
-    "bb866b9198a54e3e": {
-      "date": "2026-06-26",
-      "title": "Parallel Parentheses Matching",
-      "source": "hackernews"
-    },
-    "fa97414e1a81b365": {
-      "date": "2026-06-26",
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "source": "hackernews"
-    },
-    "4fbd916c4c595102": {
-      "date": "2026-06-26",
-      "title": "Thank you DEV community: the Thinking Engineer Toolkit is live",
-      "source": "devto"
-    },
-    "e10f35d842ad1428": {
-      "date": "2026-06-26",
-      "title": "On programming languages, targets, and platforms",
-      "source": "devto"
-    },
-    "46d7da18bb45b9ce": {
-      "date": "2026-06-26",
-      "title": "My app didn't go \"viral\". My AWS bill did.",
-      "source": "devto"
-    },
-    "4de7877650ba3bbd": {
-      "date": "2026-06-26",
-      "title": "I don't trust the LLM to classify my email. So I don't let it.",
-      "source": "devto"
-    },
-    "7eef8b8ef47c0094": {
-      "date": "2026-06-26",
-      "title": "Do Developers Ever Really Disconnect?",
-      "source": "devto"
-    },
-    "bf1ea55ba6baac0a": {
-      "date": "2026-06-26",
-      "title": "Ponytail: The AI Coding Skill Taking GitHub by Storm — And the One Question Nobody's Answered Yet",
-      "source": "devto"
-    },
-    "9f8b3639e08591da": {
-      "date": "2026-06-26",
-      "title": "How I built ZeroAudit — AI-powered SOC 2 compliance automation with AWS DynamoDB and Vercel",
-      "source": "devto"
-    },
-    "19166cd6e90eb8f1": {
-      "date": "2026-06-26",
-      "title": "The Tracking-Link Bug That Only Breaks Signed URLs",
-      "source": "devto"
-    },
-    "6fab6fcf4bf4264b": {
-      "date": "2026-06-26",
-      "title": "Your Evals Are Flaky Too: Stop Trusting a Pass Rate You Can't Reproduce",
-      "source": "devto"
-    },
-    "9dc17afa76330292": {
-      "date": "2026-06-26",
-      "title": "One Agent or Many? Orchestrating AI Agents Without the Mess",
-      "source": "devto"
-    },
-    "2e659dc15da03489": {
-      "date": "2026-06-26",
-      "title": "xbtlin / ai-berkshire",
-      "source": "github"
-    },
-    "8f922997c926f6be": {
-      "date": "2026-06-26",
-      "title": "mauriceboe / TREK",
-      "source": "github"
-    },
-    "a1c760c91a2498ee": {
-      "date": "2026-06-26",
-      "title": "every-app / open-seo",
-      "source": "github"
-    },
-    "fef947109115f8c0": {
-      "date": "2026-06-26",
-      "title": "aws / agent-toolkit-for-aws",
-      "source": "github"
-    },
-    "d8d54e4bd4f02a14": {
-      "date": "2026-06-26",
-      "title": "alibaba / page-agent",
-      "source": "github"
-    },
-    "9d1f873d0b898bf1": {
-      "date": "2026-06-26",
-      "title": "IceWhaleTech / CasaOS",
-      "source": "github"
-    },
-    "0882c05ca7034b93": {
-      "date": "2026-06-26",
-      "title": "opendatalab / MinerU",
-      "source": "github"
-    },
-    "820663ef04fc31ec": {
-      "date": "2026-06-26",
-      "title": "Aurora Notch",
-      "source": "producthunt"
-    },
-    "805f9a66250f1729": {
-      "date": "2026-06-26",
-      "title": "Gemini Spark",
-      "source": "producthunt"
-    },
-    "1894bd8e20b21356": {
-      "date": "2026-06-26",
-      "title": "LockIn MCP",
-      "source": "producthunt"
-    },
-    "423b99539398bafd": {
-      "date": "2026-06-26",
-      "title": "Cewsco",
-      "source": "producthunt"
-    },
-    "6328955fca1da18b": {
-      "date": "2026-06-26",
-      "title": "AI Slide Editor by CubeOne",
-      "source": "producthunt"
-    },
-    "1c7252c2df24b74e": {
-      "date": "2026-06-26",
-      "title": "note.md",
-      "source": "producthunt"
-    },
-    "10b93a234877603a": {
-      "date": "2026-06-26",
-      "title": "Group Subscriptions by beehiiv",
-      "source": "producthunt"
-    },
-    "e42beeccabf07bcb": {
-      "date": "2026-06-26",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "source": "hackernews"
-    },
-    "15745e7ea1296970": {
-      "date": "2026-06-26",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "source": "hackernews"
-    },
-    "4ee4173d35635b2e": {
-      "date": "2026-06-26",
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "source": "hackernews"
-    },
-    "821ced831e9eda87": {
-      "date": "2026-06-26",
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "source": "hackernews"
-    },
-    "e359ec819484249f": {
-      "date": "2026-06-26",
-      "title": "We Can Still Stop California's 3D Printer Surveillance Scheme",
-      "source": "hackernews"
-    },
-    "1e4585fcec1f1a51": {
-      "date": "2026-06-26",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "source": "hackernews"
-    },
-    "e246d1b19889ce7b": {
-      "date": "2026-06-26",
-      "title": "The US lifts its block on Mythos 5",
-      "source": "hackernews"
-    },
-    "d5e839e10994b5d3": {
-      "date": "2026-06-26",
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "source": "hackernews"
-    },
-    "579df96b23ead17e": {
-      "date": "2026-06-26",
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "source": "hackernews"
-    },
-    "dcf3ebea7069f3ff": {
-      "date": "2026-06-26",
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "source": "hackernews"
-    },
-    "882a0ec0a9aebb44": {
-      "date": "2026-06-26",
-      "title": "Never forget to enter the Stern Grove lottery again!",
-      "source": "devto"
-    },
-    "995fd43b4afa1798": {
-      "date": "2026-06-26",
-      "title": "What was your win this week!?",
-      "source": "devto"
-    },
-    "06a33f3fe6e5402e": {
-      "date": "2026-06-26",
-      "title": "Dev Opportunity Radar #5: A Fully Funded Trip to AWS re:Invent, Google Cloud Career Launchpad, and a",
-      "source": "devto"
-    },
-    "31b2b7ed6b6c7b87": {
-      "date": "2026-06-26",
-      "title": "Functional doesn't mean correct. That's the biggest risk with AI-generated code.",
-      "source": "devto"
-    },
-    "ab676d58c5a00a41": {
-      "date": "2026-06-26",
-      "title": "I Almost Didn't Learn Programming Because I Was Bad at Math",
-      "source": "devto"
-    },
-    "6c17efc1ba66767e": {
-      "date": "2026-06-26",
-      "title": "1,200 Applications. 4 Offers. Here's What Actually Got Me the Product-Based Role",
-      "source": "devto"
-    },
-    "d9453ab8ebf59f6a": {
-      "date": "2026-06-26",
-      "title": "AI is not replacing developers anytime soon",
-      "source": "devto"
-    },
-    "edc28d36264182c4": {
-      "date": "2026-06-26",
-      "title": "Moving to baweaver.com",
-      "source": "devto"
-    },
-    "2d47d1947283bbc7": {
-      "date": "2026-06-26",
-      "title": "Testing Webhooks: The Pattern I Keep Reaching For",
-      "source": "devto"
-    },
-    "e34f3efb1bdea2a5": {
-      "date": "2026-06-26",
-      "title": "How I Built a Custom Rust Blockchain for On-Chain Ride Lifecycle",
-      "source": "devto"
-    },
-    "f20ebd9659517d93": {
-      "date": "2026-06-26",
-      "title": "simplex-chat / simplex-chat",
-      "source": "github"
-    },
-    "09f8f47833523a25": {
-      "date": "2026-06-26",
-      "title": "commaai / openpilot",
-      "source": "github"
-    },
-    "18da61b3e00f4d04": {
-      "date": "2026-06-26",
-      "title": "grafana / grafana",
-      "source": "github"
-    },
-    "66fdad17e3139cd7": {
-      "date": "2026-06-26",
-      "title": "ripienaar / free-for-dev",
-      "source": "github"
-    },
-    "6bf20bedea38ea7d": {
-      "date": "2026-06-26",
-      "title": "NanmiCoder / MediaCrawler",
-      "source": "github"
-    },
     "32c9cee39e6c6d76": {
       "date": "2026-06-27",
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
@@ -5030,6 +4695,171 @@
     "fa7a24d15387e004": {
       "date": "2026-07-26",
       "title": "palmier-io / palmier-pro",
+      "source": "github"
+    },
+    "0cfe9a49ca39ee3b": {
+      "date": "2026-07-27",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "source": "hackernews"
+    },
+    "eeaa321cd070695c": {
+      "date": "2026-07-27",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "source": "hackernews"
+    },
+    "74fa33b5f6bf39bb": {
+      "date": "2026-07-27",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "source": "hackernews"
+    },
+    "b605e00bfbbf2fc9": {
+      "date": "2026-07-27",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "source": "hackernews"
+    },
+    "1bcd90fc20b17647": {
+      "date": "2026-07-27",
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "source": "hackernews"
+    },
+    "06d8e97a7fcf509b": {
+      "date": "2026-07-27",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "source": "hackernews"
+    },
+    "062c9562666f71ed": {
+      "date": "2026-07-27",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "source": "hackernews"
+    },
+    "e01bff03847c3566": {
+      "date": "2026-07-27",
+      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+      "source": "hackernews"
+    },
+    "289c0542fb98b929": {
+      "date": "2026-07-27",
+      "title": "How Unix spell ran in 64 kB of RAM",
+      "source": "hackernews"
+    },
+    "d10af500299c7138": {
+      "date": "2026-07-27",
+      "title": "Chinese chipmaker shares surge 470%",
+      "source": "hackernews"
+    },
+    "12117ebcf4f14b0f": {
+      "date": "2026-07-27",
+      "title": "AI YC interview with Gstack agents",
+      "source": "producthunt"
+    },
+    "fca5976552c65ab7": {
+      "date": "2026-07-27",
+      "title": "Tackly",
+      "source": "producthunt"
+    },
+    "3c0888e0904b49d9": {
+      "date": "2026-07-27",
+      "title": "Cynative Security Research Agent",
+      "source": "producthunt"
+    },
+    "291e757870096771": {
+      "date": "2026-07-27",
+      "title": "Rivault",
+      "source": "producthunt"
+    },
+    "500b805878fc6910": {
+      "date": "2026-07-27",
+      "title": "superfile",
+      "source": "producthunt"
+    },
+    "d5312f2ca254a9f5": {
+      "date": "2026-07-27",
+      "title": "Edit Mind × Strava",
+      "source": "producthunt"
+    },
+    "4cc8d9f53117ffbd": {
+      "date": "2026-07-27",
+      "title": "Estera",
+      "source": "producthunt"
+    },
+    "9ce3a220a691b842": {
+      "date": "2026-07-27",
+      "title": "Illume Labs",
+      "source": "producthunt"
+    },
+    "9fe4c4d60a39269c": {
+      "date": "2026-07-27",
+      "title": "Como eu venci o medo da transição de carreira",
+      "source": "devto"
+    },
+    "a041c61b332bee09": {
+      "date": "2026-07-27",
+      "title": "How terminal-sharing tools put your shell in a browser",
+      "source": "devto"
+    },
+    "197dfc59620de826": {
+      "date": "2026-07-27",
+      "title": "I Built Something Good With AI. Now Some Developer Communities Don't Want to See It.",
+      "source": "devto"
+    },
+    "d2c20016cdf8e434": {
+      "date": "2026-07-27",
+      "title": "I Ran an AMA on Dev.to. Here Are My Favorite Questions",
+      "source": "devto"
+    },
+    "030fff06fda00b51": {
+      "date": "2026-07-27",
+      "title": "Don't Wait. Fork It.",
+      "source": "devto"
+    },
+    "fb71fbecd4f5a013": {
+      "date": "2026-07-27",
+      "title": "Lemonade Second Squeeze: Model Archeology on 2019's GPT-2XL",
+      "source": "devto"
+    },
+    "5c5261460749b722": {
+      "date": "2026-07-27",
+      "title": "I Updated My Android App From a Restaurant. My Laptop Was Off.",
+      "source": "devto"
+    },
+    "3ad51fdb3b4c6789": {
+      "date": "2026-07-27",
+      "title": "I Built an Autonomous On-Chain Agent on Solana: Here's the Documentation I Wish I Had Earlier",
+      "source": "devto"
+    },
+    "487216ed9aa5fadb": {
+      "date": "2026-07-27",
+      "title": "#S3 The Loot Report, Vol. 2: Four Lines That Fixed the Boring Parts",
+      "source": "devto"
+    },
+    "1c0b47fbfbe7ebb9": {
+      "date": "2026-07-27",
+      "title": "Tracing a multi-agent LLM system: otel-swarm and a SigNoz dashboard pack",
+      "source": "devto"
+    },
+    "a2c9c4617f9b3de5": {
+      "date": "2026-07-27",
+      "title": "nodejs / node",
+      "source": "github"
+    },
+    "37ec76a5f2bf0780": {
+      "date": "2026-07-27",
+      "title": "OtterMind / Chat2DB",
+      "source": "github"
+    },
+    "be8acfaf11180d2a": {
+      "date": "2026-07-27",
+      "title": "pbakaus / impeccable",
+      "source": "github"
+    },
+    "b627289da26ad7fd": {
+      "date": "2026-07-27",
+      "title": "andrewyng / aisuite",
+      "source": "github"
+    },
+    "5ca71ebd0783a4d9": {
+      "date": "2026-07-27",
+      "title": "permissionlesstech / bitchat-android",
       "source": "github"
     }
   }
