@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-29T00:29:47.147204",
+  "last_updated": "2026-07-30T06:58:01.472912",
   "sent_items": {
-    "8b91b54af28fcdcd": {
-      "date": "2026-06-29",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "source": "hackernews"
-    },
-    "e2a13eaa1bb52fc1": {
-      "date": "2026-06-29",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "source": "hackernews"
-    },
-    "7e3aa5181c0b82ab": {
-      "date": "2026-06-29",
-      "title": "Rocketlab acquires Iridium",
-      "source": "hackernews"
-    },
-    "cb7ed75f3e4ad9f0": {
-      "date": "2026-06-29",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "source": "hackernews"
-    },
-    "c67e041a00783740": {
-      "date": "2026-06-29",
-      "title": "A native graphical shell for SSH",
-      "source": "hackernews"
-    },
-    "5387d408808c8852": {
-      "date": "2026-06-29",
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "source": "hackernews"
-    },
-    "c999260e5b9c72e9": {
-      "date": "2026-06-29",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "source": "hackernews"
-    },
-    "a320a4c345e68c0e": {
-      "date": "2026-06-29",
-      "title": "Free the Icons",
-      "source": "hackernews"
-    },
-    "6afe8ef7a5d619e7": {
-      "date": "2026-06-29",
-      "title": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-      "source": "hackernews"
-    },
-    "3c1fbcdc61b1e06b": {
-      "date": "2026-06-29",
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "source": "hackernews"
-    },
-    "8e97119366c72288": {
-      "date": "2026-06-29",
-      "title": "Agent Mode by Receiptor AI",
-      "source": "producthunt"
-    },
-    "32503ba63486b9fb": {
-      "date": "2026-06-29",
-      "title": "ReadHere",
-      "source": "producthunt"
-    },
-    "229933726f606af3": {
-      "date": "2026-06-29",
-      "title": "PMB",
-      "source": "producthunt"
-    },
-    "802cb9dbc9986a3e": {
-      "date": "2026-06-29",
-      "title": "ClinePass",
-      "source": "producthunt"
-    },
-    "c2faeb8266eb868f": {
-      "date": "2026-06-29",
-      "title": "Intelli",
-      "source": "producthunt"
-    },
-    "54286e7220becd57": {
-      "date": "2026-06-29",
-      "title": "Outpaint - Ad Reframe",
-      "source": "producthunt"
-    },
-    "5b6d93d8930ececf": {
-      "date": "2026-06-29",
-      "title": "Crest",
-      "source": "producthunt"
-    },
-    "423d723a1710df22": {
-      "date": "2026-06-29",
-      "title": "Upstream FTP",
-      "source": "producthunt"
-    },
-    "2dddbae840e4780f": {
-      "date": "2026-06-29",
-      "title": "Welcome to AI Engineer World’s Fair 2026",
-      "source": "devto"
-    },
-    "d68504355a394557": {
-      "date": "2026-06-29",
-      "title": "Need a break? Play today's game from The Daily Context.",
-      "source": "devto"
-    },
-    "c80495243c3373bb": {
-      "date": "2026-06-29",
-      "title": "What's Next for AI?",
-      "source": "devto"
-    },
-    "5d5d09c0b53c01e0": {
-      "date": "2026-06-29",
-      "title": "My commit message said \"You've hit your session limit\"",
-      "source": "devto"
-    },
-    "d9c4ac8357663370": {
-      "date": "2026-06-29",
-      "title": "You’re not really that far behind.",
-      "source": "devto"
-    },
-    "cf6368d7ebb2853c": {
-      "date": "2026-06-29",
-      "title": "What Actually Happens When You Call an LLM API",
-      "source": "devto"
-    },
-    "fdb550e3f1cb4884": {
-      "date": "2026-06-29",
-      "title": "The Model Does Not Need Memory. The Situation Does.",
-      "source": "devto"
-    },
-    "046f7d63ca378c8c": {
-      "date": "2026-06-29",
-      "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
-      "source": "devto"
-    },
-    "1c701b3ce88a1484": {
-      "date": "2026-06-29",
-      "title": "What are your goals for the week? #185",
-      "source": "devto"
-    },
-    "46a39f323b7d2c7b": {
-      "date": "2026-06-29",
-      "title": "Coding Agents Play Favorites With Your Dependencies",
-      "source": "devto"
-    },
-    "1f1729780c9ba3fd": {
-      "date": "2026-06-29",
-      "title": "logto-io / logto",
-      "source": "github"
-    },
-    "7e0d59e881f79bfe": {
-      "date": "2026-06-29",
-      "title": "Unclecheng-li / VulnClaw",
-      "source": "github"
-    },
-    "9e1ff9678ff9f949": {
-      "date": "2026-06-29",
-      "title": "0xNyk / council-of-high-intelligence",
-      "source": "github"
-    },
-    "ab4a09cbd2d5978d": {
-      "date": "2026-06-29",
-      "title": "veracrypt / VeraCrypt",
-      "source": "github"
-    },
     "86edef7453693483": {
       "date": "2026-07-01",
       "title": "Oakamo",
@@ -4891,6 +4731,176 @@
       "date": "2026-07-29",
       "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
       "source": "devto"
+    },
+    "e50aac1017d1f915": {
+      "date": "2026-07-30",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "source": "hackernews"
+    },
+    "377f5ac875144055": {
+      "date": "2026-07-30",
+      "title": "Superlogical",
+      "source": "hackernews"
+    },
+    "92e6cbdb00f77163": {
+      "date": "2026-07-30",
+      "title": "The coolest use for the Vision Pro",
+      "source": "hackernews"
+    },
+    "1bb6a0f5101fa13b": {
+      "date": "2026-07-30",
+      "title": "AI's top startups are barely publishing their research",
+      "source": "hackernews"
+    },
+    "77fdc712014a2ba2": {
+      "date": "2026-07-30",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "source": "hackernews"
+    },
+    "0d2705fe3918d15c": {
+      "date": "2026-07-30",
+      "title": "LLM Honeypot",
+      "source": "hackernews"
+    },
+    "cf9847582c797706": {
+      "date": "2026-07-30",
+      "title": "The Productivity Mirage",
+      "source": "hackernews"
+    },
+    "baa2ee0191ec5cb1": {
+      "date": "2026-07-30",
+      "title": "The Cold Email",
+      "source": "hackernews"
+    },
+    "0ada6f048610af2c": {
+      "date": "2026-07-30",
+      "title": "Logic for Programmers",
+      "source": "hackernews"
+    },
+    "228a311f64143b3b": {
+      "date": "2026-07-30",
+      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+      "source": "hackernews"
+    },
+    "b91e33822245445c": {
+      "date": "2026-07-30",
+      "title": "SceneNote",
+      "source": "producthunt"
+    },
+    "4cdb265c45c42eea": {
+      "date": "2026-07-30",
+      "title": "MemoryCustodian",
+      "source": "producthunt"
+    },
+    "3993fa26004a7247": {
+      "date": "2026-07-30",
+      "title": "Task Monki",
+      "source": "producthunt"
+    },
+    "f11b3e1ee56d64f2": {
+      "date": "2026-07-30",
+      "title": "Totem",
+      "source": "producthunt"
+    },
+    "ce4a87ec05c410e3": {
+      "date": "2026-07-30",
+      "title": "AgentQuartz",
+      "source": "producthunt"
+    },
+    "97381e6727806b5d": {
+      "date": "2026-07-30",
+      "title": "Bo AI",
+      "source": "producthunt"
+    },
+    "7b74ae364ca6d2a3": {
+      "date": "2026-07-30",
+      "title": "JusTTY",
+      "source": "producthunt"
+    },
+    "e095704304933c54": {
+      "date": "2026-07-30",
+      "title": "Vela",
+      "source": "producthunt"
+    },
+    "06263a56498ba3c0": {
+      "date": "2026-07-30",
+      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+      "source": "devto"
+    },
+    "f06849e386823599": {
+      "date": "2026-07-30",
+      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
+      "source": "devto"
+    },
+    "a313d8ee30da4102": {
+      "date": "2026-07-30",
+      "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
+      "source": "devto"
+    },
+    "80391db9777be45a": {
+      "date": "2026-07-30",
+      "title": "ratatop day 2: the memory box, and the lie in `free -h`",
+      "source": "devto"
+    },
+    "c5f1fe9eee314f7c": {
+      "date": "2026-07-30",
+      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
+      "source": "devto"
+    },
+    "7dddd82d86943683": {
+      "date": "2026-07-30",
+      "title": "The 400 I Didn't Have to Write",
+      "source": "devto"
+    },
+    "bfebc774f1e83500": {
+      "date": "2026-07-30",
+      "title": "The Freeze Fee: What FrozenDictionary Charges and When It Pays",
+      "source": "devto"
+    },
+    "e645ad64673fa42b": {
+      "date": "2026-07-30",
+      "title": "Why Kimi K3 Still Can't Do What Einstein Did",
+      "source": "devto"
+    },
+    "01f270ca2b86deeb": {
+      "date": "2026-07-30",
+      "title": "Building Rugby Apps - From Fan Tools To Training Platforms",
+      "source": "devto"
+    },
+    "a06d19977d4da651": {
+      "date": "2026-07-30",
+      "title": "The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskGroup`",
+      "source": "devto"
+    },
+    "fb1b022f7f371ab2": {
+      "date": "2026-07-30",
+      "title": "grokability / snipe-it",
+      "source": "github"
+    },
+    "80c1b5a5a28d4577": {
+      "date": "2026-07-30",
+      "title": "deepfakes / faceswap",
+      "source": "github"
+    },
+    "104b57e9a4316877": {
+      "date": "2026-07-30",
+      "title": "microsoft / VibeVoice",
+      "source": "github"
+    },
+    "2c86d2ef64618dca": {
+      "date": "2026-07-30",
+      "title": "different-ai / openwork",
+      "source": "github"
+    },
+    "69643613bb119cbc": {
+      "date": "2026-07-30",
+      "title": "MoonshotAI / FlashKDA",
+      "source": "github"
+    },
+    "c94926067e8d4023": {
+      "date": "2026-07-30",
+      "title": "maderix / ANE",
+      "source": "github"
     }
   }
 }
