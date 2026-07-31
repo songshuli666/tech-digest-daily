@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-07-30T06:58:01.472912",
+  "last_updated": "2026-07-31T08:27:34.149533",
   "sent_items": {
     "86edef7453693483": {
       "date": "2026-07-01",
@@ -4900,6 +4900,166 @@
     "c94926067e8d4023": {
       "date": "2026-07-30",
       "title": "maderix / ANE",
+      "source": "github"
+    },
+    "56605925938a4b46": {
+      "date": "2026-07-31",
+      "title": "Stacked PRs are now live on GitHub",
+      "source": "hackernews"
+    },
+    "294161fcfd13af80": {
+      "date": "2026-07-31",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "source": "hackernews"
+    },
+    "fc2de55bc86c2fb9": {
+      "date": "2026-07-31",
+      "title": "The session you cannot take with you",
+      "source": "hackernews"
+    },
+    "dee0daa0ffa3272c": {
+      "date": "2026-07-31",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "source": "hackernews"
+    },
+    "f3039068e0f44df6": {
+      "date": "2026-07-31",
+      "title": "DeepSeek-V4-Flash Update",
+      "source": "hackernews"
+    },
+    "ea9d85b2273d5c97": {
+      "date": "2026-07-31",
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "source": "hackernews"
+    },
+    "6bda76b7093b3259": {
+      "date": "2026-07-31",
+      "title": "Where USB Memory Sticks are Born (2013)",
+      "source": "hackernews"
+    },
+    "ce562f6ddae1747d": {
+      "date": "2026-07-31",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "source": "hackernews"
+    },
+    "313f640c8513e3fe": {
+      "date": "2026-07-31",
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "source": "hackernews"
+    },
+    "cd9108f373e74b9d": {
+      "date": "2026-07-31",
+      "title": "The mean means nothing: data visualization to debug a latency problem",
+      "source": "hackernews"
+    },
+    "dadff0911e3944bf": {
+      "date": "2026-07-31",
+      "title": "Screencap",
+      "source": "producthunt"
+    },
+    "86b552b0220c9652": {
+      "date": "2026-07-31",
+      "title": "witr",
+      "source": "producthunt"
+    },
+    "837eddf5a9c8b6f3": {
+      "date": "2026-07-31",
+      "title": "MiniMax H3",
+      "source": "producthunt"
+    },
+    "335c0a9fc1f0ed83": {
+      "date": "2026-07-31",
+      "title": "Cleanlist AI",
+      "source": "producthunt"
+    },
+    "c809cf6bc34361ea": {
+      "date": "2026-07-31",
+      "title": "DepthData",
+      "source": "producthunt"
+    },
+    "dbfc506cc55de89e": {
+      "date": "2026-07-31",
+      "title": "TraceLLM",
+      "source": "producthunt"
+    },
+    "4df32cf643871926": {
+      "date": "2026-07-31",
+      "title": "Poth Labs",
+      "source": "producthunt"
+    },
+    "08ba3357cff2edd4": {
+      "date": "2026-07-31",
+      "title": "mectrics",
+      "source": "producthunt"
+    },
+    "a1bd84ff301886cf": {
+      "date": "2026-07-31",
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "source": "devto"
+    },
+    "edebb5192d2a9596": {
+      "date": "2026-07-31",
+      "title": "Does it still make sense to learn how to code?",
+      "source": "devto"
+    },
+    "4cccc93931f28374": {
+      "date": "2026-07-31",
+      "title": "What was your win this week?",
+      "source": "devto"
+    },
+    "3841be615430d337": {
+      "date": "2026-07-31",
+      "title": "You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.",
+      "source": "devto"
+    },
+    "14c18a52c45ad361": {
+      "date": "2026-07-31",
+      "title": "What Actually Happens After You Send a Webhook",
+      "source": "devto"
+    },
+    "53fe432cbd3426e8": {
+      "date": "2026-07-31",
+      "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
+      "source": "devto"
+    },
+    "91142f27f652542e": {
+      "date": "2026-07-31",
+      "title": "I tried to compile TypeScript into a native binary with scriptc",
+      "source": "devto"
+    },
+    "671bc2efa5509045": {
+      "date": "2026-07-31",
+      "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
+      "source": "devto"
+    },
+    "f039ae40894f45d0": {
+      "date": "2026-07-31",
+      "title": "AI-Assisted Engineering: Faster to Build Isn't Cheaper to Own",
+      "source": "devto"
+    },
+    "45bd3307e624ca2a": {
+      "date": "2026-07-31",
+      "title": "The Test That Slept and the Test That Never Woke Up",
+      "source": "devto"
+    },
+    "1057d7f3dcb63c1c": {
+      "date": "2026-07-31",
+      "title": "WhiskeySockets / Baileys",
+      "source": "github"
+    },
+    "92a38e4bf3c74440": {
+      "date": "2026-07-31",
+      "title": "dotnet / aspnetcore",
+      "source": "github"
+    },
+    "2cd560aef18e9807": {
+      "date": "2026-07-31",
+      "title": "microsoft / PowerToys",
+      "source": "github"
+    },
+    "750b405ab3402451": {
+      "date": "2026-07-31",
+      "title": "agavra / tuicr",
       "source": "github"
     }
   }
