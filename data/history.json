@@ -1,187 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-07-31T08:27:34.149533",
+  "last_updated": "2026-08-01T07:02:23.091092",
   "sent_items": {
-    "86edef7453693483": {
-      "date": "2026-07-01",
-      "title": "Oakamo",
-      "source": "producthunt"
-    },
-    "ca1c0a51e598b478": {
-      "date": "2026-07-01",
-      "title": "Akiflow",
-      "source": "producthunt"
-    },
-    "ff26bc3838465381": {
-      "date": "2026-07-01",
-      "title": "Midway Chat",
-      "source": "producthunt"
-    },
-    "039b1297dbd0b9b9": {
-      "date": "2026-07-01",
-      "title": "Brain2Qwerty v2",
-      "source": "producthunt"
-    },
-    "7953fe8152abb155": {
-      "date": "2026-07-01",
-      "title": "Pluno",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-07-01",
-      "title": "Cursor for iOS",
-      "source": "producthunt"
-    },
-    "4e0ae3e0fc3e09da": {
-      "date": "2026-07-01",
-      "title": "v0 Design Systems 2.0",
-      "source": "producthunt"
-    },
-    "18c3b2dc44abea8b": {
-      "date": "2026-07-01",
-      "title": "Justwrite",
-      "source": "producthunt"
-    },
-    "fba550e7a7eedf48": {
-      "date": "2026-07-01",
-      "title": "Claude Code is steganographically marking requests",
-      "source": "hackernews"
-    },
-    "9b2ad380c4695f22": {
-      "date": "2026-07-01",
-      "title": "Claude Sonnet 5",
-      "source": "hackernews"
-    },
-    "20ad65b3d8aefd29": {
-      "date": "2026-07-01",
-      "title": "Claude Science",
-      "source": "hackernews"
-    },
-    "ebf8cf7f5598dd53": {
-      "date": "2026-07-01",
-      "title": "Nano Banana 2 Lite",
-      "source": "hackernews"
-    },
-    "c7620228444deafa": {
-      "date": "2026-07-01",
-      "title": "I ported Kubernetes to the browser",
-      "source": "hackernews"
-    },
-    "9ba7400215896fc5": {
-      "date": "2026-07-01",
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "source": "hackernews"
-    },
-    "46fd8334bfb18825": {
-      "date": "2026-07-01",
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "source": "hackernews"
-    },
-    "8e9ce4c602287034": {
-      "date": "2026-07-01",
-      "title": "Leanstral 1.5",
-      "source": "hackernews"
-    },
-    "0446481fcf8376c3": {
-      "date": "2026-07-01",
-      "title": "TabFM: A zero-shot foundation model for tabular data",
-      "source": "hackernews"
-    },
-    "b6443377bf278ec2": {
-      "date": "2026-07-01",
-      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
-      "source": "hackernews"
-    },
-    "fada5e4b86d4e65e": {
-      "date": "2026-07-01",
-      "title": "The Future Of AI Is Local And Open",
-      "source": "devto"
-    },
-    "a7f283ec16c25ef3": {
-      "date": "2026-07-01",
-      "title": "This Is Software’s iPhone Moment",
-      "source": "devto"
-    },
-    "5ce4b818dac9ab2e": {
-      "date": "2026-07-01",
-      "title": "AI Engineer Meets AI Engineer",
-      "source": "devto"
-    },
-    "36f043643286eb5f": {
-      "date": "2026-07-01",
-      "title": "The Log Is the Agent",
-      "source": "devto"
-    },
-    "b3fbf6f96b8d0fc8": {
-      "date": "2026-07-01",
-      "title": "Someone Else Pays for Your AI Access",
-      "source": "devto"
-    },
-    "6ebc937a8ec7cc3d": {
-      "date": "2026-07-01",
-      "title": "You Don’t Always Need The Frontier",
-      "source": "devto"
-    },
-    "83a23b9bf1a8e689": {
-      "date": "2026-07-01",
-      "title": "The Evolution & Role of Context Engineering in AI Today",
-      "source": "devto"
-    },
-    "ed848ad1de51bc2a": {
-      "date": "2026-07-01",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "30044b9adfe7c86f": {
-      "date": "2026-07-01",
-      "title": "Gemma and sandboxing cause a stir at the World's Fair",
-      "source": "devto"
-    },
-    "592ef1c6b6d6c185": {
-      "date": "2026-07-01",
-      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
-      "source": "devto"
-    },
-    "ac45b546f1b96f0f": {
-      "date": "2026-07-01",
-      "title": "hasaneyldrm / exercises-dataset",
-      "source": "github"
-    },
-    "10942d97d561cb4c": {
-      "date": "2026-07-01",
-      "title": "diegosouzapw / OmniRoute",
-      "source": "github"
-    },
-    "e665646e6d6bb4d6": {
-      "date": "2026-07-01",
-      "title": "Mebus / cupp",
-      "source": "github"
-    },
-    "f7881b53deff036c": {
-      "date": "2026-07-01",
-      "title": "google / agents-cli",
-      "source": "github"
-    },
-    "b8b2afae293a234e": {
-      "date": "2026-07-01",
-      "title": "roboflow / supervision",
-      "source": "github"
-    },
-    "db7f927fbf3135e2": {
-      "date": "2026-07-01",
-      "title": "ogulcancelik / herdr",
-      "source": "github"
-    },
-    "b592dd6b10824215": {
-      "date": "2026-07-01",
-      "title": "CoreBunch / Instatic",
-      "source": "github"
-    },
-    "e67e2c38cce6781c": {
-      "date": "2026-07-01",
-      "title": "microsoft / AI-For-Beginners",
-      "source": "github"
-    },
     "084d765c81983169": {
       "date": "2026-07-02",
       "title": "For first time, a cell built from scratch grows and divides",
@@ -5060,6 +4880,131 @@
     "750b405ab3402451": {
       "date": "2026-07-31",
       "title": "agavra / tuicr",
+      "source": "github"
+    },
+    "3e8241c068c3a7ca": {
+      "date": "2026-08-01",
+      "title": "Elevators",
+      "source": "hackernews"
+    },
+    "853327189d11dc3d": {
+      "date": "2026-08-01",
+      "title": "qm – Multiplayer agent harness for work",
+      "source": "hackernews"
+    },
+    "4faf146ab0703fea": {
+      "date": "2026-08-01",
+      "title": "Progressive Web Components",
+      "source": "hackernews"
+    },
+    "df7ed00fe1e841d1": {
+      "date": "2026-08-01",
+      "title": "How to Exist",
+      "source": "hackernews"
+    },
+    "8f4cbc4f40074d3d": {
+      "date": "2026-08-01",
+      "title": "The Absurdity of Albert Camus",
+      "source": "hackernews"
+    },
+    "3b7530206eaef924": {
+      "date": "2026-08-01",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "source": "hackernews"
+    },
+    "dce67a9a56ad344f": {
+      "date": "2026-08-01",
+      "title": "The development pipeline is a production system",
+      "source": "hackernews"
+    },
+    "6aa0179679f52c18": {
+      "date": "2026-08-01",
+      "title": "A Week in Matrix",
+      "source": "hackernews"
+    },
+    "10f3caf812728d0b": {
+      "date": "2026-08-01",
+      "title": "What Liberal Arts Education Is for (2024)",
+      "source": "hackernews"
+    },
+    "fe1ac65a66ac3ec3": {
+      "date": "2026-08-01",
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "source": "hackernews"
+    },
+    "5da8f463579a43e6": {
+      "date": "2026-08-01",
+      "title": "Gemini Robotics 2",
+      "source": "producthunt"
+    },
+    "3d02601f339f3f68": {
+      "date": "2026-08-01",
+      "title": "Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week & Learn",
+      "source": "devto"
+    },
+    "8be6015f02b56c19": {
+      "date": "2026-08-01",
+      "title": "Your RAG copilot can't count — stop letting it try",
+      "source": "devto"
+    },
+    "cca5e42e6db0bc93": {
+      "date": "2026-08-01",
+      "title": "Fixing Exact Package Search Relevance in npmx",
+      "source": "devto"
+    },
+    "f5c1f62e994eabcb": {
+      "date": "2026-08-01",
+      "title": "ratatop day 3: disks, statvfs, and my first unsafe block",
+      "source": "devto"
+    },
+    "b85ece9aaae3c66d": {
+      "date": "2026-08-01",
+      "title": "Hardening an AI coding agent: the failures, and the code that fixed them",
+      "source": "devto"
+    },
+    "72e93ccbdc36c66e": {
+      "date": "2026-08-01",
+      "title": "Collaborative Filtering: How Computers Find Your Next Favourite Thing",
+      "source": "devto"
+    },
+    "5ded0565f5bd913b": {
+      "date": "2026-08-01",
+      "title": "Layered Architecture in Flutter with BlocSignal: Bringing BLoC Discipline and Signals Speed to CodeW",
+      "source": "devto"
+    },
+    "140752027af1bb0d": {
+      "date": "2026-08-01",
+      "title": "Claude Code + OpenRouter: The Setup Guide That Actually Explains Things",
+      "source": "devto"
+    },
+    "74d2f1268e711e53": {
+      "date": "2026-08-01",
+      "title": "How I Put My Agent in CI to Automate Release Notes",
+      "source": "devto"
+    },
+    "a3707e06386d3446": {
+      "date": "2026-08-01",
+      "title": "Gravy Boat — a landing page with a CSS poutine you can drown in!",
+      "source": "devto"
+    },
+    "7445d3b513aec3d0": {
+      "date": "2026-08-01",
+      "title": "zhaoxuya520 / reverse-skill",
+      "source": "github"
+    },
+    "81f110db762452f4": {
+      "date": "2026-08-01",
+      "title": "chatwoot / chatwoot",
+      "source": "github"
+    },
+    "e46fc4b3de8850fd": {
+      "date": "2026-08-01",
+      "title": "usekaneo / kaneo",
+      "source": "github"
+    },
+    "46d3fee174b7b1b7": {
+      "date": "2026-08-01",
+      "title": "geo-tp / ESP32-Bit-Pirate",
       "source": "github"
     }
   }
