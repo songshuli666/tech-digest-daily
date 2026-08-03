@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-02T07:32:40.016464",
+  "last_updated": "2026-08-03T09:09:24.445483",
   "sent_items": {
-    "68ae0fa3f38a378b": {
-      "date": "2026-07-03",
-      "title": "nxt",
-      "source": "producthunt"
-    },
-    "87872c6c3c8a88a3": {
-      "date": "2026-07-03",
-      "title": "Glaze by Raycast",
-      "source": "producthunt"
-    },
-    "0d0712a747aac3f7": {
-      "date": "2026-07-03",
-      "title": "Vox",
-      "source": "producthunt"
-    },
-    "3204c651b68f17f7": {
-      "date": "2026-07-03",
-      "title": "Osloq",
-      "source": "producthunt"
-    },
-    "0dd7446be77e4e19": {
-      "date": "2026-07-03",
-      "title": "Tamamon",
-      "source": "producthunt"
-    },
-    "8c46e6ca6fe692ea": {
-      "date": "2026-07-03",
-      "title": "Goals from Loops",
-      "source": "producthunt"
-    },
-    "8a2791d6d450d61a": {
-      "date": "2026-07-03",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "source": "hackernews"
-    },
-    "e2dc986997dd24d5": {
-      "date": "2026-07-03",
-      "title": "Espionage Against the European Parliament",
-      "source": "hackernews"
-    },
-    "d95eb50fe862e203": {
-      "date": "2026-07-03",
-      "title": "SearXNG: A free internet metasearch engine",
-      "source": "hackernews"
-    },
-    "4df86ed7dda0c474": {
-      "date": "2026-07-03",
-      "title": "FreeBSD ate my RAM",
-      "source": "hackernews"
-    },
-    "bd44fd26987fd5ad": {
-      "date": "2026-07-03",
-      "title": "Applied Category Theory Course (2018)",
-      "source": "hackernews"
-    },
-    "cd19f1c90ca5f510": {
-      "date": "2026-07-03",
-      "title": "Giant trees have no trouble pumping water to top branches",
-      "source": "hackernews"
-    },
-    "20760114f5884215": {
-      "date": "2026-07-03",
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "source": "hackernews"
-    },
-    "e376c5c914995e00": {
-      "date": "2026-07-03",
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "source": "hackernews"
-    },
-    "48ff7a9b409ffb9f": {
-      "date": "2026-07-03",
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "source": "hackernews"
-    },
-    "553e55f93e4de264": {
-      "date": "2026-07-03",
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "source": "hackernews"
-    },
-    "8042bfc68ffa4e4a": {
-      "date": "2026-07-03",
-      "title": "elastic / elasticsearch",
-      "source": "github"
-    },
-    "d66865b90c763b69": {
-      "date": "2026-07-03",
-      "title": "ansible / ansible",
-      "source": "github"
-    },
-    "99eec6130edaf0a1": {
-      "date": "2026-07-03",
-      "title": "rommapp / romm",
-      "source": "github"
-    },
-    "fa9c1eb8c45e34c9": {
-      "date": "2026-07-03",
-      "title": "harvard-edge / cs249r_book",
-      "source": "github"
-    },
-    "f8d3d53ff32be104": {
-      "date": "2026-07-03",
-      "title": "apache / maven",
-      "source": "github"
-    },
-    "8fd8c2cd127cba58": {
-      "date": "2026-07-03",
-      "title": "safishamsi / graphify",
-      "source": "github"
-    },
-    "1e61851c7eb0065b": {
-      "date": "2026-07-03",
-      "title": "anthropics / claude-code",
-      "source": "github"
-    },
-    "c047972d0e9c473b": {
-      "date": "2026-07-03",
-      "title": "The Conspiracy Big Software Engineering Doesn't Want You to Know",
-      "source": "devto"
-    },
-    "b04b436fa652a613": {
-      "date": "2026-07-03",
-      "title": "A Third Brain for your Second Brain",
-      "source": "devto"
-    },
-    "6b106afe00ea0e3f": {
-      "date": "2026-07-03",
-      "title": "Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackat",
-      "source": "devto"
-    },
-    "5a734e88579223c4": {
-      "date": "2026-07-03",
-      "title": "Protect Yourself, Mesh Yourself",
-      "source": "devto"
-    },
-    "a5cf3ff0b2cf4cfe": {
-      "date": "2026-07-03",
-      "title": "The most useful tool in my dev setup is a password manager",
-      "source": "devto"
-    },
-    "4f122cd39588e05a": {
-      "date": "2026-07-03",
-      "title": "Choosing the Right Tooling Layer for Your Agent",
-      "source": "devto"
-    },
-    "cf2a285abf83a664": {
-      "date": "2026-07-03",
-      "title": "LuciferCore: The Redemption Arc — From a Naive Prototype to a Battle-Tested .NET Framework",
-      "source": "devto"
-    },
-    "f50e5e27ed3966e9": {
-      "date": "2026-07-03",
-      "title": "The biggest World’s Fair yet powers down for the moment",
-      "source": "devto"
-    },
-    "dcef8aca100be700": {
-      "date": "2026-07-03",
-      "title": "Is looping ready to roll? Experts split on the future of coding",
-      "source": "devto"
-    },
-    "73c23ab983fb2861": {
-      "date": "2026-07-03",
-      "title": "Dev log #10 The Power of the Zero-Commit Week: Stepping Back to Move Faster",
-      "source": "devto"
-    },
     "c2c60d9da6178892": {
       "date": "2026-07-04",
       "title": "Leaking YouTube creators' private videos",
@@ -4855,6 +4690,166 @@
     "8715d70f7c6f5657": {
       "date": "2026-08-02",
       "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "2b74b16f01f00531": {
+      "date": "2026-08-03",
+      "title": "Karpathy’s Pelican",
+      "source": "hackernews"
+    },
+    "c807447db1358d77": {
+      "date": "2026-08-03",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "source": "hackernews"
+    },
+    "d2bd6fa3f519633c": {
+      "date": "2026-08-03",
+      "title": "Don't be a meat proxy",
+      "source": "hackernews"
+    },
+    "0bbbad000033f789": {
+      "date": "2026-08-03",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "source": "hackernews"
+    },
+    "95533399c2526970": {
+      "date": "2026-08-03",
+      "title": "More German than many Germans",
+      "source": "hackernews"
+    },
+    "09dc587a4105c1d5": {
+      "date": "2026-08-03",
+      "title": "Show HN: ssh ssh.place",
+      "source": "hackernews"
+    },
+    "e9f04ae8898fd2af": {
+      "date": "2026-08-03",
+      "title": "Why we write our own C and C++ inference engines",
+      "source": "hackernews"
+    },
+    "2b906d668c99f705": {
+      "date": "2026-08-03",
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "source": "hackernews"
+    },
+    "3eb15d5461b1282e": {
+      "date": "2026-08-03",
+      "title": "Bonsai: Janestreet's UI Library",
+      "source": "hackernews"
+    },
+    "3a365d386ab9b62f": {
+      "date": "2026-08-03",
+      "title": "Octane – React's programming model, compiled",
+      "source": "hackernews"
+    },
+    "fd77e3aecefa5b41": {
+      "date": "2026-08-03",
+      "title": "CoachAI",
+      "source": "producthunt"
+    },
+    "0a5bfc5da5361480": {
+      "date": "2026-08-03",
+      "title": "Inventory",
+      "source": "producthunt"
+    },
+    "8bb79a30b4660e10": {
+      "date": "2026-08-03",
+      "title": "gesture.live",
+      "source": "producthunt"
+    },
+    "3ef1be024386ea71": {
+      "date": "2026-08-03",
+      "title": "Qwen3.8-Max",
+      "source": "producthunt"
+    },
+    "2844517f13f800f3": {
+      "date": "2026-08-03",
+      "title": "Doxy",
+      "source": "producthunt"
+    },
+    "61f1bffbae0a212a": {
+      "date": "2026-08-03",
+      "title": "Murmell",
+      "source": "producthunt"
+    },
+    "fd660779c6ec4fb2": {
+      "date": "2026-08-03",
+      "title": "mpai",
+      "source": "producthunt"
+    },
+    "a19da3b70167c059": {
+      "date": "2026-08-03",
+      "title": "MascotAI",
+      "source": "producthunt"
+    },
+    "6cf1325dc700a6e8": {
+      "date": "2026-08-03",
+      "title": "Tonkotsu ramen in CSS",
+      "source": "devto"
+    },
+    "8db74332fbbb4c57": {
+      "date": "2026-08-03",
+      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
+      "source": "devto"
+    },
+    "cd2cbd0133709a15": {
+      "date": "2026-08-03",
+      "title": "Dollars and rupees without Stripe: what building Skill Exchange's checkout taught me (PayPal + UPI)",
+      "source": "devto"
+    },
+    "6db5459ceb3864ca": {
+      "date": "2026-08-03",
+      "title": "The Bowl That Remembers: 3D CSS Art Edition 🥣",
+      "source": "devto"
+    },
+    "f6ccdaf84dcd8387": {
+      "date": "2026-08-03",
+      "title": "I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story",
+      "source": "devto"
+    },
+    "d17844ce10107454": {
+      "date": "2026-08-03",
+      "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
+      "source": "devto"
+    },
+    "6514b9349f2e28a9": {
+      "date": "2026-08-03",
+      "title": "The Apprenticeship Severance",
+      "source": "devto"
+    },
+    "21d28acb9596beec": {
+      "date": "2026-08-03",
+      "title": "\"Developers Will Lose Their Jobs\": How You Were All Wrong",
+      "source": "devto"
+    },
+    "a8e33606f16c4743": {
+      "date": "2026-08-03",
+      "title": "Japan Set a Government Deadline for Its Legacy Code. It Was Last Year.",
+      "source": "devto"
+    },
+    "66016e32b7a5c808": {
+      "date": "2026-08-03",
+      "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
+      "source": "devto"
+    },
+    "81fb0b6406ba5bb8": {
+      "date": "2026-08-03",
+      "title": "Panniantong / Agent-Reach",
+      "source": "github"
+    },
+    "0a2bc86ccd103adf": {
+      "date": "2026-08-03",
+      "title": "HarbourMasters / Lighthouse",
+      "source": "github"
+    },
+    "016bf4c0be9de95f": {
+      "date": "2026-08-03",
+      "title": "antirez / ds4",
+      "source": "github"
+    },
+    "af92210f8dd30ccf": {
+      "date": "2026-08-03",
+      "title": "esengine / DeepSeek-Reasonix",
       "source": "github"
     }
   }
