@@ -1,142 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-03T09:09:24.445483",
+  "last_updated": "2026-08-04T06:56:34.920362",
   "sent_items": {
-    "c2c60d9da6178892": {
-      "date": "2026-07-04",
-      "title": "Leaking YouTube creators' private videos",
-      "source": "hackernews"
-    },
-    "5622c8843cfec74c": {
-      "date": "2026-07-04",
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "source": "hackernews"
-    },
-    "f2169834bccf674f": {
-      "date": "2026-07-04",
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "source": "hackernews"
-    },
-    "ec14e8ba0b4833f4": {
-      "date": "2026-07-04",
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "source": "hackernews"
-    },
-    "237a5c0312867f79": {
-      "date": "2026-07-04",
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "source": "hackernews"
-    },
-    "840e15300deb6dc2": {
-      "date": "2026-07-04",
-      "title": "Verizon is About to Break our Watches",
-      "source": "hackernews"
-    },
-    "e48741dd7b6cc272": {
-      "date": "2026-07-04",
-      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
-      "source": "hackernews"
-    },
-    "7887c58056129834": {
-      "date": "2026-07-04",
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "source": "hackernews"
-    },
-    "e05c83752d2bc226": {
-      "date": "2026-07-04",
-      "title": "Drone Physics",
-      "source": "hackernews"
-    },
-    "5d8627e5c33aba79": {
-      "date": "2026-07-04",
-      "title": "Better Models: Worse Tools",
-      "source": "hackernews"
-    },
-    "03cad9028ecd6545": {
-      "date": "2026-07-04",
-      "title": "ChecklistFox",
-      "source": "producthunt"
-    },
-    "f705f973a5b91eda": {
-      "date": "2026-07-04",
-      "title": "Termi Protocol",
-      "source": "producthunt"
-    },
-    "d194019407f9c70f": {
-      "date": "2026-07-04",
-      "title": "Zackriya-Solutions / meetily",
-      "source": "github"
-    },
-    "3675b0176088850f": {
-      "date": "2026-07-04",
-      "title": "asgeirtj / system_prompts_leaks",
-      "source": "github"
-    },
-    "5acadd2fc4547853": {
-      "date": "2026-07-04",
-      "title": "dotnet / skills",
-      "source": "github"
-    },
-    "f6d44bafc3780456": {
-      "date": "2026-07-04",
-      "title": "immich-app / immich",
-      "source": "github"
-    },
-    "f04bf7788aebbb42": {
-      "date": "2026-07-04",
-      "title": "chthollyphile / folia-major",
-      "source": "github"
-    },
-    "6e8e1d669e818cc5": {
-      "date": "2026-07-04",
-      "title": "From 0 Likes to Meme Engineer",
-      "source": "devto"
-    },
-    "5b0b991f819faeed": {
-      "date": "2026-07-04",
-      "title": "GPU Survivors: Can You Survive a 1T Parameter Inference Run?",
-      "source": "devto"
-    },
-    "dc4c032afe1270ec": {
-      "date": "2026-07-04",
-      "title": "A New Personal Best: What Six Months of Locking In Can Do",
-      "source": "devto"
-    },
-    "8fae141de6ccb8b3": {
-      "date": "2026-07-04",
-      "title": "HTTP finally shipped QUERY. I fired it at production and the edge called it a bot.",
-      "source": "devto"
-    },
-    "bd0a35f82af34346": {
-      "date": "2026-07-04",
-      "title": "Why I Ditched Socket.IO for Raw WebSockets (And What I Learned)",
-      "source": "devto"
-    },
-    "773dfb991b27a2d2": {
-      "date": "2026-07-04",
-      "title": "I Built My Own Text Editor",
-      "source": "devto"
-    },
-    "450e201c80da863e": {
-      "date": "2026-07-04",
-      "title": "AI For Fun! Électrique Chats for Hack the Kitty, Built with Kiro.",
-      "source": "devto"
-    },
-    "008652384c738989": {
-      "date": "2026-07-04",
-      "title": "My credential rule reported 842 secrets in vercel/ai. The real count was 0.",
-      "source": "devto"
-    },
-    "31a405910e79335b": {
-      "date": "2026-07-04",
-      "title": "Adding Homemade TLS to a Homemade Web Server",
-      "source": "devto"
-    },
-    "23c74af865d5f8df": {
-      "date": "2026-07-04",
-      "title": "What Google's \"Microservices Are Dead\" Paper Actually Said (And What It Missed About AI)",
-      "source": "devto"
-    },
     "ac3473629dd96043": {
       "date": "2026-07-05",
       "title": "Pennen",
@@ -4850,6 +4715,156 @@
     "af92210f8dd30ccf": {
       "date": "2026-08-03",
       "title": "esengine / DeepSeek-Reasonix",
+      "source": "github"
+    },
+    "8c698391e507e41c": {
+      "date": "2026-08-04",
+      "title": "LLMs reward expertise",
+      "source": "hackernews"
+    },
+    "3214ba740373438c": {
+      "date": "2026-08-04",
+      "title": "Devtools must be open source",
+      "source": "hackernews"
+    },
+    "30d77a4659122309": {
+      "date": "2026-08-04",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "source": "hackernews"
+    },
+    "d97d146533265046": {
+      "date": "2026-08-04",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "source": "hackernews"
+    },
+    "59e237f6d6e2521c": {
+      "date": "2026-08-04",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "source": "hackernews"
+    },
+    "64a915705c9adadd": {
+      "date": "2026-08-04",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "source": "hackernews"
+    },
+    "2f7e300b0bd6e355": {
+      "date": "2026-08-04",
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "source": "hackernews"
+    },
+    "c75a733e6777ddec": {
+      "date": "2026-08-04",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "source": "hackernews"
+    },
+    "e0e5f8b0c348ac1e": {
+      "date": "2026-08-04",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "source": "hackernews"
+    },
+    "34eb1d6a54301335": {
+      "date": "2026-08-04",
+      "title": "IPC-7351B Electronic Component Zero Orientation [pdf] (2010)",
+      "source": "hackernews"
+    },
+    "4d4f26f4598cc628": {
+      "date": "2026-08-04",
+      "title": "Ctruh Studio",
+      "source": "producthunt"
+    },
+    "062f7413307e8fd6": {
+      "date": "2026-08-04",
+      "title": "Open Minis",
+      "source": "producthunt"
+    },
+    "3d7a930173ef71b4": {
+      "date": "2026-08-04",
+      "title": "AgentSky",
+      "source": "producthunt"
+    },
+    "a66f272f48619d09": {
+      "date": "2026-08-04",
+      "title": "Snapdown",
+      "source": "producthunt"
+    },
+    "0c73959f2b433e82": {
+      "date": "2026-08-04",
+      "title": "Appllama",
+      "source": "producthunt"
+    },
+    "033c0cd9d6ad6b0b": {
+      "date": "2026-08-04",
+      "title": "claudemon",
+      "source": "producthunt"
+    },
+    "2cf1e2b4a65f7d44": {
+      "date": "2026-08-04",
+      "title": "How would you decide, whether the content is good or bad?",
+      "source": "devto"
+    },
+    "3f2620a8f9bf9c65": {
+      "date": "2026-08-04",
+      "title": "Khachapuri: Georgian Cheese Bread in Pure CSS",
+      "source": "devto"
+    },
+    "32d6b8689029f213": {
+      "date": "2026-08-04",
+      "title": "What are your goals for the week? #190",
+      "source": "devto"
+    },
+    "ed2abc3a329e43ad": {
+      "date": "2026-08-04",
+      "title": "dev.to's Dashboard Can't Count Its Own Posts",
+      "source": "devto"
+    },
+    "83de29bacba910db": {
+      "date": "2026-08-04",
+      "title": "We’re Giving AI Agents More Tools. What Happens When the Boundaries Fail?",
+      "source": "devto"
+    },
+    "8e7bdd8921b23eff": {
+      "date": "2026-08-04",
+      "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+      "source": "devto"
+    },
+    "e78160eacdfb3d9a": {
+      "date": "2026-08-04",
+      "title": "Understanding Over Origin: The Missing Friction",
+      "source": "devto"
+    },
+    "db711099f871a46e": {
+      "date": "2026-08-04",
+      "title": "I Let an AI Orb Judge My Facial Expressions While I Code, and Here's What Happened",
+      "source": "devto"
+    },
+    "682f2c4ac99e6f64": {
+      "date": "2026-08-04",
+      "title": "Why players leave before your game starts",
+      "source": "devto"
+    },
+    "466aa3117cebcdcb": {
+      "date": "2026-08-04",
+      "title": "Pair Programming Earned a Lighter Code Review. AI Hasn't.",
+      "source": "devto"
+    },
+    "4ef520490da8df3b": {
+      "date": "2026-08-04",
+      "title": "firecrawl / pdf-inspector",
+      "source": "github"
+    },
+    "5be9284bd6d1ce37": {
+      "date": "2026-08-04",
+      "title": "donnemartin / system-design-primer",
+      "source": "github"
+    },
+    "8e0001db8f8344fb": {
+      "date": "2026-08-04",
+      "title": "Alishahryar1 / free-claude-code",
+      "source": "github"
+    },
+    "a42982e762cc487e": {
+      "date": "2026-08-04",
+      "title": "livekit / agents",
       "source": "github"
     }
   }
