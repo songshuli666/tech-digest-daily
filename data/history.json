@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-04T06:56:34.920362",
+  "last_updated": "2026-08-05T06:59:01.731150",
   "sent_items": {
-    "ac3473629dd96043": {
-      "date": "2026-07-05",
-      "title": "Pennen",
-      "source": "producthunt"
-    },
-    "1b6e4ea6cd7b4d25": {
-      "date": "2026-07-05",
-      "title": "DocsAlot",
-      "source": "producthunt"
-    },
-    "d1d9615afc6e008e": {
-      "date": "2026-07-05",
-      "title": "WorkBuddy",
-      "source": "producthunt"
-    },
-    "56ae3a85c66fa117": {
-      "date": "2026-07-05",
-      "title": "Endl",
-      "source": "producthunt"
-    },
-    "734e06dd8b4fe6da": {
-      "date": "2026-07-05",
-      "title": "CircleChat",
-      "source": "producthunt"
-    },
-    "c210c0795b9b565b": {
-      "date": "2026-07-05",
-      "title": "Organic Maps",
-      "source": "hackernews"
-    },
-    "e5e8f3e6e0089997": {
-      "date": "2026-07-05",
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "source": "hackernews"
-    },
-    "f9b51a9d6ac3b09d": {
-      "date": "2026-07-05",
-      "title": "Reparaible and open source paper printer",
-      "source": "hackernews"
-    },
-    "0d2b41d4706801b9": {
-      "date": "2026-07-05",
-      "title": "The future of Flipper Zero development",
-      "source": "hackernews"
-    },
-    "2915ff01a09fe0c5": {
-      "date": "2026-07-05",
-      "title": "Starring the Computer",
-      "source": "hackernews"
-    },
-    "091c39f17562e83c": {
-      "date": "2026-07-05",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "source": "hackernews"
-    },
-    "bbf0d1aa4ee32552": {
-      "date": "2026-07-05",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "source": "hackernews"
-    },
-    "349eaf122211922d": {
-      "date": "2026-07-05",
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "source": "hackernews"
-    },
-    "36c7a10bcd1104d7": {
-      "date": "2026-07-05",
-      "title": "Zero-copy in Go: sendfile, splice, and the cost of io.Copy",
-      "source": "hackernews"
-    },
-    "ba731a629642fa97": {
-      "date": "2026-07-05",
-      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
-      "source": "hackernews"
-    },
-    "1ba272bb5f181cd1": {
-      "date": "2026-07-05",
-      "title": "At Last, I clasp: Escaping the G's Apps Script Copy-Paste Gauntlet",
-      "source": "devto"
-    },
-    "7751120cb6568f4b": {
-      "date": "2026-07-05",
-      "title": "Who Else Has Inherited a Codebase With Zero Comments and a Prayer?",
-      "source": "devto"
-    },
-    "dd268478471ac9e2": {
-      "date": "2026-07-05",
-      "title": "Jetson Nano: Ollama & Optimal Quantization",
-      "source": "devto"
-    },
-    "08ee611e6ebc1474": {
-      "date": "2026-07-05",
-      "title": "How to Shine as an Introvert in a Loud Tech World",
-      "source": "devto"
-    },
-    "ef755c11d36ce71f": {
-      "date": "2026-07-05",
-      "title": "Watermark removal isn't lossy — you've been using the wrong tool",
-      "source": "devto"
-    },
-    "4eb69fc0a986415f": {
-      "date": "2026-07-05",
-      "title": "Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2",
-      "source": "devto"
-    },
-    "ee591735c67636e9": {
-      "date": "2026-07-05",
-      "title": "I Built a Sync Engine for a 0-Dep Client-Side Database, Here's What I Learned",
-      "source": "devto"
-    },
-    "12c5fe15844a3dd0": {
-      "date": "2026-07-05",
-      "title": "I tested the 'deterministic agent loop' claims with four experiments. They all failed — including my",
-      "source": "devto"
-    },
-    "61b7139a0f2c5deb": {
-      "date": "2026-07-05",
-      "title": "5 mistakes I made building an AI Chrome extension — and the readers who caught them",
-      "source": "devto"
-    },
-    "31dce154302d4b16": {
-      "date": "2026-07-05",
-      "title": "I Spent 3 Days Building a CLI for an Open Source Project. Here’s What Actually Happened.",
-      "source": "devto"
-    },
-    "36584af2f7390ffc": {
-      "date": "2026-07-05",
-      "title": "Leonxlnx / taste-skill",
-      "source": "github"
-    },
-    "8b826b177eba41b4": {
-      "date": "2026-07-05",
-      "title": "alirezarezvani / claude-skills",
-      "source": "github"
-    },
-    "ec2b5bfa19731be2": {
-      "date": "2026-07-05",
-      "title": "hesreallyhim / awesome-claude-code",
-      "source": "github"
-    },
-    "7344796a1c663646": {
-      "date": "2026-07-05",
-      "title": "coreyhaines31 / marketingskills",
-      "source": "github"
-    },
-    "387be0c359be7e59": {
-      "date": "2026-07-05",
-      "title": "CoplayDev / unity-mcp",
-      "source": "github"
-    },
     "150e0617e0e4738e": {
       "date": "2026-07-06",
       "title": "Nixmac",
@@ -4865,6 +4715,181 @@
     "a42982e762cc487e": {
       "date": "2026-08-04",
       "title": "livekit / agents",
+      "source": "github"
+    },
+    "4826195d4c7d357f": {
+      "date": "2026-08-05",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "source": "hackernews"
+    },
+    "43b97a46361868c2": {
+      "date": "2026-08-05",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "source": "hackernews"
+    },
+    "b6ff313360bf9059": {
+      "date": "2026-08-05",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "source": "hackernews"
+    },
+    "5346e036084b9ca0": {
+      "date": "2026-08-05",
+      "title": "Stateless MCP has recaptured my interest",
+      "source": "hackernews"
+    },
+    "120fa8d4846f981e": {
+      "date": "2026-08-05",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "source": "hackernews"
+    },
+    "2c8efb542e40d370": {
+      "date": "2026-08-05",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "source": "hackernews"
+    },
+    "18b42a82ff45bd1d": {
+      "date": "2026-08-05",
+      "title": "The Golden Age of British Ice Cream",
+      "source": "hackernews"
+    },
+    "565a541c0edd6de8": {
+      "date": "2026-08-05",
+      "title": "Why is it all in the kernel?",
+      "source": "hackernews"
+    },
+    "5d8d57867c2a965e": {
+      "date": "2026-08-05",
+      "title": "\"Gravity is worth asking about.\"",
+      "source": "hackernews"
+    },
+    "91b8868d6e0c3f12": {
+      "date": "2026-08-05",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "source": "hackernews"
+    },
+    "d2f61e5668d1d92c": {
+      "date": "2026-08-05",
+      "title": "Screen Awesome",
+      "source": "producthunt"
+    },
+    "17fa52b0cde88f93": {
+      "date": "2026-08-05",
+      "title": "VIDEO AI ME",
+      "source": "producthunt"
+    },
+    "3ce680db8042bcce": {
+      "date": "2026-08-05",
+      "title": "GrowthBook 5.0",
+      "source": "producthunt"
+    },
+    "272928ef7266880c": {
+      "date": "2026-08-05",
+      "title": "space ocr",
+      "source": "producthunt"
+    },
+    "75b78a3d9a7d6570": {
+      "date": "2026-08-05",
+      "title": "Vinyl for Mac",
+      "source": "producthunt"
+    },
+    "1e06de55f4be6ce5": {
+      "date": "2026-08-05",
+      "title": "Stynar",
+      "source": "producthunt"
+    },
+    "0faae21a7c93a7ff": {
+      "date": "2026-08-05",
+      "title": "AirProof AI",
+      "source": "producthunt"
+    },
+    "7ff46d0b34b72c17": {
+      "date": "2026-08-05",
+      "title": "Finyuus",
+      "source": "producthunt"
+    },
+    "2ffc3aecb62b082d": {
+      "date": "2026-08-05",
+      "title": "Stop Calling Everything Impostor Syndrome: The Myth of \"Just Push Harder\"",
+      "source": "devto"
+    },
+    "a8861a9b30d734a9": {
+      "date": "2026-08-05",
+      "title": "Damn Popovers",
+      "source": "devto"
+    },
+    "90984ac2d725a390": {
+      "date": "2026-08-05",
+      "title": "Interviewing off leetcode you already memorized isn't cheating, it's the job",
+      "source": "devto"
+    },
+    "b45302ac2e7caf5a": {
+      "date": "2026-08-05",
+      "title": "The Day I Became a Bug Hunter",
+      "source": "devto"
+    },
+    "5eec5986331f4174": {
+      "date": "2026-08-05",
+      "title": "7.8 MB of Keys I Allocated Just to Throw Away",
+      "source": "devto"
+    },
+    "cbbe584a395d1061": {
+      "date": "2026-08-05",
+      "title": "I Hashed Every Word Twice to Count It Once",
+      "source": "devto"
+    },
+    "ca25ff9ebee18da5": {
+      "date": "2026-08-05",
+      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
+      "source": "devto"
+    },
+    "26d436d8aa346408": {
+      "date": "2026-08-05",
+      "title": "Git Diff for Human Reasoning",
+      "source": "devto"
+    },
+    "617ebd5fd0698731": {
+      "date": "2026-08-05",
+      "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset B",
+      "source": "devto"
+    },
+    "9c7075ac9cb27125": {
+      "date": "2026-08-05",
+      "title": "I shipped a fix for a breaking change. The code could never select it.",
+      "source": "devto"
+    },
+    "4f8373d66b0b5b23": {
+      "date": "2026-08-05",
+      "title": "uber / ADR",
+      "source": "github"
+    },
+    "91014a4cbd784884": {
+      "date": "2026-08-05",
+      "title": "cypress-io / cypress",
+      "source": "github"
+    },
+    "cfdfd9911bfeec1f": {
+      "date": "2026-08-05",
+      "title": "webpack / webpack",
+      "source": "github"
+    },
+    "2e6363345ba2af4a": {
+      "date": "2026-08-05",
+      "title": "gabime / spdlog",
+      "source": "github"
+    },
+    "a1027f6b7d36d22a": {
+      "date": "2026-08-05",
+      "title": "denoland / deno",
+      "source": "github"
+    },
+    "eea0e619ec07671d": {
+      "date": "2026-08-05",
+      "title": "angular / angular",
+      "source": "github"
+    },
+    "3612263b02aa7e3a": {
+      "date": "2026-08-05",
+      "title": "tailwindlabs / tailwindcss",
       "source": "github"
     }
   }
