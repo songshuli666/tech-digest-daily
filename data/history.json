@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-05T06:59:01.731150",
+  "last_updated": "2026-08-06T07:43:09.337570",
   "sent_items": {
-    "150e0617e0e4738e": {
-      "date": "2026-07-06",
-      "title": "Nixmac",
-      "source": "producthunt"
-    },
-    "568f6b99d59918da": {
-      "date": "2026-07-06",
-      "title": "Mozaik",
-      "source": "producthunt"
-    },
-    "dfd5abe6ada61405": {
-      "date": "2026-07-06",
-      "title": "Cadence",
-      "source": "producthunt"
-    },
-    "e56d2ad490d10b7e": {
-      "date": "2026-07-06",
-      "title": "Stanley Studio",
-      "source": "producthunt"
-    },
-    "0179535a49fcd8b3": {
-      "date": "2026-07-06",
-      "title": "Edgee Claude Code Compressor V2",
-      "source": "producthunt"
-    },
-    "516b71e435fe9ef1": {
-      "date": "2026-07-06",
-      "title": "AirKaren",
-      "source": "producthunt"
-    },
-    "1d7fe4c9f8b1cfdf": {
-      "date": "2026-07-06",
-      "title": "CodeMote",
-      "source": "producthunt"
-    },
-    "4b374abd09ce457c": {
-      "date": "2026-07-06",
-      "title": "Resetting Xbox",
-      "source": "hackernews"
-    },
-    "8979f25e49a85a8e": {
-      "date": "2026-07-06",
-      "title": "OpenWrt One – Open Hardware Router",
-      "source": "hackernews"
-    },
-    "599ff36d183ca585": {
-      "date": "2026-07-06",
-      "title": "CoMaps – FOSS Offline Maps",
-      "source": "hackernews"
-    },
-    "02a6feb62f231df1": {
-      "date": "2026-07-06",
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "source": "hackernews"
-    },
-    "e3d61d22b8fce615": {
-      "date": "2026-07-06",
-      "title": "A global workspace in language models",
-      "source": "hackernews"
-    },
-    "f409ab7b3b0ecd2a": {
-      "date": "2026-07-06",
-      "title": "Linux on the Atari Jaguar",
-      "source": "hackernews"
-    },
-    "cecbb651d83ffd1c": {
-      "date": "2026-07-06",
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "source": "hackernews"
-    },
-    "d6ac029ebfcddebd": {
-      "date": "2026-07-06",
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "source": "hackernews"
-    },
-    "1289a1ebf891c93b": {
-      "date": "2026-07-06",
-      "title": "Full Writeup of the Windows GDID",
-      "source": "hackernews"
-    },
-    "a2777597e972442c": {
-      "date": "2026-07-06",
-      "title": "Evaluation order and nontermination in query languages",
-      "source": "hackernews"
-    },
-    "ffc1ddd641f68006": {
-      "date": "2026-07-06",
-      "title": "It's You.",
-      "source": "devto"
-    },
-    "da7c8ee781d9841e": {
-      "date": "2026-07-06",
-      "title": "Your Career Matters. So Does the Person Building It.",
-      "source": "devto"
-    },
-    "b2e7af94b53e7281": {
-      "date": "2026-07-06",
-      "title": "I Contain Multitudes (and Also Three Git Repos)",
-      "source": "devto"
-    },
-    "23c77b9498ff8661": {
-      "date": "2026-07-06",
-      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
-      "source": "devto"
-    },
-    "17fc8beb472b8a6d": {
-      "date": "2026-07-06",
-      "title": "What are your goals for the week? #186",
-      "source": "devto"
-    },
-    "1db24cd6567327ec": {
-      "date": "2026-07-06",
-      "title": "My AI agent tried to ship a mistake we'd already reverted",
-      "source": "devto"
-    },
-    "7944b3c839f27c35": {
-      "date": "2026-07-06",
-      "title": "Fable 5 Hype: Fangirling with Datasets to Build a Lakers Dashboard",
-      "source": "devto"
-    },
-    "22ddfd286c3a9110": {
-      "date": "2026-07-06",
-      "title": "OrinIDE v1.0.9 — local AI, an Agentic dev squad, and a bug fix I owe you an explanation for",
-      "source": "devto"
-    },
-    "473e12d63fb09aca": {
-      "date": "2026-07-06",
-      "title": "What Happens When Everyone Can Build Apps But Nobody Understands Them?",
-      "source": "devto"
-    },
-    "98cbfd1bc5d8ea73": {
-      "date": "2026-07-06",
-      "title": "AI Code Generation Has a Social Media Problem",
-      "source": "devto"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-07-06",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "cb3eddfe11b539d1": {
-      "date": "2026-07-06",
-      "title": "mvanhorn / last30days-skill",
-      "source": "github"
-    },
-    "fbb6c6e2ca5fde6f": {
-      "date": "2026-07-06",
-      "title": "bradautomates / claude-video",
-      "source": "github"
-    },
-    "23317f0740885ab5": {
-      "date": "2026-07-06",
-      "title": "karakeep-app / karakeep",
-      "source": "github"
-    },
-    "8689ab58cebfc899": {
-      "date": "2026-07-06",
-      "title": "steipete / CodexBar",
-      "source": "github"
-    },
-    "09c61568d4dce2aa": {
-      "date": "2026-07-06",
-      "title": "sindresorhus / awesome",
-      "source": "github"
-    },
     "e889a1b735a8bea5": {
       "date": "2026-07-07",
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
@@ -4890,6 +4725,166 @@
     "3612263b02aa7e3a": {
       "date": "2026-08-05",
       "title": "tailwindlabs / tailwindcss",
+      "source": "github"
+    },
+    "8d7cedf02ad4b855": {
+      "date": "2026-08-06",
+      "title": "Discovery Loop",
+      "source": "hackernews"
+    },
+    "d37d7ecef2b4cb13": {
+      "date": "2026-08-06",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "source": "hackernews"
+    },
+    "47b35685c7b6be38": {
+      "date": "2026-08-06",
+      "title": "Zed DeltaDB",
+      "source": "hackernews"
+    },
+    "3bff1aeaaa98bb34": {
+      "date": "2026-08-06",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "source": "hackernews"
+    },
+    "9eac21dc6afd938c": {
+      "date": "2026-08-06",
+      "title": "Muse Code and Muse Spark 1.2",
+      "source": "hackernews"
+    },
+    "4979b470afa03b2a": {
+      "date": "2026-08-06",
+      "title": "The title cards in Blade Runner are amazing",
+      "source": "hackernews"
+    },
+    "265070f3a36a4f01": {
+      "date": "2026-08-06",
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "source": "hackernews"
+    },
+    "ed29467513675410": {
+      "date": "2026-08-06",
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "source": "hackernews"
+    },
+    "a24d67ad66deb91b": {
+      "date": "2026-08-06",
+      "title": "Crime Pays but Botany Doesn't",
+      "source": "hackernews"
+    },
+    "3a8c19f8bfe4454a": {
+      "date": "2026-08-06",
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "source": "hackernews"
+    },
+    "4b4bc81265f8a156": {
+      "date": "2026-08-06",
+      "title": "UCP Radar",
+      "source": "producthunt"
+    },
+    "ca96b6ce9b7f6538": {
+      "date": "2026-08-06",
+      "title": "Website to Markdown API",
+      "source": "producthunt"
+    },
+    "432c145e4a85ba91": {
+      "date": "2026-08-06",
+      "title": "Brandfetch MCP",
+      "source": "producthunt"
+    },
+    "386c5deb620d8235": {
+      "date": "2026-08-06",
+      "title": "Glyphi: Speed Reader",
+      "source": "producthunt"
+    },
+    "f8dbf11b753ee758": {
+      "date": "2026-08-06",
+      "title": "Annotate",
+      "source": "producthunt"
+    },
+    "5fe40cb4252a6e2a": {
+      "date": "2026-08-06",
+      "title": "Cloudflare OS",
+      "source": "producthunt"
+    },
+    "e5ac93b8c12d03d6": {
+      "date": "2026-08-06",
+      "title": "Shieldstral",
+      "source": "producthunt"
+    },
+    "60e4ed0b0d37b484": {
+      "date": "2026-08-06",
+      "title": "Chute",
+      "source": "producthunt"
+    },
+    "443ea7cff262cf74": {
+      "date": "2026-08-06",
+      "title": "General Challenge Updates Moving Forward",
+      "source": "devto"
+    },
+    "e4c76c609d7e0d06": {
+      "date": "2026-08-06",
+      "title": "How I Smashed a Bug in a Shared Authentication Library",
+      "source": "devto"
+    },
+    "27eb5aea3573ca2d": {
+      "date": "2026-08-06",
+      "title": "Swift Protocols — The Art of Making Promises 🤝",
+      "source": "devto"
+    },
+    "93dbb70966e9a04b": {
+      "date": "2026-08-06",
+      "title": "Are we the abstraction? AI and the future of software engineering",
+      "source": "devto"
+    },
+    "f572a9e8ca97a72c": {
+      "date": "2026-08-06",
+      "title": "Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator",
+      "source": "devto"
+    },
+    "4051e434c9f4179c": {
+      "date": "2026-08-06",
+      "title": "ঘরের থালি: CSS Art Feast of Peshawari Meat, Beef Curry & Chicken Biryani",
+      "source": "devto"
+    },
+    "54040ddf4ed26b33": {
+      "date": "2026-08-06",
+      "title": "This Bug Has Never Fired in Production. I Fixed It Anyway",
+      "source": "devto"
+    },
+    "3a7fe89b61cd6115": {
+      "date": "2026-08-06",
+      "title": "When Your VPS Never Had the Resources It Was Sold With",
+      "source": "devto"
+    },
+    "d341517275a7073c": {
+      "date": "2026-08-06",
+      "title": "The Taste of Home — Recreating Congolese Comfort Food with Pure HTML & CSS",
+      "source": "devto"
+    },
+    "094d364d9b88f888": {
+      "date": "2026-08-06",
+      "title": "The Review Tax: Why 81% of Developers Are Buried in AI Code Review",
+      "source": "devto"
+    },
+    "710e3cb1a40c7d1e": {
+      "date": "2026-08-06",
+      "title": "cloudflare / computer",
+      "source": "github"
+    },
+    "0134ddc144f0e503": {
+      "date": "2026-08-06",
+      "title": "huangruiteng / loopx",
+      "source": "github"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-08-06",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "b8b2afae293a234e": {
+      "date": "2026-08-06",
+      "title": "roboflow / supervision",
       "source": "github"
     }
   }
