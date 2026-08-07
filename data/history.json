@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-06T07:43:09.337570",
+  "last_updated": "2026-08-07T04:58:59.518519",
   "sent_items": {
-    "e889a1b735a8bea5": {
-      "date": "2026-07-07",
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "source": "hackernews"
-    },
-    "cbdfafae88cfc728": {
-      "date": "2026-07-07",
-      "title": "A better way to tie gym shorts (or any drawstring) [video]",
-      "source": "hackernews"
-    },
-    "ce9c05278bd724c4": {
-      "date": "2026-07-07",
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "source": "hackernews"
-    },
-    "ec723f60a94f49d5": {
-      "date": "2026-07-07",
-      "title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "source": "hackernews"
-    },
-    "e4542f702dad10a8": {
-      "date": "2026-07-07",
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "source": "hackernews"
-    },
-    "b2cf346cbfe032f9": {
-      "date": "2026-07-07",
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "source": "hackernews"
-    },
-    "0be148333b777e4b": {
-      "date": "2026-07-07",
-      "title": "Herdr: One terminal to rule them all",
-      "source": "hackernews"
-    },
-    "3bea616ed34a4953": {
-      "date": "2026-07-07",
-      "title": "l: A new runtime for k and q",
-      "source": "hackernews"
-    },
-    "9ce953dfc9fb6497": {
-      "date": "2026-07-07",
-      "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
-      "source": "hackernews"
-    },
-    "52e95fe4fd6f0264": {
-      "date": "2026-07-07",
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "source": "hackernews"
-    },
-    "40145c145caa02ae": {
-      "date": "2026-07-07",
-      "title": "Kadoink AI",
-      "source": "producthunt"
-    },
-    "8d58c9b8463e070d": {
-      "date": "2026-07-07",
-      "title": "AI Emaily",
-      "source": "producthunt"
-    },
-    "9b23b6eb8e044cae": {
-      "date": "2026-07-07",
-      "title": "Glideo",
-      "source": "producthunt"
-    },
-    "bcdbd62ea207655c": {
-      "date": "2026-07-07",
-      "title": "Zoho Tables",
-      "source": "producthunt"
-    },
-    "54c73eb88b00d287": {
-      "date": "2026-07-07",
-      "title": "LongCat-2.0",
-      "source": "producthunt"
-    },
-    "edcbf911d159c02b": {
-      "date": "2026-07-07",
-      "title": "AnySearch",
-      "source": "producthunt"
-    },
-    "3109f32692fafbd1": {
-      "date": "2026-07-07",
-      "title": "Typeahead 2.0",
-      "source": "producthunt"
-    },
-    "372b628bc39331ff": {
-      "date": "2026-07-07",
-      "title": "Top 7 Featured DEV Posts of the Week",
-      "source": "devto"
-    },
-    "284fbe723c66706f": {
-      "date": "2026-07-07",
-      "title": "Master Local Fine-Tuning with \"gemma-trainer\"",
-      "source": "devto"
-    },
-    "f0a722d08abafd0f": {
-      "date": "2026-07-07",
-      "title": "The Next DEV Weekend Challenge Launches on July 9 - 13. Mark Your Calendar!",
-      "source": "devto"
-    },
-    "9fe34762c4e95c33": {
-      "date": "2026-07-07",
-      "title": "you stopped reading the docs. now you don't understand the systems.",
-      "source": "devto"
-    },
-    "9ddce1ee9c62caf0": {
-      "date": "2026-07-07",
-      "title": "Being an engineer in the AI era",
-      "source": "devto"
-    },
-    "67767c44db2f9fe9": {
-      "date": "2026-07-07",
-      "title": "TanStack Start vs Nuxt: One Framework to rule them all?",
-      "source": "devto"
-    },
-    "6476683350c20a67": {
-      "date": "2026-07-07",
-      "title": "The AI Bill Grows in the Agent Loop",
-      "source": "devto"
-    },
-    "56bad85255f74253": {
-      "date": "2026-07-07",
-      "title": "I Built a Zero-Dependency Env Validator with Full TypeScript Inference - Here's Why",
-      "source": "devto"
-    },
-    "237c91c83041845f": {
-      "date": "2026-07-07",
-      "title": "Building a Plugin-Free Newsletter Popup on WordPress: Custom REST Endpoint Mailchimp API v3",
-      "source": "devto"
-    },
-    "267eab59de582520": {
-      "date": "2026-07-07",
-      "title": "Building a physical API",
-      "source": "devto"
-    },
-    "ce3a785ea3a972f5": {
-      "date": "2026-07-07",
-      "title": "MadsLorentzen / ai-job-search",
-      "source": "github"
-    },
-    "3533f5ccf08e2c87": {
-      "date": "2026-07-07",
-      "title": "TencentCloud / CubeSandbox",
-      "source": "github"
-    },
-    "363107b1d3d65100": {
-      "date": "2026-07-07",
-      "title": "AhmadIbrahiim / Website-downloader",
-      "source": "github"
-    },
-    "c7871622e500ea54": {
-      "date": "2026-07-07",
-      "title": "iOfficeAI / OfficeCLI",
-      "source": "github"
-    },
-    "adc797b8b3939065": {
-      "date": "2026-07-07",
-      "title": "kyutai-labs / pocket-tts",
-      "source": "github"
-    },
     "ee89408329588cd5": {
       "date": "2026-07-08",
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
@@ -4885,6 +4725,141 @@
     "b8b2afae293a234e": {
       "date": "2026-08-06",
       "title": "roboflow / supervision",
+      "source": "github"
+    },
+    "039b1297dbd0b9b9": {
+      "date": "2026-08-07",
+      "title": "Muse Code",
+      "source": "producthunt"
+    },
+    "bc3146cebb76ed21": {
+      "date": "2026-08-07",
+      "title": "hey postcard - digital postcards",
+      "source": "producthunt"
+    },
+    "c0fb715017047b76": {
+      "date": "2026-08-07",
+      "title": "Gesture Synth School",
+      "source": "producthunt"
+    },
+    "b19f91df5ef61b4e": {
+      "date": "2026-08-07",
+      "title": "Mario Meets Pareto",
+      "source": "hackernews"
+    },
+    "dac781ad7a574503": {
+      "date": "2026-08-07",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "source": "hackernews"
+    },
+    "87fe43f80057a4cb": {
+      "date": "2026-08-07",
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "source": "hackernews"
+    },
+    "bd4d76abfd2226cc": {
+      "date": "2026-08-07",
+      "title": "Taste Is All That's Left",
+      "source": "hackernews"
+    },
+    "88b44b794164defc": {
+      "date": "2026-08-07",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "source": "hackernews"
+    },
+    "7d097087a4f55616": {
+      "date": "2026-08-07",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "source": "hackernews"
+    },
+    "9154fd6b71ea4c1e": {
+      "date": "2026-08-07",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "source": "hackernews"
+    },
+    "4fe53e355d185a68": {
+      "date": "2026-08-07",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "source": "hackernews"
+    },
+    "3f1dab2cb5b9bc58": {
+      "date": "2026-08-07",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "source": "hackernews"
+    },
+    "4523cb3c87350727": {
+      "date": "2026-08-07",
+      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+      "source": "hackernews"
+    },
+    "5102252263a88826": {
+      "date": "2026-08-07",
+      "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
+      "source": "devto"
+    },
+    "c17b4f2633542bc1": {
+      "date": "2026-08-07",
+      "title": "I Recreated Management With AI: 9 Things I Do Differently",
+      "source": "devto"
+    },
+    "a4551ca54fd3b338": {
+      "date": "2026-08-07",
+      "title": "I Spent a Day With Kiro Crew. Here's What It Actually Does.",
+      "source": "devto"
+    },
+    "0c1e4a97b9a86a3f": {
+      "date": "2026-08-07",
+      "title": "I Replaced kube-proxy with eBPF in Production (And Why My Monitoring Went Blind for 6 Hours)",
+      "source": "devto"
+    },
+    "81cbe5cbca519e17": {
+      "date": "2026-08-07",
+      "title": "Opus 5: Delete your CLAUDE.md?",
+      "source": "devto"
+    },
+    "66cfc933464719ed": {
+      "date": "2026-08-07",
+      "title": "This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊",
+      "source": "devto"
+    },
+    "0a65b267f5c014ab": {
+      "date": "2026-08-07",
+      "title": "Dev log #15 Refining the Craft: A week of Neovim UI hacking and portfolio architecture",
+      "source": "devto"
+    },
+    "161745cab60ec1e9": {
+      "date": "2026-08-07",
+      "title": "What Developer Experience Actually Means",
+      "source": "devto"
+    },
+    "a55c0154aa8058ad": {
+      "date": "2026-08-07",
+      "title": "AI is a Multiplier",
+      "source": "devto"
+    },
+    "a7a411acad30b204": {
+      "date": "2026-08-07",
+      "title": "My Scanner Missed 93% of the Bugs — and That Was the Right First Result",
+      "source": "devto"
+    },
+    "9f192d1849d45b01": {
+      "date": "2026-08-07",
+      "title": "goauthentik / authentik",
+      "source": "github"
+    },
+    "df6e390c235a42a2": {
+      "date": "2026-08-07",
+      "title": "google / guava",
+      "source": "github"
+    },
+    "7bd0775c5ce4ee5c": {
+      "date": "2026-08-07",
+      "title": "TapXWorld / ChinaTextbook",
+      "source": "github"
+    },
+    "2f5b9452f2dfd7d0": {
+      "date": "2026-08-07",
+      "title": "Significant-Gravitas / AutoGPT",
       "source": "github"
     }
   }
