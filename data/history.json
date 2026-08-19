@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-18T21:56:32.318951",
+  "last_updated": "2026-08-19T21:58:38.277621",
   "sent_items": {
-    "da56b4ec12266495": {
-      "date": "2026-07-19",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "source": "hackernews"
-    },
-    "d8fb288a83174b41": {
-      "date": "2026-07-19",
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "source": "hackernews"
-    },
-    "4276818fd4632bbf": {
-      "date": "2026-07-19",
-      "title": "Transcribe.cpp",
-      "source": "hackernews"
-    },
-    "a7a58eeb6e522a01": {
-      "date": "2026-07-19",
-      "title": "The Kimi K3 Moment",
-      "source": "hackernews"
-    },
-    "1690c623113a8c4d": {
-      "date": "2026-07-19",
-      "title": "Better and Cheaper Than IPTV",
-      "source": "hackernews"
-    },
-    "f0749cd9f30a40fa": {
-      "date": "2026-07-19",
-      "title": "Codex Resets",
-      "source": "hackernews"
-    },
-    "1de0d1c2053434a5": {
-      "date": "2026-07-19",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "source": "hackernews"
-    },
-    "24375f049c8592d9": {
-      "date": "2026-07-19",
-      "title": "Mathematicians still don't know the fastest way to multiply numbers",
-      "source": "hackernews"
-    },
-    "092082649750ac9d": {
-      "date": "2026-07-19",
-      "title": "Making Software: How to make a font",
-      "source": "hackernews"
-    },
-    "17dbe44ad715bd00": {
-      "date": "2026-07-19",
-      "title": "Supabase just announced searchable encryption",
-      "source": "hackernews"
-    },
-    "b3fc6c67cceb08b7": {
-      "date": "2026-07-19",
-      "title": "Rewisp — an ambient memory for your Mac",
-      "source": "producthunt"
-    },
-    "9fbdf4f6079626ab": {
-      "date": "2026-07-19",
-      "title": "OpenSEO",
-      "source": "producthunt"
-    },
-    "c4c566d05361fc36": {
-      "date": "2026-07-19",
-      "title": "BaseRT - Apple M5 Optimized",
-      "source": "producthunt"
-    },
-    "b09b9822d243ad95": {
-      "date": "2026-07-19",
-      "title": "Detourmap",
-      "source": "producthunt"
-    },
-    "7b6cc02cd654d765": {
-      "date": "2026-07-19",
-      "title": "Kobbe",
-      "source": "producthunt"
-    },
-    "3e7a45f66f924223": {
-      "date": "2026-07-19",
-      "title": "OpenMarkdown",
-      "source": "producthunt"
-    },
-    "9b41cf79a4a4d306": {
-      "date": "2026-07-19",
-      "title": "Mainichi",
-      "source": "producthunt"
-    },
-    "384130be23988385": {
-      "date": "2026-07-19",
-      "title": "WX",
-      "source": "producthunt"
-    },
-    "4d8e922de101f720": {
-      "date": "2026-07-19",
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "source": "github"
-    },
-    "db7ba6e660566bce": {
-      "date": "2026-07-19",
-      "title": "elder-plinius / G0DM0D3",
-      "source": "github"
-    },
-    "cef11b5e74b825ba": {
-      "date": "2026-07-19",
-      "title": "lyogavin / airllm",
-      "source": "github"
-    },
-    "4e0f7b8afe94cb65": {
-      "date": "2026-07-19",
-      "title": "KnockOutEZ / wigolo",
-      "source": "github"
-    },
-    "ff4df8f2ba59fc8c": {
-      "date": "2026-07-19",
-      "title": "MoonshotAI / kimi-cli",
-      "source": "github"
-    },
-    "eb6c98bf3dd10338": {
-      "date": "2026-07-19",
-      "title": "How We Beat HotSpot Performance (By Cheating, But Not Like That)",
-      "source": "devto"
-    },
-    "31329a780eba1b8f": {
-      "date": "2026-07-19",
-      "title": "FLUX on a 4070 Graphics Card 🖼️",
-      "source": "devto"
-    },
-    "bee70cae2471c7e6": {
-      "date": "2026-07-19",
-      "title": "Why I built a SQL client when 10 already exist — then let AI agents into it",
-      "source": "devto"
-    },
-    "7bf0a72a91191680": {
-      "date": "2026-07-19",
-      "title": "I was tired of studying security tools from static cheatsheets, so I built ShellStack",
-      "source": "devto"
-    },
-    "7bccd8e55ea72c3b": {
-      "date": "2026-07-19",
-      "title": "Apache Data Lakehouse Weekly: July 11 to July 18, 2026",
-      "source": "devto"
-    },
-    "95fd4fd750195d61": {
-      "date": "2026-07-19",
-      "title": "I'm 13, Solo Founder & CEO of Akhouri Systems. No team, no backend, no funding — just a laptop.",
-      "source": "devto"
-    },
-    "767884ecc9f033d5": {
-      "date": "2026-07-19",
-      "title": "400+ downloads, 0 revenue, and why that's actually fine for now",
-      "source": "devto"
-    },
-    "0c28cab83efab5ff": {
-      "date": "2026-07-19",
-      "title": "How Being a Junior Developer Taught Me More About Myself Than About Code",
-      "source": "devto"
-    },
-    "0cecc6f9bd7427f3": {
-      "date": "2026-07-19",
-      "title": "I built a readability test for my own compression format. It scored 0/24.",
-      "source": "devto"
-    },
-    "0547f30382e068b0": {
-      "date": "2026-07-19",
-      "title": "The Missing Row: Auto-Provisioning Derived Records Without the Race Condition",
-      "source": "devto"
-    },
     "a69cdbbe8c39ba85": {
       "date": "2026-07-20",
       "title": "Claude Code uses Bun written in Rust now",
@@ -5171,6 +5006,156 @@
       "date": "2026-08-18",
       "title": "genlayerlabs / genlayer-project-boilerplate",
       "source": "github"
+    },
+    "2f388a168f88be16": {
+      "date": "2026-08-19",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "source": "hackernews"
+    },
+    "2bc42a21bd81d16d": {
+      "date": "2026-08-19",
+      "title": "OpenRouter is joining Stripe",
+      "source": "hackernews"
+    },
+    "6dbfb305b24b24d9": {
+      "date": "2026-08-19",
+      "title": "Go 1.27",
+      "source": "hackernews"
+    },
+    "e5784de24be7838f": {
+      "date": "2026-08-19",
+      "title": "Casio F-B100W-1A",
+      "source": "hackernews"
+    },
+    "fe82b57a4326b9bc": {
+      "date": "2026-08-19",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "source": "hackernews"
+    },
+    "bde94133bc0310ca": {
+      "date": "2026-08-19",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "source": "hackernews"
+    },
+    "85a66ff576918e59": {
+      "date": "2026-08-19",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "source": "hackernews"
+    },
+    "09618c092e0b403c": {
+      "date": "2026-08-19",
+      "title": "The little-known winstart.bat batch file",
+      "source": "hackernews"
+    },
+    "1be36230688baea9": {
+      "date": "2026-08-19",
+      "title": "Pressed Penny Machine Map",
+      "source": "hackernews"
+    },
+    "a678b2801da4b109": {
+      "date": "2026-08-19",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "source": "hackernews"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-08-19",
+      "title": "Basedash Public Sharing",
+      "source": "producthunt"
+    },
+    "4d4919a9f16f4d37": {
+      "date": "2026-08-19",
+      "title": "Balsa UI",
+      "source": "producthunt"
+    },
+    "7058227ca125eafb": {
+      "date": "2026-08-19",
+      "title": "Hexel Editor",
+      "source": "producthunt"
+    },
+    "84b93b8cde544fc9": {
+      "date": "2026-08-19",
+      "title": "Loopcase",
+      "source": "producthunt"
+    },
+    "74bbfda82f0674f5": {
+      "date": "2026-08-19",
+      "title": "Origin by Cursor",
+      "source": "producthunt"
+    },
+    "1d38ba8e8b31d2c9": {
+      "date": "2026-08-19",
+      "title": "Edgemetry",
+      "source": "producthunt"
+    },
+    "07e06376fafd7912": {
+      "date": "2026-08-19",
+      "title": "AgentR 3.0",
+      "source": "producthunt"
+    },
+    "31289ebccaf157c5": {
+      "date": "2026-08-19",
+      "title": "Zyntax IDE",
+      "source": "producthunt"
+    },
+    "4feaa250a513cbd9": {
+      "date": "2026-08-19",
+      "title": "amadeusprotocol / node",
+      "source": "github"
+    },
+    "f453f701f0417821": {
+      "date": "2026-08-19",
+      "title": "marceloprates / prettymaps",
+      "source": "github"
+    },
+    "e0dcb7607e8c6862": {
+      "date": "2026-08-19",
+      "title": "Engineering: Dreams, or Self-Actualization?",
+      "source": "devto"
+    },
+    "43bf793a48423ef3": {
+      "date": "2026-08-19",
+      "title": "Greatness Is Forged by Limitation",
+      "source": "devto"
+    },
+    "39d4a6260f741638": {
+      "date": "2026-08-19",
+      "title": "My AI Content Journey",
+      "source": "devto"
+    },
+    "79ed514c155d0ea5": {
+      "date": "2026-08-19",
+      "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
+      "source": "devto"
+    },
+    "295654804279a52a": {
+      "date": "2026-08-19",
+      "title": "My QUIC transport had never once been executed. Here's what happened when I ran it.",
+      "source": "devto"
+    },
+    "a90e10e236423706": {
+      "date": "2026-08-19",
+      "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+      "source": "devto"
+    },
+    "3566141340675185": {
+      "date": "2026-08-19",
+      "title": "I Write Less Code Than I Used To. That May Be the Point.",
+      "source": "devto"
+    },
+    "9312406988ce90ed": {
+      "date": "2026-08-19",
+      "title": "I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.",
+      "source": "devto"
+    },
+    "95c95330dbeda6ae": {
+      "date": "2026-08-19",
+      "title": "Your idempotency test probably cannot fail",
+      "source": "devto"
+    },
+    "7aaa25e47acc09ed": {
+      "date": "2026-08-19",
+      "title": "Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug",
+      "source": "devto"
     }
   }
 }
