@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-19T21:58:38.277621",
+  "last_updated": "2026-08-20T22:01:20.114836",
   "sent_items": {
-    "a69cdbbe8c39ba85": {
-      "date": "2026-07-20",
-      "title": "Claude Code uses Bun written in Rust now",
-      "source": "hackernews"
-    },
-    "262590a6eaebda6c": {
-      "date": "2026-07-20",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "source": "hackernews"
-    },
-    "6d7f7bed44e04d2c": {
-      "date": "2026-07-20",
-      "title": "Orion Browser by Kagi",
-      "source": "hackernews"
-    },
-    "19278d01b6d0599d": {
-      "date": "2026-07-20",
-      "title": "The Zen of Parallel Programming",
-      "source": "hackernews"
-    },
-    "8c57a066ad3392bf": {
-      "date": "2026-07-20",
-      "title": "Xiaomi-Robotics-1",
-      "source": "hackernews"
-    },
-    "10e8f8db374bb7e2": {
-      "date": "2026-07-20",
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "source": "hackernews"
-    },
-    "2d603aee23963ac6": {
-      "date": "2026-07-20",
-      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-      "source": "hackernews"
-    },
-    "b03fcfa9b699975c": {
-      "date": "2026-07-20",
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "source": "hackernews"
-    },
-    "aee338645f9f8886": {
-      "date": "2026-07-20",
-      "title": "1-Bit LLM in the Browser",
-      "source": "hackernews"
-    },
-    "864d79399fc35b75": {
-      "date": "2026-07-20",
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "source": "hackernews"
-    },
-    "99da2e5c9a5c86eb": {
-      "date": "2026-07-20",
-      "title": "Backbeat Forge",
-      "source": "producthunt"
-    },
-    "07a31d97f0912aa2": {
-      "date": "2026-07-20",
-      "title": "Reignat",
-      "source": "producthunt"
-    },
-    "7bbad20e727abe54": {
-      "date": "2026-07-20",
-      "title": "BlockscopeChat",
-      "source": "producthunt"
-    },
-    "19eb9454448b3499": {
-      "date": "2026-07-20",
-      "title": "LnkFlow",
-      "source": "producthunt"
-    },
-    "3ade497109f5ed9b": {
-      "date": "2026-07-20",
-      "title": "LayerProof Mylar",
-      "source": "producthunt"
-    },
-    "9dfca342ca366870": {
-      "date": "2026-07-20",
-      "title": "CaptureKit",
-      "source": "producthunt"
-    },
-    "60769df50b2bf403": {
-      "date": "2026-07-20",
-      "title": "Skippr AI",
-      "source": "producthunt"
-    },
-    "f7649e21502597d6": {
-      "date": "2026-07-20",
-      "title": "Autoplot",
-      "source": "producthunt"
-    },
-    "b07d60e58753a646": {
-      "date": "2026-07-20",
-      "title": "bojieli / ai-agent-book",
-      "source": "github"
-    },
-    "3cabe5488f9f7c40": {
-      "date": "2026-07-20",
-      "title": "kvcache-ai / ktransformers",
-      "source": "github"
-    },
-    "bc222d70acfeef9c": {
-      "date": "2026-07-20",
-      "title": "andrewrabert / jellium-desktop",
-      "source": "github"
-    },
-    "435d72beb104780e": {
-      "date": "2026-07-20",
-      "title": "microsoft / terminal",
-      "source": "github"
-    },
-    "6a29aa0fa11abd15": {
-      "date": "2026-07-20",
-      "title": "AstrBotDevs / AstrBot",
-      "source": "github"
-    },
-    "7d0e9c89c3e6f05b": {
-      "date": "2026-07-20",
-      "title": "1jehuang / jcode",
-      "source": "github"
-    },
-    "d44331a1971df5c9": {
-      "date": "2026-07-20",
-      "title": "trycua / cua",
-      "source": "github"
-    },
-    "f7c37de1e3df3eb3": {
-      "date": "2026-07-20",
-      "title": "I Rewrote a OneNote MCP Server in TypeScript — Here's What I Learned About Microsoft Graph Auth",
-      "source": "devto"
-    },
-    "2d5e76513da14b8a": {
-      "date": "2026-07-20",
-      "title": "The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail",
-      "source": "devto"
-    },
-    "10c80c064e0c324f": {
-      "date": "2026-07-20",
-      "title": "I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuilding ",
-      "source": "devto"
-    },
-    "bcb6d173ecf7cf78": {
-      "date": "2026-07-20",
-      "title": "The smolagents bug that made my agent retry the same valid code three times",
-      "source": "devto"
-    },
-    "9ecad8aabfe5b1bd": {
-      "date": "2026-07-20",
-      "title": "Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a 5\" Screen Browser",
-      "source": "devto"
-    },
-    "24475a54fdfc215a": {
-      "date": "2026-07-20",
-      "title": "I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.",
-      "source": "devto"
-    },
-    "1f4eef53f743c852": {
-      "date": "2026-07-20",
-      "title": "My Solana Program Launch Checklist (Written the Day After I Actually Did It)",
-      "source": "devto"
-    },
-    "ff7406b40e2dfddb": {
-      "date": "2026-07-20",
-      "title": "I built a storefront that works with zero API keys, and it made the code better",
-      "source": "devto"
-    },
-    "5ca1057acd1e502a": {
-      "date": "2026-07-20",
-      "title": "How to Hunt a Bug Again (But at 10 AM ☀️)",
-      "source": "devto"
-    },
-    "ec6af18149d86030": {
-      "date": "2026-07-20",
-      "title": "Two ways to reuse a privileged CI token (and my rule only caught one)",
-      "source": "devto"
-    },
     "b91616d24ab7318c": {
       "date": "2026-07-21",
       "title": "Who's afraid of Chinese models?",
@@ -5156,6 +4981,181 @@
       "date": "2026-08-19",
       "title": "Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug",
       "source": "devto"
+    },
+    "0d38f47f0c0db046": {
+      "date": "2026-08-20",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "source": "hackernews"
+    },
+    "de7ec48fdb70ceef": {
+      "date": "2026-08-20",
+      "title": "HTML Can Do That",
+      "source": "hackernews"
+    },
+    "1cfdf74a597abf6a": {
+      "date": "2026-08-20",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "source": "hackernews"
+    },
+    "20dcbe89b3fb3a87": {
+      "date": "2026-08-20",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "source": "hackernews"
+    },
+    "bfbe224e44632f1c": {
+      "date": "2026-08-20",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "source": "hackernews"
+    },
+    "d8667f9db54d4e56": {
+      "date": "2026-08-20",
+      "title": "Linux 7.2",
+      "source": "hackernews"
+    },
+    "9c9968045ffe697a": {
+      "date": "2026-08-20",
+      "title": "I should have loved biology (2020)",
+      "source": "hackernews"
+    },
+    "2a3f3d0326e9b4e8": {
+      "date": "2026-08-20",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "source": "hackernews"
+    },
+    "9ab7e4d07cdc93a6": {
+      "date": "2026-08-20",
+      "title": "The August 17 outage, and the work ahead",
+      "source": "hackernews"
+    },
+    "041fc3674d967bb1": {
+      "date": "2026-08-20",
+      "title": "Consumer Rights Wiki",
+      "source": "hackernews"
+    },
+    "9ba9b0b1e0ced9ac": {
+      "date": "2026-08-20",
+      "title": "Revy",
+      "source": "producthunt"
+    },
+    "e642173c067efd0f": {
+      "date": "2026-08-20",
+      "title": "Aloud",
+      "source": "producthunt"
+    },
+    "dffbfea5c08048fc": {
+      "date": "2026-08-20",
+      "title": "Cloudways Managed AI Agents",
+      "source": "producthunt"
+    },
+    "7911951eeab87f0a": {
+      "date": "2026-08-20",
+      "title": "ProtoNote",
+      "source": "producthunt"
+    },
+    "e19cada5b1b54430": {
+      "date": "2026-08-20",
+      "title": "Berd",
+      "source": "producthunt"
+    },
+    "02c3ab13bc29ea62": {
+      "date": "2026-08-20",
+      "title": "bitdrift.ai",
+      "source": "producthunt"
+    },
+    "d9e8af4ac7d72fb7": {
+      "date": "2026-08-20",
+      "title": "Hermai Brand API",
+      "source": "producthunt"
+    },
+    "c0adf1e8029b508c": {
+      "date": "2026-08-20",
+      "title": "Shape",
+      "source": "producthunt"
+    },
+    "53d779a3ebdde4c2": {
+      "date": "2026-08-20",
+      "title": "State Management in Front-end Web Development: Mutators",
+      "source": "devto"
+    },
+    "1c2ab6a11da3f35d": {
+      "date": "2026-08-20",
+      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
+      "source": "devto"
+    },
+    "637f1ae83fe639e8": {
+      "date": "2026-08-20",
+      "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
+      "source": "devto"
+    },
+    "0765929ffaade7de": {
+      "date": "2026-08-20",
+      "title": "Solving Gradle metadata and Renovate integration",
+      "source": "devto"
+    },
+    "4f78b4aa1d629412": {
+      "date": "2026-08-20",
+      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
+      "source": "devto"
+    },
+    "fbffd92138ef177b": {
+      "date": "2026-08-20",
+      "title": "The test was green. Every real connection would have failed.",
+      "source": "devto"
+    },
+    "08f437234466cab8": {
+      "date": "2026-08-20",
+      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
+      "source": "devto"
+    },
+    "aee6522417111017": {
+      "date": "2026-08-20",
+      "title": "I Built an AI Code Reviewer. Then OWASP Broke It.",
+      "source": "devto"
+    },
+    "44c4f00ac3b2e89b": {
+      "date": "2026-08-20",
+      "title": "A missing exchange rate is not an exchange rate of 1",
+      "source": "devto"
+    },
+    "fcb925e944e48cc5": {
+      "date": "2026-08-20",
+      "title": "The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p",
+      "source": "devto"
+    },
+    "5e545fb9f529df45": {
+      "date": "2026-08-20",
+      "title": "modular / modular",
+      "source": "github"
+    },
+    "3adab56acaa31031": {
+      "date": "2026-08-20",
+      "title": "AprilNEA / OpenLogi",
+      "source": "github"
+    },
+    "9b897d36ce84b465": {
+      "date": "2026-08-20",
+      "title": "agent-substrate / substrate",
+      "source": "github"
+    },
+    "6fb08428e288194e": {
+      "date": "2026-08-20",
+      "title": "PostHog / posthog",
+      "source": "github"
+    },
+    "65d0cb405a9eb49f": {
+      "date": "2026-08-20",
+      "title": "mahlernim / google-timeline-visualizer",
+      "source": "github"
+    },
+    "021dcfb5e16a50cf": {
+      "date": "2026-08-20",
+      "title": "JuliusBrussee / caveman",
+      "source": "github"
+    },
+    "bf3408e522ca2216": {
+      "date": "2026-08-20",
+      "title": "makeplane / plane",
+      "source": "github"
     }
   }
 }
