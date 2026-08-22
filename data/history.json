@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-21T21:57:28.969511",
+  "last_updated": "2026-08-22T21:55:07.489804",
   "sent_items": {
-    "8d98dad254cdf357": {
-      "date": "2026-07-22",
-      "title": "ditto.site",
-      "source": "producthunt"
-    },
-    "9a000b3744f08ac6": {
-      "date": "2026-07-22",
-      "title": "Lev8",
-      "source": "producthunt"
-    },
-    "131ab0359ae0ec5a": {
-      "date": "2026-07-22",
-      "title": "Tidy",
-      "source": "producthunt"
-    },
-    "e0ca3218302df310": {
-      "date": "2026-07-22",
-      "title": "Phantomstory",
-      "source": "producthunt"
-    },
-    "0e12bdb3b2ba7bef": {
-      "date": "2026-07-22",
-      "title": "BUD",
-      "source": "producthunt"
-    },
-    "8bd658931519894d": {
-      "date": "2026-07-22",
-      "title": "OpenChatCut",
-      "source": "producthunt"
-    },
-    "f07f340c848832ee": {
-      "date": "2026-07-22",
-      "title": "ProtoFlow",
-      "source": "producthunt"
-    },
-    "6a0cbd9ec6d9b3d1": {
-      "date": "2026-07-22",
-      "title": "Universal Dictation on Stream",
-      "source": "producthunt"
-    },
-    "a6a720bfc5d237c9": {
-      "date": "2026-07-22",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "source": "hackernews"
-    },
-    "2967707ce89d50d9": {
-      "date": "2026-07-22",
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "source": "hackernews"
-    },
-    "6ed57de9509871a4": {
-      "date": "2026-07-22",
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "source": "hackernews"
-    },
-    "f7c43a5bc182f683": {
-      "date": "2026-07-22",
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "source": "hackernews"
-    },
-    "c985fe603867f532": {
-      "date": "2026-07-22",
-      "title": "Advertise in ChatGPT",
-      "source": "hackernews"
-    },
-    "9e19d69b3cd8bcb0": {
-      "date": "2026-07-22",
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "source": "hackernews"
-    },
-    "0d84a422d04985f3": {
-      "date": "2026-07-22",
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "source": "hackernews"
-    },
-    "2a7ff54d10754acf": {
-      "date": "2026-07-22",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "source": "hackernews"
-    },
-    "2b003984306beb7e": {
-      "date": "2026-07-22",
-      "title": "An Engineer's Guide to USB Type-C [pdf]",
-      "source": "hackernews"
-    },
-    "806ea7e1ef045eeb": {
-      "date": "2026-07-22",
-      "title": "Recreating the math behind the first stealth aircraft",
-      "source": "hackernews"
-    },
-    "9ad772dbfeb435e6": {
-      "date": "2026-07-22",
-      "title": "You can build it. Should you?",
-      "source": "devto"
-    },
-    "8c2ba10cd6a304a4": {
-      "date": "2026-07-22",
-      "title": "tpu-management: a Claude Code skill for running Gemma 4 on Cloud TPUs",
-      "source": "devto"
-    },
-    "a247d2449e1ba154": {
-      "date": "2026-07-22",
-      "title": "The Optimistic UI Race Condition That Only Showed Up on the Fifth Click",
-      "source": "devto"
-    },
-    "0dfee9fa3f18885f": {
-      "date": "2026-07-22",
-      "title": "🐘 TypeScript for PHP? YES, that's possible! And it's not what you think...",
-      "source": "devto"
-    },
-    "0c4a33c7837b280f": {
-      "date": "2026-07-22",
-      "title": "How AI changed the way I pick frameworks, and the two places React survived",
-      "source": "devto"
-    },
-    "2208dae172b90c9a": {
-      "date": "2026-07-22",
-      "title": "Snowflake Cortex, Explained Like an AI That Lives Next to Your Data",
-      "source": "devto"
-    },
-    "07087b8abb505a64": {
-      "date": "2026-07-22",
-      "title": "Open AI Build Week: Foundation First, Software Second",
-      "source": "devto"
-    },
-    "bb54ba776d88bbc2": {
-      "date": "2026-07-22",
-      "title": "New Gemini models dropped\r\n\r\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models",
-      "source": "devto"
-    },
-    "cd1b1c78f4b363af": {
-      "date": "2026-07-22",
-      "title": "Preventing Focus Loss From Launching a Charged Jump in a Three.js Arcade Game",
-      "source": "devto"
-    },
-    "56d33226bf40d769": {
-      "date": "2026-07-22",
-      "title": "koala73 / worldmonitor",
-      "source": "github"
-    },
-    "ee7d6f2f5cec7fb9": {
-      "date": "2026-07-22",
-      "title": "ayghri / i-have-adhd",
-      "source": "github"
-    },
-    "7a4b3790492aaeb5": {
-      "date": "2026-07-22",
-      "title": "earthtojake / text-to-cad",
-      "source": "github"
-    },
-    "ee1315903bd5e838": {
-      "date": "2026-07-22",
-      "title": "oblien / openship",
-      "source": "github"
-    },
-    "d84de85bb3f0e980": {
-      "date": "2026-07-22",
-      "title": "tradesdontlie / tradingview-mcp",
-      "source": "github"
-    },
-    "018703fab583e3d5": {
-      "date": "2026-07-22",
-      "title": "AlexsJones / llmfit",
-      "source": "github"
-    },
-    "3a0b0b37a392aba3": {
-      "date": "2026-07-22",
-      "title": "hyprwm / Hyprland",
-      "source": "github"
-    },
-    "44fef4354ab3fc2f": {
-      "date": "2026-07-22",
-      "title": "chrislgarry / Apollo-11",
-      "source": "github"
-    },
-    "c23e4133fb44634b": {
-      "date": "2026-07-22",
-      "title": "DioxusLabs / dioxus",
-      "source": "github"
-    },
-    "280b22a646186e07": {
-      "date": "2026-07-22",
-      "title": "langchain-ai / open_deep_research",
-      "source": "github"
-    },
     "678763b37da605af": {
       "date": "2026-07-23",
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
@@ -5195,6 +5010,171 @@
     "89a665d7fafbfdc7": {
       "date": "2026-08-21",
       "title": "protocolbuffers / protobuf",
+      "source": "github"
+    },
+    "bf0ea94ccea4f92e": {
+      "date": "2026-08-22",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "source": "hackernews"
+    },
+    "ff6c6e92dfd9334c": {
+      "date": "2026-08-22",
+      "title": "Scrap",
+      "source": "hackernews"
+    },
+    "6952b35b1753edf4": {
+      "date": "2026-08-22",
+      "title": "Hister – A private, full content search index that you control",
+      "source": "hackernews"
+    },
+    "a423a40ee50f054e": {
+      "date": "2026-08-22",
+      "title": "A Friendly Introduction to Racket",
+      "source": "hackernews"
+    },
+    "707d97be0a10a08d": {
+      "date": "2026-08-22",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "source": "hackernews"
+    },
+    "bf47e652947d61da": {
+      "date": "2026-08-22",
+      "title": "typ.ing",
+      "source": "hackernews"
+    },
+    "d073d6e723196a3a": {
+      "date": "2026-08-22",
+      "title": "RF Cafe",
+      "source": "hackernews"
+    },
+    "0b92e65ca41bf391": {
+      "date": "2026-08-22",
+      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+      "source": "hackernews"
+    },
+    "4e37da81acd6a107": {
+      "date": "2026-08-22",
+      "title": "NetBSD and My Life (2005)",
+      "source": "hackernews"
+    },
+    "54728fe029ffdc2e": {
+      "date": "2026-08-22",
+      "title": "Why your local LLM feels dumber than it is",
+      "source": "hackernews"
+    },
+    "dfc7c274a3af585b": {
+      "date": "2026-08-22",
+      "title": "Maccess",
+      "source": "producthunt"
+    },
+    "cfaa95c2e6f46f6a": {
+      "date": "2026-08-22",
+      "title": "Zero",
+      "source": "producthunt"
+    },
+    "83e536fa99314254": {
+      "date": "2026-08-22",
+      "title": "Port Radar for macOS",
+      "source": "producthunt"
+    },
+    "3b90bd73aa10e555": {
+      "date": "2026-08-22",
+      "title": "Pocket by Meta",
+      "source": "producthunt"
+    },
+    "0919536dda4e2063": {
+      "date": "2026-08-22",
+      "title": "VeloFiler",
+      "source": "producthunt"
+    },
+    "acb937a7bfc16bec": {
+      "date": "2026-08-22",
+      "title": "KerasFormers",
+      "source": "producthunt"
+    },
+    "0993511396f5aa16": {
+      "date": "2026-08-22",
+      "title": "Open Analytics",
+      "source": "producthunt"
+    },
+    "91c328e3eda0a895": {
+      "date": "2026-08-22",
+      "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
+      "source": "devto"
+    },
+    "4d82afa63adc7cfd": {
+      "date": "2026-08-22",
+      "title": "HTML is getting cool again: Meet the Invoker Commands API",
+      "source": "devto"
+    },
+    "c7811b8f8a8eaeda": {
+      "date": "2026-08-22",
+      "title": "Designing a Reasoning Ledger Record",
+      "source": "devto"
+    },
+    "77802e299aedb08a": {
+      "date": "2026-08-22",
+      "title": "Job Hunt With a Bot?",
+      "source": "devto"
+    },
+    "928a27de2bd4f30a": {
+      "date": "2026-08-22",
+      "title": "I built Kintara because apparently having too many hobbies eventually leads to building your own doc",
+      "source": "devto"
+    },
+    "d73550b3ff40a47a": {
+      "date": "2026-08-22",
+      "title": "AI didn't make me a worse coder. It made me a worse reviewer.",
+      "source": "devto"
+    },
+    "4a5ce69be0ca9b42": {
+      "date": "2026-08-22",
+      "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
+      "source": "devto"
+    },
+    "a3677f219733005c": {
+      "date": "2026-08-22",
+      "title": "Nuance Is a Double-Edged Sword ⚔️",
+      "source": "devto"
+    },
+    "40f545a6ab09702a": {
+      "date": "2026-08-22",
+      "title": "I used JSON files instead of a database for 1,699 records. Here's what actually broke.",
+      "source": "devto"
+    },
+    "2ead14cc06ce65b8": {
+      "date": "2026-08-22",
+      "title": "4 Non-obvious learnings from working with alerts",
+      "source": "devto"
+    },
+    "1a57528ba5a4a035": {
+      "date": "2026-08-22",
+      "title": "openai / codex",
+      "source": "github"
+    },
+    "e1a6696969acd12e": {
+      "date": "2026-08-22",
+      "title": "Wei-Shaw / sub2api",
+      "source": "github"
+    },
+    "feb34faf0b30f401": {
+      "date": "2026-08-22",
+      "title": "n8n-io / n8n",
+      "source": "github"
+    },
+    "1e61851c7eb0065b": {
+      "date": "2026-08-22",
+      "title": "anthropics / claude-code",
+      "source": "github"
+    },
+    "39ec5846ae4b9617": {
+      "date": "2026-08-22",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "source": "github"
+    },
+    "66fdad17e3139cd7": {
+      "date": "2026-08-22",
+      "title": "ripienaar / free-for-dev",
       "source": "github"
     }
   }
