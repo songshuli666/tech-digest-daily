@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-22T21:55:07.489804",
+  "last_updated": "2026-08-23T21:54:33.696441",
   "sent_items": {
-    "678763b37da605af": {
-      "date": "2026-07-23",
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "source": "hackernews"
-    },
-    "6ca22fc6b2aead0a": {
-      "date": "2026-07-23",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "source": "hackernews"
-    },
-    "5e48565febeac4f5": {
-      "date": "2026-07-23",
-      "title": "Are AI labs pelicanmaxxing?",
-      "source": "hackernews"
-    },
-    "a1d745ce50de911b": {
-      "date": "2026-07-23",
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "source": "hackernews"
-    },
-    "02232e38e9ed7824": {
-      "date": "2026-07-23",
-      "title": "Everyone should know SIMD",
-      "source": "hackernews"
-    },
-    "9f90536071ea53ea": {
-      "date": "2026-07-23",
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "source": "hackernews"
-    },
-    "c8888a8db57dc488": {
-      "date": "2026-07-23",
-      "title": "git's –end-of-options Flag",
-      "source": "hackernews"
-    },
-    "3b9ce8048ca3ffb0": {
-      "date": "2026-07-23",
-      "title": "Making ASCII Art in Vim",
-      "source": "hackernews"
-    },
-    "6c23fae05e9479be": {
-      "date": "2026-07-23",
-      "title": "Restructuring GitHub's bug bounty program",
-      "source": "hackernews"
-    },
-    "fa6bd82f61d13fa7": {
-      "date": "2026-07-23",
-      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "source": "hackernews"
-    },
-    "a0c8c4ea5a8d3c9a": {
-      "date": "2026-07-23",
-      "title": "AgentManager",
-      "source": "producthunt"
-    },
-    "325f1a1d14a14446": {
-      "date": "2026-07-23",
-      "title": "Garmin CIRQA™ Smart Band",
-      "source": "producthunt"
-    },
-    "fab52f6911a82a9e": {
-      "date": "2026-07-23",
-      "title": "Lattics",
-      "source": "producthunt"
-    },
-    "f05b34d02ab03efd": {
-      "date": "2026-07-23",
-      "title": "MonoCloud for Startups",
-      "source": "producthunt"
-    },
-    "8361de597a4f8d85": {
-      "date": "2026-07-23",
-      "title": "box",
-      "source": "producthunt"
-    },
-    "da974e3033e08f8e": {
-      "date": "2026-07-23",
-      "title": "Redential",
-      "source": "producthunt"
-    },
-    "564f8e5d9182d672": {
-      "date": "2026-07-23",
-      "title": "Light Flip",
-      "source": "producthunt"
-    },
-    "8b56d022076b2e8f": {
-      "date": "2026-07-23",
-      "title": "Humalike x Hermes",
-      "source": "producthunt"
-    },
-    "5da3f4c37d3720d8": {
-      "date": "2026-07-23",
-      "title": "The Friction Is A Feature, Not A Bug: Teaching and Mentoring in the Age of AI",
-      "source": "devto"
-    },
-    "d99d41e62511a205": {
-      "date": "2026-07-23",
-      "title": "Contribuir para a comunidade: como destacar isso no seu LinkedIn e currículo",
-      "source": "devto"
-    },
-    "d1195c9225566267": {
-      "date": "2026-07-23",
-      "title": "Substack's New AI Detector Has the Same Blind Spot DEV.to's Did",
-      "source": "devto"
-    },
-    "22d1b91ecd7a24a9": {
-      "date": "2026-07-23",
-      "title": "Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks",
-      "source": "devto"
-    },
-    "6b281a647098fd45": {
-      "date": "2026-07-23",
-      "title": "What is a context window, actually?",
-      "source": "devto"
-    },
-    "f6b077c6f20dc5b9": {
-      "date": "2026-07-23",
-      "title": "Swift Classes — Deinitializers and How Swift Cleans Up After Itself 🧹",
-      "source": "devto"
-    },
-    "28120def5bae5dbe": {
-      "date": "2026-07-23",
-      "title": "Teaching Claude Code to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and",
-      "source": "devto"
-    },
-    "ef6aff73d624510f": {
-      "date": "2026-07-23",
-      "title": "Defeating the Fargate Cold Start Chaos with SOCI",
-      "source": "devto"
-    },
-    "1e626d276e20994c": {
-      "date": "2026-07-23",
-      "title": "SPF, DKIM, DMARC: the 15-minute setup that actually passes",
-      "source": "devto"
-    },
-    "b75ebd7bec4dfd12": {
-      "date": "2026-07-23",
-      "title": "I Built a Job-Scraping Bot to Escape Cloud Consulting (And It's Open Source)",
-      "source": "devto"
-    },
-    "b88a3a4b263fe858": {
-      "date": "2026-07-23",
-      "title": "schollz / croc",
-      "source": "github"
-    },
-    "239fc0bbdc76c10b": {
-      "date": "2026-07-23",
-      "title": "likec4 / likec4",
-      "source": "github"
-    },
-    "bfeff07f7d8682f0": {
-      "date": "2026-07-23",
-      "title": "jamiepine / voicebox",
-      "source": "github"
-    },
-    "c175a33fc9954c9b": {
-      "date": "2026-07-23",
-      "title": "shiyu-coder / Kronos",
-      "source": "github"
-    },
-    "7e39ec2390d0765a": {
-      "date": "2026-07-23",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "source": "github"
-    },
-    "fe5f464751175ecd": {
-      "date": "2026-07-23",
-      "title": "agegr / pi-web",
-      "source": "github"
-    },
-    "0f509cf92ac6d466": {
-      "date": "2026-07-23",
-      "title": "dreamhunter2333 / cloudflare_temp_email",
-      "source": "github"
-    },
     "35ef15278bebe994": {
       "date": "2026-07-24",
       "title": "Writing by hand is good for your brain",
@@ -5175,6 +5000,156 @@
     "66fdad17e3139cd7": {
       "date": "2026-08-22",
       "title": "ripienaar / free-for-dev",
+      "source": "github"
+    },
+    "5587198269c03721": {
+      "date": "2026-08-23",
+      "title": "What Is a Harness?",
+      "source": "hackernews"
+    },
+    "d86a8b31a2a6f0b7": {
+      "date": "2026-08-23",
+      "title": "A website for debloated open source alternatives",
+      "source": "hackernews"
+    },
+    "5aa3dc41b67ba0dd": {
+      "date": "2026-08-23",
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "source": "hackernews"
+    },
+    "df1121e45dc84d2c": {
+      "date": "2026-08-23",
+      "title": "How Complex Systems Fail (1998)",
+      "source": "hackernews"
+    },
+    "523f84d052df6d85": {
+      "date": "2026-08-23",
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "source": "hackernews"
+    },
+    "db8d83e94d0ed777": {
+      "date": "2026-08-23",
+      "title": "How I find problems to solve as a staff engineer",
+      "source": "hackernews"
+    },
+    "14cd1f746e8de209": {
+      "date": "2026-08-23",
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "source": "hackernews"
+    },
+    "43f3b04e9a20717d": {
+      "date": "2026-08-23",
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "source": "hackernews"
+    },
+    "e51017e8b3e9b565": {
+      "date": "2026-08-23",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "source": "hackernews"
+    },
+    "83c317adb2b4aad6": {
+      "date": "2026-08-23",
+      "title": "The Vibe Tax",
+      "source": "hackernews"
+    },
+    "6e3391c63ee66e31": {
+      "date": "2026-08-23",
+      "title": "Claude Academy",
+      "source": "producthunt"
+    },
+    "c3ba88752ae4cb87": {
+      "date": "2026-08-23",
+      "title": "Yatko",
+      "source": "producthunt"
+    },
+    "c22ac4ed30c0f62c": {
+      "date": "2026-08-23",
+      "title": "KanaSensei",
+      "source": "producthunt"
+    },
+    "a99536d6f2518511": {
+      "date": "2026-08-23",
+      "title": "Plask",
+      "source": "producthunt"
+    },
+    "a226d258575e5b98": {
+      "date": "2026-08-23",
+      "title": "OpenLogi",
+      "source": "producthunt"
+    },
+    "ea3c0900c3efed0f": {
+      "date": "2026-08-23",
+      "title": "Eleven tables, zero indices, and the observability I added afterwards found three more bugs",
+      "source": "devto"
+    },
+    "a353b6c53888efd8": {
+      "date": "2026-08-23",
+      "title": "I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway",
+      "source": "devto"
+    },
+    "7af76fc2a0f8da07": {
+      "date": "2026-08-23",
+      "title": "My performance optimization silently disabled the feature the app exists for",
+      "source": "devto"
+    },
+    "d6c6c178479c7455": {
+      "date": "2026-08-23",
+      "title": "I installed a crash reporter and it crashed my app 100% of the time",
+      "source": "devto"
+    },
+    "9155a93ece1a87ce": {
+      "date": "2026-08-23",
+      "title": "The People Building AI Are the Worst at Predicting It",
+      "source": "devto"
+    },
+    "14007469ffebba3f": {
+      "date": "2026-08-23",
+      "title": "One conversation, four cards: the dashboard bug with three root causes stacked on top of each other",
+      "source": "devto"
+    },
+    "5261050034a1ef7f": {
+      "date": "2026-08-23",
+      "title": "How I recorded my first product demo in 54 seconds (OBS, ffmpeg, openai.fm)",
+      "source": "devto"
+    },
+    "00127f53be087f46": {
+      "date": "2026-08-23",
+      "title": "The Bug That Looked Fine to Every Visitor and Lied to Every Crawler",
+      "source": "devto"
+    },
+    "832151c516054854": {
+      "date": "2026-08-23",
+      "title": "Your AI Agent Doesn't Need a Bigger Context Window. It Needs an Eviction Policy.",
+      "source": "devto"
+    },
+    "4e1aef16da44c64b": {
+      "date": "2026-08-23",
+      "title": "Someone forked my React component instead of opening an issue",
+      "source": "devto"
+    },
+    "7694793c41367c9a": {
+      "date": "2026-08-23",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "source": "github"
+    },
+    "e5348c5ff3f91788": {
+      "date": "2026-08-23",
+      "title": "tinyhumansai / openhuman",
+      "source": "github"
+    },
+    "064bd2f0be42f364": {
+      "date": "2026-08-23",
+      "title": "VoltAgent / awesome-agent-skills",
+      "source": "github"
+    },
+    "494d19bddf316eb5": {
+      "date": "2026-08-23",
+      "title": "dani-garcia / vaultwarden",
+      "source": "github"
+    },
+    "6587b2c413179319": {
+      "date": "2026-08-23",
+      "title": "anthropics / claude-plugins-community",
       "source": "github"
     }
   }
