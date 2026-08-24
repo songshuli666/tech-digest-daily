@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-23T21:54:33.696441",
+  "last_updated": "2026-08-24T22:01:56.684808",
   "sent_items": {
-    "35ef15278bebe994": {
-      "date": "2026-07-24",
-      "title": "Writing by hand is good for your brain",
-      "source": "hackernews"
-    },
-    "aca257bb93fd12fa": {
-      "date": "2026-07-24",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "source": "hackernews"
-    },
-    "8cce3676d4f631cb": {
-      "date": "2026-07-24",
-      "title": "98.css",
-      "source": "hackernews"
-    },
-    "f64ead1100dcc11f": {
-      "date": "2026-07-24",
-      "title": "What happened to TheNumbers.com",
-      "source": "hackernews"
-    },
-    "8bd1f17f0a17c196": {
-      "date": "2026-07-24",
-      "title": "The Beam Engine",
-      "source": "hackernews"
-    },
-    "5223b9bbb6a5ac5f": {
-      "date": "2026-07-24",
-      "title": "Software rendering in 500 lines of bare C++",
-      "source": "hackernews"
-    },
-    "1ff27c8ad9969a65": {
-      "date": "2026-07-24",
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "source": "hackernews"
-    },
-    "85bd5a1fc677dda6": {
-      "date": "2026-07-24",
-      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "source": "hackernews"
-    },
-    "cc744205c493c965": {
-      "date": "2026-07-24",
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "source": "hackernews"
-    },
-    "7050f540acb8dcac": {
-      "date": "2026-07-24",
-      "title": "What else do people draw on gradient.horse?",
-      "source": "hackernews"
-    },
-    "e8789acdfd3d98db": {
-      "date": "2026-07-24",
-      "title": "Mnemcore",
-      "source": "producthunt"
-    },
-    "a26d039d80c91d88": {
-      "date": "2026-07-24",
-      "title": "HOL Guard",
-      "source": "producthunt"
-    },
-    "9b635b60815e08cb": {
-      "date": "2026-07-24",
-      "title": "GTA DataCity",
-      "source": "producthunt"
-    },
-    "e4826f308694e629": {
-      "date": "2026-07-24",
-      "title": "Fathom",
-      "source": "producthunt"
-    },
-    "26b811d667d2e418": {
-      "date": "2026-07-24",
-      "title": "Wispro",
-      "source": "producthunt"
-    },
-    "bf55e7c1c16bced4": {
-      "date": "2026-07-24",
-      "title": "Fable Flight",
-      "source": "producthunt"
-    },
-    "f8d9d2a3fb3d6805": {
-      "date": "2026-07-24",
-      "title": "SMASH Voice to Invoice",
-      "source": "producthunt"
-    },
-    "509787364215c635": {
-      "date": "2026-07-24",
-      "title": "Motionly",
-      "source": "producthunt"
-    },
-    "faa501375775e0d3": {
-      "date": "2026-07-24",
-      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-      "source": "devto"
-    },
-    "00e0bb1da86f7c77": {
-      "date": "2026-07-24",
-      "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
-      "source": "devto"
-    },
-    "686ffa292750fff1": {
-      "date": "2026-07-24",
-      "title": "Better than Next.js? Is Rust Finally Ready for Full-Stack Web Development? Introducing Topcoat",
-      "source": "devto"
-    },
-    "2cd143fdad0c7ca8": {
-      "date": "2026-07-24",
-      "title": "Tried building GitHub's search box in Go",
-      "source": "devto"
-    },
-    "eeda0c5ab91437cc": {
-      "date": "2026-07-24",
-      "title": "Swift Classes — The Four Ways Variables and Constants Can Combine 🎭",
-      "source": "devto"
-    },
-    "7cca8a62219d6b5b": {
-      "date": "2026-07-24",
-      "title": "The AWS Cleanup We Keep Putting Off (I Let an Agent Do It)",
-      "source": "devto"
-    },
-    "078745d6ff844477": {
-      "date": "2026-07-24",
-      "title": "Roll your own file-based router in under 50 lines of code",
-      "source": "devto"
-    },
-    "d89892338a08a58f": {
-      "date": "2026-07-24",
-      "title": "How AI Endpoints Change the Traditional API Flow",
-      "source": "devto"
-    },
-    "5920cc8cff939517": {
-      "date": "2026-07-24",
-      "title": "DSCI - CI with regular programming languages instead of YAML",
-      "source": "devto"
-    },
-    "8dca5ae0f0ac47a1": {
-      "date": "2026-07-24",
-      "title": "Your Car Is Spying on Itself. I Taught It to Confess.",
-      "source": "devto"
-    },
-    "f8fd1424e453d1b4": {
-      "date": "2026-07-24",
-      "title": "block / buzz",
-      "source": "github"
-    },
-    "0064ff826d4ea331": {
-      "date": "2026-07-24",
-      "title": "Pumpkin-MC / Pumpkin",
-      "source": "github"
-    },
-    "02e09efcdbd4bdf8": {
-      "date": "2026-07-24",
-      "title": "citrolabs / ego-lite",
-      "source": "github"
-    },
-    "9cd514d03f14c102": {
-      "date": "2026-07-24",
-      "title": "alibaba / open-code-review",
-      "source": "github"
-    },
-    "f0e8ac07d3199ef1": {
-      "date": "2026-07-24",
-      "title": "Automattic / harper",
-      "source": "github"
-    },
-    "59e9f1b93ba7d02c": {
-      "date": "2026-07-24",
-      "title": "jellyfin / jellyfin",
-      "source": "github"
-    },
     "0abbbce48d5f23f6": {
       "date": "2026-07-25",
       "title": "Hotspot Meter",
@@ -5150,6 +4980,171 @@
     "6587b2c413179319": {
       "date": "2026-08-23",
       "title": "anthropics / claude-plugins-community",
+      "source": "github"
+    },
+    "be1f7cd2c534f8eb": {
+      "date": "2026-08-24",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "source": "hackernews"
+    },
+    "9899235269a727b7": {
+      "date": "2026-08-24",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "source": "hackernews"
+    },
+    "8fc05fbe4bf4e7d8": {
+      "date": "2026-08-24",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "source": "hackernews"
+    },
+    "f97cde3b5bd2e7b3": {
+      "date": "2026-08-24",
+      "title": "IPFS Maintainers Winding Down",
+      "source": "hackernews"
+    },
+    "fd1baf471cf9a7ed": {
+      "date": "2026-08-24",
+      "title": "Oceans hit highest temperature on record",
+      "source": "hackernews"
+    },
+    "59c86df6a3d6bc7e": {
+      "date": "2026-08-24",
+      "title": "The entire city of San Francisco as a video game",
+      "source": "hackernews"
+    },
+    "a06bcd6e9f80994c": {
+      "date": "2026-08-24",
+      "title": "Jabber/XMPP: 25 Years of Digital Independence",
+      "source": "hackernews"
+    },
+    "b26a851d0be4ffa2": {
+      "date": "2026-08-24",
+      "title": "Where did all the public bathrooms go?",
+      "source": "hackernews"
+    },
+    "f150166fb062d668": {
+      "date": "2026-08-24",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "source": "hackernews"
+    },
+    "3b3359aa0b2085ce": {
+      "date": "2026-08-24",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "source": "hackernews"
+    },
+    "f09a831d6ddc3f31": {
+      "date": "2026-08-24",
+      "title": "Offloop",
+      "source": "producthunt"
+    },
+    "2bae7486a91b0c45": {
+      "date": "2026-08-24",
+      "title": "Dropstone",
+      "source": "producthunt"
+    },
+    "9ac032c451b273e0": {
+      "date": "2026-08-24",
+      "title": "Trama",
+      "source": "producthunt"
+    },
+    "c8c84bd33fd90d00": {
+      "date": "2026-08-24",
+      "title": "Treebar",
+      "source": "producthunt"
+    },
+    "6a3bef348ff9cc80": {
+      "date": "2026-08-24",
+      "title": "Localdock",
+      "source": "producthunt"
+    },
+    "fddd8580f4d7e4b7": {
+      "date": "2026-08-24",
+      "title": "PaymentKit",
+      "source": "producthunt"
+    },
+    "a977d2cfc034f8d7": {
+      "date": "2026-08-24",
+      "title": "IFAH",
+      "source": "producthunt"
+    },
+    "7739a2caed647240": {
+      "date": "2026-08-24",
+      "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
+      "source": "devto"
+    },
+    "db8653233275605a": {
+      "date": "2026-08-24",
+      "title": "I Won a Writing Challenge That I Almost Didn't Publish!",
+      "source": "devto"
+    },
+    "c0da9fd80c0c4683": {
+      "date": "2026-08-24",
+      "title": "I Almost Shipped a RAG Assistant That Lied About APIs That Don't Exist",
+      "source": "devto"
+    },
+    "b86adc8781e1f34e": {
+      "date": "2026-08-24",
+      "title": "The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?",
+      "source": "devto"
+    },
+    "bde336ab11e2123b": {
+      "date": "2026-08-24",
+      "title": "I Built an AWS DevOps AI Agent Using Kiro Crew + MCP",
+      "source": "devto"
+    },
+    "5511de5a4d9b6000": {
+      "date": "2026-08-24",
+      "title": "The Tests Passed. The Contract Was Wrong.",
+      "source": "devto"
+    },
+    "7e7dcbe7551daffa": {
+      "date": "2026-08-24",
+      "title": "7 Signs You're Over-Engineering Your AI App (and How to Stop)",
+      "source": "devto"
+    },
+    "d58897d241605922": {
+      "date": "2026-08-24",
+      "title": "Why my biggest embarrassment was also one of my greatest learning experiences in Programming!",
+      "source": "devto"
+    },
+    "17a6442f99296988": {
+      "date": "2026-08-24",
+      "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
+      "source": "devto"
+    },
+    "bf43f133fda7af60": {
+      "date": "2026-08-24",
+      "title": "AI, Fairy's, and Agile",
+      "source": "devto"
+    },
+    "ce3a785ea3a972f5": {
+      "date": "2026-08-24",
+      "title": "MadsLorentzen / ai-job-search",
+      "source": "github"
+    },
+    "978e35c607178533": {
+      "date": "2026-08-24",
+      "title": "NousResearch / hermes-agent",
+      "source": "github"
+    },
+    "0bd21c2cf11fc945": {
+      "date": "2026-08-24",
+      "title": "openclaw / openclaw",
+      "source": "github"
+    },
+    "d2c746ee30ee6b2f": {
+      "date": "2026-08-24",
+      "title": "AgriciDaniel / claude-obsidian",
+      "source": "github"
+    },
+    "4d8e922de101f720": {
+      "date": "2026-08-24",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "source": "github"
+    },
+    "43d43a131b0529aa": {
+      "date": "2026-08-24",
+      "title": "tashfeenahmed / freellmapi",
       "source": "github"
     }
   }
