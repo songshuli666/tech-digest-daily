@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-24T22:01:56.684808",
+  "last_updated": "2026-08-25T22:01:44.764479",
   "sent_items": {
-    "0abbbce48d5f23f6": {
-      "date": "2026-07-25",
-      "title": "Hotspot Meter",
-      "source": "producthunt"
-    },
-    "ca8e0d337b926230": {
-      "date": "2026-07-25",
-      "title": "Liso",
-      "source": "producthunt"
-    },
-    "251094ae0d595314": {
-      "date": "2026-07-25",
-      "title": "Buzz",
-      "source": "producthunt"
-    },
-    "4cd8726e2096bec7": {
-      "date": "2026-07-25",
-      "title": "HarnessRouter",
-      "source": "producthunt"
-    },
-    "b58ffa21d36583e5": {
-      "date": "2026-07-25",
-      "title": "The new Firecrawl /search",
-      "source": "producthunt"
-    },
-    "fa59e88f036b3e53": {
-      "date": "2026-07-25",
-      "title": "YC has it",
-      "source": "producthunt"
-    },
-    "9152c3d73117eaa2": {
-      "date": "2026-07-25",
-      "title": "Prosed",
-      "source": "producthunt"
-    },
-    "d05d8aadf890ce6b": {
-      "date": "2026-07-25",
-      "title": "Freesolo Flash",
-      "source": "producthunt"
-    },
-    "1445d8a42c014bb8": {
-      "date": "2026-07-25",
-      "title": "Claude Opus 5",
-      "source": "hackernews"
-    },
-    "a6b9338fd2341ca0": {
-      "date": "2026-07-25",
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "source": "hackernews"
-    },
-    "044a992b61137428": {
-      "date": "2026-07-25",
-      "title": "India's first privately-developed rocket reaches orbit on debut launch",
-      "source": "hackernews"
-    },
-    "3a464cfed62513a7": {
-      "date": "2026-07-25",
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "source": "hackernews"
-    },
-    "7e3d93bcc2e892c9": {
-      "date": "2026-07-25",
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "source": "hackernews"
-    },
-    "78261b4c4c883a06": {
-      "date": "2026-07-25",
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "source": "hackernews"
-    },
-    "07521dea9f1f5697": {
-      "date": "2026-07-25",
-      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-      "source": "hackernews"
-    },
-    "7ae7008a6464cecb": {
-      "date": "2026-07-25",
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "source": "hackernews"
-    },
-    "1514d98a9fe8fe90": {
-      "date": "2026-07-25",
-      "title": "GC and Exceptions in Wasmtime",
-      "source": "hackernews"
-    },
-    "040184a965f82424": {
-      "date": "2026-07-25",
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "source": "hackernews"
-    },
-    "05d37dc32f33cdc9": {
-      "date": "2026-07-25",
-      "title": "Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus L",
-      "source": "devto"
-    },
-    "15475f4daa5f3799": {
-      "date": "2026-07-25",
-      "title": "Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions ",
-      "source": "devto"
-    },
-    "e29a28ade0bb4300": {
-      "date": "2026-07-25",
-      "title": "6 Open Source Tools That Give You the Web Back",
-      "source": "devto"
-    },
-    "c90d9bc83522e00c": {
-      "date": "2026-07-25",
-      "title": "The World's Oldest Communication Protocol Is Music",
-      "source": "devto"
-    },
-    "08819da096448997": {
-      "date": "2026-07-25",
-      "title": "Own Your Pixels: Native Fidelity on Your Schedule",
-      "source": "devto"
-    },
-    "e1f430721ed58066": {
-      "date": "2026-07-25",
-      "title": "Hetzner Inference: First Look",
-      "source": "devto"
-    },
-    "849add21bba150f8": {
-      "date": "2026-07-25",
-      "title": "The Person Who Fixed the Bugs Just Vanished",
-      "source": "devto"
-    },
-    "f6b9a1ab05939659": {
-      "date": "2026-07-25",
-      "title": "Começando com Redes: Camadas de uma conexão TCP/IP",
-      "source": "devto"
-    },
-    "eca452783fe08d8f": {
-      "date": "2026-07-25",
-      "title": "Sentry's Span Hierarchy Exposed a Silent Retry in My 5-Agent Pipeline. One Agent Took 22.6s, the Oth",
-      "source": "devto"
-    },
-    "8e8f9354b3b61c38": {
-      "date": "2026-07-25",
-      "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-      "source": "devto"
-    },
-    "348a5ab08e75414c": {
-      "date": "2026-07-25",
-      "title": "yorukot / superfile",
-      "source": "github"
-    },
-    "1ae169fb23a902a7": {
-      "date": "2026-07-25",
-      "title": "mattpocock / skills",
-      "source": "github"
-    },
-    "1fc186e3e23d6cbb": {
-      "date": "2026-07-25",
-      "title": "Lordog / dive-into-llms",
-      "source": "github"
-    },
     "9b29631a6a5adf30": {
       "date": "2026-07-26",
       "title": "The new rules of context engineering for Claude 5 generation models",
@@ -5145,6 +4990,166 @@
     "43d43a131b0529aa": {
       "date": "2026-08-24",
       "title": "tashfeenahmed / freellmapi",
+      "source": "github"
+    },
+    "9e0dcfcc964536c1": {
+      "date": "2026-08-25",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "source": "hackernews"
+    },
+    "a6b88a221f756f8d": {
+      "date": "2026-08-25",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "source": "hackernews"
+    },
+    "8730cf242787ebbc": {
+      "date": "2026-08-25",
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "source": "hackernews"
+    },
+    "0a399a9e12f254bc": {
+      "date": "2026-08-25",
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "source": "hackernews"
+    },
+    "6456d0ae7e6df109": {
+      "date": "2026-08-25",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "source": "hackernews"
+    },
+    "b93f46aba1a0b52e": {
+      "date": "2026-08-25",
+      "title": "Black hole singularity is a surface not a point",
+      "source": "hackernews"
+    },
+    "d1594e345d64f317": {
+      "date": "2026-08-25",
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "source": "hackernews"
+    },
+    "959fccdebf72c040": {
+      "date": "2026-08-25",
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "source": "hackernews"
+    },
+    "a3303d6642187a9a": {
+      "date": "2026-08-25",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "source": "hackernews"
+    },
+    "d2a3f6279c26b586": {
+      "date": "2026-08-25",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "source": "hackernews"
+    },
+    "c3e37d9dc3e4bb3e": {
+      "date": "2026-08-25",
+      "title": "Agnost AI",
+      "source": "producthunt"
+    },
+    "387c1c5fdc8e805c": {
+      "date": "2026-08-25",
+      "title": "Flare",
+      "source": "producthunt"
+    },
+    "8cc7f6621cab6bc8": {
+      "date": "2026-08-25",
+      "title": "Diet Claude",
+      "source": "producthunt"
+    },
+    "f004f038cfbc1938": {
+      "date": "2026-08-25",
+      "title": "coolplugz",
+      "source": "producthunt"
+    },
+    "6f63774bc0f88997": {
+      "date": "2026-08-25",
+      "title": "Assistly",
+      "source": "producthunt"
+    },
+    "54224752e6a311b0": {
+      "date": "2026-08-25",
+      "title": "Altar II",
+      "source": "producthunt"
+    },
+    "af8ea844f311f633": {
+      "date": "2026-08-25",
+      "title": "Keymap",
+      "source": "producthunt"
+    },
+    "c28a8fa8e80a0515": {
+      "date": "2026-08-25",
+      "title": "Splitsense",
+      "source": "producthunt"
+    },
+    "1915f43a61a6c22b": {
+      "date": "2026-08-25",
+      "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
+      "source": "devto"
+    },
+    "358ad4e2986a603b": {
+      "date": "2026-08-25",
+      "title": "What Do You Do While AI Codes?",
+      "source": "devto"
+    },
+    "542a71aca23cee03": {
+      "date": "2026-08-25",
+      "title": "comiCSS #255: Yellow",
+      "source": "devto"
+    },
+    "25bbc750d5928577": {
+      "date": "2026-08-25",
+      "title": "A Wider Computer, Not a Bigger One: Modeling AI Inference Across Millions of Homes",
+      "source": "devto"
+    },
+    "87c0147b00415d48": {
+      "date": "2026-08-25",
+      "title": "Your Job Ends at 5. Your Developer Brain Doesn't.",
+      "source": "devto"
+    },
+    "c16fa32a9a25f738": {
+      "date": "2026-08-25",
+      "title": "Chat history is a second read path into your RAG data — gate the replay like the search",
+      "source": "devto"
+    },
+    "79d6f9e9918a289f": {
+      "date": "2026-08-25",
+      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
+      "source": "devto"
+    },
+    "55ebc47cedc7b839": {
+      "date": "2026-08-25",
+      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
+      "source": "devto"
+    },
+    "4a8eef51d0daff66": {
+      "date": "2026-08-25",
+      "title": "The Vulnerable Moment",
+      "source": "devto"
+    },
+    "40f30da82801738a": {
+      "date": "2026-08-25",
+      "title": "Nobody tells you the question window is closing",
+      "source": "devto"
+    },
+    "46405393d4f50fd7": {
+      "date": "2026-08-25",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "source": "github"
+    },
+    "40e5b3e975918503": {
+      "date": "2026-08-25",
+      "title": "marin-community / marin",
+      "source": "github"
+    },
+    "2526d3aeeaafdd09": {
+      "date": "2026-08-25",
+      "title": "DietrichGebert / ponytail",
+      "source": "github"
+    },
+    "f2ef8f8410a81a77": {
+      "date": "2026-08-25",
+      "title": "anthropics / claude-plugins-official",
       "source": "github"
     }
   }
