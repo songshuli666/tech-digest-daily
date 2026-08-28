@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-27T01:05:53.895990",
+  "last_updated": "2026-08-28T05:42:17.611277",
   "sent_items": {
-    "2dfce8db0dbc7a27": {
-      "date": "2026-07-28",
-      "title": "Our position on open-weights models",
-      "source": "hackernews"
-    },
-    "584e6b0ed7194e70": {
-      "date": "2026-07-28",
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "source": "hackernews"
-    },
-    "e71eef276855003f": {
-      "date": "2026-07-28",
-      "title": "Using an open model feels surprisingly good",
-      "source": "hackernews"
-    },
-    "6a68cce06573276d": {
-      "date": "2026-07-28",
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "source": "hackernews"
-    },
-    "51c9b213d7d72fc2": {
-      "date": "2026-07-28",
-      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "source": "hackernews"
-    },
-    "7643875321f9f186": {
-      "date": "2026-07-28",
-      "title": "Why do we think we understand the world more than we actually do?",
-      "source": "hackernews"
-    },
-    "5da4137898742d17": {
-      "date": "2026-07-28",
-      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
-      "source": "hackernews"
-    },
-    "093bf695cbaf01c6": {
-      "date": "2026-07-28",
-      "title": "Neutrino-1 8B",
-      "source": "hackernews"
-    },
-    "ac457b15ec75eeeb": {
-      "date": "2026-07-28",
-      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-      "source": "hackernews"
-    },
-    "36b57ed5488d96cc": {
-      "date": "2026-07-28",
-      "title": "PyTorch: A Reference Language",
-      "source": "hackernews"
-    },
-    "cb801d9d0e9cbed4": {
-      "date": "2026-07-28",
-      "title": "Comms",
-      "source": "producthunt"
-    },
-    "d5f09246d4795837": {
-      "date": "2026-07-28",
-      "title": "Webhound",
-      "source": "producthunt"
-    },
-    "346d2071925fe5b3": {
-      "date": "2026-07-28",
-      "title": "Notate",
-      "source": "producthunt"
-    },
-    "b105330180f3a437": {
-      "date": "2026-07-28",
-      "title": "Rescript",
-      "source": "producthunt"
-    },
-    "5020d229ca512ec8": {
-      "date": "2026-07-28",
-      "title": "Grok 4.5",
-      "source": "producthunt"
-    },
-    "a4934889c5eb1d9e": {
-      "date": "2026-07-28",
-      "title": "From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA",
-      "source": "devto"
-    },
-    "405bbd85cdf6b24c": {
-      "date": "2026-07-28",
-      "title": "Passkeys Explained Simply",
-      "source": "devto"
-    },
-    "b9a939540f2264ac": {
-      "date": "2026-07-28",
-      "title": "🗓️ Monthly Dev Report: July 2026",
-      "source": "devto"
-    },
-    "4986bc29b6e838f2": {
-      "date": "2026-07-28",
-      "title": "2 métodos que usei (E USO) nos estudos de programação.",
-      "source": "devto"
-    },
-    "2ca4ecc56d37ec58": {
-      "date": "2026-07-28",
-      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "source": "devto"
-    },
-    "33588dafd70e4752": {
-      "date": "2026-07-28",
-      "title": "Accessibility Semantics: The UI Tree You Cannot See",
-      "source": "devto"
-    },
-    "b8adb94a56c71356": {
-      "date": "2026-07-28",
-      "title": "Can Google ADK Talk to Microsoft Foundry on Azure? A Cross-Cloud A2A Benchmark",
-      "source": "devto"
-    },
-    "71d5fd40bed0d4c0": {
-      "date": "2026-07-28",
-      "title": "The Warning That Took My Site Down Was in the Log the Whole Time",
-      "source": "devto"
-    },
-    "743ceef1a4135107": {
-      "date": "2026-07-28",
-      "title": "Resurrecting the Panasonic WJ-MX50 in WebGPU",
-      "source": "devto"
-    },
-    "42c117d04ddbb7ef": {
-      "date": "2026-07-28",
-      "title": "Most free mahjong games can deal you a board you can't finish. I built mine backwards.",
-      "source": "devto"
-    },
-    "7161768abc2b1bf1": {
-      "date": "2026-07-28",
-      "title": "amnezia-vpn / amnezia-client",
-      "source": "github"
-    },
-    "da2e5405fa1d2e41": {
-      "date": "2026-07-28",
-      "title": "opengeos / GeoLibre",
-      "source": "github"
-    },
-    "6bf20bedea38ea7d": {
-      "date": "2026-07-28",
-      "title": "NanmiCoder / MediaCrawler",
-      "source": "github"
-    },
-    "874577557ff0ace1": {
-      "date": "2026-07-28",
-      "title": "jenkinsci / jenkins",
-      "source": "github"
-    },
-    "f11f26a49a080575": {
-      "date": "2026-07-28",
-      "title": "vudovn / ag-kit",
-      "source": "github"
-    },
-    "d2e956b168caf7fa": {
-      "date": "2026-07-28",
-      "title": "apache / cassandra",
-      "source": "github"
-    },
-    "337bb58fd3dab250": {
-      "date": "2026-07-28",
-      "title": "ocornut / imgui",
-      "source": "github"
-    },
     "de2fd5acd51b0554": {
       "date": "2026-07-29",
       "title": "Substack writers, you need a website",
@@ -4990,6 +4830,166 @@
     "bf559441b24d3589": {
       "date": "2026-08-27",
       "title": "K-Dense-AI / scientific-agent-skills",
+      "source": "github"
+    },
+    "58be3312c478c194": {
+      "date": "2026-08-28",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "source": "hackernews"
+    },
+    "989750ed4a620318": {
+      "date": "2026-08-28",
+      "title": "Microduck",
+      "source": "hackernews"
+    },
+    "d61a57e1a09bd47a": {
+      "date": "2026-08-28",
+      "title": "Small Models Have Arrived",
+      "source": "hackernews"
+    },
+    "e49de4befaef3f4b": {
+      "date": "2026-08-28",
+      "title": "507 Mechanical Movements",
+      "source": "hackernews"
+    },
+    "23fd80ee52affeeb": {
+      "date": "2026-08-28",
+      "title": "Gemini-3.5-Transcribe",
+      "source": "hackernews"
+    },
+    "a6e6631dd6a622e0": {
+      "date": "2026-08-28",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "source": "hackernews"
+    },
+    "0f84e108ec78ccf6": {
+      "date": "2026-08-28",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "source": "hackernews"
+    },
+    "c39310a30b0203c9": {
+      "date": "2026-08-28",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "source": "hackernews"
+    },
+    "306cce44250bb416": {
+      "date": "2026-08-28",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "source": "hackernews"
+    },
+    "0e9dfa1765d265b4": {
+      "date": "2026-08-28",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "source": "hackernews"
+    },
+    "ea06c6ef84f59fe0": {
+      "date": "2026-08-28",
+      "title": "HFlow",
+      "source": "producthunt"
+    },
+    "e31c1e86065707c3": {
+      "date": "2026-08-28",
+      "title": "Pluto",
+      "source": "producthunt"
+    },
+    "eccc5ba0bca7e352": {
+      "date": "2026-08-28",
+      "title": "Gemini 3.5 Transcribe",
+      "source": "producthunt"
+    },
+    "711a57e7498b9be7": {
+      "date": "2026-08-28",
+      "title": "The Million Sad Ducks",
+      "source": "producthunt"
+    },
+    "eb27a781b5596eec": {
+      "date": "2026-08-28",
+      "title": "Kraa 2.0",
+      "source": "producthunt"
+    },
+    "d877cff050d8e365": {
+      "date": "2026-08-28",
+      "title": "Cobalt",
+      "source": "producthunt"
+    },
+    "2c6f4d1e64f70c1d": {
+      "date": "2026-08-28",
+      "title": "Eventually",
+      "source": "producthunt"
+    },
+    "e2a820c2a4b93845": {
+      "date": "2026-08-28",
+      "title": "Velocidade de entrega e custo de manutenção pós IA",
+      "source": "devto"
+    },
+    "8c7115131731ac36": {
+      "date": "2026-08-28",
+      "title": "I'm 12. A senior dev broke my app. Then he became User #001",
+      "source": "devto"
+    },
+    "31d6520118193580": {
+      "date": "2026-08-28",
+      "title": "The agent posted successfully. To the wrong account.",
+      "source": "devto"
+    },
+    "a9d4faf5da4111ae": {
+      "date": "2026-08-28",
+      "title": "NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code",
+      "source": "devto"
+    },
+    "45ff7b5db8d3c05c": {
+      "date": "2026-08-28",
+      "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.",
+      "source": "devto"
+    },
+    "1a912c9064452499": {
+      "date": "2026-08-28",
+      "title": "Nobody Argued For Your Stack",
+      "source": "devto"
+    },
+    "5b8704a681992d9a": {
+      "date": "2026-08-28",
+      "title": "Three small design decisions in a \"toggle effects via CSS class\" library, and the tradeoffs behind t",
+      "source": "devto"
+    },
+    "22610ede6a25926d": {
+      "date": "2026-08-28",
+      "title": "Vector Search Is Still the Memory Layer Agents Actually Need",
+      "source": "devto"
+    },
+    "81bf57cfd3e563ad": {
+      "date": "2026-08-28",
+      "title": "Opus 5: How to Review Generated Code",
+      "source": "devto"
+    },
+    "a270782b3a1e5900": {
+      "date": "2026-08-28",
+      "title": "A Reader Audited My OSS Release in Public. He Found the Contradictions I Missed.",
+      "source": "devto"
+    },
+    "c0fb14db86dd87eb": {
+      "date": "2026-08-28",
+      "title": "bilawalsidhu / gods-eye-view",
+      "source": "github"
+    },
+    "c6c92ccd349560e8": {
+      "date": "2026-08-28",
+      "title": "zedeus / nitter",
+      "source": "github"
+    },
+    "7ee06cf44ceed965": {
+      "date": "2026-08-28",
+      "title": "JetBrains / go-modern-guidelines",
+      "source": "github"
+    },
+    "f08d8cf2c7baf95f": {
+      "date": "2026-08-28",
+      "title": "thedotmack / claude-mem",
+      "source": "github"
+    },
+    "7597a814a95abab6": {
+      "date": "2026-08-28",
+      "title": "google / googletest",
       "source": "github"
     }
   }
