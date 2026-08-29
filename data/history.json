@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-28T05:42:17.611277",
+  "last_updated": "2026-08-29T03:26:47.016143",
   "sent_items": {
-    "de2fd5acd51b0554": {
-      "date": "2026-07-29",
-      "title": "Substack writers, you need a website",
-      "source": "hackernews"
-    },
-    "2a9bb2bf7afb0f86": {
-      "date": "2026-07-29",
-      "title": "Codex Security",
-      "source": "hackernews"
-    },
-    "8cf35aebd06a8a75": {
-      "date": "2026-07-29",
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "source": "hackernews"
-    },
-    "0128a6806bf564c7": {
-      "date": "2026-07-29",
-      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "source": "hackernews"
-    },
-    "4136a28fa8a8af27": {
-      "date": "2026-07-29",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "source": "hackernews"
-    },
-    "ca1411951282c86d": {
-      "date": "2026-07-29",
-      "title": "Zig's Incremental Compilation Internals",
-      "source": "hackernews"
-    },
-    "f79750898e2b895e": {
-      "date": "2026-07-29",
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "source": "hackernews"
-    },
-    "b42ee2dcd776a949": {
-      "date": "2026-07-29",
-      "title": "Half-Life ported to Mac OS 9",
-      "source": "hackernews"
-    },
-    "e46640725feb7acd": {
-      "date": "2026-07-29",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "source": "hackernews"
-    },
-    "983dae7933183982": {
-      "date": "2026-07-29",
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "source": "hackernews"
-    },
-    "6ae63e62bec3fd6c": {
-      "date": "2026-07-29",
-      "title": "Tag Your Photos",
-      "source": "producthunt"
-    },
-    "14b4d9b839cfbe58": {
-      "date": "2026-07-29",
-      "title": "RecipeBook by Shofo",
-      "source": "producthunt"
-    },
-    "c0aca77391c4951f": {
-      "date": "2026-07-29",
-      "title": "qsa.sh",
-      "source": "producthunt"
-    },
-    "f4fbe4ee519191bf": {
-      "date": "2026-07-29",
-      "title": "Phantom",
-      "source": "producthunt"
-    },
-    "236c084380ac775f": {
-      "date": "2026-07-29",
-      "title": "Liminal",
-      "source": "producthunt"
-    },
-    "76114fd885edf904": {
-      "date": "2026-07-29",
-      "title": "MCP-Billing",
-      "source": "producthunt"
-    },
-    "57ef38d928e9cb29": {
-      "date": "2026-07-29",
-      "title": "Ycode AI Agents",
-      "source": "producthunt"
-    },
-    "2cd00719ba4ca7ca": {
-      "date": "2026-07-29",
-      "title": "EasyCircuit",
-      "source": "producthunt"
-    },
-    "f3ea32c160be052c": {
-      "date": "2026-07-29",
-      "title": "pascalorg / editor",
-      "source": "github"
-    },
-    "861d4c5ecdfff7a8": {
-      "date": "2026-07-29",
-      "title": "huggingface / speech-to-speech",
-      "source": "github"
-    },
-    "543fba56e9cf616a": {
-      "date": "2026-07-29",
-      "title": "virgiliojr94 / book-to-skill",
-      "source": "github"
-    },
-    "8ad77482faae9799": {
-      "date": "2026-07-29",
-      "title": "paperswithbacktest / awesome-systematic-trading",
-      "source": "github"
-    },
-    "2b9d770ccfd92a6b": {
-      "date": "2026-07-29",
-      "title": "microsoft / agent-governance-toolkit",
-      "source": "github"
-    },
-    "2df5c7e5656a3f8f": {
-      "date": "2026-07-29",
-      "title": "Understanding Over Origin",
-      "source": "devto"
-    },
-    "935d5c1f260ddf6c": {
-      "date": "2026-07-29",
-      "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-      "source": "devto"
-    },
-    "7d8338d801f4b44d": {
-      "date": "2026-07-29",
-      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
-      "source": "devto"
-    },
-    "a7a1706a835e6ea4": {
-      "date": "2026-07-29",
-      "title": "I Had a Lot of Fun Building a Linux Packet Flight Recorder",
-      "source": "devto"
-    },
-    "d46c7a4796e369ef": {
-      "date": "2026-07-29",
-      "title": "Vibe Coding: Endgame",
-      "source": "devto"
-    },
-    "e41f4461b7dd014e": {
-      "date": "2026-07-29",
-      "title": "If Your AI Agent Has Write Access to Public Repos, Audit It Now — Here's Why",
-      "source": "devto"
-    },
-    "fc1ae3ec8b266798": {
-      "date": "2026-07-29",
-      "title": "I had two weeks, an 8-foot keyboard, and a Wordle Workflow",
-      "source": "devto"
-    },
-    "69d0f75dc27b238f": {
-      "date": "2026-07-29",
-      "title": "[Learning Notes][Golang] Authorization Challenges in the AI Agent Era: What is ID-JAG and Why I Re-i",
-      "source": "devto"
-    },
-    "e9483dcc5311e238": {
-      "date": "2026-07-29",
-      "title": "Your Face on a World Cup Sticker: Our Nano Banana Story",
-      "source": "devto"
-    },
-    "ea3a582c04d3f246": {
-      "date": "2026-07-29",
-      "title": "Can Google ADK Talk to Amazon Bedrock AgentCore Runtime? A Cross-Cloud A2A Benchmark",
-      "source": "devto"
-    },
     "e50aac1017d1f915": {
       "date": "2026-07-30",
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
@@ -4990,6 +4825,166 @@
     "7597a814a95abab6": {
       "date": "2026-08-28",
       "title": "google / googletest",
+      "source": "github"
+    },
+    "74ae9e994eb8ccf6": {
+      "date": "2026-08-29",
+      "title": "GUIs should be fully keyboard-driven",
+      "source": "hackernews"
+    },
+    "85d677ced8012c42": {
+      "date": "2026-08-29",
+      "title": "Htmx 4.0",
+      "source": "hackernews"
+    },
+    "e1146483aea35c4b": {
+      "date": "2026-08-29",
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "source": "hackernews"
+    },
+    "4ca22bea27f65e69": {
+      "date": "2026-08-29",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "hackernews"
+    },
+    "b4bdc8f156c5c7d4": {
+      "date": "2026-08-29",
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "source": "hackernews"
+    },
+    "9d6bd8d36d0a45dd": {
+      "date": "2026-08-29",
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "source": "hackernews"
+    },
+    "c4beb1b3e39287e9": {
+      "date": "2026-08-29",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "source": "hackernews"
+    },
+    "3b2887a66a01672f": {
+      "date": "2026-08-29",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "source": "hackernews"
+    },
+    "4c5d2d213d9f8b41": {
+      "date": "2026-08-29",
+      "title": "Monzo Stand-In",
+      "source": "hackernews"
+    },
+    "b2210563bd6850de": {
+      "date": "2026-08-29",
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "source": "hackernews"
+    },
+    "92b8fa59a6843995": {
+      "date": "2026-08-29",
+      "title": "Microduck",
+      "source": "producthunt"
+    },
+    "b58ffa21d36583e5": {
+      "date": "2026-08-29",
+      "title": "Firecrawl Developer Index",
+      "source": "producthunt"
+    },
+    "62368ada59ee2f64": {
+      "date": "2026-08-29",
+      "title": "Spline V2",
+      "source": "producthunt"
+    },
+    "7865a421d2a151f1": {
+      "date": "2026-08-29",
+      "title": "Almanac",
+      "source": "producthunt"
+    },
+    "98e6114a5a17745e": {
+      "date": "2026-08-29",
+      "title": "Gemini Omni 1.1 Flash",
+      "source": "producthunt"
+    },
+    "721589268b22fc92": {
+      "date": "2026-08-29",
+      "title": "AureaCam",
+      "source": "producthunt"
+    },
+    "bbe79fdd67cb66bd": {
+      "date": "2026-08-29",
+      "title": "SnakeRank",
+      "source": "producthunt"
+    },
+    "77fb5b3d56baf38b": {
+      "date": "2026-08-29",
+      "title": "CTRL Micro",
+      "source": "producthunt"
+    },
+    "5c94f1adbb7b0042": {
+      "date": "2026-08-29",
+      "title": "What was your win this week?!",
+      "source": "devto"
+    },
+    "95325858f2d71aeb": {
+      "date": "2026-08-29",
+      "title": "Your AI Remembers Everything and Trusts All of It",
+      "source": "devto"
+    },
+    "ce9b9a16a3bf2ae5": {
+      "date": "2026-08-29",
+      "title": "🗓️ Monthly Dev Report: August 2026",
+      "source": "devto"
+    },
+    "4dc7031e5cc876bd": {
+      "date": "2026-08-29",
+      "title": "Go Doesn't Force Clean Architecture. That's Your Job.",
+      "source": "devto"
+    },
+    "99f7ac02538e47c2": {
+      "date": "2026-08-29",
+      "title": "16 Posts, Started Commenting, then got the Shield",
+      "source": "devto"
+    },
+    "35a76093d6e8da6a": {
+      "date": "2026-08-29",
+      "title": "How BitTorrent Turned Every Downloader Into a Server",
+      "source": "devto"
+    },
+    "02c22dc4eff5943f": {
+      "date": "2026-08-29",
+      "title": "The Matrix Wasn't A Battery Farm. It Was A GPU Cluster Made Of Human Brains.",
+      "source": "devto"
+    },
+    "1c656aca9417dc11": {
+      "date": "2026-08-29",
+      "title": "What two months of interviewing taught me about the 2026 tech job market",
+      "source": "devto"
+    },
+    "56750041f4c9f6e7": {
+      "date": "2026-08-29",
+      "title": "How a Strands agent took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
+      "source": "devto"
+    },
+    "473f1abe5e0cb911": {
+      "date": "2026-08-29",
+      "title": "Developers that brand AI as slop will be left behind",
+      "source": "devto"
+    },
+    "46e24096af5aa5e6": {
+      "date": "2026-08-29",
+      "title": "abhigyanpatwari / GitNexus",
+      "source": "github"
+    },
+    "0ba40d78bf1a7950": {
+      "date": "2026-08-29",
+      "title": "abi / screenshot-to-code",
+      "source": "github"
+    },
+    "388733e392d2ca27": {
+      "date": "2026-08-29",
+      "title": "NationalSecurityAgency / ghidra",
+      "source": "github"
+    },
+    "a84d370951f30abb": {
+      "date": "2026-08-29",
+      "title": "swoole / typephp",
       "source": "github"
     }
   }
