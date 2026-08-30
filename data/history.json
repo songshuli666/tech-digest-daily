@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-08-29T23:38:52.338577",
+  "last_updated": "2026-08-30T23:48:58.089816",
   "sent_items": {
-    "e50aac1017d1f915": {
-      "date": "2026-07-30",
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "source": "hackernews"
-    },
-    "377f5ac875144055": {
-      "date": "2026-07-30",
-      "title": "Superlogical",
-      "source": "hackernews"
-    },
-    "92e6cbdb00f77163": {
-      "date": "2026-07-30",
-      "title": "The coolest use for the Vision Pro",
-      "source": "hackernews"
-    },
-    "1bb6a0f5101fa13b": {
-      "date": "2026-07-30",
-      "title": "AI's top startups are barely publishing their research",
-      "source": "hackernews"
-    },
-    "77fdc712014a2ba2": {
-      "date": "2026-07-30",
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "source": "hackernews"
-    },
-    "0d2705fe3918d15c": {
-      "date": "2026-07-30",
-      "title": "LLM Honeypot",
-      "source": "hackernews"
-    },
-    "cf9847582c797706": {
-      "date": "2026-07-30",
-      "title": "The Productivity Mirage",
-      "source": "hackernews"
-    },
-    "baa2ee0191ec5cb1": {
-      "date": "2026-07-30",
-      "title": "The Cold Email",
-      "source": "hackernews"
-    },
-    "0ada6f048610af2c": {
-      "date": "2026-07-30",
-      "title": "Logic for Programmers",
-      "source": "hackernews"
-    },
-    "228a311f64143b3b": {
-      "date": "2026-07-30",
-      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
-      "source": "hackernews"
-    },
-    "b91e33822245445c": {
-      "date": "2026-07-30",
-      "title": "SceneNote",
-      "source": "producthunt"
-    },
-    "4cdb265c45c42eea": {
-      "date": "2026-07-30",
-      "title": "MemoryCustodian",
-      "source": "producthunt"
-    },
-    "3993fa26004a7247": {
-      "date": "2026-07-30",
-      "title": "Task Monki",
-      "source": "producthunt"
-    },
-    "f11b3e1ee56d64f2": {
-      "date": "2026-07-30",
-      "title": "Totem",
-      "source": "producthunt"
-    },
-    "ce4a87ec05c410e3": {
-      "date": "2026-07-30",
-      "title": "AgentQuartz",
-      "source": "producthunt"
-    },
-    "97381e6727806b5d": {
-      "date": "2026-07-30",
-      "title": "Bo AI",
-      "source": "producthunt"
-    },
-    "7b74ae364ca6d2a3": {
-      "date": "2026-07-30",
-      "title": "JusTTY",
-      "source": "producthunt"
-    },
-    "e095704304933c54": {
-      "date": "2026-07-30",
-      "title": "Vela",
-      "source": "producthunt"
-    },
-    "06263a56498ba3c0": {
-      "date": "2026-07-30",
-      "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-      "source": "devto"
-    },
-    "f06849e386823599": {
-      "date": "2026-07-30",
-      "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-      "source": "devto"
-    },
-    "a313d8ee30da4102": {
-      "date": "2026-07-30",
-      "title": "How I Made JavaScript Execution Visual and Rewindable (DSA View View 👀👀)",
-      "source": "devto"
-    },
-    "80391db9777be45a": {
-      "date": "2026-07-30",
-      "title": "ratatop day 2: the memory box, and the lie in `free -h`",
-      "source": "devto"
-    },
-    "c5f1fe9eee314f7c": {
-      "date": "2026-07-30",
-      "title": "One TPU Chip, Eight Agents: Serving Small Agent Workloads with Raw JAX",
-      "source": "devto"
-    },
-    "7dddd82d86943683": {
-      "date": "2026-07-30",
-      "title": "The 400 I Didn't Have to Write",
-      "source": "devto"
-    },
-    "bfebc774f1e83500": {
-      "date": "2026-07-30",
-      "title": "The Freeze Fee: What FrozenDictionary Charges and When It Pays",
-      "source": "devto"
-    },
-    "e645ad64673fa42b": {
-      "date": "2026-07-30",
-      "title": "Why Kimi K3 Still Can't Do What Einstein Did",
-      "source": "devto"
-    },
-    "01f270ca2b86deeb": {
-      "date": "2026-07-30",
-      "title": "Building Rugby Apps - From Fan Tools To Training Platforms",
-      "source": "devto"
-    },
-    "a06d19977d4da651": {
-      "date": "2026-07-30",
-      "title": "The Silent iOS 17 Crash Hiding in `@Dependency` and `withTaskGroup`",
-      "source": "devto"
-    },
-    "fb1b022f7f371ab2": {
-      "date": "2026-07-30",
-      "title": "grokability / snipe-it",
-      "source": "github"
-    },
-    "80c1b5a5a28d4577": {
-      "date": "2026-07-30",
-      "title": "deepfakes / faceswap",
-      "source": "github"
-    },
-    "104b57e9a4316877": {
-      "date": "2026-07-30",
-      "title": "microsoft / VibeVoice",
-      "source": "github"
-    },
-    "2c86d2ef64618dca": {
-      "date": "2026-07-30",
-      "title": "different-ai / openwork",
-      "source": "github"
-    },
-    "69643613bb119cbc": {
-      "date": "2026-07-30",
-      "title": "MoonshotAI / FlashKDA",
-      "source": "github"
-    },
-    "c94926067e8d4023": {
-      "date": "2026-07-30",
-      "title": "maderix / ANE",
-      "source": "github"
-    },
     "56605925938a4b46": {
       "date": "2026-07-31",
       "title": "Stacked PRs are now live on GitHub",
@@ -5155,6 +4985,186 @@
     "85717f608dd95ad7": {
       "date": "2026-08-29",
       "title": "Osmantic / ODS",
+      "source": "github"
+    },
+    "5f4bc58220d5cbd6": {
+      "date": "2026-08-30",
+      "title": "Creepy Crawlies",
+      "source": "hackernews"
+    },
+    "e236fdb910aca5bd": {
+      "date": "2026-08-30",
+      "title": "Haiku R1/beta6 has been released",
+      "source": "hackernews"
+    },
+    "7a007121b956cde7": {
+      "date": "2026-08-30",
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "source": "hackernews"
+    },
+    "ae7306b88dfa8664": {
+      "date": "2026-08-30",
+      "title": "Sort branches by last commit date",
+      "source": "hackernews"
+    },
+    "5b6339e08d37f48a": {
+      "date": "2026-08-30",
+      "title": "\"I just chose words carefully.\"",
+      "source": "hackernews"
+    },
+    "d4338b1abd099073": {
+      "date": "2026-08-30",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "source": "hackernews"
+    },
+    "0634cfe723649249": {
+      "date": "2026-08-30",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "source": "hackernews"
+    },
+    "7179603805b5b0cf": {
+      "date": "2026-08-30",
+      "title": "Mark Zuckerberg's Social Reckoning",
+      "source": "hackernews"
+    },
+    "2151e0b40fbde083": {
+      "date": "2026-08-30",
+      "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
+      "source": "hackernews"
+    },
+    "01b2261dd19371ac": {
+      "date": "2026-08-30",
+      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+      "source": "hackernews"
+    },
+    "9f4a334687f1a86b": {
+      "date": "2026-08-30",
+      "title": "Topview Motion Studio",
+      "source": "producthunt"
+    },
+    "c15b3e9bb9baca6e": {
+      "date": "2026-08-30",
+      "title": "RIP MY BUILD",
+      "source": "producthunt"
+    },
+    "1d20e2a0bc110324": {
+      "date": "2026-08-30",
+      "title": "Ravioli",
+      "source": "producthunt"
+    },
+    "8d35359e74392156": {
+      "date": "2026-08-30",
+      "title": "Referent",
+      "source": "producthunt"
+    },
+    "7bd8181e8a257e9e": {
+      "date": "2026-08-30",
+      "title": "oMLX",
+      "source": "producthunt"
+    },
+    "065d817047ed3a3f": {
+      "date": "2026-08-30",
+      "title": "Superagent",
+      "source": "producthunt"
+    },
+    "ef9c563e106ba211": {
+      "date": "2026-08-30",
+      "title": "Retro Y2K Theme",
+      "source": "producthunt"
+    },
+    "2c5086fb594e522f": {
+      "date": "2026-08-30",
+      "title": "Ulpaso",
+      "source": "producthunt"
+    },
+    "c9fad819dad8d79c": {
+      "date": "2026-08-30",
+      "title": "I gave an AI agent a production rollback button — then spent the hackathon trying to trick it into p",
+      "source": "devto"
+    },
+    "8f4f289e1042beae": {
+      "date": "2026-08-30",
+      "title": "Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter",
+      "source": "devto"
+    },
+    "a7fe4e624af78067": {
+      "date": "2026-08-30",
+      "title": "IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Kn",
+      "source": "devto"
+    },
+    "eef481cc38b762c6": {
+      "date": "2026-08-30",
+      "title": "Git Said It Succeeded. The State Said Otherwise.",
+      "source": "devto"
+    },
+    "5a2b15e3f6b8818d": {
+      "date": "2026-08-30",
+      "title": "Delta encoding multiplayer game state",
+      "source": "devto"
+    },
+    "b5b9d5cea6ebe593": {
+      "date": "2026-08-30",
+      "title": "I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?",
+      "source": "devto"
+    },
+    "098bb2822a4b152c": {
+      "date": "2026-08-30",
+      "title": "I Built an Agent That Marked Its Own Finding as Already Known",
+      "source": "devto"
+    },
+    "981883f6f39c2e48": {
+      "date": "2026-08-30",
+      "title": "Bugs Are Innocent Until Reproduced: Building Verdict, an Evidence-First Agent Harness",
+      "source": "devto"
+    },
+    "7526cfe86081d996": {
+      "date": "2026-08-30",
+      "title": "Tell Me About You",
+      "source": "devto"
+    },
+    "b37ffe57241dbf2f": {
+      "date": "2026-08-30",
+      "title": "My Commit Said \"Stop Trusting the Receipt.\" That Is the Commit Where the Trusting Started.",
+      "source": "devto"
+    },
+    "2db83a025fb2e599": {
+      "date": "2026-08-30",
+      "title": "unclecode / crawl4ai",
+      "source": "github"
+    },
+    "cb3eddfe11b539d1": {
+      "date": "2026-08-30",
+      "title": "mvanhorn / last30days-skill",
+      "source": "github"
+    },
+    "4fa3a55b3f08f940": {
+      "date": "2026-08-30",
+      "title": "majd / ipatool",
+      "source": "github"
+    },
+    "396cb5e37f289675": {
+      "date": "2026-08-30",
+      "title": "punkpeye / awesome-mcp-servers",
+      "source": "github"
+    },
+    "98f03e4745eeb751": {
+      "date": "2026-08-30",
+      "title": "checkstyle / checkstyle",
+      "source": "github"
+    },
+    "69d36549b62c1e34": {
+      "date": "2026-08-30",
+      "title": "pollen-robotics / microduck_rl",
+      "source": "github"
+    },
+    "32aa3c814e098f24": {
+      "date": "2026-08-30",
+      "title": "handsomestWei / patent-disclosure-skill",
+      "source": "github"
+    },
+    "f375b5f99caab788": {
+      "date": "2026-08-30",
+      "title": "corsairdev / corsair",
       "source": "github"
     }
   }
