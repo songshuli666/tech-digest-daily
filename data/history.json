@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-02T23:36:33.190340",
+  "last_updated": "2026-09-03T23:34:11.062688",
   "sent_items": {
-    "2b74b16f01f00531": {
-      "date": "2026-08-03",
-      "title": "Karpathy’s Pelican",
-      "source": "hackernews"
-    },
-    "c807447db1358d77": {
-      "date": "2026-08-03",
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "source": "hackernews"
-    },
-    "d2bd6fa3f519633c": {
-      "date": "2026-08-03",
-      "title": "Don't be a meat proxy",
-      "source": "hackernews"
-    },
-    "0bbbad000033f789": {
-      "date": "2026-08-03",
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "source": "hackernews"
-    },
-    "95533399c2526970": {
-      "date": "2026-08-03",
-      "title": "More German than many Germans",
-      "source": "hackernews"
-    },
-    "09dc587a4105c1d5": {
-      "date": "2026-08-03",
-      "title": "Show HN: ssh ssh.place",
-      "source": "hackernews"
-    },
-    "e9f04ae8898fd2af": {
-      "date": "2026-08-03",
-      "title": "Why we write our own C and C++ inference engines",
-      "source": "hackernews"
-    },
-    "2b906d668c99f705": {
-      "date": "2026-08-03",
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "source": "hackernews"
-    },
-    "3eb15d5461b1282e": {
-      "date": "2026-08-03",
-      "title": "Bonsai: Janestreet's UI Library",
-      "source": "hackernews"
-    },
-    "3a365d386ab9b62f": {
-      "date": "2026-08-03",
-      "title": "Octane – React's programming model, compiled",
-      "source": "hackernews"
-    },
-    "fd77e3aecefa5b41": {
-      "date": "2026-08-03",
-      "title": "CoachAI",
-      "source": "producthunt"
-    },
-    "0a5bfc5da5361480": {
-      "date": "2026-08-03",
-      "title": "Inventory",
-      "source": "producthunt"
-    },
-    "8bb79a30b4660e10": {
-      "date": "2026-08-03",
-      "title": "gesture.live",
-      "source": "producthunt"
-    },
-    "3ef1be024386ea71": {
-      "date": "2026-08-03",
-      "title": "Qwen3.8-Max",
-      "source": "producthunt"
-    },
-    "2844517f13f800f3": {
-      "date": "2026-08-03",
-      "title": "Doxy",
-      "source": "producthunt"
-    },
-    "61f1bffbae0a212a": {
-      "date": "2026-08-03",
-      "title": "Murmell",
-      "source": "producthunt"
-    },
-    "fd660779c6ec4fb2": {
-      "date": "2026-08-03",
-      "title": "mpai",
-      "source": "producthunt"
-    },
-    "a19da3b70167c059": {
-      "date": "2026-08-03",
-      "title": "MascotAI",
-      "source": "producthunt"
-    },
-    "6cf1325dc700a6e8": {
-      "date": "2026-08-03",
-      "title": "Tonkotsu ramen in CSS",
-      "source": "devto"
-    },
-    "8db74332fbbb4c57": {
-      "date": "2026-08-03",
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
-      "source": "devto"
-    },
-    "cd2cbd0133709a15": {
-      "date": "2026-08-03",
-      "title": "Dollars and rupees without Stripe: what building Skill Exchange's checkout taught me (PayPal + UPI)",
-      "source": "devto"
-    },
-    "6db5459ceb3864ca": {
-      "date": "2026-08-03",
-      "title": "The Bowl That Remembers: 3D CSS Art Edition 🥣",
-      "source": "devto"
-    },
-    "f6ccdaf84dcd8387": {
-      "date": "2026-08-03",
-      "title": "I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story",
-      "source": "devto"
-    },
-    "d17844ce10107454": {
-      "date": "2026-08-03",
-      "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
-      "source": "devto"
-    },
-    "6514b9349f2e28a9": {
-      "date": "2026-08-03",
-      "title": "The Apprenticeship Severance",
-      "source": "devto"
-    },
-    "21d28acb9596beec": {
-      "date": "2026-08-03",
-      "title": "\"Developers Will Lose Their Jobs\": How You Were All Wrong",
-      "source": "devto"
-    },
-    "a8e33606f16c4743": {
-      "date": "2026-08-03",
-      "title": "Japan Set a Government Deadline for Its Legacy Code. It Was Last Year.",
-      "source": "devto"
-    },
-    "66016e32b7a5c808": {
-      "date": "2026-08-03",
-      "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
-      "source": "devto"
-    },
-    "81fb0b6406ba5bb8": {
-      "date": "2026-08-03",
-      "title": "Panniantong / Agent-Reach",
-      "source": "github"
-    },
-    "0a2bc86ccd103adf": {
-      "date": "2026-08-03",
-      "title": "HarbourMasters / Lighthouse",
-      "source": "github"
-    },
-    "016bf4c0be9de95f": {
-      "date": "2026-08-03",
-      "title": "antirez / ds4",
-      "source": "github"
-    },
-    "af92210f8dd30ccf": {
-      "date": "2026-08-03",
-      "title": "esengine / DeepSeek-Reasonix",
-      "source": "github"
-    },
     "8c698391e507e41c": {
       "date": "2026-08-04",
       "title": "LLMs reward expertise",
@@ -5205,6 +5045,161 @@
     "786d914db71c331d": {
       "date": "2026-09-02",
       "title": "blader / humanizer",
+      "source": "github"
+    },
+    "bd1b0b7f2fa5f635": {
+      "date": "2026-09-03",
+      "title": ".name Termination",
+      "source": "hackernews"
+    },
+    "1b6b443c0aff36e8": {
+      "date": "2026-09-03",
+      "title": "GPT-6 Astra",
+      "source": "hackernews"
+    },
+    "3efa566bf05e6e8c": {
+      "date": "2026-09-03",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "source": "hackernews"
+    },
+    "d055f5ec31ebc871": {
+      "date": "2026-09-03",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "source": "hackernews"
+    },
+    "166c7daaa257c653": {
+      "date": "2026-09-03",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "source": "hackernews"
+    },
+    "497eb0b45fab2fc0": {
+      "date": "2026-09-03",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "source": "hackernews"
+    },
+    "26242179ba903935": {
+      "date": "2026-09-03",
+      "title": "The largest electric aircraft just flew [video]",
+      "source": "hackernews"
+    },
+    "8a7d120c003047c9": {
+      "date": "2026-09-03",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "source": "hackernews"
+    },
+    "194b620b4ee79798": {
+      "date": "2026-09-03",
+      "title": "Xanadu was waiting for agents",
+      "source": "hackernews"
+    },
+    "d88bb5bab6e499ad": {
+      "date": "2026-09-03",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "source": "hackernews"
+    },
+    "60daef4c6698af07": {
+      "date": "2026-09-03",
+      "title": "Readr",
+      "source": "producthunt"
+    },
+    "198c91f5f5933a33": {
+      "date": "2026-09-03",
+      "title": "Causal",
+      "source": "producthunt"
+    },
+    "43d3a131380adbb5": {
+      "date": "2026-09-03",
+      "title": "Grove",
+      "source": "producthunt"
+    },
+    "c418465f3c357eec": {
+      "date": "2026-09-03",
+      "title": "Omi",
+      "source": "producthunt"
+    },
+    "8e1a6b35f6887771": {
+      "date": "2026-09-03",
+      "title": "Tidy",
+      "source": "producthunt"
+    },
+    "21b1100704ed07a4": {
+      "date": "2026-09-03",
+      "title": "Atlas by World Labs",
+      "source": "producthunt"
+    },
+    "facc9d3c6697f76c": {
+      "date": "2026-09-03",
+      "title": "Higgsfield Genjutsu",
+      "source": "producthunt"
+    },
+    "4f97ceccff714c9a": {
+      "date": "2026-09-03",
+      "title": "Nex",
+      "source": "producthunt"
+    },
+    "62ef4cb92bb39622": {
+      "date": "2026-09-03",
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "source": "devto"
+    },
+    "8e567e01e0d9b054": {
+      "date": "2026-09-03",
+      "title": "My Thermostat Was Speaking an Industrial Protocol. Just Not to Me.",
+      "source": "devto"
+    },
+    "4ea9acd3fdf1f476": {
+      "date": "2026-09-03",
+      "title": "I Built My First AWS Agent Workflow, and the Hardest Part Was Getting It to Stop Assuming Things",
+      "source": "devto"
+    },
+    "9da6d7d380de8203": {
+      "date": "2026-09-03",
+      "title": "AI-assisted genealogy",
+      "source": "devto"
+    },
+    "e79304a7cd184007": {
+      "date": "2026-09-03",
+      "title": "The extraction returned zero memories, and nothing screamed",
+      "source": "devto"
+    },
+    "368f0e3c213f120b": {
+      "date": "2026-09-03",
+      "title": "My Dev.to CLI Got Its First Community PR. Image Uploads From Terminal.",
+      "source": "devto"
+    },
+    "6cadbd90c037f45d": {
+      "date": "2026-09-03",
+      "title": "Taming Flutter Infinite Scroll: Why 3 Lines of async* Missed the Point, and How BlocSignal Fixes It",
+      "source": "devto"
+    },
+    "96f05956dcbdb215": {
+      "date": "2026-09-03",
+      "title": "Four Ways Your Background Job Disappears (And How to Stop Each One)",
+      "source": "devto"
+    },
+    "cdf649762481c848": {
+      "date": "2026-09-03",
+      "title": "Forensic Receipts: From Trusted to Proven",
+      "source": "devto"
+    },
+    "34dcfb2916fdbcf5": {
+      "date": "2026-09-03",
+      "title": "What I learned building a native console for two competing coding agents",
+      "source": "devto"
+    },
+    "1ae169fb23a902a7": {
+      "date": "2026-09-03",
+      "title": "mattpocock / skills",
+      "source": "github"
+    },
+    "4ea29adcea71be3d": {
+      "date": "2026-09-03",
+      "title": "ByteByteGoHq / system-design-101",
+      "source": "github"
+    },
+    "2f51b72af43a25a9": {
+      "date": "2026-09-03",
+      "title": "magnitudedev / magnitude",
       "source": "github"
     }
   }
