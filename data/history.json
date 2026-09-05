@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-04T23:19:32.441724",
+  "last_updated": "2026-09-05T23:12:33.669156",
   "sent_items": {
-    "4826195d4c7d357f": {
-      "date": "2026-08-05",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "source": "hackernews"
-    },
-    "43b97a46361868c2": {
-      "date": "2026-08-05",
-      "title": "Pi's Minimalism Is Its Advantage",
-      "source": "hackernews"
-    },
-    "b6ff313360bf9059": {
-      "date": "2026-08-05",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "source": "hackernews"
-    },
-    "5346e036084b9ca0": {
-      "date": "2026-08-05",
-      "title": "Stateless MCP has recaptured my interest",
-      "source": "hackernews"
-    },
-    "120fa8d4846f981e": {
-      "date": "2026-08-05",
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "source": "hackernews"
-    },
-    "2c8efb542e40d370": {
-      "date": "2026-08-05",
-      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "source": "hackernews"
-    },
-    "18b42a82ff45bd1d": {
-      "date": "2026-08-05",
-      "title": "The Golden Age of British Ice Cream",
-      "source": "hackernews"
-    },
-    "565a541c0edd6de8": {
-      "date": "2026-08-05",
-      "title": "Why is it all in the kernel?",
-      "source": "hackernews"
-    },
-    "5d8d57867c2a965e": {
-      "date": "2026-08-05",
-      "title": "\"Gravity is worth asking about.\"",
-      "source": "hackernews"
-    },
-    "91b8868d6e0c3f12": {
-      "date": "2026-08-05",
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "source": "hackernews"
-    },
-    "d2f61e5668d1d92c": {
-      "date": "2026-08-05",
-      "title": "Screen Awesome",
-      "source": "producthunt"
-    },
-    "17fa52b0cde88f93": {
-      "date": "2026-08-05",
-      "title": "VIDEO AI ME",
-      "source": "producthunt"
-    },
-    "3ce680db8042bcce": {
-      "date": "2026-08-05",
-      "title": "GrowthBook 5.0",
-      "source": "producthunt"
-    },
-    "272928ef7266880c": {
-      "date": "2026-08-05",
-      "title": "space ocr",
-      "source": "producthunt"
-    },
-    "75b78a3d9a7d6570": {
-      "date": "2026-08-05",
-      "title": "Vinyl for Mac",
-      "source": "producthunt"
-    },
-    "1e06de55f4be6ce5": {
-      "date": "2026-08-05",
-      "title": "Stynar",
-      "source": "producthunt"
-    },
-    "0faae21a7c93a7ff": {
-      "date": "2026-08-05",
-      "title": "AirProof AI",
-      "source": "producthunt"
-    },
-    "7ff46d0b34b72c17": {
-      "date": "2026-08-05",
-      "title": "Finyuus",
-      "source": "producthunt"
-    },
-    "2ffc3aecb62b082d": {
-      "date": "2026-08-05",
-      "title": "Stop Calling Everything Impostor Syndrome: The Myth of \"Just Push Harder\"",
-      "source": "devto"
-    },
-    "a8861a9b30d734a9": {
-      "date": "2026-08-05",
-      "title": "Damn Popovers",
-      "source": "devto"
-    },
-    "90984ac2d725a390": {
-      "date": "2026-08-05",
-      "title": "Interviewing off leetcode you already memorized isn't cheating, it's the job",
-      "source": "devto"
-    },
-    "b45302ac2e7caf5a": {
-      "date": "2026-08-05",
-      "title": "The Day I Became a Bug Hunter",
-      "source": "devto"
-    },
-    "5eec5986331f4174": {
-      "date": "2026-08-05",
-      "title": "7.8 MB of Keys I Allocated Just to Throw Away",
-      "source": "devto"
-    },
-    "cbbe584a395d1061": {
-      "date": "2026-08-05",
-      "title": "I Hashed Every Word Twice to Count It Once",
-      "source": "devto"
-    },
-    "ca25ff9ebee18da5": {
-      "date": "2026-08-05",
-      "title": "Your browser renders everything, even what you can't see — `content-visibility: auto` fixes that",
-      "source": "devto"
-    },
-    "26d436d8aa346408": {
-      "date": "2026-08-05",
-      "title": "Git Diff for Human Reasoning",
-      "source": "devto"
-    },
-    "617ebd5fd0698731": {
-      "date": "2026-08-05",
-      "title": "React 19's useOptimistic Fixed My Instant UI. Then Combining It With useActionState Broke My Reset B",
-      "source": "devto"
-    },
-    "9c7075ac9cb27125": {
-      "date": "2026-08-05",
-      "title": "I shipped a fix for a breaking change. The code could never select it.",
-      "source": "devto"
-    },
-    "4f8373d66b0b5b23": {
-      "date": "2026-08-05",
-      "title": "uber / ADR",
-      "source": "github"
-    },
-    "91014a4cbd784884": {
-      "date": "2026-08-05",
-      "title": "cypress-io / cypress",
-      "source": "github"
-    },
-    "cfdfd9911bfeec1f": {
-      "date": "2026-08-05",
-      "title": "webpack / webpack",
-      "source": "github"
-    },
-    "2e6363345ba2af4a": {
-      "date": "2026-08-05",
-      "title": "gabime / spdlog",
-      "source": "github"
-    },
-    "a1027f6b7d36d22a": {
-      "date": "2026-08-05",
-      "title": "denoland / deno",
-      "source": "github"
-    },
-    "eea0e619ec07671d": {
-      "date": "2026-08-05",
-      "title": "angular / angular",
-      "source": "github"
-    },
-    "3612263b02aa7e3a": {
-      "date": "2026-08-05",
-      "title": "tailwindlabs / tailwindcss",
-      "source": "github"
-    },
     "8d7cedf02ad4b855": {
       "date": "2026-08-06",
       "title": "Discovery Loop",
@@ -5205,6 +5030,156 @@
     "9bde5582e8ba9a19": {
       "date": "2026-09-04",
       "title": "anomalyco / opencode",
+      "source": "github"
+    },
+    "66c13bbe512f4f97": {
+      "date": "2026-09-05",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "source": "hackernews"
+    },
+    "241bb99fc756252b": {
+      "date": "2026-09-05",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "source": "hackernews"
+    },
+    "074ab63958e3240e": {
+      "date": "2026-09-05",
+      "title": "Learn Programming with OCaml",
+      "source": "hackernews"
+    },
+    "20dc0b479913897e": {
+      "date": "2026-09-05",
+      "title": "LLMs as a Cognitive Virus",
+      "source": "hackernews"
+    },
+    "9c3945415f52154d": {
+      "date": "2026-09-05",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "source": "hackernews"
+    },
+    "13492900194478ea": {
+      "date": "2026-09-05",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "source": "hackernews"
+    },
+    "2babf08e13268e48": {
+      "date": "2026-09-05",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "source": "hackernews"
+    },
+    "9bb4b35f248f1f80": {
+      "date": "2026-09-05",
+      "title": "How Swiss tables work in Go built-in map",
+      "source": "hackernews"
+    },
+    "49483bddfa3a1d38": {
+      "date": "2026-09-05",
+      "title": "Show HN: Fly By – retro biplane flying game",
+      "source": "hackernews"
+    },
+    "7bdd3601f8ab9089": {
+      "date": "2026-09-05",
+      "title": "Reflexio",
+      "source": "producthunt"
+    },
+    "0059a2527a0507cd": {
+      "date": "2026-09-05",
+      "title": "Experiential Labs",
+      "source": "producthunt"
+    },
+    "69c25f103a0570b9": {
+      "date": "2026-09-05",
+      "title": "GitWarren",
+      "source": "producthunt"
+    },
+    "b24885ff35a442d4": {
+      "date": "2026-09-05",
+      "title": "Ponytail",
+      "source": "producthunt"
+    },
+    "891f6627b47f247b": {
+      "date": "2026-09-05",
+      "title": "at8pm",
+      "source": "producthunt"
+    },
+    "a9e4b9f80dd4f794": {
+      "date": "2026-09-05",
+      "title": "Hyperprobe",
+      "source": "producthunt"
+    },
+    "0761864b341f6284": {
+      "date": "2026-09-05",
+      "title": "CommuteBar",
+      "source": "producthunt"
+    },
+    "111542e20e62ae48": {
+      "date": "2026-09-05",
+      "title": "BrickForgerAI",
+      "source": "producthunt"
+    },
+    "ffc93888bb6b085d": {
+      "date": "2026-09-05",
+      "title": "We Throw Away 1.3 Billion Tons of Food While Millions Starve. I Built FoodBridge with Snowflake to S",
+      "source": "devto"
+    },
+    "cfbeef656bc4ddac": {
+      "date": "2026-09-05",
+      "title": "I built PadForward because sometimes you just need a pad",
+      "source": "devto"
+    },
+    "cebea86e8a2676bf": {
+      "date": "2026-09-05",
+      "title": "🚨📢Launching Docgrity 🚀: Documentation integrity for you, your team, and your agent friends. 🤖",
+      "source": "devto"
+    },
+    "3c053c760df34b6e": {
+      "date": "2026-09-05",
+      "title": "Put App Documents in the System File Browser",
+      "source": "devto"
+    },
+    "62d31b312fab4a51": {
+      "date": "2026-09-05",
+      "title": "Beyond Clean Architecture: The Iceberg Pattern for Real-Time Flutter Apps with BlocSignal",
+      "source": "devto"
+    },
+    "fc07c45b53db4d99": {
+      "date": "2026-09-05",
+      "title": "Your average latency is lying to you: p90, p95 and p99 explained",
+      "source": "devto"
+    },
+    "854c58f439ecdb62": {
+      "date": "2026-09-05",
+      "title": "Generosity Is a Default Setting",
+      "source": "devto"
+    },
+    "ba7efdcf90e1a9d6": {
+      "date": "2026-09-05",
+      "title": "IND-TECH WEEKLY #2: Jio's IPO Gets a Festive-Season Window, Slice Takes a ~70% Haircut, and the Jobs",
+      "source": "devto"
+    },
+    "f61df34d547f97b4": {
+      "date": "2026-09-05",
+      "title": "My AI reviews its own code with 4 rival models. The majority just approved a security hole three rou",
+      "source": "devto"
+    },
+    "242c528ba733f7ee": {
+      "date": "2026-09-05",
+      "title": "I'm 12. My Code Jam got zero submissions. So I built a platform for it.",
+      "source": "devto"
+    },
+    "3a6f23d0105ddd3e": {
+      "date": "2026-09-05",
+      "title": "humanlayer / skills",
+      "source": "github"
+    },
+    "d7de97da89a745b2": {
+      "date": "2026-09-05",
+      "title": "BraveOPotato / FckSignups",
+      "source": "github"
+    },
+    "0119fd277859b072": {
+      "date": "2026-09-05",
+      "title": "WorldFlowAI / everything-claude-code",
       "source": "github"
     }
   }
