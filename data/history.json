@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-05T23:12:33.669156",
+  "last_updated": "2026-09-06T23:10:02.572906",
   "sent_items": {
-    "8d7cedf02ad4b855": {
-      "date": "2026-08-06",
-      "title": "Discovery Loop",
-      "source": "hackernews"
-    },
-    "d37d7ecef2b4cb13": {
-      "date": "2026-08-06",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "source": "hackernews"
-    },
-    "47b35685c7b6be38": {
-      "date": "2026-08-06",
-      "title": "Zed DeltaDB",
-      "source": "hackernews"
-    },
-    "3bff1aeaaa98bb34": {
-      "date": "2026-08-06",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "source": "hackernews"
-    },
-    "9eac21dc6afd938c": {
-      "date": "2026-08-06",
-      "title": "Muse Code and Muse Spark 1.2",
-      "source": "hackernews"
-    },
-    "4979b470afa03b2a": {
-      "date": "2026-08-06",
-      "title": "The title cards in Blade Runner are amazing",
-      "source": "hackernews"
-    },
-    "265070f3a36a4f01": {
-      "date": "2026-08-06",
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "source": "hackernews"
-    },
-    "ed29467513675410": {
-      "date": "2026-08-06",
-      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
-      "source": "hackernews"
-    },
-    "a24d67ad66deb91b": {
-      "date": "2026-08-06",
-      "title": "Crime Pays but Botany Doesn't",
-      "source": "hackernews"
-    },
-    "3a8c19f8bfe4454a": {
-      "date": "2026-08-06",
-      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-      "source": "hackernews"
-    },
-    "4b4bc81265f8a156": {
-      "date": "2026-08-06",
-      "title": "UCP Radar",
-      "source": "producthunt"
-    },
-    "ca96b6ce9b7f6538": {
-      "date": "2026-08-06",
-      "title": "Website to Markdown API",
-      "source": "producthunt"
-    },
-    "432c145e4a85ba91": {
-      "date": "2026-08-06",
-      "title": "Brandfetch MCP",
-      "source": "producthunt"
-    },
-    "386c5deb620d8235": {
-      "date": "2026-08-06",
-      "title": "Glyphi: Speed Reader",
-      "source": "producthunt"
-    },
-    "f8dbf11b753ee758": {
-      "date": "2026-08-06",
-      "title": "Annotate",
-      "source": "producthunt"
-    },
-    "5fe40cb4252a6e2a": {
-      "date": "2026-08-06",
-      "title": "Cloudflare OS",
-      "source": "producthunt"
-    },
-    "e5ac93b8c12d03d6": {
-      "date": "2026-08-06",
-      "title": "Shieldstral",
-      "source": "producthunt"
-    },
-    "60e4ed0b0d37b484": {
-      "date": "2026-08-06",
-      "title": "Chute",
-      "source": "producthunt"
-    },
-    "443ea7cff262cf74": {
-      "date": "2026-08-06",
-      "title": "General Challenge Updates Moving Forward",
-      "source": "devto"
-    },
-    "e4c76c609d7e0d06": {
-      "date": "2026-08-06",
-      "title": "How I Smashed a Bug in a Shared Authentication Library",
-      "source": "devto"
-    },
-    "27eb5aea3573ca2d": {
-      "date": "2026-08-06",
-      "title": "Swift Protocols — The Art of Making Promises 🤝",
-      "source": "devto"
-    },
-    "93dbb70966e9a04b": {
-      "date": "2026-08-06",
-      "title": "Are we the abstraction? AI and the future of software engineering",
-      "source": "devto"
-    },
-    "f572a9e8ca97a72c": {
-      "date": "2026-08-06",
-      "title": "Introducing Kiro Crew: AWS's Open-Source AI Agent Orchestrator",
-      "source": "devto"
-    },
-    "4051e434c9f4179c": {
-      "date": "2026-08-06",
-      "title": "ঘরের থালি: CSS Art Feast of Peshawari Meat, Beef Curry & Chicken Biryani",
-      "source": "devto"
-    },
-    "54040ddf4ed26b33": {
-      "date": "2026-08-06",
-      "title": "This Bug Has Never Fired in Production. I Fixed It Anyway",
-      "source": "devto"
-    },
-    "3a7fe89b61cd6115": {
-      "date": "2026-08-06",
-      "title": "When Your VPS Never Had the Resources It Was Sold With",
-      "source": "devto"
-    },
-    "d341517275a7073c": {
-      "date": "2026-08-06",
-      "title": "The Taste of Home — Recreating Congolese Comfort Food with Pure HTML & CSS",
-      "source": "devto"
-    },
-    "094d364d9b88f888": {
-      "date": "2026-08-06",
-      "title": "The Review Tax: Why 81% of Developers Are Buried in AI Code Review",
-      "source": "devto"
-    },
-    "710e3cb1a40c7d1e": {
-      "date": "2026-08-06",
-      "title": "cloudflare / computer",
-      "source": "github"
-    },
-    "0134ddc144f0e503": {
-      "date": "2026-08-06",
-      "title": "huangruiteng / loopx",
-      "source": "github"
-    },
-    "0d1bd25a3199bf22": {
-      "date": "2026-08-06",
-      "title": "addyosmani / agent-skills",
-      "source": "github"
-    },
-    "b8b2afae293a234e": {
-      "date": "2026-08-06",
-      "title": "roboflow / supervision",
-      "source": "github"
-    },
     "039b1297dbd0b9b9": {
       "date": "2026-08-07",
       "title": "Muse Code",
@@ -5180,6 +5020,141 @@
     "0119fd277859b072": {
       "date": "2026-09-05",
       "title": "WorldFlowAI / everything-claude-code",
+      "source": "github"
+    },
+    "6964500c209d3566": {
+      "date": "2026-09-06",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "source": "hackernews"
+    },
+    "1759500f645bb398": {
+      "date": "2026-09-06",
+      "title": "Your intellectual fly is open (2025)",
+      "source": "hackernews"
+    },
+    "c049e4de41cb49ac": {
+      "date": "2026-09-06",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "source": "hackernews"
+    },
+    "02ac4380a1b38984": {
+      "date": "2026-09-06",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "source": "hackernews"
+    },
+    "3e492c2d9ab96d25": {
+      "date": "2026-09-06",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "source": "hackernews"
+    },
+    "7ded3e91ccd1bd1e": {
+      "date": "2026-09-06",
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "source": "hackernews"
+    },
+    "5f0d51b46dced628": {
+      "date": "2026-09-06",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "source": "hackernews"
+    },
+    "1d71a5c8bb0ed2a0": {
+      "date": "2026-09-06",
+      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "source": "hackernews"
+    },
+    "72c0b914c5bb649f": {
+      "date": "2026-09-06",
+      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
+      "source": "hackernews"
+    },
+    "3bc5c49d56d82f93": {
+      "date": "2026-09-06",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "source": "hackernews"
+    },
+    "858968678fe1ec6a": {
+      "date": "2026-09-06",
+      "title": "H3 Max by fal",
+      "source": "producthunt"
+    },
+    "db0e76466dc21fce": {
+      "date": "2026-09-06",
+      "title": "Agentic Video Understanding in Gemini",
+      "source": "producthunt"
+    },
+    "58010b61f2b92f9e": {
+      "date": "2026-09-06",
+      "title": "Kit by Speakeasy",
+      "source": "producthunt"
+    },
+    "16ecb6b6ed472cad": {
+      "date": "2026-09-06",
+      "title": "I Built a Version Bump Tool in Rust That Is 10,000x Faster Than Its Python Counterparts.",
+      "source": "devto"
+    },
+    "b073af9ad47cf0aa": {
+      "date": "2026-09-06",
+      "title": "Multiple Browser Agents Need More Than Separate Profiles",
+      "source": "devto"
+    },
+    "7e9938482e194986": {
+      "date": "2026-09-06",
+      "title": "Markov Chain Monte Carlo: the 1953 algorithm hiding under modern AI",
+      "source": "devto"
+    },
+    "25b59ea238d6d0ac": {
+      "date": "2026-09-06",
+      "title": "You write one kind sentence. I donate a dime. A blockchain makes sure I do.",
+      "source": "devto"
+    },
+    "1472c8817408672d": {
+      "date": "2026-09-06",
+      "title": "Dev log #20 Deleting 180k lines and chasing socket leaks: A week in the OSS trenches",
+      "source": "devto"
+    },
+    "f0a613d404e63932": {
+      "date": "2026-09-06",
+      "title": "Posting from a shed with one bar of signal: an offline write queue in plain JS",
+      "source": "devto"
+    },
+    "d4958e65cc59e8d4": {
+      "date": "2026-09-06",
+      "title": "Your audit log is probably lying to you. Postgres 18 fixes it in one statement.",
+      "source": "devto"
+    },
+    "41042573837af264": {
+      "date": "2026-09-06",
+      "title": "The impersonator's product is the gap between meaning and spelling, so we measured both in Snowflake",
+      "source": "devto"
+    },
+    "f7aedc17fc97817a": {
+      "date": "2026-09-06",
+      "title": "The charity had the proof. It just couldn't show anyone.",
+      "source": "devto"
+    },
+    "e60f6498c318c48b": {
+      "date": "2026-09-06",
+      "title": "openai / skills",
+      "source": "github"
+    },
+    "eeb7198dc2eb3375": {
+      "date": "2026-09-06",
+      "title": "llvm / llvm-project",
+      "source": "github"
+    },
+    "7344796a1c663646": {
+      "date": "2026-09-06",
+      "title": "coreyhaines31 / marketingskills",
+      "source": "github"
+    },
+    "322dcd7e9a66cb86": {
+      "date": "2026-09-06",
+      "title": "aipoch / open-science",
+      "source": "github"
+    },
+    "ccf10a9ea33b3491": {
+      "date": "2026-09-06",
+      "title": "OpenWhispr / openwhispr",
       "source": "github"
     }
   }
