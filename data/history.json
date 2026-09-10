@@ -1,162 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-09T23:34:01.361524",
+  "last_updated": "2026-09-10T23:28:10.857484",
   "sent_items": {
-    "3f4b51b0e9d78667": {
-      "date": "2026-08-10",
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "source": "hackernews"
-    },
-    "49d99e09b3af488a": {
-      "date": "2026-08-10",
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "source": "hackernews"
-    },
-    "a6dccbbdc714bdf5": {
-      "date": "2026-08-10",
-      "title": "Sonic Pi v5",
-      "source": "hackernews"
-    },
-    "b48991e9443b46c4": {
-      "date": "2026-08-10",
-      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
-      "source": "hackernews"
-    },
-    "c93a79f807e13f68": {
-      "date": "2026-08-10",
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "source": "hackernews"
-    },
-    "9264bf4ae1a10e7f": {
-      "date": "2026-08-10",
-      "title": "Rust SIMD on the GPU",
-      "source": "hackernews"
-    },
-    "bd6197a1b1b66042": {
-      "date": "2026-08-10",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "source": "hackernews"
-    },
-    "dc264893595eec75": {
-      "date": "2026-08-10",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "source": "hackernews"
-    },
-    "c6722278db09c861": {
-      "date": "2026-08-10",
-      "title": "Publishing Schematics Before “Open Source” Was a Word",
-      "source": "hackernews"
-    },
-    "d391f79699f3d81e": {
-      "date": "2026-08-10",
-      "title": "Confessions of a Long-Distance Sailor",
-      "source": "hackernews"
-    },
-    "1a9c3f2354b1d8ff": {
-      "date": "2026-08-10",
-      "title": "SecondBrain Note by GenSpark",
-      "source": "producthunt"
-    },
-    "74118be369932447": {
-      "date": "2026-08-10",
-      "title": "Vidaya",
-      "source": "producthunt"
-    },
-    "9e18f55f46a5b880": {
-      "date": "2026-08-10",
-      "title": "AI Group Call",
-      "source": "producthunt"
-    },
-    "8b63a506a140c426": {
-      "date": "2026-08-10",
-      "title": "Gutta",
-      "source": "producthunt"
-    },
-    "47867c5899729330": {
-      "date": "2026-08-10",
-      "title": "Remix",
-      "source": "producthunt"
-    },
-    "c5a61356678ee104": {
-      "date": "2026-08-10",
-      "title": "Prime Agent",
-      "source": "producthunt"
-    },
-    "065a57c98e91dce3": {
-      "date": "2026-08-10",
-      "title": "radiusHQ",
-      "source": "producthunt"
-    },
-    "f1bdf7d3fda0c1d8": {
-      "date": "2026-08-10",
-      "title": "Hey all! I’m Jem, the DEV Community Program Coordinator",
-      "source": "devto"
-    },
-    "b5e80fb41444e2a9": {
-      "date": "2026-08-10",
-      "title": "I Joined dev.to because...",
-      "source": "devto"
-    },
-    "de882e7d41bf88bc": {
-      "date": "2026-08-10",
-      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
-      "source": "devto"
-    },
-    "4fa728254e4f35ec": {
-      "date": "2026-08-10",
-      "title": "I Built a ₹15 Landing Page About Mumbai's Soul Food",
-      "source": "devto"
-    },
-    "ecd786318f71a29f": {
-      "date": "2026-08-10",
-      "title": "What Would You Tell Someone Early in Their Career?",
-      "source": "devto"
-    },
-    "6d74b8abfccc0798": {
-      "date": "2026-08-10",
-      "title": "My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲",
-      "source": "devto"
-    },
-    "7ddfd7dfc3389324": {
-      "date": "2026-08-10",
-      "title": "Daal Bhaath Chokha: Home, Jharkhand (CSS Art)",
-      "source": "devto"
-    },
-    "cff0837414596c79": {
-      "date": "2026-08-10",
-      "title": "Jem has quietly been working behind-the-scenes here at DEV for YEARS, and I'm so happy that they are",
-      "source": "devto"
-    },
-    "49bde3ae3bfb9d98": {
-      "date": "2026-08-10",
-      "title": "Three Clouds, Three Native Agents",
-      "source": "devto"
-    },
-    "df57c71de51d152b": {
-      "date": "2026-08-10",
-      "title": "Fixing a Silent Cache Bug in npmx.dev",
-      "source": "devto"
-    },
-    "e596fc31d0dc4f76": {
-      "date": "2026-08-10",
-      "title": "paperclipai / paperclip",
-      "source": "github"
-    },
-    "361d8d37c3971cf9": {
-      "date": "2026-08-10",
-      "title": "ruvnet / RuView",
-      "source": "github"
-    },
-    "5d466100c8b3862c": {
-      "date": "2026-08-10",
-      "title": "danielmiessler / LifeOS",
-      "source": "github"
-    },
-    "49a1c7e387a4e695": {
-      "date": "2026-08-10",
-      "title": "firecrawl / firecrawl",
-      "source": "github"
-    },
     "1dfc16ee390f401f": {
       "date": "2026-08-11",
       "title": "Gotcha",
@@ -5031,6 +4876,181 @@
       "date": "2026-09-09",
       "title": "The Mathematicians Just Felt It: What Happens to a Lifetime of Work When a Machine Finishes It in Da",
       "source": "devto"
+    },
+    "1271c6f02490fc86": {
+      "date": "2026-09-10",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "source": "hackernews"
+    },
+    "e04e915ea184d365": {
+      "date": "2026-09-10",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "source": "hackernews"
+    },
+    "98b38ad8c04af763": {
+      "date": "2026-09-10",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "source": "hackernews"
+    },
+    "f75c9c257c658f05": {
+      "date": "2026-09-10",
+      "title": "Don't let anyone take away your big box of cables",
+      "source": "hackernews"
+    },
+    "5e0e4a87ab00bf8a": {
+      "date": "2026-09-10",
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "source": "hackernews"
+    },
+    "7a83d367ae541a99": {
+      "date": "2026-09-10",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "source": "hackernews"
+    },
+    "1e2e8720f62216e9": {
+      "date": "2026-09-10",
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "source": "hackernews"
+    },
+    "0f4979d2480b3442": {
+      "date": "2026-09-10",
+      "title": "OpenAI Agents API",
+      "source": "hackernews"
+    },
+    "fca077b5d314f181": {
+      "date": "2026-09-10",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "source": "hackernews"
+    },
+    "a9e9446ba2c46795": {
+      "date": "2026-09-10",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "source": "hackernews"
+    },
+    "b0b47e64f96d65cd": {
+      "date": "2026-09-10",
+      "title": "Vibe Eyes",
+      "source": "producthunt"
+    },
+    "97af8026640c2a02": {
+      "date": "2026-09-10",
+      "title": "Speechmark",
+      "source": "producthunt"
+    },
+    "db2e01fac7242cf0": {
+      "date": "2026-09-10",
+      "title": "Whip",
+      "source": "producthunt"
+    },
+    "49cc78a3ba8afbb8": {
+      "date": "2026-09-10",
+      "title": "Suno v6",
+      "source": "producthunt"
+    },
+    "db41e2818dbb309b": {
+      "date": "2026-09-10",
+      "title": "Desert Ant Labs",
+      "source": "producthunt"
+    },
+    "8230b637186f1f61": {
+      "date": "2026-09-10",
+      "title": "hob",
+      "source": "producthunt"
+    },
+    "60ef1ee6eef9d8f8": {
+      "date": "2026-09-10",
+      "title": "Modeinspect",
+      "source": "producthunt"
+    },
+    "73ffd56b2157519b": {
+      "date": "2026-09-10",
+      "title": "iPhone Duo",
+      "source": "producthunt"
+    },
+    "0b4cc738886252dc": {
+      "date": "2026-09-10",
+      "title": "Congrats to the Frontend Challenge: Comfort Food Edition Winners!",
+      "source": "devto"
+    },
+    "f6a3554dd3757a88": {
+      "date": "2026-09-10",
+      "title": "AI Is Already Better at Coding Than Most Software Developers",
+      "source": "devto"
+    },
+    "f8684bb4dcfaf651": {
+      "date": "2026-09-10",
+      "title": "Paradox between Sharing your Accomplishments and Ego",
+      "source": "devto"
+    },
+    "7fec9c934a131858": {
+      "date": "2026-09-10",
+      "title": "Someone Spammed My DEV Post. I Traced It to a Wombat.",
+      "source": "devto"
+    },
+    "070e7b52d4d284c9": {
+      "date": "2026-09-10",
+      "title": "Show Me the Article You're Most Proud Of And I'll Read Every Single One of Them",
+      "source": "devto"
+    },
+    "c2aa599448f992f2": {
+      "date": "2026-09-10",
+      "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
+      "source": "devto"
+    },
+    "df52422144b735cb": {
+      "date": "2026-09-10",
+      "title": "Down Is Kind, Slow Is Fatal: Circuit Breakers and the Three Links Around Them",
+      "source": "devto"
+    },
+    "a7211af7a05991a0": {
+      "date": "2026-09-10",
+      "title": "Stratagems #30: Lena Signed the Client. The AI Didn't Know It Was Being Audited.",
+      "source": "devto"
+    },
+    "4aa2c02cd89df0e7": {
+      "date": "2026-09-10",
+      "title": "Gemma 4 on an 2021 4 GB Laptop GPU: QAT Takes It From 9.5 GiB to 1.6",
+      "source": "devto"
+    },
+    "1ea5a45d11da6630": {
+      "date": "2026-09-10",
+      "title": "SQLite 3.53's self-healing index only repairs the rows you write to",
+      "source": "devto"
+    },
+    "30f45cd66d5520ce": {
+      "date": "2026-09-10",
+      "title": "alsk1992 / CloddsBot",
+      "source": "github"
+    },
+    "018703fab583e3d5": {
+      "date": "2026-09-10",
+      "title": "AlexsJones / llmfit",
+      "source": "github"
+    },
+    "09519de43606bab9": {
+      "date": "2026-09-10",
+      "title": "armory3d / armorpaint",
+      "source": "github"
+    },
+    "10942d97d561cb4c": {
+      "date": "2026-09-10",
+      "title": "diegosouzapw / OmniRoute",
+      "source": "github"
+    },
+    "d8699931bd0d7791": {
+      "date": "2026-09-10",
+      "title": "JustVugg / colibri",
+      "source": "github"
+    },
+    "885b91dee30db7b9": {
+      "date": "2026-09-10",
+      "title": "nashsu / llm_wiki",
+      "source": "github"
+    },
+    "7634ab012b3dcc8f": {
+      "date": "2026-09-10",
+      "title": "vercel-labs / skills",
+      "source": "github"
     }
   }
 }
