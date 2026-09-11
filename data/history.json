@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-10T23:28:10.857484",
+  "last_updated": "2026-09-11T23:34:12.872083",
   "sent_items": {
-    "1dfc16ee390f401f": {
-      "date": "2026-08-11",
-      "title": "Gotcha",
-      "source": "producthunt"
-    },
-    "c4d4a37239d7f858": {
-      "date": "2026-08-11",
-      "title": "Lexi",
-      "source": "producthunt"
-    },
-    "03aa291133e15d5d": {
-      "date": "2026-08-11",
-      "title": "VoiceGecko",
-      "source": "producthunt"
-    },
-    "ff8142a34b4858c1": {
-      "date": "2026-08-11",
-      "title": "Continuum",
-      "source": "producthunt"
-    },
-    "df38d51d0c858b78": {
-      "date": "2026-08-11",
-      "title": "bb",
-      "source": "producthunt"
-    },
-    "c0312cd374dbd04e": {
-      "date": "2026-08-11",
-      "title": "Bullet",
-      "source": "producthunt"
-    },
-    "8e19a777197fe75a": {
-      "date": "2026-08-11",
-      "title": "Xirp",
-      "source": "producthunt"
-    },
-    "a45fbfe3a341d73a": {
-      "date": "2026-08-11",
-      "title": "Tines 3B",
-      "source": "producthunt"
-    },
-    "6a457ad709cce9f6": {
-      "date": "2026-08-11",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "source": "hackernews"
-    },
-    "01ed58edb8ffe7b8": {
-      "date": "2026-08-11",
-      "title": "Mojo 1.0",
-      "source": "hackernews"
-    },
-    "875555974265e36b": {
-      "date": "2026-08-11",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "source": "hackernews"
-    },
-    "9810393c5d6615b7": {
-      "date": "2026-08-11",
-      "title": "Compression is prediction",
-      "source": "hackernews"
-    },
-    "0961e00024d2451e": {
-      "date": "2026-08-11",
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "source": "hackernews"
-    },
-    "39c0907ab4edff65": {
-      "date": "2026-08-11",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "source": "hackernews"
-    },
-    "d9030d0c100bce92": {
-      "date": "2026-08-11",
-      "title": "Making holograms with a pen plotter",
-      "source": "hackernews"
-    },
-    "9f0fe248997547f5": {
-      "date": "2026-08-11",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "source": "hackernews"
-    },
-    "eb09a686e6a44344": {
-      "date": "2026-08-11",
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "source": "hackernews"
-    },
-    "87c9acba5c380cb9": {
-      "date": "2026-08-11",
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "source": "hackernews"
-    },
-    "e2e3cda3fa2e6709": {
-      "date": "2026-08-11",
-      "title": "nvm-sh / nvm",
-      "source": "github"
-    },
-    "ea97e2f9b3078078": {
-      "date": "2026-08-11",
-      "title": "anthropics / skills",
-      "source": "github"
-    },
-    "e41e0f15f042a511": {
-      "date": "2026-08-11",
-      "title": "3b1b / manim",
-      "source": "github"
-    },
-    "d7dc32f00be2e8f5": {
-      "date": "2026-08-11",
-      "title": "stablyai / orca",
-      "source": "github"
-    },
-    "cf909fcdfc721ecc": {
-      "date": "2026-08-11",
-      "title": "huggingface / transformers",
-      "source": "github"
-    },
-    "db0a3545143e00a3": {
-      "date": "2026-08-11",
-      "title": "jaywcjlove / awesome-mac",
-      "source": "github"
-    },
-    "20703a86e2b01e24": {
-      "date": "2026-08-11",
-      "title": "calesthio / OpenMontage",
-      "source": "github"
-    },
-    "c95198328f6a5f50": {
-      "date": "2026-08-11",
-      "title": "How Many Introductions Away Are You From Pedro Pascal? A Practical Introduction to Graph Search",
-      "source": "devto"
-    },
-    "0ba014dd12fe6157": {
-      "date": "2026-08-11",
-      "title": "Adrak Chai & Samosa — Comfort Food Edition (Corporate Tech Office Tea Break)",
-      "source": "devto"
-    },
-    "a31a488718c7f672": {
-      "date": "2026-08-11",
-      "title": "Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal",
-      "source": "devto"
-    },
-    "8ba001642f31d85b": {
-      "date": "2026-08-11",
-      "title": "Ignition: Flashing 2,300 conference badges with Temporal",
-      "source": "devto"
-    },
-    "b7aff8d3bde44d7e": {
-      "date": "2026-08-11",
-      "title": "Porting a Python PEG parser to Rust in 72 hours, and actually proving it worked",
-      "source": "devto"
-    },
-    "82cff15334c56709": {
-      "date": "2026-08-11",
-      "title": "Three Pastry Chefs Walk Into a Kitchen",
-      "source": "devto"
-    },
-    "10d6a1db92ed2468": {
-      "date": "2026-08-11",
-      "title": "Dev log #16 Typographic Hierarchy and the Great Obsidian Purge",
-      "source": "devto"
-    },
-    "07e82da4b566074b": {
-      "date": "2026-08-11",
-      "title": "Write down every guarantee before you write any code",
-      "source": "devto"
-    },
-    "30e3b80c69dde530": {
-      "date": "2026-08-11",
-      "title": "Donut Panic 🍩 — Building an Interactive CSS-Only Donut",
-      "source": "devto"
-    },
-    "bb237380cd58345c": {
-      "date": "2026-08-11",
-      "title": "Vada Pav - An Interactive Landing Page for Mumbai's Favorite Street Food",
-      "source": "devto"
-    },
     "bc1f856e9a4a53eb": {
       "date": "2026-08-12",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
@@ -5050,6 +4875,181 @@
     "7634ab012b3dcc8f": {
       "date": "2026-09-10",
       "title": "vercel-labs / skills",
+      "source": "github"
+    },
+    "f899f3c7c1e34843": {
+      "date": "2026-09-11",
+      "title": "A misalignment of AI in mathematics",
+      "source": "hackernews"
+    },
+    "1222df1235d99690": {
+      "date": "2026-09-11",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "source": "hackernews"
+    },
+    "a38ee2aa5a181f48": {
+      "date": "2026-09-11",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "source": "hackernews"
+    },
+    "630f5fa0c1edafe8": {
+      "date": "2026-09-11",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "source": "hackernews"
+    },
+    "55e394a3889b5061": {
+      "date": "2026-09-11",
+      "title": "A Design Space Exploration of Async/Await",
+      "source": "hackernews"
+    },
+    "8ae62f80b43a1f7a": {
+      "date": "2026-09-11",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "source": "hackernews"
+    },
+    "e6d80d878c87b20e": {
+      "date": "2026-09-11",
+      "title": "AlphaGenome maps 9B DNA variants",
+      "source": "hackernews"
+    },
+    "78b0a142e47b8d12": {
+      "date": "2026-09-11",
+      "title": "Project Blinkenlights",
+      "source": "hackernews"
+    },
+    "f15adbbd43d5d493": {
+      "date": "2026-09-11",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "source": "hackernews"
+    },
+    "d490ae9e2d137daf": {
+      "date": "2026-09-11",
+      "title": "DeCloudflare",
+      "source": "hackernews"
+    },
+    "b52363febcf9dd3c": {
+      "date": "2026-09-11",
+      "title": "ChatHop",
+      "source": "producthunt"
+    },
+    "b0c4b804683b9ba1": {
+      "date": "2026-09-11",
+      "title": "Raycast 2.0",
+      "source": "producthunt"
+    },
+    "c44eb9f56720e572": {
+      "date": "2026-09-11",
+      "title": "Formesign",
+      "source": "producthunt"
+    },
+    "f50ac70cc866dcb7": {
+      "date": "2026-09-11",
+      "title": "Cadenya",
+      "source": "producthunt"
+    },
+    "da27f9831ddc4080": {
+      "date": "2026-09-11",
+      "title": "Loqua",
+      "source": "producthunt"
+    },
+    "e98a664207a75083": {
+      "date": "2026-09-11",
+      "title": "chat-recall",
+      "source": "producthunt"
+    },
+    "ba82a363385a5542": {
+      "date": "2026-09-11",
+      "title": "sizeless",
+      "source": "producthunt"
+    },
+    "b4ff0c7081d3e131": {
+      "date": "2026-09-11",
+      "title": "Devin Voice",
+      "source": "producthunt"
+    },
+    "79cd82349230328b": {
+      "date": "2026-09-11",
+      "title": "Dev Opportunity Radar #16: $15K AI Agent Hackathon, AI Education Fellowship, and AWS Student Rewards",
+      "source": "devto"
+    },
+    "d195a9ee06b895f8": {
+      "date": "2026-09-11",
+      "title": "What was your win this week??",
+      "source": "devto"
+    },
+    "8a405f24989168ac": {
+      "date": "2026-09-11",
+      "title": "FastMCP Is Now MCPServer: Migrating a Python MCP Server to the MCP SDK 2.x",
+      "source": "devto"
+    },
+    "14c23b51f9ac29e9": {
+      "date": "2026-09-11",
+      "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+      "source": "devto"
+    },
+    "bd1e21aeef779477": {
+      "date": "2026-09-11",
+      "title": "I Wrote 238 Specs and Never Read One Again",
+      "source": "devto"
+    },
+    "12f08e4e2edbe5ee": {
+      "date": "2026-09-11",
+      "title": "My Agents Never Get Tired. I Do: On Satisficing",
+      "source": "devto"
+    },
+    "065b4c2822f7c354": {
+      "date": "2026-09-11",
+      "title": "AI-Generated Tests Can Make Coding Agents Worse. Here's How to Check Yours",
+      "source": "devto"
+    },
+    "cf56196eec94132d": {
+      "date": "2026-09-11",
+      "title": "Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding Safer?",
+      "source": "devto"
+    },
+    "e7dce608af853882": {
+      "date": "2026-09-11",
+      "title": "TS Evidence Graph: Make Every SKILL Instruction 100% Enforced",
+      "source": "devto"
+    },
+    "eae4b3aace76badc": {
+      "date": "2026-09-11",
+      "title": "Valkey 9.1's hash field TTL triples memory use for the pattern its own docs show",
+      "source": "devto"
+    },
+    "6268b5fd7c3992e6": {
+      "date": "2026-09-11",
+      "title": "nab138 / iloader",
+      "source": "github"
+    },
+    "cc05accd67dc995f": {
+      "date": "2026-09-11",
+      "title": "melgarafael / DeskcommCRM",
+      "source": "github"
+    },
+    "42f7cef0ed4a92af": {
+      "date": "2026-09-11",
+      "title": "Sonarr / Sonarr",
+      "source": "github"
+    },
+    "352163fdbcdeb0ea": {
+      "date": "2026-09-11",
+      "title": "jihe520 / MathModelAgent",
+      "source": "github"
+    },
+    "380754eccc1abeb4": {
+      "date": "2026-09-11",
+      "title": "p1neappleXpress / OpenFlux",
+      "source": "github"
+    },
+    "3fe7b1b88b796590": {
+      "date": "2026-09-11",
+      "title": "jordan-gibbs / hyperresearch",
+      "source": "github"
+    },
+    "78ea4ce17c7615e5": {
+      "date": "2026-09-11",
+      "title": "alphaXiv / OpenResearch",
       "source": "github"
     }
   }
