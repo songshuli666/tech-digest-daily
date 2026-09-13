@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-12T23:19:50.088011",
+  "last_updated": "2026-09-13T23:27:50.195270",
   "sent_items": {
-    "c4b202ac50c2a47d": {
-      "date": "2026-08-13",
-      "title": "Gemini 3.7 Flash",
-      "source": "hackernews"
-    },
-    "9f127a2494c26598": {
-      "date": "2026-08-13",
-      "title": "DeepSeek Harness developer preview",
-      "source": "hackernews"
-    },
-    "12ac73783350158c": {
-      "date": "2026-08-13",
-      "title": "Spaghettifying DRAM",
-      "source": "hackernews"
-    },
-    "78707d245003fa2f": {
-      "date": "2026-08-13",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "source": "hackernews"
-    },
-    "a864f7ed2ba92486": {
-      "date": "2026-08-13",
-      "title": "Mistral OCR 4.1",
-      "source": "hackernews"
-    },
-    "6723325d9229f986": {
-      "date": "2026-08-13",
-      "title": "Choose Boring Technology (2015)",
-      "source": "hackernews"
-    },
-    "2a1f669b4024b0b7": {
-      "date": "2026-08-13",
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "source": "hackernews"
-    },
-    "1b0a1ff759abe040": {
-      "date": "2026-08-13",
-      "title": "Understanding is the new bottleneck",
-      "source": "hackernews"
-    },
-    "bbd07f0f76eb4005": {
-      "date": "2026-08-13",
-      "title": "NP-Overrated",
-      "source": "hackernews"
-    },
-    "11c3091c13100e12": {
-      "date": "2026-08-13",
-      "title": "How Gödel's Proof Works (2020)",
-      "source": "hackernews"
-    },
-    "2a5c2f445201a4b0": {
-      "date": "2026-08-13",
-      "title": "Kin Health",
-      "source": "producthunt"
-    },
-    "23bd25fa418a6f27": {
-      "date": "2026-08-13",
-      "title": "Human Behavior",
-      "source": "producthunt"
-    },
-    "ef7901950af723c8": {
-      "date": "2026-08-13",
-      "title": "Mem Agent",
-      "source": "producthunt"
-    },
-    "23bd81717ac3c0a1": {
-      "date": "2026-08-13",
-      "title": "Patience",
-      "source": "producthunt"
-    },
-    "06789f072804c43c": {
-      "date": "2026-08-13",
-      "title": "Kivicube",
-      "source": "producthunt"
-    },
-    "7316913ab5be28a2": {
-      "date": "2026-08-13",
-      "title": "Phinq",
-      "source": "producthunt"
-    },
-    "ce32f87cb2857fe5": {
-      "date": "2026-08-13",
-      "title": "ThreadPort",
-      "source": "producthunt"
-    },
-    "5512cbf48feb7ab8": {
-      "date": "2026-08-13",
-      "title": "Insta360 X6",
-      "source": "producthunt"
-    },
-    "3ba8635887d9e5c5": {
-      "date": "2026-08-13",
-      "title": "I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper.",
-      "source": "devto"
-    },
-    "7389d9bee0af517e": {
-      "date": "2026-08-13",
-      "title": "Not All AI Builders Are Doing the Same Work",
-      "source": "devto"
-    },
-    "82a1895ee28eecd2": {
-      "date": "2026-08-13",
-      "title": "24 Cups, 36 Seats — The Bartender's Ledger",
-      "source": "devto"
-    },
-    "97116a2700540157": {
-      "date": "2026-08-13",
-      "title": "My (not so pretty) journey in tech",
-      "source": "devto"
-    },
-    "7fe745e183a83ec4": {
-      "date": "2026-08-13",
-      "title": "Do I Still Need a Monkey Patch for Gemini Live?",
-      "source": "devto"
-    },
-    "19b6ffeccd773eca": {
-      "date": "2026-08-13",
-      "title": "Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU",
-      "source": "devto"
-    },
-    "2e028e0078766d01": {
-      "date": "2026-08-13",
-      "title": "Crafting Hot Filter Kaapi in Pure CSS: Gradients, Steam Engines & Hardware Acceleration",
-      "source": "devto"
-    },
-    "8cf4b6cb5b02274a": {
-      "date": "2026-08-13",
-      "title": "You Know What's Worse Than Not Being Able to Log In?",
-      "source": "devto"
-    },
-    "ae73deec6bf30368": {
-      "date": "2026-08-13",
-      "title": "The Backup Awakens: A Star Wars Story",
-      "source": "devto"
-    },
-    "7fdfa657c0215934": {
-      "date": "2026-08-13",
-      "title": "The Most Dangerous AI-Generated Code Is the Code That Passes All Tests",
-      "source": "devto"
-    },
-    "88adb36d994a0627": {
-      "date": "2026-08-13",
-      "title": "cactus-compute / needle",
-      "source": "github"
-    },
-    "cf22fb2fe760cb42": {
-      "date": "2026-08-13",
-      "title": "altic-dev / FluidVoice",
-      "source": "github"
-    },
-    "4242e51e337ac7d2": {
-      "date": "2026-08-13",
-      "title": "unslothai / unsloth",
-      "source": "github"
-    },
-    "30f62a06b3c4e9b3": {
-      "date": "2026-08-13",
-      "title": "megadose / holehe",
-      "source": "github"
-    },
-    "7cc067ca58c9acc9": {
-      "date": "2026-08-13",
-      "title": "holaboss-ai / holaOS",
-      "source": "github"
-    },
-    "333ac7fd8f02fc43": {
-      "date": "2026-08-13",
-      "title": "kepano / obsidian-skills",
-      "source": "github"
-    },
     "ce5f7495290d9dba": {
       "date": "2026-08-14",
       "title": "Munder Difflin",
@@ -5040,6 +4870,171 @@
     "77049851f70b183b": {
       "date": "2026-09-12",
       "title": "max-sixty / worktrunk",
+      "source": "github"
+    },
+    "705d6f77916b19ca": {
+      "date": "2026-09-13",
+      "title": "JetKVM Mini",
+      "source": "hackernews"
+    },
+    "a4ef7ec8464f4da5": {
+      "date": "2026-09-13",
+      "title": "Why is Google still serving dodgy ads?",
+      "source": "hackernews"
+    },
+    "d58237dcc84da940": {
+      "date": "2026-09-13",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "source": "hackernews"
+    },
+    "c0584b3cc952f007": {
+      "date": "2026-09-13",
+      "title": "Data collected by cars and sold to third parties",
+      "source": "hackernews"
+    },
+    "635a075958ac9432": {
+      "date": "2026-09-13",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "source": "hackernews"
+    },
+    "ba41f0a4417291ee": {
+      "date": "2026-09-13",
+      "title": "Making Startups Powerful",
+      "source": "hackernews"
+    },
+    "3e3c18a42edb58e3": {
+      "date": "2026-09-13",
+      "title": "Julia 1.13 Highlights",
+      "source": "hackernews"
+    },
+    "88ac969b3f68d329": {
+      "date": "2026-09-13",
+      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+      "source": "hackernews"
+    },
+    "58b6b88672883a87": {
+      "date": "2026-09-13",
+      "title": "Bad Code Is Kudzu",
+      "source": "hackernews"
+    },
+    "c19a72a6681f0593": {
+      "date": "2026-09-13",
+      "title": "The Contagion of Fear",
+      "source": "hackernews"
+    },
+    "63c2321ff3132470": {
+      "date": "2026-09-13",
+      "title": "Visiby",
+      "source": "producthunt"
+    },
+    "a74bd16a9c43c39d": {
+      "date": "2026-09-13",
+      "title": "Epilude Notetaker",
+      "source": "producthunt"
+    },
+    "ce35910ee3f0d032": {
+      "date": "2026-09-13",
+      "title": "Neopress",
+      "source": "producthunt"
+    },
+    "7726298677c816e6": {
+      "date": "2026-09-13",
+      "title": "Kirokune",
+      "source": "producthunt"
+    },
+    "98c2b36f57ca361f": {
+      "date": "2026-09-13",
+      "title": "ScreenCursor",
+      "source": "producthunt"
+    },
+    "17736a895a8f76b5": {
+      "date": "2026-09-13",
+      "title": "DemoTV",
+      "source": "producthunt"
+    },
+    "cf142d07508213a1": {
+      "date": "2026-09-13",
+      "title": "Cognition's SWE-2",
+      "source": "producthunt"
+    },
+    "42ccc3d05f495ef2": {
+      "date": "2026-09-13",
+      "title": "SHIUI",
+      "source": "producthunt"
+    },
+    "e218eb65403072e1": {
+      "date": "2026-09-13",
+      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
+      "source": "devto"
+    },
+    "7afa6740b57cecc5": {
+      "date": "2026-09-13",
+      "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
+      "source": "devto"
+    },
+    "b65658288ca8d793": {
+      "date": "2026-09-13",
+      "title": "I made two AIs review each other's code for 30 days. A human still caught the bug in 5 minutes.",
+      "source": "devto"
+    },
+    "3740fc3b9efcc3a9": {
+      "date": "2026-09-13",
+      "title": "The Search Highlight That Deletes Your Selection",
+      "source": "devto"
+    },
+    "4e7a9996ff0e1e64": {
+      "date": "2026-09-13",
+      "title": "The First Legend Has Entered the Arena: CrowdWide Just Submitted to the KODA Code Jam",
+      "source": "devto"
+    },
+    "2634a9ce7e61d725": {
+      "date": "2026-09-13",
+      "title": "I Sell Memory APIs. I'm Also Building the Benchmark. Here's How I'm Trying Not to Rig It.",
+      "source": "devto"
+    },
+    "1ea62f5af092483f": {
+      "date": "2026-09-13",
+      "title": "I ran $24,000 of Claude through my terminal in August. Here is what it built.",
+      "source": "devto"
+    },
+    "00d74d86625a3b23": {
+      "date": "2026-09-13",
+      "title": "🐛 The Bug That Only Happened on Fridays 📅😱",
+      "source": "devto"
+    },
+    "d835f4a6c2218305": {
+      "date": "2026-09-13",
+      "title": "My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.",
+      "source": "devto"
+    },
+    "549afc93e63e387b": {
+      "date": "2026-09-13",
+      "title": "Add AI search to existing application",
+      "source": "devto"
+    },
+    "bba8c7297bb35116": {
+      "date": "2026-09-13",
+      "title": "ever-co / ever-gauzy",
+      "source": "github"
+    },
+    "96cb5d4c7f75eb9f": {
+      "date": "2026-09-13",
+      "title": "tech-leads-club / agent-skills",
+      "source": "github"
+    },
+    "20703a86e2b01e24": {
+      "date": "2026-09-13",
+      "title": "calesthio / OpenMontage",
+      "source": "github"
+    },
+    "85770197f1cb7d8d": {
+      "date": "2026-09-13",
+      "title": "vxcontrol / pentagi",
+      "source": "github"
+    },
+    "9cd514d03f14c102": {
+      "date": "2026-09-13",
+      "title": "alibaba / open-code-review",
       "source": "github"
     }
   }
