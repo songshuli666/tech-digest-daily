@@ -1,337 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-13T23:27:50.195270",
+  "last_updated": "2026-09-15T00:08:42.962310",
   "sent_items": {
-    "ce5f7495290d9dba": {
-      "date": "2026-08-14",
-      "title": "Munder Difflin",
-      "source": "producthunt"
-    },
-    "ddde8478eede37b4": {
-      "date": "2026-08-14",
-      "title": "DeepSeek Harness",
-      "source": "producthunt"
-    },
-    "06b407e52492ae87": {
-      "date": "2026-08-14",
-      "title": "Freebuff",
-      "source": "producthunt"
-    },
-    "07477dacabfd50c4": {
-      "date": "2026-08-14",
-      "title": "Port22",
-      "source": "producthunt"
-    },
-    "7dbf327cbecfa79b": {
-      "date": "2026-08-14",
-      "title": "NS1",
-      "source": "producthunt"
-    },
-    "3fdc4017b53e3dc8": {
-      "date": "2026-08-14",
-      "title": "oxpecker",
-      "source": "producthunt"
-    },
-    "eb92a4e934b2f0c0": {
-      "date": "2026-08-14",
-      "title": "Compass Calendar",
-      "source": "producthunt"
-    },
-    "82716a31615118ea": {
-      "date": "2026-08-14",
-      "title": "Muse",
-      "source": "producthunt"
-    },
-    "3c6993de807d2048": {
-      "date": "2026-08-14",
-      "title": "Qwen 3.8 27B",
-      "source": "hackernews"
-    },
-    "6da520a93cb1d9e2": {
-      "date": "2026-08-14",
-      "title": "Why does Opus 5 feel worse to work with?",
-      "source": "hackernews"
-    },
-    "87274b2d7ed5d37a": {
-      "date": "2026-08-14",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "source": "hackernews"
-    },
-    "4bf31048ec1b3670": {
-      "date": "2026-08-14",
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "source": "hackernews"
-    },
-    "4cd81ebb7b04bc6e": {
-      "date": "2026-08-14",
-      "title": "Introducing Toast 1",
-      "source": "hackernews"
-    },
-    "7e91629f659a11e4": {
-      "date": "2026-08-14",
-      "title": "AI by Hand",
-      "source": "hackernews"
-    },
-    "a0a43a522704ba39": {
-      "date": "2026-08-14",
-      "title": "Study links coffee consumption to metabolic health and sex hormones",
-      "source": "hackernews"
-    },
-    "b01a84e9c727d042": {
-      "date": "2026-08-14",
-      "title": "Everything is about to \"go dark\"",
-      "source": "hackernews"
-    },
-    "46165ace5e85bd27": {
-      "date": "2026-08-14",
-      "title": "Show HN: Ember – Redshift safe color palettes",
-      "source": "hackernews"
-    },
-    "d83f0c5def9301c7": {
-      "date": "2026-08-14",
-      "title": "What You Gain by Building Your Own Game Engine",
-      "source": "hackernews"
-    },
-    "7cb9e969b6dcf6b8": {
-      "date": "2026-08-14",
-      "title": "What was your win this week??",
-      "source": "devto"
-    },
-    "fd9a8a4b1607ccfb": {
-      "date": "2026-08-14",
-      "title": "Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in On",
-      "source": "devto"
-    },
-    "5916170d9653ca89": {
-      "date": "2026-08-14",
-      "title": "Dart 3.13 Primary Constructors + BlocSignal: Boilerplate-Free Reactive Architecture",
-      "source": "devto"
-    },
-    "ce1ef65822d73641": {
-      "date": "2026-08-14",
-      "title": "Dev Opportunity Radar #12: $10K+ Magnificent Grants, Free CodePath Courses, AI Societal Impact Lab F",
-      "source": "devto"
-    },
-    "b44727c55c433cc4": {
-      "date": "2026-08-14",
-      "title": "Looker's Native MCP Server with Claude Code",
-      "source": "devto"
-    },
-    "49b78e298ac05381": {
-      "date": "2026-08-14",
-      "title": "Durable Memory: Why Vector Databases Aren't Enough",
-      "source": "devto"
-    },
-    "aafaebdbd4f4f435": {
-      "date": "2026-08-14",
-      "title": "[Dev Log][Python] Create short videos from photos and clips with Gemini 3.7 Flash: ReelCraft",
-      "source": "devto"
-    },
-    "76c62a9ac66a0ee9": {
-      "date": "2026-08-14",
-      "title": "59% of Dogs Are Obese and Their Owners Don't Know. So I Built an AI That Tells Them.",
-      "source": "devto"
-    },
-    "c3fb8141b1cdb4c8": {
-      "date": "2026-08-14",
-      "title": "I Built a Puerto Rican Mountain Kitchen. The Only Image Is the Favicon.",
-      "source": "devto"
-    },
-    "5579e03858770fba": {
-      "date": "2026-08-14",
-      "title": "Opus 5: How to Fix Verbose Output",
-      "source": "devto"
-    },
-    "8a080a19e7684f78": {
-      "date": "2026-08-14",
-      "title": "github / spec-kit",
-      "source": "github"
-    },
-    "f252ba96214e1ce3": {
-      "date": "2026-08-14",
-      "title": "lightningpixel / modly",
-      "source": "github"
-    },
-    "21302fb12d0b2e2d": {
-      "date": "2026-08-14",
-      "title": "cursor / plugins",
-      "source": "github"
-    },
-    "365700f8954f2067": {
-      "date": "2026-08-14",
-      "title": "deepseek-ai / awesome-deepseek-agent",
-      "source": "github"
-    },
-    "8cb1f496a7fbc670": {
-      "date": "2026-08-14",
-      "title": "rustdesk / rustdesk",
-      "source": "github"
-    },
-    "d877e72a1b1804cb": {
-      "date": "2026-08-14",
-      "title": "OpenCut-app / OpenCut",
-      "source": "github"
-    },
-    "34b6bf6082ec10a3": {
-      "date": "2026-08-15",
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "source": "hackernews"
-    },
-    "61f60a667ad40217": {
-      "date": "2026-08-15",
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "source": "hackernews"
-    },
-    "23efa96eff6eb4ac": {
-      "date": "2026-08-15",
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "source": "hackernews"
-    },
-    "283274f263f4f60a": {
-      "date": "2026-08-15",
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "source": "hackernews"
-    },
-    "ae3c495b09171f57": {
-      "date": "2026-08-15",
-      "title": "RISC-V: They Should Have Known Better",
-      "source": "hackernews"
-    },
-    "eb4dce5f84f17001": {
-      "date": "2026-08-15",
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "source": "hackernews"
-    },
-    "83b9abb3f804b229": {
-      "date": "2026-08-15",
-      "title": "A Spectre Is Haunting Unicode",
-      "source": "hackernews"
-    },
-    "55157dbca8d502d3": {
-      "date": "2026-08-15",
-      "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
-      "source": "hackernews"
-    },
-    "3ba31cb8e4763614": {
-      "date": "2026-08-15",
-      "title": "BriskDB",
-      "source": "hackernews"
-    },
-    "c520af2092b6d9e5": {
-      "date": "2026-08-15",
-      "title": "Geek Fighter – 2d fighter game",
-      "source": "hackernews"
-    },
-    "bc727c3bfe4e6e22": {
-      "date": "2026-08-15",
-      "title": "GLM-5.3",
-      "source": "producthunt"
-    },
-    "e0dec569f79330bc": {
-      "date": "2026-08-15",
-      "title": "Attyn",
-      "source": "producthunt"
-    },
-    "2da791d200e4b735": {
-      "date": "2026-08-15",
-      "title": "nenspace",
-      "source": "producthunt"
-    },
-    "ff0c6b92a8bfeddb": {
-      "date": "2026-08-15",
-      "title": "Chronock",
-      "source": "producthunt"
-    },
-    "1bb698eda4955c43": {
-      "date": "2026-08-15",
-      "title": "Clamshell",
-      "source": "producthunt"
-    },
-    "7152f0651e562eda": {
-      "date": "2026-08-15",
-      "title": "Inferock Bench",
-      "source": "producthunt"
-    },
-    "f77b7bdc29b82f75": {
-      "date": "2026-08-15",
-      "title": "Talvo",
-      "source": "producthunt"
-    },
-    "e327db8ea71a8fbc": {
-      "date": "2026-08-15",
-      "title": "PawBot - An AI Desktop Puppy That Eats Your Files 🐾",
-      "source": "devto"
-    },
-    "437f4adfbd6a0d9d": {
-      "date": "2026-08-15",
-      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-      "source": "devto"
-    },
-    "06aa4bc5dec1b830": {
-      "date": "2026-08-15",
-      "title": "Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13",
-      "source": "devto"
-    },
-    "a8e6dd4d619db376": {
-      "date": "2026-08-15",
-      "title": "One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution",
-      "source": "devto"
-    },
-    "3be7ae170de1472b": {
-      "date": "2026-08-15",
-      "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
-      "source": "devto"
-    },
-    "3b23209bf133be8d": {
-      "date": "2026-08-15",
-      "title": "Gravy Theory: three chickens, one base",
-      "source": "devto"
-    },
-    "55a64d4664f0f66c": {
-      "date": "2026-08-15",
-      "title": "Five tabs open, one refresh token — the race nobody noticed",
-      "source": "devto"
-    },
-    "ad318c50ecfd0598": {
-      "date": "2026-08-15",
-      "title": "Spicing Up the Web: Building \"Angaar\", an Immersive Indian Comfort Food Experience",
-      "source": "devto"
-    },
-    "e40c69048cf5a145": {
-      "date": "2026-08-15",
-      "title": "Designing a Landing Page That Feels Like Opening a Food Journal",
-      "source": "devto"
-    },
-    "c44d9bebf757f4e6": {
-      "date": "2026-08-15",
-      "title": "I built a security scanner that checks if you are a dog",
-      "source": "devto"
-    },
-    "af4602932aef745a": {
-      "date": "2026-08-15",
-      "title": "cordiverse / cordis",
-      "source": "github"
-    },
-    "a55c819fccc2bf0d": {
-      "date": "2026-08-15",
-      "title": "public-apis / public-apis",
-      "source": "github"
-    },
-    "839948fdcd0c1840": {
-      "date": "2026-08-15",
-      "title": "MakazhanAlpamys / Soup",
-      "source": "github"
-    },
-    "c2363e257b825d28": {
-      "date": "2026-08-15",
-      "title": "ToolJet / ToolJet",
-      "source": "github"
-    },
-    "12e9527951797ad0": {
-      "date": "2026-08-15",
-      "title": "HKUDS / CLI-Anything",
-      "source": "github"
-    },
     "cf930f9fab621c0f": {
       "date": "2026-08-16",
       "title": "Claude: System Prompts",
@@ -5035,6 +4705,181 @@
     "9cd514d03f14c102": {
       "date": "2026-09-13",
       "title": "alibaba / open-code-review",
+      "source": "github"
+    },
+    "4c14d1b73e2a52af": {
+      "date": "2026-09-15",
+      "title": "XCancel service is suspended until further notice",
+      "source": "hackernews"
+    },
+    "49519d89cf6f595a": {
+      "date": "2026-09-15",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "source": "hackernews"
+    },
+    "35b8d957932395c3": {
+      "date": "2026-09-15",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "source": "hackernews"
+    },
+    "a50bc738874d78e6": {
+      "date": "2026-09-15",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "source": "hackernews"
+    },
+    "c841df4bf1a7c906": {
+      "date": "2026-09-15",
+      "title": "Distributed Systems Classics (2017)",
+      "source": "hackernews"
+    },
+    "b9867ec1ee157399": {
+      "date": "2026-09-15",
+      "title": "A Beginning for Mathematics",
+      "source": "hackernews"
+    },
+    "deef06f8f5e6975b": {
+      "date": "2026-09-15",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "source": "hackernews"
+    },
+    "9d9b784ff85e3b8c": {
+      "date": "2026-09-15",
+      "title": "Charts built for Chat",
+      "source": "hackernews"
+    },
+    "3066d53356563c41": {
+      "date": "2026-09-15",
+      "title": "Compressing a Flag to 11 Bits",
+      "source": "hackernews"
+    },
+    "6c22b6057924499f": {
+      "date": "2026-09-15",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "source": "hackernews"
+    },
+    "c090787f7f6faf59": {
+      "date": "2026-09-15",
+      "title": "Naoma AI Demo Agent V2",
+      "source": "producthunt"
+    },
+    "d6dba69506b9d920": {
+      "date": "2026-09-15",
+      "title": "Slashy Assistant",
+      "source": "producthunt"
+    },
+    "c13138237e311466": {
+      "date": "2026-09-15",
+      "title": "Marqly 6.0",
+      "source": "producthunt"
+    },
+    "f907bf10903333ca": {
+      "date": "2026-09-15",
+      "title": "Juggler",
+      "source": "producthunt"
+    },
+    "90b4d031e94fe18d": {
+      "date": "2026-09-15",
+      "title": "Image to ASCII",
+      "source": "producthunt"
+    },
+    "ae5d9f8463a5b97f": {
+      "date": "2026-09-15",
+      "title": "Oats",
+      "source": "producthunt"
+    },
+    "ddfdb0d1d4440b15": {
+      "date": "2026-09-15",
+      "title": "OzBrain",
+      "source": "producthunt"
+    },
+    "e7b40604ee1ad28c": {
+      "date": "2026-09-15",
+      "title": "Deplo",
+      "source": "producthunt"
+    },
+    "18a61c86a77b5529": {
+      "date": "2026-09-15",
+      "title": "5 DEV.to Features I Wish Existed. 3 I'm Genuinely Relieved They Don't.",
+      "source": "devto"
+    },
+    "50ced4e33cd040c8": {
+      "date": "2026-09-15",
+      "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+      "source": "devto"
+    },
+    "65cc148295e1dca6": {
+      "date": "2026-09-15",
+      "title": "I Added One Key to a PHP Array. It Cost 25 MB of Memory",
+      "source": "devto"
+    },
+    "c81e1f6b3512eb36": {
+      "date": "2026-09-15",
+      "title": "The ffmpeg Pipeline Nobody Explains",
+      "source": "devto"
+    },
+    "445e15e453504712": {
+      "date": "2026-09-15",
+      "title": "I Found Two Bugs in a Hackathon's Judging Tool. Neither Explained Why I Lost.",
+      "source": "devto"
+    },
+    "01372e02e690d211": {
+      "date": "2026-09-15",
+      "title": "My Harness Used One Label for Three Different Failures.",
+      "source": "devto"
+    },
+    "24d3c13d62327eaa": {
+      "date": "2026-09-15",
+      "title": "Nine Years of Almost: My Raspberry Pi Love and Hate Journey",
+      "source": "devto"
+    },
+    "56a57b9dfd4780d3": {
+      "date": "2026-09-15",
+      "title": "Living a Colorful Life in a Black-and-White ATS World",
+      "source": "devto"
+    },
+    "40a13a3fe5b3105a": {
+      "date": "2026-09-15",
+      "title": "Is AI Really Better at Coding Than Most Developers? Here's the Uncomfortable Truth",
+      "source": "devto"
+    },
+    "13b85fcb7ab2ccbc": {
+      "date": "2026-09-15",
+      "title": "Empty Is Not a State",
+      "source": "devto"
+    },
+    "5fa324d6510a1f1b": {
+      "date": "2026-09-15",
+      "title": "666ghj / MiroFish",
+      "source": "github"
+    },
+    "81fb0b6406ba5bb8": {
+      "date": "2026-09-15",
+      "title": "Panniantong / Agent-Reach",
+      "source": "github"
+    },
+    "ddbbf4cad372c3fe": {
+      "date": "2026-09-15",
+      "title": "rlaope / oh-my-hermes",
+      "source": "github"
+    },
+    "84856bae44e50ca8": {
+      "date": "2026-09-15",
+      "title": "localsend / localsend",
+      "source": "github"
+    },
+    "361d8d37c3971cf9": {
+      "date": "2026-09-15",
+      "title": "ruvnet / RuView",
+      "source": "github"
+    },
+    "78ddb48b10aef7ae": {
+      "date": "2026-09-15",
+      "title": "OpenBMB / VoxCPM",
+      "source": "github"
+    },
+    "cf909fcdfc721ecc": {
+      "date": "2026-09-15",
+      "title": "huggingface / transformers",
       "source": "github"
     }
   }
