@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-15T00:08:42.962310",
+  "last_updated": "2026-09-15T23:48:03.700509",
   "sent_items": {
     "cf930f9fab621c0f": {
       "date": "2026-08-16",
@@ -4880,6 +4880,176 @@
     "cf909fcdfc721ecc": {
       "date": "2026-09-15",
       "title": "huggingface / transformers",
+      "source": "github"
+    },
+    "f9bc345c257a4c33": {
+      "date": "2026-09-15",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "source": "hackernews"
+    },
+    "6f7d07f4680cc41b": {
+      "date": "2026-09-15",
+      "title": "Introducing System One Models and Jev",
+      "source": "hackernews"
+    },
+    "2630112128806626": {
+      "date": "2026-09-15",
+      "title": "An Update on Wayback Machine Access",
+      "source": "hackernews"
+    },
+    "2bb653c70c81b015": {
+      "date": "2026-09-15",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "source": "hackernews"
+    },
+    "f49d2b8b3c9d8095": {
+      "date": "2026-09-15",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "source": "hackernews"
+    },
+    "f19e47e6a7d3c637": {
+      "date": "2026-09-15",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "source": "hackernews"
+    },
+    "4bf12c040bb6a4b7": {
+      "date": "2026-09-15",
+      "title": "Chopping up books when they're physically too big",
+      "source": "hackernews"
+    },
+    "443b315ed21151c6": {
+      "date": "2026-09-15",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "source": "hackernews"
+    },
+    "ab8f929a13fb90e8": {
+      "date": "2026-09-15",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "source": "hackernews"
+    },
+    "2aeecd402fe3b6d4": {
+      "date": "2026-09-15",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "source": "hackernews"
+    },
+    "fa84b809fd6e15ed": {
+      "date": "2026-09-15",
+      "title": "Thoughts for Mac",
+      "source": "producthunt"
+    },
+    "7c1e39faabd8ad9d": {
+      "date": "2026-09-15",
+      "title": "Kilo Code for iOS and Android",
+      "source": "producthunt"
+    },
+    "f2d85b151bd7c4dc": {
+      "date": "2026-09-15",
+      "title": "Portfolio Frame",
+      "source": "producthunt"
+    },
+    "30215f8c6d8d07d9": {
+      "date": "2026-09-15",
+      "title": "PortAura",
+      "source": "producthunt"
+    },
+    "b29fa76037b7ab8f": {
+      "date": "2026-09-15",
+      "title": "jurniti",
+      "source": "producthunt"
+    },
+    "4664a29357b7e8e4": {
+      "date": "2026-09-15",
+      "title": "Mailyte",
+      "source": "producthunt"
+    },
+    "d3f22d96c4a681a5": {
+      "date": "2026-09-15",
+      "title": "Narrative",
+      "source": "producthunt"
+    },
+    "89bbc9757aafdc62": {
+      "date": "2026-09-15",
+      "title": "Grimo AI",
+      "source": "producthunt"
+    },
+    "8fd221f8ee15838f": {
+      "date": "2026-09-15",
+      "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
+      "source": "devto"
+    },
+    "90af0a47ec564123": {
+      "date": "2026-09-15",
+      "title": "The Quiet Weight of Working in Tech in the AI Era",
+      "source": "devto"
+    },
+    "4d1bb9083f86ccb7": {
+      "date": "2026-09-15",
+      "title": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?",
+      "source": "devto"
+    },
+    "b40e0bb04bb147af": {
+      "date": "2026-09-15",
+      "title": "AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.",
+      "source": "devto"
+    },
+    "2b7ed3fe8b0c24c9": {
+      "date": "2026-09-15",
+      "title": "Resilient and Battle-Tested Are Not the Same Word",
+      "source": "devto"
+    },
+    "5e6f1c8d4ba4eee4": {
+      "date": "2026-09-15",
+      "title": "MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits",
+      "source": "devto"
+    },
+    "79b69718ae893a57": {
+      "date": "2026-09-15",
+      "title": "The Hidden Taxes of Prompt-Only AI",
+      "source": "devto"
+    },
+    "b914f26bd0966d64": {
+      "date": "2026-09-15",
+      "title": "I Throttled My App to Slow 3G. Here's What My Tests Never Caught",
+      "source": "devto"
+    },
+    "ae9c6f3e2d77805a": {
+      "date": "2026-09-15",
+      "title": "🧩 Don't make Tech your entire personality.",
+      "source": "devto"
+    },
+    "30fbeebb286c749d": {
+      "date": "2026-09-15",
+      "title": "The Test Looked Redundant. The Ninth Bug Needed It.",
+      "source": "devto"
+    },
+    "3ace28dd12ad4e20": {
+      "date": "2026-09-15",
+      "title": "Homebrew / BrewUI",
+      "source": "github"
+    },
+    "2d6bfe572fce3baf": {
+      "date": "2026-09-15",
+      "title": "danny-avila / LibreChat",
+      "source": "github"
+    },
+    "9f1698c8eec8e6cf": {
+      "date": "2026-09-15",
+      "title": "MG1937 / ASC",
+      "source": "github"
+    },
+    "0d1bd25a3199bf22": {
+      "date": "2026-09-15",
+      "title": "addyosmani / agent-skills",
+      "source": "github"
+    },
+    "104bec12c36ea90a": {
+      "date": "2026-09-15",
+      "title": "tonhowtf / omniget",
+      "source": "github"
+    },
+    "d37649da1014b56f": {
+      "date": "2026-09-15",
+      "title": "earendil-works / pi",
       "source": "github"
     }
   }
