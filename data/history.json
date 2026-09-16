@@ -1,127 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-15T23:48:03.700509",
+  "last_updated": "2026-09-16T23:55:01.834348",
   "sent_items": {
-    "cf930f9fab621c0f": {
-      "date": "2026-08-16",
-      "title": "Claude: System Prompts",
-      "source": "hackernews"
-    },
-    "3e6753416c3b9070": {
-      "date": "2026-08-16",
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "source": "hackernews"
-    },
-    "41f2fc1010ceb37a": {
-      "date": "2026-08-16",
-      "title": "The AI Credit Resale Economy",
-      "source": "hackernews"
-    },
-    "547ded5fe924020c": {
-      "date": "2026-08-16",
-      "title": "Models Are Getting Dumber on Purpose",
-      "source": "hackernews"
-    },
-    "37baffef30c9f8c9": {
-      "date": "2026-08-16",
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "source": "hackernews"
-    },
-    "3fa21f32114dc233": {
-      "date": "2026-08-16",
-      "title": "Protobuf has LSP support. You're welcome",
-      "source": "hackernews"
-    },
-    "d50dfa83cdb010c5": {
-      "date": "2026-08-16",
-      "title": "MathCode, Mathematical Coding Agent",
-      "source": "hackernews"
-    },
-    "57aea0d2f6ab5819": {
-      "date": "2026-08-16",
-      "title": "Low-Tech Ceramic Water Filter",
-      "source": "hackernews"
-    },
-    "1df2ff4d540a42c4": {
-      "date": "2026-08-16",
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "source": "hackernews"
-    },
-    "9dc4317251915853": {
-      "date": "2026-08-16",
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "source": "hackernews"
-    },
-    "1d4496e0ddb2d0f5": {
-      "date": "2026-08-16",
-      "title": "Expeditione",
-      "source": "producthunt"
-    },
-    "fdedb47815e504dc": {
-      "date": "2026-08-16",
-      "title": "Chert",
-      "source": "producthunt"
-    },
-    "28cd0e7dd17d7f88": {
-      "date": "2026-08-16",
-      "title": "AirAlarm",
-      "source": "producthunt"
-    },
-    "988d410025cf7bda": {
-      "date": "2026-08-16",
-      "title": "Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓",
-      "source": "devto"
-    },
-    "69657b1159f0d740": {
-      "date": "2026-08-16",
-      "title": "Your Dog Can't Tell You Where It Hurts. MATCH_RECOGNIZE in Snowflake Can.",
-      "source": "devto"
-    },
-    "2518c91f2ca1a859": {
-      "date": "2026-08-16",
-      "title": "Paw & Order: upload your dog, and defend them against evidence generated from their own photo",
-      "source": "devto"
-    },
-    "5a2f573c7428f887": {
-      "date": "2026-08-16",
-      "title": "Feijoada Anonymous: a support group for people who miss Brazilian food",
-      "source": "devto"
-    },
-    "dfd5d5d384049fb3": {
-      "date": "2026-08-16",
-      "title": "Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸",
-      "source": "devto"
-    },
-    "2e85a3aacdec075a": {
-      "date": "2026-08-16",
-      "title": "Kitchen-Sune: A Community Cookbook",
-      "source": "devto"
-    },
-    "fda67df8b3ef9577": {
-      "date": "2026-08-16",
-      "title": "I Can Finally Delete My max-height: 9999px Animation Hack",
-      "source": "devto"
-    },
-    "a80b9a2aa82fcd21": {
-      "date": "2026-08-16",
-      "title": "Claude Impact Lab LA: Community Changed the Code",
-      "source": "devto"
-    },
-    "47f0ae8ffc624bfa": {
-      "date": "2026-08-16",
-      "title": "How We Got an LLM to Draw Charts Without Ever Touching a Pixel",
-      "source": "devto"
-    },
-    "33e1070998d34ffc": {
-      "date": "2026-08-16",
-      "title": "🍣 Sushi RS: SVG Sushi Components for Rust Frontends.",
-      "source": "devto"
-    },
-    "3dd650989f01578c": {
-      "date": "2026-08-16",
-      "title": "basecamp / omarchy",
-      "source": "github"
-    },
     "d316305f168247da": {
       "date": "2026-08-17",
       "title": "A Preview of DuckDB v2.0",
@@ -5050,6 +4930,181 @@
     "d37649da1014b56f": {
       "date": "2026-09-15",
       "title": "earendil-works / pi",
+      "source": "github"
+    },
+    "3cb8170cf407614b": {
+      "date": "2026-09-16",
+      "title": "Small programming tricks",
+      "source": "hackernews"
+    },
+    "07eea16e6e859475": {
+      "date": "2026-09-16",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "source": "hackernews"
+    },
+    "517c266455f2d716": {
+      "date": "2026-09-16",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "source": "hackernews"
+    },
+    "9ac1fab5ce664ba9": {
+      "date": "2026-09-16",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "source": "hackernews"
+    },
+    "20988c6b4453a9f9": {
+      "date": "2026-09-16",
+      "title": "Performance Improvements in .NET 11",
+      "source": "hackernews"
+    },
+    "05d85e0227b694f2": {
+      "date": "2026-09-16",
+      "title": "Reversing Factorio's RNG",
+      "source": "hackernews"
+    },
+    "5c45953f4650d8a1": {
+      "date": "2026-09-16",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "source": "hackernews"
+    },
+    "9be8911b5c1c6ca0": {
+      "date": "2026-09-16",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "source": "hackernews"
+    },
+    "5691d4133b040925": {
+      "date": "2026-09-16",
+      "title": "Backups Aren't Simple",
+      "source": "hackernews"
+    },
+    "d32cd4f8a2530868": {
+      "date": "2026-09-16",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "source": "hackernews"
+    },
+    "8a7db6a3094e92f1": {
+      "date": "2026-09-16",
+      "title": "ZeroClick",
+      "source": "producthunt"
+    },
+    "18f601023cc5abb1": {
+      "date": "2026-09-16",
+      "title": "Twigg",
+      "source": "producthunt"
+    },
+    "349f4dfcd10eb13d": {
+      "date": "2026-09-16",
+      "title": "Thread",
+      "source": "producthunt"
+    },
+    "fa2a1223a75d38ab": {
+      "date": "2026-09-16",
+      "title": "Expand Board for macOS",
+      "source": "producthunt"
+    },
+    "2a773beca9125738": {
+      "date": "2026-09-16",
+      "title": "Weave Router 2.0",
+      "source": "producthunt"
+    },
+    "3ecd540c44030c88": {
+      "date": "2026-09-16",
+      "title": "Appwrite 2.0",
+      "source": "producthunt"
+    },
+    "1be04ce3b82aca32": {
+      "date": "2026-09-16",
+      "title": "Gemini 3.8 & 3.8 Live Extended Thinking",
+      "source": "producthunt"
+    },
+    "d20ccfc0e301716e": {
+      "date": "2026-09-16",
+      "title": "PeakHour 6",
+      "source": "producthunt"
+    },
+    "ccd0d40c07de9f22": {
+      "date": "2026-09-16",
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "source": "devto"
+    },
+    "fa0f7463676721cb": {
+      "date": "2026-09-16",
+      "title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "source": "devto"
+    },
+    "0701ae2972addb5a": {
+      "date": "2026-09-16",
+      "title": "How I Finally Learnt to Solve Coding Interview Questions",
+      "source": "devto"
+    },
+    "dc5473836e990dad": {
+      "date": "2026-09-16",
+      "title": "How to Count 100 Billion Things in 12 Kilobytes",
+      "source": "devto"
+    },
+    "5dfebd96fbb91c38": {
+      "date": "2026-09-16",
+      "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the w",
+      "source": "devto"
+    },
+    "164f9f054260cc75": {
+      "date": "2026-09-16",
+      "title": "Progressive Disclosure: What, Where, When, and Why",
+      "source": "devto"
+    },
+    "b0296b3b3654f66f": {
+      "date": "2026-09-16",
+      "title": "My OSS Projects: Mages",
+      "source": "devto"
+    },
+    "9b99f1ffd34f4482": {
+      "date": "2026-09-16",
+      "title": "R4B1T_H0LE: DESCENT",
+      "source": "devto"
+    },
+    "1dc4fd9c7adb0898": {
+      "date": "2026-09-16",
+      "title": "Scrum is finally dead 🎉 and we have to thank Coding Agents for that",
+      "source": "devto"
+    },
+    "18f6f5514e177437": {
+      "date": "2026-09-16",
+      "title": "The Best Thing AI Did to Tech Might Be Pushing Us Out of It",
+      "source": "devto"
+    },
+    "1a92f63bf14a6dae": {
+      "date": "2026-09-16",
+      "title": "cloudflare / security-audit-skill",
+      "source": "github"
+    },
+    "b79aba30005faa69": {
+      "date": "2026-09-16",
+      "title": "abue-ammar / tinycast",
+      "source": "github"
+    },
+    "bfeff07f7d8682f0": {
+      "date": "2026-09-16",
+      "title": "jamiepine / voicebox",
+      "source": "github"
+    },
+    "8b104053cac10bb4": {
+      "date": "2026-09-16",
+      "title": "anthropics / knowledge-work-plugins",
+      "source": "github"
+    },
+    "8088d27b11eb5bed": {
+      "date": "2026-09-16",
+      "title": "ankitects / anki",
+      "source": "github"
+    },
+    "b8b2afae293a234e": {
+      "date": "2026-09-16",
+      "title": "roboflow / supervision",
+      "source": "github"
+    },
+    "846afa38c565e32e": {
+      "date": "2026-09-16",
+      "title": "supabase / supabase",
       "source": "github"
     }
   }
