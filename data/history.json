@@ -1,192 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-16T23:55:01.834348",
+  "last_updated": "2026-09-17T23:49:08.799693",
   "sent_items": {
-    "d316305f168247da": {
-      "date": "2026-08-17",
-      "title": "A Preview of DuckDB v2.0",
-      "source": "hackernews"
-    },
-    "bb0224d52f1fe756": {
-      "date": "2026-08-17",
-      "title": "Incident with Github.com",
-      "source": "hackernews"
-    },
-    "ad020c91f6cb954c": {
-      "date": "2026-08-17",
-      "title": "AI;DR (AI; Didn't Read)",
-      "source": "hackernews"
-    },
-    "64d3338b4aed0757": {
-      "date": "2026-08-17",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "source": "hackernews"
-    },
-    "e05b8360d2832fce": {
-      "date": "2026-08-17",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "source": "hackernews"
-    },
-    "9bd7a24fdb22e7d9": {
-      "date": "2026-08-17",
-      "title": "Olo (Color)",
-      "source": "hackernews"
-    },
-    "8893a476984436dc": {
-      "date": "2026-08-17",
-      "title": "How to disable or avoid intrusive AI",
-      "source": "hackernews"
-    },
-    "35cea24ccbb53c58": {
-      "date": "2026-08-17",
-      "title": "Sun Clock",
-      "source": "hackernews"
-    },
-    "fb1d9c246a9f2420": {
-      "date": "2026-08-17",
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "source": "hackernews"
-    },
-    "abdb1696817df5f9": {
-      "date": "2026-08-17",
-      "title": "The Origin of Consciousness (2008)",
-      "source": "hackernews"
-    },
-    "79fcad6ab9fa7799": {
-      "date": "2026-08-17",
-      "title": "Meridian",
-      "source": "producthunt"
-    },
-    "4973d98ff782a188": {
-      "date": "2026-08-17",
-      "title": "Startup Program by Recall.ai",
-      "source": "producthunt"
-    },
-    "19781abd7966582b": {
-      "date": "2026-08-17",
-      "title": "OpenTrade",
-      "source": "producthunt"
-    },
-    "0b44d31b54390a83": {
-      "date": "2026-08-17",
-      "title": "Scholé Scenarios",
-      "source": "producthunt"
-    },
-    "61d62eea5077b328": {
-      "date": "2026-08-17",
-      "title": "Replay QA for Teams",
-      "source": "producthunt"
-    },
-    "aacea65facc1409f": {
-      "date": "2026-08-17",
-      "title": "Treg",
-      "source": "producthunt"
-    },
-    "9067b943cf08f283": {
-      "date": "2026-08-17",
-      "title": "Vendo",
-      "source": "producthunt"
-    },
-    "8fe3c96bd59c3aca": {
-      "date": "2026-08-17",
-      "title": "Omni by xpander",
-      "source": "producthunt"
-    },
-    "7c09473f1ffc3548": {
-      "date": "2026-08-17",
-      "title": "harry0703 / MoneyPrinterTurbo",
-      "source": "github"
-    },
-    "11576ef07d08cff8": {
-      "date": "2026-08-17",
-      "title": "usestrix / strix",
-      "source": "github"
-    },
-    "77c460c436551b66": {
-      "date": "2026-08-17",
-      "title": "nautechsystems / nautilus_trader",
-      "source": "github"
-    },
-    "44154b46b32c21ba": {
-      "date": "2026-08-17",
-      "title": "akitaonrails / ai-memory",
-      "source": "github"
-    },
-    "ebc3b4fe22b66c2d": {
-      "date": "2026-08-17",
-      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-      "source": "github"
-    },
-    "7b6a865db4d6f6c0": {
-      "date": "2026-08-17",
-      "title": "santifer / career-ops",
-      "source": "github"
-    },
-    "f4f993b4bf74f441": {
-      "date": "2026-08-17",
-      "title": "jundot / omlx",
-      "source": "github"
-    },
-    "f6d44bafc3780456": {
-      "date": "2026-08-17",
-      "title": "immich-app / immich",
-      "source": "github"
-    },
-    "1d3aa2a2f7e2c3bd": {
-      "date": "2026-08-17",
-      "title": "agalwood / Motrix",
-      "source": "github"
-    },
-    "8b4b310ce608e28d": {
-      "date": "2026-08-17",
-      "title": "Functional languages are heavily imperative.",
-      "source": "devto"
-    },
-    "732de5e21de2e5d0": {
-      "date": "2026-08-17",
-      "title": "Git Gud!",
-      "source": "devto"
-    },
-    "e2bdd5024ef13a1f": {
-      "date": "2026-08-17",
-      "title": "How to Reach Your Full Potential as a Programmer (It's Probably Not What You Think)",
-      "source": "devto"
-    },
-    "1ecbe4c1a0d923a8": {
-      "date": "2026-08-17",
-      "title": "The Kitchen Doesn't Care About Your Excuses",
-      "source": "devto"
-    },
-    "b5f480ecef2c23e4": {
-      "date": "2026-08-17",
-      "title": "What are your goals for the week? #192",
-      "source": "devto"
-    },
-    "7d5d815e05d2d5d4": {
-      "date": "2026-08-17",
-      "title": "Learn how to build a disclosure component using the native HTML details tag",
-      "source": "devto"
-    },
-    "afd3e1f31c550104": {
-      "date": "2026-08-17",
-      "title": "Don't Give the Model SQL",
-      "source": "devto"
-    },
-    "44ae743e04c43660": {
-      "date": "2026-08-17",
-      "title": "Shipping Assumptions: A Reliability Stack for AI-Generated Code",
-      "source": "devto"
-    },
-    "1ab2abc9d136fa26": {
-      "date": "2026-08-17",
-      "title": "The Past Keeps Changing",
-      "source": "devto"
-    },
-    "f67755d6a6fb020d": {
-      "date": "2026-08-17",
-      "title": "PawMatch: Finding the Dog That Matches Your Personality 🐾",
-      "source": "devto"
-    },
     "b3fd0a71c984768d": {
       "date": "2026-08-18",
       "title": "The Amazon tax",
@@ -5105,6 +4920,161 @@
     "846afa38c565e32e": {
       "date": "2026-09-16",
       "title": "supabase / supabase",
+      "source": "github"
+    },
+    "3525939fb908d174": {
+      "date": "2026-09-17",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "source": "hackernews"
+    },
+    "0c898219dedf03f5": {
+      "date": "2026-09-17",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "source": "hackernews"
+    },
+    "294342cde7e97649": {
+      "date": "2026-09-17",
+      "title": "Astra for Law",
+      "source": "hackernews"
+    },
+    "6c90a6761f03e888": {
+      "date": "2026-09-17",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "source": "hackernews"
+    },
+    "38c8aa5739058998": {
+      "date": "2026-09-17",
+      "title": "Wax motor",
+      "source": "hackernews"
+    },
+    "51ea877eb6080618": {
+      "date": "2026-09-17",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "source": "hackernews"
+    },
+    "b634b6b52397d2fe": {
+      "date": "2026-09-17",
+      "title": "Sex, AI, and the Apocalypse",
+      "source": "hackernews"
+    },
+    "46b5a546de98b3b5": {
+      "date": "2026-09-17",
+      "title": "How to Write with an LLM",
+      "source": "hackernews"
+    },
+    "05b822e3a3563bfa": {
+      "date": "2026-09-17",
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "source": "hackernews"
+    },
+    "0af12fc17f1229f2": {
+      "date": "2026-09-17",
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "source": "hackernews"
+    },
+    "2cd294a600d2bad5": {
+      "date": "2026-09-17",
+      "title": "Text Agent Store",
+      "source": "producthunt"
+    },
+    "ed74cab222b449da": {
+      "date": "2026-09-17",
+      "title": "Amy by Jellyfish",
+      "source": "producthunt"
+    },
+    "99c3b80bb4ca649c": {
+      "date": "2026-09-17",
+      "title": "Ever Beyond: Space Conquest",
+      "source": "producthunt"
+    },
+    "173f94b6909a82a9": {
+      "date": "2026-09-17",
+      "title": "QuietHint®",
+      "source": "producthunt"
+    },
+    "737680ba566377e2": {
+      "date": "2026-09-17",
+      "title": "S-Roll",
+      "source": "producthunt"
+    },
+    "9d266809beb24657": {
+      "date": "2026-09-17",
+      "title": "Opyt",
+      "source": "producthunt"
+    },
+    "0cb1f3ddf46e70ed": {
+      "date": "2026-09-17",
+      "title": "The Forge by Bob's Workshop",
+      "source": "producthunt"
+    },
+    "0a1c69aeddcd9701": {
+      "date": "2026-09-17",
+      "title": "MacSentinel",
+      "source": "producthunt"
+    },
+    "8572ccab5345c71a": {
+      "date": "2026-09-17",
+      "title": "Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!",
+      "source": "devto"
+    },
+    "c61e483f29cdc055": {
+      "date": "2026-09-17",
+      "title": "API Performance Testing: How to Design Realistic Tests",
+      "source": "devto"
+    },
+    "ce7f602d12dfd2ae": {
+      "date": "2026-09-17",
+      "title": "Git Bisect for Your Data",
+      "source": "devto"
+    },
+    "48dfba2108945afb": {
+      "date": "2026-09-17",
+      "title": "An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't",
+      "source": "devto"
+    },
+    "36cd6c770ded3724": {
+      "date": "2026-09-17",
+      "title": "Show a model your old code and it writes your old bugs: 32 runs, 0% reuse",
+      "source": "devto"
+    },
+    "a5023166a7bc5886": {
+      "date": "2026-09-17",
+      "title": "My First AI Judge Interview: What Could Possibly Go Wrong?",
+      "source": "devto"
+    },
+    "774b304650acae2b": {
+      "date": "2026-09-17",
+      "title": "The Code I Couldn't Leave Alone",
+      "source": "devto"
+    },
+    "8f91dc705fb24261": {
+      "date": "2026-09-17",
+      "title": "Deno 2.6's minimum dependency age flag ignores year and month durations",
+      "source": "devto"
+    },
+    "34bac38c0a9cb507": {
+      "date": "2026-09-17",
+      "title": "Frameworks Are Institutional Memory",
+      "source": "devto"
+    },
+    "7bb6d503295f7f51": {
+      "date": "2026-09-17",
+      "title": "Debug Log #3: I Had Claude Code Backtest a Trading Strategy for a Week, and It Found Three Bugs In I",
+      "source": "devto"
+    },
+    "373224bd194d7872": {
+      "date": "2026-09-17",
+      "title": "Tencent / BrowserSkill",
+      "source": "github"
+    },
+    "b271d174e634cf15": {
+      "date": "2026-09-17",
+      "title": "Tencent / WeKnora",
+      "source": "github"
+    },
+    "358f8118ec67b51f": {
+      "date": "2026-09-17",
+      "title": "cilium / cilium",
       "source": "github"
     }
   }
