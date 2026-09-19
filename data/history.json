@@ -1,157 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-18T23:36:03.092248",
+  "last_updated": "2026-09-19T23:26:37.691745",
   "sent_items": {
-    "2f388a168f88be16": {
-      "date": "2026-08-19",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "source": "hackernews"
-    },
-    "2bc42a21bd81d16d": {
-      "date": "2026-08-19",
-      "title": "OpenRouter is joining Stripe",
-      "source": "hackernews"
-    },
-    "6dbfb305b24b24d9": {
-      "date": "2026-08-19",
-      "title": "Go 1.27",
-      "source": "hackernews"
-    },
-    "e5784de24be7838f": {
-      "date": "2026-08-19",
-      "title": "Casio F-B100W-1A",
-      "source": "hackernews"
-    },
-    "fe82b57a4326b9bc": {
-      "date": "2026-08-19",
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "source": "hackernews"
-    },
-    "bde94133bc0310ca": {
-      "date": "2026-08-19",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "source": "hackernews"
-    },
-    "85a66ff576918e59": {
-      "date": "2026-08-19",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "source": "hackernews"
-    },
-    "09618c092e0b403c": {
-      "date": "2026-08-19",
-      "title": "The little-known winstart.bat batch file",
-      "source": "hackernews"
-    },
-    "1be36230688baea9": {
-      "date": "2026-08-19",
-      "title": "Pressed Penny Machine Map",
-      "source": "hackernews"
-    },
-    "a678b2801da4b109": {
-      "date": "2026-08-19",
-      "title": "DFlash 2: Keep Drafting Parallel",
-      "source": "hackernews"
-    },
-    "edd0f2ce2f8a9298": {
-      "date": "2026-08-19",
-      "title": "Basedash Public Sharing",
-      "source": "producthunt"
-    },
-    "4d4919a9f16f4d37": {
-      "date": "2026-08-19",
-      "title": "Balsa UI",
-      "source": "producthunt"
-    },
-    "7058227ca125eafb": {
-      "date": "2026-08-19",
-      "title": "Hexel Editor",
-      "source": "producthunt"
-    },
-    "84b93b8cde544fc9": {
-      "date": "2026-08-19",
-      "title": "Loopcase",
-      "source": "producthunt"
-    },
-    "74bbfda82f0674f5": {
-      "date": "2026-08-19",
-      "title": "Origin by Cursor",
-      "source": "producthunt"
-    },
-    "1d38ba8e8b31d2c9": {
-      "date": "2026-08-19",
-      "title": "Edgemetry",
-      "source": "producthunt"
-    },
-    "07e06376fafd7912": {
-      "date": "2026-08-19",
-      "title": "AgentR 3.0",
-      "source": "producthunt"
-    },
-    "31289ebccaf157c5": {
-      "date": "2026-08-19",
-      "title": "Zyntax IDE",
-      "source": "producthunt"
-    },
-    "4feaa250a513cbd9": {
-      "date": "2026-08-19",
-      "title": "amadeusprotocol / node",
-      "source": "github"
-    },
-    "f453f701f0417821": {
-      "date": "2026-08-19",
-      "title": "marceloprates / prettymaps",
-      "source": "github"
-    },
-    "e0dcb7607e8c6862": {
-      "date": "2026-08-19",
-      "title": "Engineering: Dreams, or Self-Actualization?",
-      "source": "devto"
-    },
-    "43bf793a48423ef3": {
-      "date": "2026-08-19",
-      "title": "Greatness Is Forged by Limitation",
-      "source": "devto"
-    },
-    "39d4a6260f741638": {
-      "date": "2026-08-19",
-      "title": "My AI Content Journey",
-      "source": "devto"
-    },
-    "79ed514c155d0ea5": {
-      "date": "2026-08-19",
-      "title": "11 Independent DevOps Learning Sites That Are Not Selling You a Certification",
-      "source": "devto"
-    },
-    "295654804279a52a": {
-      "date": "2026-08-19",
-      "title": "My QUIC transport had never once been executed. Here's what happened when I ran it.",
-      "source": "devto"
-    },
-    "a90e10e236423706": {
-      "date": "2026-08-19",
-      "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
-      "source": "devto"
-    },
-    "3566141340675185": {
-      "date": "2026-08-19",
-      "title": "I Write Less Code Than I Used To. That May Be the Point.",
-      "source": "devto"
-    },
-    "9312406988ce90ed": {
-      "date": "2026-08-19",
-      "title": "I Deliberately Destroyed My Kubernetes Cluster at 2 AM. Here's What Died First.",
-      "source": "devto"
-    },
-    "95c95330dbeda6ae": {
-      "date": "2026-08-19",
-      "title": "Your idempotency test probably cannot fail",
-      "source": "devto"
-    },
-    "7aaa25e47acc09ed": {
-      "date": "2026-08-19",
-      "title": "Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug",
-      "source": "devto"
-    },
     "0d38f47f0c0db046": {
       "date": "2026-08-20",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -5086,6 +4936,181 @@
       "date": "2026-09-18",
       "title": "coder / coder",
       "source": "github"
+    },
+    "861b71c77d7ec3a2": {
+      "date": "2026-09-19",
+      "title": "AI-generated posters don’t have to be horrible",
+      "source": "hackernews"
+    },
+    "4ae40c8c89696064": {
+      "date": "2026-09-19",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "source": "hackernews"
+    },
+    "902764ff7b145f05": {
+      "date": "2026-09-19",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "source": "hackernews"
+    },
+    "6422896538caa360": {
+      "date": "2026-09-19",
+      "title": "English: A vs. An",
+      "source": "hackernews"
+    },
+    "18719394dfc17720": {
+      "date": "2026-09-19",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "source": "hackernews"
+    },
+    "5ca8754f367d17b2": {
+      "date": "2026-09-19",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "source": "hackernews"
+    },
+    "c9a2b1c2a03b9906": {
+      "date": "2026-09-19",
+      "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+      "source": "hackernews"
+    },
+    "f487a8d1d4f07e18": {
+      "date": "2026-09-19",
+      "title": "Compiler-style optimization for drawing via Skia",
+      "source": "hackernews"
+    },
+    "137587af8371a65a": {
+      "date": "2026-09-19",
+      "title": "Deodands put a price on objects that caused death",
+      "source": "hackernews"
+    },
+    "b841b6dc716d2763": {
+      "date": "2026-09-19",
+      "title": "Mayday Mysteries",
+      "source": "hackernews"
+    },
+    "1d630ddf902817a5": {
+      "date": "2026-09-19",
+      "title": "Punch",
+      "source": "producthunt"
+    },
+    "5547371b8457191e": {
+      "date": "2026-09-19",
+      "title": "Steam Frame",
+      "source": "producthunt"
+    },
+    "d3a3abef03fd7a95": {
+      "date": "2026-09-19",
+      "title": "Squirrel",
+      "source": "producthunt"
+    },
+    "087483f68859e255": {
+      "date": "2026-09-19",
+      "title": "VoiceCap",
+      "source": "producthunt"
+    },
+    "ac09b15f18cdb869": {
+      "date": "2026-09-19",
+      "title": "Doneit 3.2",
+      "source": "producthunt"
+    },
+    "03a975404b4559f6": {
+      "date": "2026-09-19",
+      "title": "Lumiko",
+      "source": "producthunt"
+    },
+    "ff1e4e7be9753025": {
+      "date": "2026-09-19",
+      "title": "Lull",
+      "source": "producthunt"
+    },
+    "d44331a1971df5c9": {
+      "date": "2026-09-19",
+      "title": "trycua / cua",
+      "source": "github"
+    },
+    "84daf5030c295d45": {
+      "date": "2026-09-19",
+      "title": "Open-Dev-Society / OpenStock",
+      "source": "github"
+    },
+    "b81606652c12947e": {
+      "date": "2026-09-19",
+      "title": "higgsfield-ai / higgsfield",
+      "source": "github"
+    },
+    "221977b1a4ae3da4": {
+      "date": "2026-09-19",
+      "title": "docling-project / docling",
+      "source": "github"
+    },
+    "27b58a986ae4d764": {
+      "date": "2026-09-19",
+      "title": "cloudflare / quiche",
+      "source": "github"
+    },
+    "ce0f960de489184c": {
+      "date": "2026-09-19",
+      "title": "ruanyf / weekly",
+      "source": "github"
+    },
+    "e413ca598b2e8b59": {
+      "date": "2026-09-19",
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "source": "github"
+    },
+    "88adb36d994a0627": {
+      "date": "2026-09-19",
+      "title": "cactus-compute / needle",
+      "source": "github"
+    },
+    "9668b773c0c4ccf9": {
+      "date": "2026-09-19",
+      "title": "yynxxxxx / Codex-X",
+      "source": "github"
+    },
+    "a2ea66ef85d7742b": {
+      "date": "2026-09-19",
+      "title": "Dev log #21 Hardening WebRTC-Direct and solving SCM leaks",
+      "source": "devto"
+    },
+    "93dc74ff10235ec0": {
+      "date": "2026-09-19",
+      "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+      "source": "devto"
+    },
+    "147e962895b11c75": {
+      "date": "2026-09-19",
+      "title": "Frozendict 🧊: State of the Art Immutable Hashmap for Python and Node JS.",
+      "source": "devto"
+    },
+    "95452fa2429b3a1e": {
+      "date": "2026-09-19",
+      "title": "What Do You Do While AI Codes? I Make Mine Argue With Itself.",
+      "source": "devto"
+    },
+    "08de611fd9f10a59": {
+      "date": "2026-09-19",
+      "title": "Thrown Into a Huge Unfamiliar Codebase? Here's Your Survival Guide.",
+      "source": "devto"
+    },
+    "d84b32477759d60a": {
+      "date": "2026-09-19",
+      "title": "I got rejected for using AI in an interview. Then I watched the interviewer do it.",
+      "source": "devto"
+    },
+    "0ed04bc79df7282f": {
+      "date": "2026-09-19",
+      "title": "I Let AI Write My Tests for 6 Months. Here Is What Actually Survived Production",
+      "source": "devto"
+    },
+    "058aa238ce09a5b9": {
+      "date": "2026-09-19",
+      "title": "Your AI Coding Agent Can Be Attacked by the Repository It Opens",
+      "source": "devto"
+    },
+    "d182b0d474b6a050": {
+      "date": "2026-09-19",
+      "title": "What Go Taught Us About Java Garbage Collection",
+      "source": "devto"
     }
   }
 }
