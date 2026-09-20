@@ -1,182 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-19T23:26:37.691745",
+  "last_updated": "2026-09-20T23:31:45.991247",
   "sent_items": {
-    "0d38f47f0c0db046": {
-      "date": "2026-08-20",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "source": "hackernews"
-    },
-    "de7ec48fdb70ceef": {
-      "date": "2026-08-20",
-      "title": "HTML Can Do That",
-      "source": "hackernews"
-    },
-    "1cfdf74a597abf6a": {
-      "date": "2026-08-20",
-      "title": "I like 'em thick: an apology to my English teachers",
-      "source": "hackernews"
-    },
-    "20dcbe89b3fb3a87": {
-      "date": "2026-08-20",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "source": "hackernews"
-    },
-    "bfbe224e44632f1c": {
-      "date": "2026-08-20",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "source": "hackernews"
-    },
-    "d8667f9db54d4e56": {
-      "date": "2026-08-20",
-      "title": "Linux 7.2",
-      "source": "hackernews"
-    },
-    "9c9968045ffe697a": {
-      "date": "2026-08-20",
-      "title": "I should have loved biology (2020)",
-      "source": "hackernews"
-    },
-    "2a3f3d0326e9b4e8": {
-      "date": "2026-08-20",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "source": "hackernews"
-    },
-    "9ab7e4d07cdc93a6": {
-      "date": "2026-08-20",
-      "title": "The August 17 outage, and the work ahead",
-      "source": "hackernews"
-    },
-    "041fc3674d967bb1": {
-      "date": "2026-08-20",
-      "title": "Consumer Rights Wiki",
-      "source": "hackernews"
-    },
-    "9ba9b0b1e0ced9ac": {
-      "date": "2026-08-20",
-      "title": "Revy",
-      "source": "producthunt"
-    },
-    "e642173c067efd0f": {
-      "date": "2026-08-20",
-      "title": "Aloud",
-      "source": "producthunt"
-    },
-    "dffbfea5c08048fc": {
-      "date": "2026-08-20",
-      "title": "Cloudways Managed AI Agents",
-      "source": "producthunt"
-    },
-    "7911951eeab87f0a": {
-      "date": "2026-08-20",
-      "title": "ProtoNote",
-      "source": "producthunt"
-    },
-    "e19cada5b1b54430": {
-      "date": "2026-08-20",
-      "title": "Berd",
-      "source": "producthunt"
-    },
-    "02c3ab13bc29ea62": {
-      "date": "2026-08-20",
-      "title": "bitdrift.ai",
-      "source": "producthunt"
-    },
-    "d9e8af4ac7d72fb7": {
-      "date": "2026-08-20",
-      "title": "Hermai Brand API",
-      "source": "producthunt"
-    },
-    "c0adf1e8029b508c": {
-      "date": "2026-08-20",
-      "title": "Shape",
-      "source": "producthunt"
-    },
-    "53d779a3ebdde4c2": {
-      "date": "2026-08-20",
-      "title": "State Management in Front-end Web Development: Mutators",
-      "source": "devto"
-    },
-    "1c2ab6a11da3f35d": {
-      "date": "2026-08-20",
-      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-      "source": "devto"
-    },
-    "637f1ae83fe639e8": {
-      "date": "2026-08-20",
-      "title": "1ª vez trabalhando com git em um time: tudo que você precisa saber",
-      "source": "devto"
-    },
-    "0765929ffaade7de": {
-      "date": "2026-08-20",
-      "title": "Solving Gradle metadata and Renovate integration",
-      "source": "devto"
-    },
-    "4f78b4aa1d629412": {
-      "date": "2026-08-20",
-      "title": "Breaking the Multimodal Barrier: Exploring Gemini Omni and My Time with GDG Calabar",
-      "source": "devto"
-    },
-    "fbffd92138ef177b": {
-      "date": "2026-08-20",
-      "title": "The test was green. Every real connection would have failed.",
-      "source": "devto"
-    },
-    "08f437234466cab8": {
-      "date": "2026-08-20",
-      "title": "The Reasoning Ledger: Remembering Decisions, Not Just Data",
-      "source": "devto"
-    },
-    "aee6522417111017": {
-      "date": "2026-08-20",
-      "title": "I Built an AI Code Reviewer. Then OWASP Broke It.",
-      "source": "devto"
-    },
-    "44c4f00ac3b2e89b": {
-      "date": "2026-08-20",
-      "title": "A missing exchange rate is not an exchange rate of 1",
-      "source": "devto"
-    },
-    "fcb925e944e48cc5": {
-      "date": "2026-08-20",
-      "title": "The /sdp endpoint that trusted its callers: fixing a memory-amplification DoS in py-libp2p",
-      "source": "devto"
-    },
-    "5e545fb9f529df45": {
-      "date": "2026-08-20",
-      "title": "modular / modular",
-      "source": "github"
-    },
-    "3adab56acaa31031": {
-      "date": "2026-08-20",
-      "title": "AprilNEA / OpenLogi",
-      "source": "github"
-    },
-    "9b897d36ce84b465": {
-      "date": "2026-08-20",
-      "title": "agent-substrate / substrate",
-      "source": "github"
-    },
-    "6fb08428e288194e": {
-      "date": "2026-08-20",
-      "title": "PostHog / posthog",
-      "source": "github"
-    },
-    "65d0cb405a9eb49f": {
-      "date": "2026-08-20",
-      "title": "mahlernim / google-timeline-visualizer",
-      "source": "github"
-    },
-    "021dcfb5e16a50cf": {
-      "date": "2026-08-20",
-      "title": "JuliusBrussee / caveman",
-      "source": "github"
-    },
-    "bf3408e522ca2216": {
-      "date": "2026-08-20",
-      "title": "makeplane / plane",
-      "source": "github"
-    },
     "aea289407207cf3d": {
       "date": "2026-08-21",
       "title": "fx (by Vercel)",
@@ -5110,6 +4935,171 @@
     "d182b0d474b6a050": {
       "date": "2026-09-19",
       "title": "What Go Taught Us About Java Garbage Collection",
+      "source": "devto"
+    },
+    "9a048b65d02cf7ae": {
+      "date": "2026-09-20",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "source": "hackernews"
+    },
+    "97ac8e86b37c6d23": {
+      "date": "2026-09-20",
+      "title": "Qwen Image 2.1",
+      "source": "hackernews"
+    },
+    "f3741aa8158b8618": {
+      "date": "2026-09-20",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "source": "hackernews"
+    },
+    "9221b9252f7188c0": {
+      "date": "2026-09-20",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "source": "hackernews"
+    },
+    "485596440f0177f1": {
+      "date": "2026-09-20",
+      "title": "Apple iPhone 18 Pro Camera test",
+      "source": "hackernews"
+    },
+    "2e2f537981f14d62": {
+      "date": "2026-09-20",
+      "title": "Nobody pays for FOSS, we can force them to",
+      "source": "hackernews"
+    },
+    "fcfee9fd771e941d": {
+      "date": "2026-09-20",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "source": "hackernews"
+    },
+    "ab1d94a3c49c3df0": {
+      "date": "2026-09-20",
+      "title": "The Effect of CRTs on Pixel Art",
+      "source": "hackernews"
+    },
+    "a1e4169b942d8ebe": {
+      "date": "2026-09-20",
+      "title": "What Happened to the Snowden Archive",
+      "source": "hackernews"
+    },
+    "1f8f0587e01604ae": {
+      "date": "2026-09-20",
+      "title": "Google's Open Agentic Orchestrator",
+      "source": "hackernews"
+    },
+    "b71f84a745490231": {
+      "date": "2026-09-20",
+      "title": "Morsa Signals",
+      "source": "producthunt"
+    },
+    "d975f7ace94c6d58": {
+      "date": "2026-09-20",
+      "title": "Minicart",
+      "source": "producthunt"
+    },
+    "ad0f3a969f846bf5": {
+      "date": "2026-09-20",
+      "title": "Launchie 1.6.1",
+      "source": "producthunt"
+    },
+    "ac0b9adebb170c39": {
+      "date": "2026-09-20",
+      "title": "Scrapboard Cloud 4",
+      "source": "producthunt"
+    },
+    "a73f8d45977aeb76": {
+      "date": "2026-09-20",
+      "title": "Answers by Context.dev",
+      "source": "producthunt"
+    },
+    "2798dca53e3d7b7b": {
+      "date": "2026-09-20",
+      "title": "The 101 Plays Itself",
+      "source": "producthunt"
+    },
+    "ca57dc8f56f1c0e1": {
+      "date": "2026-09-20",
+      "title": "Epismo OS",
+      "source": "producthunt"
+    },
+    "edd0f2ce2f8a9298": {
+      "date": "2026-09-20",
+      "title": "Basedash Models",
+      "source": "producthunt"
+    },
+    "c91380d9f6159474": {
+      "date": "2026-09-20",
+      "title": "BuilderIO / agent-native",
+      "source": "github"
+    },
+    "bf36d171e6670874": {
+      "date": "2026-09-20",
+      "title": "anthropics / financial-services",
+      "source": "github"
+    },
+    "9da20606e54ba5ed": {
+      "date": "2026-09-20",
+      "title": "paperless-ngx / paperless-ngx",
+      "source": "github"
+    },
+    "6574280bda3f3407": {
+      "date": "2026-09-20",
+      "title": "mihail911 / modern-software-dev-assignments",
+      "source": "github"
+    },
+    "35f99ce97c2a7c77": {
+      "date": "2026-09-20",
+      "title": "vercel-labs / json-render",
+      "source": "github"
+    },
+    "4baa0f30ae34afa1": {
+      "date": "2026-09-20",
+      "title": "i built a green blob that lives on my desktop. now it has feelings.",
+      "source": "devto"
+    },
+    "157358e3ce08d061": {
+      "date": "2026-09-20",
+      "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Act",
+      "source": "devto"
+    },
+    "f7a0490198177d70": {
+      "date": "2026-09-20",
+      "title": "Architecting a Resilient DevSecOps Pipeline for Enterprise AI Agents",
+      "source": "devto"
+    },
+    "5aa3296277047ee9": {
+      "date": "2026-09-20",
+      "title": "Stop Paying the build_runner Tax: Why I Refuse to Use Mockito in Modern Dart",
+      "source": "devto"
+    },
+    "e9949193513e6388": {
+      "date": "2026-09-20",
+      "title": "I Resurrected a Dead CRC Crate and It Suddenly Went Viral",
+      "source": "devto"
+    },
+    "548d90b085c44568": {
+      "date": "2026-09-20",
+      "title": "How to make your own Vim operator",
+      "source": "devto"
+    },
+    "3ca52cb809598544": {
+      "date": "2026-09-20",
+      "title": "FastAPI's new app.frontend() fixes a route-order bug in manual SPA serving",
+      "source": "devto"
+    },
+    "95eac8c18aaa3084": {
+      "date": "2026-09-20",
+      "title": "I missed Go's `if err != nil`, so I built errval for TypeScript",
+      "source": "devto"
+    },
+    "5a32fd9f7ef571c5": {
+      "date": "2026-09-20",
+      "title": "Faster Maps: Chasing Swiss Speed",
+      "source": "devto"
+    },
+    "826966b938357940": {
+      "date": "2026-09-20",
+      "title": "No Results Found (Until You Look)",
       "source": "devto"
     }
   }
