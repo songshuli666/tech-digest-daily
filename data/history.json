@@ -1,342 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-20T23:31:45.991247",
+  "last_updated": "2026-09-22T00:25:19.707815",
   "sent_items": {
-    "aea289407207cf3d": {
-      "date": "2026-08-21",
-      "title": "fx (by Vercel)",
-      "source": "producthunt"
-    },
-    "6696d03e6fb90aa1": {
-      "date": "2026-08-21",
-      "title": "Wizstar",
-      "source": "producthunt"
-    },
-    "b03f29b5c3a21d49": {
-      "date": "2026-08-21",
-      "title": "OneCLI",
-      "source": "producthunt"
-    },
-    "5f1684d0fe40cc90": {
-      "date": "2026-08-21",
-      "title": "Flunkey",
-      "source": "producthunt"
-    },
-    "a0ab5979c49124cf": {
-      "date": "2026-08-21",
-      "title": "Actx0",
-      "source": "producthunt"
-    },
-    "c8db85639b9e3857": {
-      "date": "2026-08-21",
-      "title": "Antigravity IDE Extensions",
-      "source": "producthunt"
-    },
-    "53f0202030b00ad1": {
-      "date": "2026-08-21",
-      "title": "ShogunAI",
-      "source": "producthunt"
-    },
-    "99376cbd5d625f4c": {
-      "date": "2026-08-21",
-      "title": "Local",
-      "source": "producthunt"
-    },
-    "c566085c3ba08687": {
-      "date": "2026-08-21",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "source": "hackernews"
-    },
-    "237fce0ade9c5a44": {
-      "date": "2026-08-21",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "source": "hackernews"
-    },
-    "406cdb9c473f07b9": {
-      "date": "2026-08-21",
-      "title": "Felony Bench",
-      "source": "hackernews"
-    },
-    "ee005c5c0e5c95a9": {
-      "date": "2026-08-21",
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "source": "hackernews"
-    },
-    "3b363ecc337da139": {
-      "date": "2026-08-21",
-      "title": "Kobo can run apps now",
-      "source": "hackernews"
-    },
-    "7d05548c0a1211f3": {
-      "date": "2026-08-21",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "source": "hackernews"
-    },
-    "487dcd058245b141": {
-      "date": "2026-08-21",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "source": "hackernews"
-    },
-    "874758b55ba55bf0": {
-      "date": "2026-08-21",
-      "title": "Scientists release biggest 2D map of the universe",
-      "source": "hackernews"
-    },
-    "a59e17e2fadbd503": {
-      "date": "2026-08-21",
-      "title": "People of ACM – Russ Cox",
-      "source": "hackernews"
-    },
-    "15c30ae68ea3726c": {
-      "date": "2026-08-21",
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "source": "hackernews"
-    },
-    "e2b1bd402c56ce15": {
-      "date": "2026-08-21",
-      "title": "What was your win this week?!",
-      "source": "devto"
-    },
-    "1d973e372d476ae8": {
-      "date": "2026-08-21",
-      "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
-      "source": "devto"
-    },
-    "c9363ee3d9486dec": {
-      "date": "2026-08-21",
-      "title": "What I Get to Forget About Riverpod Now That I Have BlocSignal",
-      "source": "devto"
-    },
-    "47df78a2096dbe34": {
-      "date": "2026-08-21",
-      "title": "Your Memory API Is Lying to Your Agent",
-      "source": "devto"
-    },
-    "1210b76d01160881": {
-      "date": "2026-08-21",
-      "title": "I Ran 157 Agent Plans Against a Real LLM. The Problem Wasn't Execution. It Was Planning.",
-      "source": "devto"
-    },
-    "db23c52b2a070889": {
-      "date": "2026-08-21",
-      "title": "The Third-Generation GUI Builder: One Workspace for Every Form",
-      "source": "devto"
-    },
-    "34dc75a334864e03": {
-      "date": "2026-08-21",
-      "title": "Fixing a null-body crash in the Formbricks survey SDK, found by Sentry",
-      "source": "devto"
-    },
-    "d1f63021d3dcf71b": {
-      "date": "2026-08-21",
-      "title": "The AI demo failed, but the database remembered half of it",
-      "source": "devto"
-    },
-    "cee0b63bbbcfc3d2": {
-      "date": "2026-08-21",
-      "title": "I Built a Personal AI That Actually Knows My Projects (RAG + Ollama, Zero Cloud)",
-      "source": "devto"
-    },
-    "8407f68d34ad691a": {
-      "date": "2026-08-21",
-      "title": "We tested \"tokenize before you compress\" against 452 configurations, and it mostly held up",
-      "source": "devto"
-    },
-    "056bb02146300a1b": {
-      "date": "2026-08-21",
-      "title": "microsoft / TypeScript",
-      "source": "github"
-    },
-    "a90d342e2181a927": {
-      "date": "2026-08-21",
-      "title": "affaan-m / ECC",
-      "source": "github"
-    },
-    "00d751d8c6f4efa9": {
-      "date": "2026-08-21",
-      "title": "TryGhost / Ghost",
-      "source": "github"
-    },
-    "9a16f8b0667e86a0": {
-      "date": "2026-08-21",
-      "title": "ruvnet / ruflo",
-      "source": "github"
-    },
-    "6dc9b530b3881335": {
-      "date": "2026-08-21",
-      "title": "apache / maka",
-      "source": "github"
-    },
-    "89a665d7fafbfdc7": {
-      "date": "2026-08-21",
-      "title": "protocolbuffers / protobuf",
-      "source": "github"
-    },
-    "bf0ea94ccea4f92e": {
-      "date": "2026-08-22",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "source": "hackernews"
-    },
-    "ff6c6e92dfd9334c": {
-      "date": "2026-08-22",
-      "title": "Scrap",
-      "source": "hackernews"
-    },
-    "6952b35b1753edf4": {
-      "date": "2026-08-22",
-      "title": "Hister – A private, full content search index that you control",
-      "source": "hackernews"
-    },
-    "a423a40ee50f054e": {
-      "date": "2026-08-22",
-      "title": "A Friendly Introduction to Racket",
-      "source": "hackernews"
-    },
-    "707d97be0a10a08d": {
-      "date": "2026-08-22",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "source": "hackernews"
-    },
-    "bf47e652947d61da": {
-      "date": "2026-08-22",
-      "title": "typ.ing",
-      "source": "hackernews"
-    },
-    "d073d6e723196a3a": {
-      "date": "2026-08-22",
-      "title": "RF Cafe",
-      "source": "hackernews"
-    },
-    "0b92e65ca41bf391": {
-      "date": "2026-08-22",
-      "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-      "source": "hackernews"
-    },
-    "4e37da81acd6a107": {
-      "date": "2026-08-22",
-      "title": "NetBSD and My Life (2005)",
-      "source": "hackernews"
-    },
-    "54728fe029ffdc2e": {
-      "date": "2026-08-22",
-      "title": "Why your local LLM feels dumber than it is",
-      "source": "hackernews"
-    },
-    "dfc7c274a3af585b": {
-      "date": "2026-08-22",
-      "title": "Maccess",
-      "source": "producthunt"
-    },
-    "cfaa95c2e6f46f6a": {
-      "date": "2026-08-22",
-      "title": "Zero",
-      "source": "producthunt"
-    },
-    "83e536fa99314254": {
-      "date": "2026-08-22",
-      "title": "Port Radar for macOS",
-      "source": "producthunt"
-    },
-    "3b90bd73aa10e555": {
-      "date": "2026-08-22",
-      "title": "Pocket by Meta",
-      "source": "producthunt"
-    },
-    "0919536dda4e2063": {
-      "date": "2026-08-22",
-      "title": "VeloFiler",
-      "source": "producthunt"
-    },
-    "acb937a7bfc16bec": {
-      "date": "2026-08-22",
-      "title": "KerasFormers",
-      "source": "producthunt"
-    },
-    "0993511396f5aa16": {
-      "date": "2026-08-22",
-      "title": "Open Analytics",
-      "source": "producthunt"
-    },
-    "91c328e3eda0a895": {
-      "date": "2026-08-22",
-      "title": "The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking",
-      "source": "devto"
-    },
-    "4d82afa63adc7cfd": {
-      "date": "2026-08-22",
-      "title": "HTML is getting cool again: Meet the Invoker Commands API",
-      "source": "devto"
-    },
-    "c7811b8f8a8eaeda": {
-      "date": "2026-08-22",
-      "title": "Designing a Reasoning Ledger Record",
-      "source": "devto"
-    },
-    "77802e299aedb08a": {
-      "date": "2026-08-22",
-      "title": "Job Hunt With a Bot?",
-      "source": "devto"
-    },
-    "928a27de2bd4f30a": {
-      "date": "2026-08-22",
-      "title": "I built Kintara because apparently having too many hobbies eventually leads to building your own doc",
-      "source": "devto"
-    },
-    "d73550b3ff40a47a": {
-      "date": "2026-08-22",
-      "title": "AI didn't make me a worse coder. It made me a worse reviewer.",
-      "source": "devto"
-    },
-    "4a5ce69be0ca9b42": {
-      "date": "2026-08-22",
-      "title": "Why I Built Amazon Store (So I Don't Have to Pick a Country)",
-      "source": "devto"
-    },
-    "a3677f219733005c": {
-      "date": "2026-08-22",
-      "title": "Nuance Is a Double-Edged Sword ⚔️",
-      "source": "devto"
-    },
-    "40f545a6ab09702a": {
-      "date": "2026-08-22",
-      "title": "I used JSON files instead of a database for 1,699 records. Here's what actually broke.",
-      "source": "devto"
-    },
-    "2ead14cc06ce65b8": {
-      "date": "2026-08-22",
-      "title": "4 Non-obvious learnings from working with alerts",
-      "source": "devto"
-    },
-    "1a57528ba5a4a035": {
-      "date": "2026-08-22",
-      "title": "openai / codex",
-      "source": "github"
-    },
-    "e1a6696969acd12e": {
-      "date": "2026-08-22",
-      "title": "Wei-Shaw / sub2api",
-      "source": "github"
-    },
-    "feb34faf0b30f401": {
-      "date": "2026-08-22",
-      "title": "n8n-io / n8n",
-      "source": "github"
-    },
-    "1e61851c7eb0065b": {
-      "date": "2026-08-22",
-      "title": "anthropics / claude-code",
-      "source": "github"
-    },
-    "39ec5846ae4b9617": {
-      "date": "2026-08-22",
-      "title": "multica-ai / andrej-karpathy-skills",
-      "source": "github"
-    },
-    "66fdad17e3139cd7": {
-      "date": "2026-08-22",
-      "title": "ripienaar / free-for-dev",
-      "source": "github"
-    },
     "5587198269c03721": {
       "date": "2026-08-23",
       "title": "What Is a Harness?",
@@ -5100,6 +4765,161 @@
     "826966b938357940": {
       "date": "2026-09-20",
       "title": "No Results Found (Until You Look)",
+      "source": "devto"
+    },
+    "5d6105479616f230": {
+      "date": "2026-09-22",
+      "title": "Attention is all you have",
+      "source": "hackernews"
+    },
+    "50409e7062e283ec": {
+      "date": "2026-09-22",
+      "title": "What Sun got wrong",
+      "source": "hackernews"
+    },
+    "c81f947362b7ce81": {
+      "date": "2026-09-22",
+      "title": "Xiaomi MiMo v2.6",
+      "source": "hackernews"
+    },
+    "f026b316fd816cf7": {
+      "date": "2026-09-22",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "source": "hackernews"
+    },
+    "cf0aad59a9d15a39": {
+      "date": "2026-09-22",
+      "title": "Transformers Explained Visually",
+      "source": "hackernews"
+    },
+    "da19df040466e167": {
+      "date": "2026-09-22",
+      "title": "I don't want to read what you didn't write",
+      "source": "hackernews"
+    },
+    "53ea49367647660b": {
+      "date": "2026-09-22",
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "source": "hackernews"
+    },
+    "6ccadb864870b71e": {
+      "date": "2026-09-22",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "source": "hackernews"
+    },
+    "4ea9cf51ad2c8b3b": {
+      "date": "2026-09-22",
+      "title": "Data Protection Commission fines Google €403M over processing of location data",
+      "source": "hackernews"
+    },
+    "f6c24c09b631ac4c": {
+      "date": "2026-09-22",
+      "title": "Spymarks, Not Watermarks",
+      "source": "hackernews"
+    },
+    "8f51e860c866252b": {
+      "date": "2026-09-22",
+      "title": "Jevtown",
+      "source": "producthunt"
+    },
+    "5fa8e80c93957b52": {
+      "date": "2026-09-22",
+      "title": "Jev",
+      "source": "producthunt"
+    },
+    "8bb3c1b36c442452": {
+      "date": "2026-09-22",
+      "title": "slop-grader",
+      "source": "producthunt"
+    },
+    "1b8e3c0bcaeb4183": {
+      "date": "2026-09-22",
+      "title": "Sai",
+      "source": "producthunt"
+    },
+    "3ca25511d245ef5e": {
+      "date": "2026-09-22",
+      "title": "Refoid",
+      "source": "producthunt"
+    },
+    "52b7be2a28630bcc": {
+      "date": "2026-09-22",
+      "title": "AI Creative Insights by Decode",
+      "source": "producthunt"
+    },
+    "079593e102e9cfc7": {
+      "date": "2026-09-22",
+      "title": "PostSider",
+      "source": "producthunt"
+    },
+    "44154b46b32c21ba": {
+      "date": "2026-09-22",
+      "title": "akitaonrails / ai-memory",
+      "source": "github"
+    },
+    "ee900e8a14249367": {
+      "date": "2026-09-22",
+      "title": "mvt-project / mvt",
+      "source": "github"
+    },
+    "d26904d3ecd892fc": {
+      "date": "2026-09-22",
+      "title": "zhouxiaoka / autoclip",
+      "source": "github"
+    },
+    "41a6a86637e67fe4": {
+      "date": "2026-09-22",
+      "title": "Crosstalk-Solutions / project-nomad",
+      "source": "github"
+    },
+    "2c68b9e70f4232d0": {
+      "date": "2026-09-22",
+      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
+      "source": "devto"
+    },
+    "fa4a484c590a19c0": {
+      "date": "2026-09-22",
+      "title": "You're not an impostor, you just started from a different line",
+      "source": "devto"
+    },
+    "f0c4900278e416f4": {
+      "date": "2026-09-22",
+      "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
+      "source": "devto"
+    },
+    "40b044960d3b5c06": {
+      "date": "2026-09-22",
+      "title": "My AI Agent Isn't Allowed to Decide Anything",
+      "source": "devto"
+    },
+    "2cab0bc7b4fe0c3e": {
+      "date": "2026-09-22",
+      "title": "Clean Code Is Not the Same as Clear Code: Comments Were Never the Problem",
+      "source": "devto"
+    },
+    "44942dea6a5b9eb8": {
+      "date": "2026-09-22",
+      "title": "I Thought I Knew WordPress Theme Development Until My First Project",
+      "source": "devto"
+    },
+    "df5525ec716076d7": {
+      "date": "2026-09-22",
+      "title": "10 Cool CodePen Demos (August 2026)",
+      "source": "devto"
+    },
+    "0d071d4d32487a49": {
+      "date": "2026-09-22",
+      "title": "React 19's useTransition Looked Simple. Then I Found a Second Bug Hiding Inside the First One",
+      "source": "devto"
+    },
+    "20347b8190c03b02": {
+      "date": "2026-09-22",
+      "title": "How to stop AI from confidently shipping broken code (a pattern that actually works)",
+      "source": "devto"
+    },
+    "4d032fe0ced94fe3": {
+      "date": "2026-09-22",
+      "title": "Where Trust in Automated Review Actually Comes From",
       "source": "devto"
     }
   }
