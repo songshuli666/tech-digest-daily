@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-22T00:25:19.707815",
+  "last_updated": "2026-09-22T23:51:54.137242",
   "sent_items": {
     "5587198269c03721": {
       "date": "2026-08-23",
@@ -4920,6 +4920,171 @@
     "4d032fe0ced94fe3": {
       "date": "2026-09-22",
       "title": "Where Trust in Automated Review Actually Comes From",
+      "source": "devto"
+    },
+    "23e9c366edfe97a9": {
+      "date": "2026-09-22",
+      "title": "Claude Opus 5.5",
+      "source": "hackernews"
+    },
+    "48b4014c7a01bc52": {
+      "date": "2026-09-22",
+      "title": "GPT-6 Sol and Luna",
+      "source": "hackernews"
+    },
+    "661f87df20b90e57": {
+      "date": "2026-09-22",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "source": "hackernews"
+    },
+    "444cb4f5fa3c4c47": {
+      "date": "2026-09-22",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "source": "hackernews"
+    },
+    "95be4cc1d9e945e7": {
+      "date": "2026-09-22",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "source": "hackernews"
+    },
+    "7894b9fd8eaf3ed3": {
+      "date": "2026-09-22",
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "source": "hackernews"
+    },
+    "b3b5ec7c95f8b28f": {
+      "date": "2026-09-22",
+      "title": "SAML: A fractal of bad design",
+      "source": "hackernews"
+    },
+    "1c9047173984abdf": {
+      "date": "2026-09-22",
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "source": "hackernews"
+    },
+    "a0f2a481785fb107": {
+      "date": "2026-09-22",
+      "title": "Unreal Agent",
+      "source": "hackernews"
+    },
+    "7480bd9d1e4e225c": {
+      "date": "2026-09-22",
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "source": "hackernews"
+    },
+    "f4b05c1fe406baaf": {
+      "date": "2026-09-22",
+      "title": "Valori",
+      "source": "producthunt"
+    },
+    "9c3509a572e9bac3": {
+      "date": "2026-09-22",
+      "title": "Plane Agents",
+      "source": "producthunt"
+    },
+    "f915044ef1626e55": {
+      "date": "2026-09-22",
+      "title": "Xem",
+      "source": "producthunt"
+    },
+    "87c916d66e6e855a": {
+      "date": "2026-09-22",
+      "title": "MiMo-V2.6",
+      "source": "producthunt"
+    },
+    "6b13d1f7d6296583": {
+      "date": "2026-09-22",
+      "title": "Googlebook",
+      "source": "producthunt"
+    },
+    "13a0ed5b7f94780b": {
+      "date": "2026-09-22",
+      "title": "Fulvid",
+      "source": "producthunt"
+    },
+    "3decba361ace84d7": {
+      "date": "2026-09-22",
+      "title": "2BA.AI",
+      "source": "producthunt"
+    },
+    "8812f949fd58f094": {
+      "date": "2026-09-22",
+      "title": "Pastely",
+      "source": "producthunt"
+    },
+    "9b897d36ce84b465": {
+      "date": "2026-09-22",
+      "title": "agent-substrate / substrate",
+      "source": "github"
+    },
+    "dd3f7c0b511db930": {
+      "date": "2026-09-22",
+      "title": "dream-num / univer",
+      "source": "github"
+    },
+    "95ae7120d6074efd": {
+      "date": "2026-09-22",
+      "title": "davila7 / claude-code-templates",
+      "source": "github"
+    },
+    "9dd98392ba38066b": {
+      "date": "2026-09-22",
+      "title": "google / ax",
+      "source": "github"
+    },
+    "1c9ab9e342ae2991": {
+      "date": "2026-09-22",
+      "title": "superdesigndev / treg",
+      "source": "github"
+    },
+    "0236bcbf7b5c3427": {
+      "date": "2026-09-22",
+      "title": "Why the Best Software Advice Is the Hardest to Follow",
+      "source": "devto"
+    },
+    "d3634756955e4c80": {
+      "date": "2026-09-22",
+      "title": "Two Weeks In: A 15-Year QA Veteran, Back to Being the New Guy",
+      "source": "devto"
+    },
+    "8db14a375bd8ddb8": {
+      "date": "2026-09-22",
+      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did That Happen?",
+      "source": "devto"
+    },
+    "c00d0bab0208f847": {
+      "date": "2026-09-22",
+      "title": "Cheap RAG in Go with Gemini File Search: no vector DB, two calls, one hosted store",
+      "source": "devto"
+    },
+    "34644eacdf91da72": {
+      "date": "2026-09-22",
+      "title": "The Grand Unifying Architecture of Frontend",
+      "source": "devto"
+    },
+    "6aff54d7057ca622": {
+      "date": "2026-09-22",
+      "title": "The swarm that kept coming back",
+      "source": "devto"
+    },
+    "83663ecb43750c54": {
+      "date": "2026-09-22",
+      "title": "The Git Recovery Guide: How to Undo Anything (Without Panic)",
+      "source": "devto"
+    },
+    "9f88dfdc2f0a2915": {
+      "date": "2026-09-22",
+      "title": "Laravel Is Not As Heavy As You Think",
+      "source": "devto"
+    },
+    "c2916b8b37cf5220": {
+      "date": "2026-09-22",
+      "title": "The Curiosity Gap: Why We've Stopped Asking Questions",
+      "source": "devto"
+    },
+    "3dbc159bc0aae81b": {
+      "date": "2026-09-22",
+      "title": "We Solved the How to Code Problem. We Still Haven't Solved \"What to Build.\"",
       "source": "devto"
     }
   }
