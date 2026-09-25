@@ -1,167 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-09-24T00:00:35.631394",
+  "last_updated": "2026-09-25T00:08:47.836749",
   "sent_items": {
-    "9e0dcfcc964536c1": {
-      "date": "2026-08-25",
-      "title": "Apple introduces M6 and M5 Ultra",
-      "source": "hackernews"
-    },
-    "a6b88a221f756f8d": {
-      "date": "2026-08-25",
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "source": "hackernews"
-    },
-    "8730cf242787ebbc": {
-      "date": "2026-08-25",
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "source": "hackernews"
-    },
-    "0a399a9e12f254bc": {
-      "date": "2026-08-25",
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "source": "hackernews"
-    },
-    "6456d0ae7e6df109": {
-      "date": "2026-08-25",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "source": "hackernews"
-    },
-    "b93f46aba1a0b52e": {
-      "date": "2026-08-25",
-      "title": "Black hole singularity is a surface not a point",
-      "source": "hackernews"
-    },
-    "d1594e345d64f317": {
-      "date": "2026-08-25",
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "source": "hackernews"
-    },
-    "959fccdebf72c040": {
-      "date": "2026-08-25",
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "source": "hackernews"
-    },
-    "a3303d6642187a9a": {
-      "date": "2026-08-25",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "source": "hackernews"
-    },
-    "d2a3f6279c26b586": {
-      "date": "2026-08-25",
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "source": "hackernews"
-    },
-    "c3e37d9dc3e4bb3e": {
-      "date": "2026-08-25",
-      "title": "Agnost AI",
-      "source": "producthunt"
-    },
-    "387c1c5fdc8e805c": {
-      "date": "2026-08-25",
-      "title": "Flare",
-      "source": "producthunt"
-    },
-    "8cc7f6621cab6bc8": {
-      "date": "2026-08-25",
-      "title": "Diet Claude",
-      "source": "producthunt"
-    },
-    "f004f038cfbc1938": {
-      "date": "2026-08-25",
-      "title": "coolplugz",
-      "source": "producthunt"
-    },
-    "6f63774bc0f88997": {
-      "date": "2026-08-25",
-      "title": "Assistly",
-      "source": "producthunt"
-    },
-    "54224752e6a311b0": {
-      "date": "2026-08-25",
-      "title": "Altar II",
-      "source": "producthunt"
-    },
-    "af8ea844f311f633": {
-      "date": "2026-08-25",
-      "title": "Keymap",
-      "source": "producthunt"
-    },
-    "c28a8fa8e80a0515": {
-      "date": "2026-08-25",
-      "title": "Splitsense",
-      "source": "producthunt"
-    },
-    "1915f43a61a6c22b": {
-      "date": "2026-08-25",
-      "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
-      "source": "devto"
-    },
-    "358ad4e2986a603b": {
-      "date": "2026-08-25",
-      "title": "What Do You Do While AI Codes?",
-      "source": "devto"
-    },
-    "542a71aca23cee03": {
-      "date": "2026-08-25",
-      "title": "comiCSS #255: Yellow",
-      "source": "devto"
-    },
-    "25bbc750d5928577": {
-      "date": "2026-08-25",
-      "title": "A Wider Computer, Not a Bigger One: Modeling AI Inference Across Millions of Homes",
-      "source": "devto"
-    },
-    "87c0147b00415d48": {
-      "date": "2026-08-25",
-      "title": "Your Job Ends at 5. Your Developer Brain Doesn't.",
-      "source": "devto"
-    },
-    "c16fa32a9a25f738": {
-      "date": "2026-08-25",
-      "title": "Chat history is a second read path into your RAG data — gate the replay like the search",
-      "source": "devto"
-    },
-    "79d6f9e9918a289f": {
-      "date": "2026-08-25",
-      "title": "The Retrieval Checklist I Wish I'd Had Before Shipping RAG",
-      "source": "devto"
-    },
-    "55ebc47cedc7b839": {
-      "date": "2026-08-25",
-      "title": "I Tried to Prompt-Inject My Own Agent Engine. It Didn't Work. Here's Why.",
-      "source": "devto"
-    },
-    "4a8eef51d0daff66": {
-      "date": "2026-08-25",
-      "title": "The Vulnerable Moment",
-      "source": "devto"
-    },
-    "40f30da82801738a": {
-      "date": "2026-08-25",
-      "title": "Nobody tells you the question window is closing",
-      "source": "devto"
-    },
-    "46405393d4f50fd7": {
-      "date": "2026-08-25",
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "source": "github"
-    },
-    "40e5b3e975918503": {
-      "date": "2026-08-25",
-      "title": "marin-community / marin",
-      "source": "github"
-    },
-    "2526d3aeeaafdd09": {
-      "date": "2026-08-25",
-      "title": "DietrichGebert / ponytail",
-      "source": "github"
-    },
-    "f2ef8f8410a81a77": {
-      "date": "2026-08-25",
-      "title": "anthropics / claude-plugins-official",
-      "source": "github"
-    },
     "e8e6c47e031305dd": {
       "date": "2026-08-27",
       "title": "AWS Acquires DuckLabs",
@@ -4930,6 +4770,176 @@
     "cc4d14940b247a73": {
       "date": "2026-09-24",
       "title": "harry7557558 / spirula-studio",
+      "source": "github"
+    },
+    "901f591b5aecd028": {
+      "date": "2026-09-25",
+      "title": "F-Droid 2.0",
+      "source": "hackernews"
+    },
+    "7e2442909ab867c8": {
+      "date": "2026-09-25",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "source": "hackernews"
+    },
+    "ce1adce9b1d2f0a9": {
+      "date": "2026-09-25",
+      "title": "Why is the liver so weirdly regenerative?",
+      "source": "hackernews"
+    },
+    "8634cc1b388e0745": {
+      "date": "2026-09-25",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "source": "hackernews"
+    },
+    "eefad314ddb6aed7": {
+      "date": "2026-09-25",
+      "title": "Fearless SIMD v1.0",
+      "source": "hackernews"
+    },
+    "04747c04da0c8960": {
+      "date": "2026-09-25",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "source": "hackernews"
+    },
+    "bc75094f4f9e8626": {
+      "date": "2026-09-25",
+      "title": "California is chasing wealth that has feet",
+      "source": "hackernews"
+    },
+    "8340f7855b704f52": {
+      "date": "2026-09-25",
+      "title": "2DWillNeverDie",
+      "source": "hackernews"
+    },
+    "2eedfdc4d2f2dd35": {
+      "date": "2026-09-25",
+      "title": "Back and shoulder surgery is often worse than useless",
+      "source": "hackernews"
+    },
+    "b26d03d6bc45f92f": {
+      "date": "2026-09-25",
+      "title": "GitLab Outage",
+      "source": "hackernews"
+    },
+    "0d23d764da73f9c2": {
+      "date": "2026-09-25",
+      "title": "LockLines",
+      "source": "producthunt"
+    },
+    "498be938d6d44cbc": {
+      "date": "2026-09-25",
+      "title": "Parall",
+      "source": "producthunt"
+    },
+    "bc80ebbea15a18cc": {
+      "date": "2026-09-25",
+      "title": "Harness Manager",
+      "source": "producthunt"
+    },
+    "d93f25601edeb587": {
+      "date": "2026-09-25",
+      "title": "NotchPop",
+      "source": "producthunt"
+    },
+    "f83e8242aff16cb6": {
+      "date": "2026-09-25",
+      "title": "Opaline",
+      "source": "producthunt"
+    },
+    "309733501d07d046": {
+      "date": "2026-09-25",
+      "title": "minimi 2.0",
+      "source": "producthunt"
+    },
+    "80275738bc4b8cfa": {
+      "date": "2026-09-25",
+      "title": "Bitrise Build Hub",
+      "source": "producthunt"
+    },
+    "8e2eb9abf945ce12": {
+      "date": "2026-09-25",
+      "title": "Floot MCP",
+      "source": "producthunt"
+    },
+    "a6de12fbac54521f": {
+      "date": "2026-09-25",
+      "title": "23 Rejections, Multiple Offers: What I Learned From My 2-Month SWE Job Search",
+      "source": "devto"
+    },
+    "b6db8ee7d24bfb79": {
+      "date": "2026-09-25",
+      "title": "Polly Introduces an Open Source Maintenance Fee",
+      "source": "devto"
+    },
+    "2158dacaf4558505": {
+      "date": "2026-09-25",
+      "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+      "source": "devto"
+    },
+    "ab66f6ec572cc405": {
+      "date": "2026-09-25",
+      "title": "Python Thinks Different: What Actually Happens Inside Your Code (Visual Guide)",
+      "source": "devto"
+    },
+    "10935f61fd031445": {
+      "date": "2026-09-25",
+      "title": "100% vuln detection wasn't enough: measuring whether AI respects the patch",
+      "source": "devto"
+    },
+    "d73131de72d80e89": {
+      "date": "2026-09-25",
+      "title": "AI-assisted genealogy, a follow-up",
+      "source": "devto"
+    },
+    "1b8c1ee850c5eb2b": {
+      "date": "2026-09-25",
+      "title": "I Pulled Nine Years of My Own Dev.to Data. The Numbers Were Not What I Expected.",
+      "source": "devto"
+    },
+    "d9c8c12176ef0fa2": {
+      "date": "2026-09-25",
+      "title": "7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fixes That Ended Them)",
+      "source": "devto"
+    },
+    "a1052b870c4666a7": {
+      "date": "2026-09-25",
+      "title": "Git 2.55's reftable backend creates 10,000 refs in 40ms instead of 650ms",
+      "source": "devto"
+    },
+    "f8f8d125df371c50": {
+      "date": "2026-09-25",
+      "title": "Double Engine Failure: Back to the Hangar After Two Data Providers Changed Course",
+      "source": "devto"
+    },
+    "4d8e922de101f720": {
+      "date": "2026-09-25",
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "source": "github"
+    },
+    "4628c962cd9b6f78": {
+      "date": "2026-09-25",
+      "title": "vectorize-io / hindsight",
+      "source": "github"
+    },
+    "9fbd6344a1b061e6": {
+      "date": "2026-09-25",
+      "title": "NVIDIA / Model-Optimizer",
+      "source": "github"
+    },
+    "80727f8df044ed80": {
+      "date": "2026-09-25",
+      "title": "FxEmbed / FxEmbed",
+      "source": "github"
+    },
+    "a7c232d6ba08fd52": {
+      "date": "2026-09-25",
+      "title": "julyx10 / lap",
+      "source": "github"
+    },
+    "b38700c6a7410817": {
+      "date": "2026-09-25",
+      "title": "leejet / stable-diffusion.cpp",
       "source": "github"
     }
   }
