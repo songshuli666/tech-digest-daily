@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-30T00:47:35.652419",
+  "last_updated": "2026-10-01T00:50:36.955421",
   "sent_items": {
     "9482609457348c36": {
       "date": "2026-09-01",
@@ -4910,6 +4910,176 @@
     "8c104d62fe1bf984": {
       "date": "2026-09-30",
       "title": "rakyll / hey",
+      "source": "github"
+    },
+    "445ecd27631acaed": {
+      "date": "2026-10-01",
+      "title": "Gemini 4 Argon",
+      "source": "hackernews"
+    },
+    "39fa3efedfed2cde": {
+      "date": "2026-10-01",
+      "title": "You said no MCP",
+      "source": "hackernews"
+    },
+    "c5020f68afaa5868": {
+      "date": "2026-10-01",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "source": "hackernews"
+    },
+    "320b81eee547d757": {
+      "date": "2026-10-01",
+      "title": "EDG C++ front-end goes public",
+      "source": "hackernews"
+    },
+    "78e54296c6b731f7": {
+      "date": "2026-10-01",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "source": "hackernews"
+    },
+    "905eee66cd88e2ae": {
+      "date": "2026-10-01",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "source": "hackernews"
+    },
+    "af5a86f799b9a35a": {
+      "date": "2026-10-01",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "source": "hackernews"
+    },
+    "ccaeeda744d422ed": {
+      "date": "2026-10-01",
+      "title": "EDG C++ Compiler is open source",
+      "source": "hackernews"
+    },
+    "43c31f7bfb71e63a": {
+      "date": "2026-10-01",
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "source": "hackernews"
+    },
+    "e21e8f65c4ff0ab4": {
+      "date": "2026-10-01",
+      "title": "Cyluma",
+      "source": "producthunt"
+    },
+    "afffb751a13bafdc": {
+      "date": "2026-10-01",
+      "title": "lurk",
+      "source": "producthunt"
+    },
+    "1a92ebf1b04c39a2": {
+      "date": "2026-10-01",
+      "title": "Ship It: Idle Dev Tycoon",
+      "source": "producthunt"
+    },
+    "8a4887ef831712cf": {
+      "date": "2026-10-01",
+      "title": "WebinarFlow",
+      "source": "producthunt"
+    },
+    "c1c7c24b98980fad": {
+      "date": "2026-10-01",
+      "title": "Speek",
+      "source": "producthunt"
+    },
+    "9291912ec2c9bef1": {
+      "date": "2026-10-01",
+      "title": "Rinkata",
+      "source": "producthunt"
+    },
+    "b84d60fc8471607d": {
+      "date": "2026-10-01",
+      "title": "Evlat",
+      "source": "producthunt"
+    },
+    "7ee034dcae1f3464": {
+      "date": "2026-10-01",
+      "title": "CoIsland",
+      "source": "producthunt"
+    },
+    "afd7347d1a6f9013": {
+      "date": "2026-10-01",
+      "title": "Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes",
+      "source": "devto"
+    },
+    "1c066404e3d6e917": {
+      "date": "2026-10-01",
+      "title": "TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧",
+      "source": "devto"
+    },
+    "86507e978e43c5e6": {
+      "date": "2026-10-01",
+      "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+      "source": "devto"
+    },
+    "ce03e1c1694b792b": {
+      "date": "2026-10-01",
+      "title": "Are Frontend Developers Cooked? Is Frontend design safe?",
+      "source": "devto"
+    },
+    "0aeb7486b7e5b521": {
+      "date": "2026-10-01",
+      "title": "Join Us Live: Hacktoberfest 2026 Launch with Exclusive Swag! 🎃🚀",
+      "source": "devto"
+    },
+    "8d8b05d670644f58": {
+      "date": "2026-10-01",
+      "title": "🎡 Social Ferris Wheel: Sanity is the Hub",
+      "source": "devto"
+    },
+    "c64b211caa1a33c5": {
+      "date": "2026-10-01",
+      "title": "The Version of Me Who Looks Better on Paper Doesn't Exist",
+      "source": "devto"
+    },
+    "3ca6da0594c961ef": {
+      "date": "2026-10-01",
+      "title": "What Science Fiction Tells Us About Our Changing Relationship With AI",
+      "source": "devto"
+    },
+    "76958cadde887a76": {
+      "date": "2026-10-01",
+      "title": "Gemma 4 on a Tesla T4, Part 3: Int4 Embeddings Serve E2B in 2.86 GiB at 2.30x bf16",
+      "source": "devto"
+    },
+    "cc017f8bec998ee6": {
+      "date": "2026-10-01",
+      "title": "🛜 The Journey of Data Through a Wi-Fi 7 NIC",
+      "source": "devto"
+    },
+    "2526d3aeeaafdd09": {
+      "date": "2026-10-01",
+      "title": "DietrichGebert / ponytail",
+      "source": "github"
+    },
+    "7c09473f1ffc3548": {
+      "date": "2026-10-01",
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "source": "github"
+    },
+    "0bd21c2cf11fc945": {
+      "date": "2026-10-01",
+      "title": "openclaw / openclaw",
+      "source": "github"
+    },
+    "7e39ec2390d0765a": {
+      "date": "2026-10-01",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "source": "github"
+    },
+    "a757f54d2610d95e": {
+      "date": "2026-10-01",
+      "title": "firebase / firebase-ios-sdk",
+      "source": "github"
+    },
+    "b50254409ec38137": {
+      "date": "2026-10-01",
+      "title": "modelcontextprotocol / servers",
+      "source": "github"
+    },
+    "94ec5d23f75fd96a": {
+      "date": "2026-10-01",
+      "title": "colbymchenry / codegraph",
       "source": "github"
     }
   }
