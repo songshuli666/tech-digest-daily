@@ -1,177 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-12T00:51:46.956192",
+  "last_updated": "2026-10-13T02:51:16.123215",
   "sent_items": {
-    "2184e3600b3b1bcd": {
-      "date": "2026-09-12",
-      "title": "IKEA made a mod for Skyrim [video]",
-      "source": "hackernews"
-    },
-    "2ca5d0e9b00f2058": {
-      "date": "2026-09-12",
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "source": "hackernews"
-    },
-    "0cd5ce73d227ff84": {
-      "date": "2026-09-12",
-      "title": "Nvidia is the central bank of AI",
-      "source": "hackernews"
-    },
-    "405bb17e337c1b22": {
-      "date": "2026-09-12",
-      "title": "Make your first edit to OpenStreetMap",
-      "source": "hackernews"
-    },
-    "e0c2b8d32e0d609b": {
-      "date": "2026-09-12",
-      "title": "Stabilizing Rust's Never Type",
-      "source": "hackernews"
-    },
-    "a544dd331672f37e": {
-      "date": "2026-09-12",
-      "title": "Will There Be a 7G?",
-      "source": "hackernews"
-    },
-    "70d97e02f21de127": {
-      "date": "2026-09-12",
-      "title": "Apple iPod Engraver (2019)",
-      "source": "hackernews"
-    },
-    "b17d0eced9e3779c": {
-      "date": "2026-09-12",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "source": "hackernews"
-    },
-    "1bd6decb84283697": {
-      "date": "2026-09-12",
-      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-      "source": "hackernews"
-    },
-    "7f9442766514a4b0": {
-      "date": "2026-09-12",
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "source": "hackernews"
-    },
-    "09d54397f13c8541": {
-      "date": "2026-09-12",
-      "title": "SUDARI",
-      "source": "producthunt"
-    },
-    "69b36cc2761a61a7": {
-      "date": "2026-09-12",
-      "title": "LinkFlick",
-      "source": "producthunt"
-    },
-    "bd48025e615e60f6": {
-      "date": "2026-09-12",
-      "title": "Pascal’s Pager",
-      "source": "producthunt"
-    },
-    "bf509d79b9c6bed2": {
-      "date": "2026-09-12",
-      "title": "VoxelWall",
-      "source": "producthunt"
-    },
-    "b7cbe0ed06138177": {
-      "date": "2026-09-12",
-      "title": "Wokyintosh",
-      "source": "producthunt"
-    },
-    "568d67810a646c57": {
-      "date": "2026-09-12",
-      "title": "ABrush",
-      "source": "producthunt"
-    },
-    "1358d85515de2ac6": {
-      "date": "2026-09-12",
-      "title": "Calerto for Mac",
-      "source": "producthunt"
-    },
-    "3431ebf212068a0d": {
-      "date": "2026-09-12",
-      "title": "Marked Share",
-      "source": "producthunt"
-    },
-    "1a97bae2bf02b718": {
-      "date": "2026-09-12",
-      "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "source": "devto"
-    },
-    "be8cdb271c8d7fdf": {
-      "date": "2026-09-12",
-      "title": "I Optimized My Bump Version Tool and Made It 1,000,000x Faster Than Its Python Counterparts.",
-      "source": "devto"
-    },
-    "8d6fcaf82578df01": {
-      "date": "2026-09-12",
-      "title": "Docker Bake in Practice — Part 1: From Bash Scripts to Declarative Builds",
-      "source": "devto"
-    },
-    "e2ea6c7e09bec5ee": {
-      "date": "2026-09-12",
-      "title": "I'm 12. This morning I fought two hosting providers. My app survived both.",
-      "source": "devto"
-    },
-    "186baaf51a5cd48e": {
-      "date": "2026-09-12",
-      "title": "I just did something my AI agents couldn't",
-      "source": "devto"
-    },
-    "890a777258338224": {
-      "date": "2026-09-12",
-      "title": "I read 500 'AI will replace developers' posts. They all make the same 3 mistakes.",
-      "source": "devto"
-    },
-    "f93e9bbfa63f2e86": {
-      "date": "2026-09-12",
-      "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-      "source": "devto"
-    },
-    "c09be7a6a14a439c": {
-      "date": "2026-09-12",
-      "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-      "source": "devto"
-    },
-    "fe8ca6ce89df35bb": {
-      "date": "2026-09-12",
-      "title": "My message board for AI agents got spammed. The spam wasn't written for humans.",
-      "source": "devto"
-    },
-    "2faa18c577db7eb5": {
-      "date": "2026-09-12",
-      "title": "Our Recall Was 0.087 and the Model Was Innocent: How Domain-Scoped Replay Doubled It",
-      "source": "devto"
-    },
-    "3675b0176088850f": {
-      "date": "2026-09-12",
-      "title": "asgeirtj / system_prompts_leaks",
-      "source": "github"
-    },
-    "f84e917e416c7dca": {
-      "date": "2026-09-12",
-      "title": "Flowseal / zapret-discord-youtube",
-      "source": "github"
-    },
-    "e1d0688c7c784be0": {
-      "date": "2026-09-12",
-      "title": "yuliskov / SmartTube",
-      "source": "github"
-    },
-    "fed9e93b0bd2dda1": {
-      "date": "2026-09-12",
-      "title": "SnailSploit / Claude-Red",
-      "source": "github"
-    },
-    "c4e160b8f96ff888": {
-      "date": "2026-09-12",
-      "title": "multimodal-art-projection / YuE",
-      "source": "github"
-    },
-    "77049851f70b183b": {
-      "date": "2026-09-12",
-      "title": "max-sixty / worktrunk",
-      "source": "github"
-    },
     "705d6f77916b19ca": {
       "date": "2026-09-13",
       "title": "JetKVM Mini",
@@ -4865,6 +4695,161 @@
     "245b27aace5d7f16": {
       "date": "2026-10-12",
       "title": "My Commit Your Code'26 Experience",
+      "source": "devto"
+    },
+    "e6b665da4145ac96": {
+      "date": "2026-10-13",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "source": "hackernews"
+    },
+    "63841978d9b21d9d": {
+      "date": "2026-10-13",
+      "title": "GLM-Legal",
+      "source": "hackernews"
+    },
+    "d50867c6acb5ca63": {
+      "date": "2026-10-13",
+      "title": "A Modern Web App in C",
+      "source": "hackernews"
+    },
+    "fce413df3716c650": {
+      "date": "2026-10-13",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "source": "hackernews"
+    },
+    "5e842789981d329c": {
+      "date": "2026-10-13",
+      "title": "Who is vfmaddrnd231pd?",
+      "source": "hackernews"
+    },
+    "2325bc8df3a54929": {
+      "date": "2026-10-13",
+      "title": "Making big downloads resumable in Firefox",
+      "source": "hackernews"
+    },
+    "e8881de420a0eb8f": {
+      "date": "2026-10-13",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "source": "hackernews"
+    },
+    "a64d4c794baec9aa": {
+      "date": "2026-10-13",
+      "title": "The baffling intelligence of a single cell (2024)",
+      "source": "hackernews"
+    },
+    "2285f424d71b147b": {
+      "date": "2026-10-13",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "source": "hackernews"
+    },
+    "cc23b9af386a2f63": {
+      "date": "2026-10-13",
+      "title": "Auto Research: Integer multiplication below n log n",
+      "source": "hackernews"
+    },
+    "52b4c6efd716fce2": {
+      "date": "2026-10-13",
+      "title": "Manifold MCP",
+      "source": "producthunt"
+    },
+    "007b35dcd7c09012": {
+      "date": "2026-10-13",
+      "title": "Dropstone CLI",
+      "source": "producthunt"
+    },
+    "03a368363cd1033d": {
+      "date": "2026-10-13",
+      "title": "SalesRep.com",
+      "source": "producthunt"
+    },
+    "5db5c587b916fba5": {
+      "date": "2026-10-13",
+      "title": "Understory Notes",
+      "source": "producthunt"
+    },
+    "5809365da28489d9": {
+      "date": "2026-10-13",
+      "title": "Kudos 3.0",
+      "source": "producthunt"
+    },
+    "beccda73984e13b3": {
+      "date": "2026-10-13",
+      "title": "SquadRoom",
+      "source": "producthunt"
+    },
+    "8024eb89fa0b152b": {
+      "date": "2026-10-13",
+      "title": "ExcaliClaw",
+      "source": "producthunt"
+    },
+    "a11e79331eb91946": {
+      "date": "2026-10-13",
+      "title": "Google EmbeddingGemma 2",
+      "source": "producthunt"
+    },
+    "5c33f43b602ec1d6": {
+      "date": "2026-10-13",
+      "title": "open-webui / open-webui",
+      "source": "github"
+    },
+    "33b0d84c745e52f3": {
+      "date": "2026-10-13",
+      "title": "microsoft / BitNet",
+      "source": "github"
+    },
+    "8e0001db8f8344fb": {
+      "date": "2026-10-13",
+      "title": "Alishahryar1 / free-claude-code",
+      "source": "github"
+    },
+    "026b3c9a7c1bd188": {
+      "date": "2026-10-13",
+      "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
+      "source": "devto"
+    },
+    "81b5c7766923da2a": {
+      "date": "2026-10-13",
+      "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "source": "devto"
+    },
+    "c93804168e0f5fb2": {
+      "date": "2026-10-13",
+      "title": "Step Away From the Terminal: I Built BreakPoint with Entire to Disconnect Burned-Out Developers in 1",
+      "source": "devto"
+    },
+    "13fa23e7343b2dde": {
+      "date": "2026-10-13",
+      "title": "You’re a Real Python Developer Only If...",
+      "source": "devto"
+    },
+    "b04358cb44f18795": {
+      "date": "2026-10-13",
+      "title": "Solodesk-Ai",
+      "source": "devto"
+    },
+    "5a8b8c1b107a3992": {
+      "date": "2026-10-13",
+      "title": "I was chasing the job market. One comment on DEV.to made me rethink everything",
+      "source": "devto"
+    },
+    "a35f10eb248400e0": {
+      "date": "2026-10-13",
+      "title": "One Glue Job, Zero Orchestrators — My First Spark Declarative Pipeline on AWS Glue",
+      "source": "devto"
+    },
+    "b9461715fd2fd4b7": {
+      "date": "2026-10-13",
+      "title": "Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?",
+      "source": "devto"
+    },
+    "fb75b02bb887894d": {
+      "date": "2026-10-13",
+      "title": "We Built a Blender Render Farm Out of Four Laptops",
+      "source": "devto"
+    },
+    "4c751bf17db4157b": {
+      "date": "2026-10-13",
+      "title": "A single console.log was costing us $40,000 a year. I found it by accident.",
       "source": "devto"
     }
   }
