@@ -1,172 +1,7 @@
 {
   "version": 1,
-  "last_updated": "2026-10-13T02:51:16.123215",
+  "last_updated": "2026-10-14T00:35:16.398890",
   "sent_items": {
-    "705d6f77916b19ca": {
-      "date": "2026-09-13",
-      "title": "JetKVM Mini",
-      "source": "hackernews"
-    },
-    "a4ef7ec8464f4da5": {
-      "date": "2026-09-13",
-      "title": "Why is Google still serving dodgy ads?",
-      "source": "hackernews"
-    },
-    "d58237dcc84da940": {
-      "date": "2026-09-13",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "source": "hackernews"
-    },
-    "c0584b3cc952f007": {
-      "date": "2026-09-13",
-      "title": "Data collected by cars and sold to third parties",
-      "source": "hackernews"
-    },
-    "635a075958ac9432": {
-      "date": "2026-09-13",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "source": "hackernews"
-    },
-    "ba41f0a4417291ee": {
-      "date": "2026-09-13",
-      "title": "Making Startups Powerful",
-      "source": "hackernews"
-    },
-    "3e3c18a42edb58e3": {
-      "date": "2026-09-13",
-      "title": "Julia 1.13 Highlights",
-      "source": "hackernews"
-    },
-    "88ac969b3f68d329": {
-      "date": "2026-09-13",
-      "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
-      "source": "hackernews"
-    },
-    "58b6b88672883a87": {
-      "date": "2026-09-13",
-      "title": "Bad Code Is Kudzu",
-      "source": "hackernews"
-    },
-    "c19a72a6681f0593": {
-      "date": "2026-09-13",
-      "title": "The Contagion of Fear",
-      "source": "hackernews"
-    },
-    "63c2321ff3132470": {
-      "date": "2026-09-13",
-      "title": "Visiby",
-      "source": "producthunt"
-    },
-    "a74bd16a9c43c39d": {
-      "date": "2026-09-13",
-      "title": "Epilude Notetaker",
-      "source": "producthunt"
-    },
-    "ce35910ee3f0d032": {
-      "date": "2026-09-13",
-      "title": "Neopress",
-      "source": "producthunt"
-    },
-    "7726298677c816e6": {
-      "date": "2026-09-13",
-      "title": "Kirokune",
-      "source": "producthunt"
-    },
-    "98c2b36f57ca361f": {
-      "date": "2026-09-13",
-      "title": "ScreenCursor",
-      "source": "producthunt"
-    },
-    "17736a895a8f76b5": {
-      "date": "2026-09-13",
-      "title": "DemoTV",
-      "source": "producthunt"
-    },
-    "cf142d07508213a1": {
-      "date": "2026-09-13",
-      "title": "Cognition's SWE-2",
-      "source": "producthunt"
-    },
-    "42ccc3d05f495ef2": {
-      "date": "2026-09-13",
-      "title": "SHIUI",
-      "source": "producthunt"
-    },
-    "e218eb65403072e1": {
-      "date": "2026-09-13",
-      "title": "Vibe Coding Isn't the Problem. Calling It Engineering Is",
-      "source": "devto"
-    },
-    "7afa6740b57cecc5": {
-      "date": "2026-09-13",
-      "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
-      "source": "devto"
-    },
-    "b65658288ca8d793": {
-      "date": "2026-09-13",
-      "title": "I made two AIs review each other's code for 30 days. A human still caught the bug in 5 minutes.",
-      "source": "devto"
-    },
-    "3740fc3b9efcc3a9": {
-      "date": "2026-09-13",
-      "title": "The Search Highlight That Deletes Your Selection",
-      "source": "devto"
-    },
-    "4e7a9996ff0e1e64": {
-      "date": "2026-09-13",
-      "title": "The First Legend Has Entered the Arena: CrowdWide Just Submitted to the KODA Code Jam",
-      "source": "devto"
-    },
-    "2634a9ce7e61d725": {
-      "date": "2026-09-13",
-      "title": "I Sell Memory APIs. I'm Also Building the Benchmark. Here's How I'm Trying Not to Rig It.",
-      "source": "devto"
-    },
-    "1ea62f5af092483f": {
-      "date": "2026-09-13",
-      "title": "I ran $24,000 of Claude through my terminal in August. Here is what it built.",
-      "source": "devto"
-    },
-    "00d74d86625a3b23": {
-      "date": "2026-09-13",
-      "title": "🐛 The Bug That Only Happened on Fridays 📅😱",
-      "source": "devto"
-    },
-    "d835f4a6c2218305": {
-      "date": "2026-09-13",
-      "title": "My Comment Section Designed My Next Experiment. Then It Made Me Freeze My Predictions.",
-      "source": "devto"
-    },
-    "549afc93e63e387b": {
-      "date": "2026-09-13",
-      "title": "Add AI search to existing application",
-      "source": "devto"
-    },
-    "bba8c7297bb35116": {
-      "date": "2026-09-13",
-      "title": "ever-co / ever-gauzy",
-      "source": "github"
-    },
-    "96cb5d4c7f75eb9f": {
-      "date": "2026-09-13",
-      "title": "tech-leads-club / agent-skills",
-      "source": "github"
-    },
-    "20703a86e2b01e24": {
-      "date": "2026-09-13",
-      "title": "calesthio / OpenMontage",
-      "source": "github"
-    },
-    "85770197f1cb7d8d": {
-      "date": "2026-09-13",
-      "title": "vxcontrol / pentagi",
-      "source": "github"
-    },
-    "9cd514d03f14c102": {
-      "date": "2026-09-13",
-      "title": "alibaba / open-code-review",
-      "source": "github"
-    },
     "4c14d1b73e2a52af": {
       "date": "2026-09-15",
       "title": "XCancel service is suspended until further notice",
@@ -4850,6 +4685,156 @@
     "4c751bf17db4157b": {
       "date": "2026-10-13",
       "title": "A single console.log was costing us $40,000 a year. I found it by accident.",
+      "source": "devto"
+    },
+    "a615b4c8f9b3f966": {
+      "date": "2026-10-14",
+      "title": "Gemini 4 Argon",
+      "source": "hackernews"
+    },
+    "23d9079a8f65da12": {
+      "date": "2026-10-14",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "source": "hackernews"
+    },
+    "a9d27224dd64fa08": {
+      "date": "2026-10-14",
+      "title": "Apple HomeView",
+      "source": "hackernews"
+    },
+    "11989993b638c28f": {
+      "date": "2026-10-14",
+      "title": "Firefox Enterprise",
+      "source": "hackernews"
+    },
+    "8625f276e36e636a": {
+      "date": "2026-10-14",
+      "title": "Redesigning source control at Anthropic",
+      "source": "hackernews"
+    },
+    "b4750a3afa44acfb": {
+      "date": "2026-10-14",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "source": "hackernews"
+    },
+    "baba71261f5757b6": {
+      "date": "2026-10-14",
+      "title": "Thunderbird for iOS",
+      "source": "hackernews"
+    },
+    "d9c5a4462f98dc61": {
+      "date": "2026-10-14",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "source": "hackernews"
+    },
+    "6a50b68ac5635195": {
+      "date": "2026-10-14",
+      "title": "AlphaNIST",
+      "source": "hackernews"
+    },
+    "39b5f2e42888e46d": {
+      "date": "2026-10-14",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "source": "hackernews"
+    },
+    "7c5a90fc8fee4c66": {
+      "date": "2026-10-14",
+      "title": "Takes for Mac",
+      "source": "producthunt"
+    },
+    "5e57606b6d7ab565": {
+      "date": "2026-10-14",
+      "title": "Muse Wonder",
+      "source": "producthunt"
+    },
+    "87686f28f02fc737": {
+      "date": "2026-10-14",
+      "title": "Scape",
+      "source": "producthunt"
+    },
+    "ac22730d93eb1884": {
+      "date": "2026-10-14",
+      "title": "Genchi",
+      "source": "producthunt"
+    },
+    "3b54c845537d3ad7": {
+      "date": "2026-10-14",
+      "title": "HarnessHive",
+      "source": "producthunt"
+    },
+    "c9eb80a299594d2d": {
+      "date": "2026-10-14",
+      "title": "AdHelm CLI",
+      "source": "producthunt"
+    },
+    "99b09d88fd4b294b": {
+      "date": "2026-10-14",
+      "title": "OpenFlowKit 2",
+      "source": "producthunt"
+    },
+    "fddc71b6617df3a0": {
+      "date": "2026-10-14",
+      "title": "CLI Manager",
+      "source": "producthunt"
+    },
+    "9660013ea25c5cd2": {
+      "date": "2026-10-14",
+      "title": "debpalash / VoiceStudio",
+      "source": "github"
+    },
+    "7634ab012b3dcc8f": {
+      "date": "2026-10-14",
+      "title": "vercel-labs / skills",
+      "source": "github"
+    },
+    "07395ccee5b58710": {
+      "date": "2026-10-14",
+      "title": "xtool-org / xtool",
+      "source": "github"
+    },
+    "c22962561e6a8456": {
+      "date": "2026-10-14",
+      "title": "AI Fatigue? Yea I know.",
+      "source": "devto"
+    },
+    "93273250144f7b8d": {
+      "date": "2026-10-14",
+      "title": "How I Feel about the Grace Hopper Celebration Getting Cancelled",
+      "source": "devto"
+    },
+    "c5a0601e5f574b46": {
+      "date": "2026-10-14",
+      "title": "GitHub Isn't Just a Remote Git Server: How Spoke Clusters, Fork Alternates, and Actions Runner Sandb",
+      "source": "devto"
+    },
+    "a4bc913bef89ae24": {
+      "date": "2026-10-14",
+      "title": "Someone hacked the freezers at 400 French supermarkets",
+      "source": "devto"
+    },
+    "ee8c93f342dd33c6": {
+      "date": "2026-10-14",
+      "title": "Don't Try This at Home: What Happened When I Sent Kiro to Work and Went Gardening",
+      "source": "devto"
+    },
+    "a919b7780028938b": {
+      "date": "2026-10-14",
+      "title": "Integrating SEO Components into Discord",
+      "source": "devto"
+    },
+    "1689ce3ed9275bd1": {
+      "date": "2026-10-14",
+      "title": "People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?",
+      "source": "devto"
+    },
+    "0025dce8a504fa10": {
+      "date": "2026-10-14",
+      "title": "Do You Actually Need an LLM?",
+      "source": "devto"
+    },
+    "0fdf6c5971d4e6ac": {
+      "date": "2026-10-14",
+      "title": "You blank in technical interviews even when you know the answer. Let's fix that.",
       "source": "devto"
     }
   }
